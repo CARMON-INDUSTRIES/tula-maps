@@ -24,13 +24,11 @@ export default function DialogObra({ obra, onClose }: DialogObraProps) {
     };
   }, [onClose]);
 
-  // Mostrar/ocultar dinámicamente
   useEffect(() => {
     if (obra) instanceRef.current?.show();
     else instanceRef.current?.hide();
   }, [obra]);
 
-  // 🚫 No renderizar nada si no hay obra
   if (!obra) return null;
 
   return (

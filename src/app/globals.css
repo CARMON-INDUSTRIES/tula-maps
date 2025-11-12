@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @layer base, components, utilities;
 
-/* Quita el fondo blanco del mapa de pigeon-maps */
+
 .leaflet-container,
 .pigeon-maps,
 .pigeon-attribution,
@@ -9,3 +9,8 @@
   background: transparent !important;
 }
 
+html,
+body {
+  background: url("/images/fondo-tula.png") no-repeat center center fixed !important;
+  background-size: cover !important;
+}

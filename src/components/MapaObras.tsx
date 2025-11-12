@@ -33,42 +33,38 @@ export default function MapaObras() {
 
   return (
     <div
-      className="relative w-full h-[90vh] rounded-xl overflow-hidden shadow-xl border border-gray-300 bg-cover bg-center flex items-center justify-center"
+      className="relative w-full h-[90vh] rounded-xl overflow-hidden shadow-xl border border-gray-300 bg-cover bg-center"
       style={{
         backgroundImage: "url('/images/fondo-tula.png')",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
     >
-      {/* capa decorativa (opcional) */}
+      {/* Capa decorativa opcional */}
       <div className="absolute inset-0 bg-[#691B31]/30 backdrop-blur-[1px] z-0" />
 
-      {/* contenedor del mapa */}
-      <div className="relative z-10 w-[95%] h-[85%] rounded-xl overflow-hidden shadow-lg bg-transparent">
-        <Map
-          center={center}
-          zoom={zoom}
-          height={700}
-          onBoundsChanged={({ center, zoom }) => {
-            setCenter(center as [number, number]);
-            setZoom(zoom);
-          }}
-          provider={(x, y, z) =>
-            `https://tile.openstreetmap.org/${z}/${x}/${y}.png`
-          }
-          metaWheelZoom={true}
-        >
-          {obras.map((obra) => (
-            <Marker
-              key={obra.id}
-              anchor={obra.coords}
-              width={45}
-              onClick={() => setObraSeleccionada(obra)}
-            />
-          ))}
-        </Map>
-      </div>
+      {/* === Mapa directamente dentro del contenedor === */}
+      <Map
+        center={center}
+        zoom={zoom}
+        onBoundsChanged={({ center, zoom }) => {
+          setCenter(center as [number, number]);
+          setZoom(zoom);
+        }}
+        provider={(x, y, z) => `https://tile.openstreetmap.org/${z}/${x}/${y}.png`}
+        metaWheelZoom={true}
+      >
+        {obras.map((obra) => (
+          <Marker
+            key={obra.id}
+            anchor={obra.coords}
+            width={45}
+            onClick={() => setObraSeleccionada(obra)}
+          />
+        ))}
+      </Map>
 
+      {/* === Diálogo === */}
       <DialogObra
         obra={obraSeleccionada}
         onClose={() => setObraSeleccionada(null)}
