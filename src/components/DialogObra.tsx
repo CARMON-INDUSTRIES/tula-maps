@@ -2,10 +2,14 @@
 
 import { useEffect, useRef } from "react";
 import A11yDialog from "a11y-dialog";
-import type { Obra } from "@/components/MapaObras";
+
+interface Comunidad {
+  nombre: string;
+  descripcion?: string;
+}
 
 interface DialogObraProps {
-  obra: Obra | null;
+  obra: Comunidad | null;
   onClose: () => void;
 }
 
@@ -13,7 +17,6 @@ export default function DialogObra({ obra, onClose }: DialogObraProps) {
   const dialogRef = useRef<HTMLDivElement | null>(null);
   const instanceRef = useRef<A11yDialog | null>(null);
 
-  // Crear el diálogo solo una vez
   useEffect(() => {
     if (dialogRef.current) {
       instanceRef.current = new A11yDialog(dialogRef.current);

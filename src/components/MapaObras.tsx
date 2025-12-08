@@ -1,35 +1,106 @@
 "use client";
 
-import { Map, Marker } from "pigeon-maps";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
+import type { Feature, FeatureCollection, Geometry } from "geojson";
+import L, { LeafletMouseEvent } from "leaflet";
+import "leaflet/dist/leaflet.css";
 import DialogObra from "@/components/DialogObra";
 
-export interface Obra {
-  id: number;
+interface Comunidad {
   nombre: string;
   descripcion?: string;
-  coords: [number, number];
+}
+
+interface ComunidadProperties {
+  NOMBRE?: string;
+  name?: string;
+  DESCRIPCION?: string;
+  descripcion?: string;
 }
 
 export default function MapaObras() {
-  const [center, setCenter] = useState<[number, number]>([20.051, -99.342]);
-  const [zoom, setZoom] = useState<number>(15);
-  const [obraSeleccionada, setObraSeleccionada] = useState<Obra | null>(null);
+  const [geoData, setGeoData] = useState<
+    FeatureCollection<Geometry, ComunidadProperties> | null
+  >(null);
 
-  const obras: Obra[] = [
-    {
-      id: 1,
-      nombre: "Rehabilitación del Parque Central",
-      descripcion: "Remodelación de áreas verdes, bancas y luminarias.",
-      coords: [20.052, -99.34],
-    },
-    {
-      id: 2,
-      nombre: "Pavimentación Calle Reforma",
-      descripcion: "Pavimentación con concreto hidráulico en la colonia Centro.",
-      coords: [20.055, -99.345],
-    },
+  const [obraSeleccionada, setObraSeleccionada] = useState<Comunidad | null>(
+    null
+  );
+
+  useEffect(() => {
+    fetch("/data/comunidades_poligonos.geojson")
+      .then((res) => res.json())
+      .then(
+        (data: FeatureCollection<Geometry, ComunidadProperties>) =>
+          setGeoData(data)
+      )
+      .catch((err) => {
+        console.error("Error al cargar GeoJSON:", err);
+      });
+  }, []);
+
+  const colores = [
+    "#FF6B6B",
+    "#4ECDC4",
+    "#FFD93D",
+    "#6A4C93",
+    "#1A659E",
+    "#52B788",
+    "#E26D5A",
+    "#C9ADA1",
   ];
+
+  const styleForIndex = (index: number): L.PathOptions => ({
+    color: "#222",
+    weight: 2,
+    fillColor: colores[index % colores.length],
+    fillOpacity: 0.55,
+  });
+
+  const onEachFeature = (
+    feature: Feature<Geometry, ComunidadProperties>,
+    layer: L.Layer,
+    index: number
+  ) => {
+    const nombre =
+      feature.properties?.NOMBRE ??
+      feature.properties?.name ??
+      `Comunidad #${index + 1}`;
+
+    const descripcion =
+      feature.properties?.DESCRIPCION ??
+      feature.properties?.descripcion ??
+      "Delimitación territorial";
+
+    // Solo trabajamos con polígonos / multipolígonos
+    if (layer instanceof L.Path) {
+      layer.bindTooltip(nombre);
+
+      const originalStyle = styleForIndex(index);
+
+      layer.on("mouseover", (e: LeafletMouseEvent) => {
+        const target = e.target;
+        if (target instanceof L.Path) {
+          target.setStyle({
+            weight: 3,
+            fillOpacity: 0.75,
+          });
+        }
+      });
+
+      layer.on("mouseout", (e: LeafletMouseEvent) => {
+        const target = e.target;
+        if (target instanceof L.Path) {
+          target.setStyle(originalStyle);
+        }
+      });
+
+      layer.on("click", () => {
+        setObraSeleccionada({ nombre, descripcion });
+      });
+    }
+  };
 
   return (
     <div
@@ -40,31 +111,29 @@ export default function MapaObras() {
         backgroundPosition: "center",
       }}
     >
-      {/* Capa decorativa opcional */}
       <div className="absolute inset-0 bg-[#691B31]/30 backdrop-blur-[1px] z-0" />
 
-      {/* === Mapa directamente dentro del contenedor === */}
-      <Map
-        center={center}
-        zoom={zoom}
-        onBoundsChanged={({ center, zoom }) => {
-          setCenter(center as [number, number]);
-          setZoom(zoom);
-        }}
-        provider={(x, y, z) => `https://tile.openstreetmap.org/${z}/${x}/${y}.png`}
-        metaWheelZoom={true}
+      <MapContainer
+        center={[20.051, -99.342]}
+        zoom={13}
+        scrollWheelZoom={true}
+        className="w-full h-full z-10"
       >
-        {obras.map((obra) => (
-          <Marker
-            key={obra.id}
-            anchor={obra.coords}
-            width={45}
-            onClick={() => setObraSeleccionada(obra)}
-          />
-        ))}
-      </Map>
+        <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
 
-      {/* === Diálogo === */}
+        {geoData &&
+          geoData.features.map((feature, i) => (
+            <GeoJSON
+              key={i}
+              data={feature}
+              style={() => styleForIndex(i)}
+              onEachFeature={(feat, layer) =>
+                onEachFeature(feat, layer, i)
+              }
+            />
+          ))}
+      </MapContainer>
+
       <DialogObra
         obra={obraSeleccionada}
         onClose={() => setObraSeleccionada(null)}
