@@ -55,7 +55,7 @@ export default function MapaObras() {
     color: "#222",
     weight: 2,
     fillColor: colores[index % colores.length],
-    fillOpacity: 0.55,
+    fillOpacity: 0.70,
   });
 
   const onEachFeature = (
@@ -73,7 +73,6 @@ export default function MapaObras() {
       feature.properties?.descripcion ??
       "Delimitación territorial";
 
-    // Solo trabajamos con polígonos / multipolígonos
     if (layer instanceof L.Path) {
       layer.bindTooltip(nombre);
 
@@ -84,7 +83,7 @@ export default function MapaObras() {
         if (target instanceof L.Path) {
           target.setStyle({
             weight: 3,
-            fillOpacity: 0.75,
+            fillOpacity: 0.90,
           });
         }
       });
