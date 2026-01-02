@@ -1,16 +1,9 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
-import type { Feature, FeatureCollection, Geometry } from "geojson";
-import L, { LeafletMouseEvent } from "leaflet";
-import "leaflet/dist/leaflet.css";
+import { useCallback, useEffect, useState } from "react";
+import { Map, MapControls, useMap } from "@/components/ui/map";
 import DialogObra from "@/components/DialogObra";
-
-interface Comunidad {
-  nombre: string;
-  descripcion?: string;
-}
+import type { FeatureCollection, Geometry } from "geojson";
 
 interface ComunidadProperties {
   NOMBRE?: string;
@@ -19,119 +12,267 @@ interface ComunidadProperties {
   descripcion?: string;
 }
 
-export default function MapaObras() {
-  const [geoData, setGeoData] = useState<
-    FeatureCollection<Geometry, ComunidadProperties> | null
-  >(null);
-
-  const [obraSeleccionada, setObraSeleccionada] = useState<Comunidad | null>(
-    null
-  );
+function ComunidadesLayer({
+  onSelect,
+  onLoad,
+}: {
+  onSelect: (data: { nombre: string; descripcion: string }) => void;
+  onLoad: (data: FeatureCollection<Geometry, ComunidadProperties>) => void;
+}) {
+  const { map, isLoaded } = useMap();
+  const [geoData, setGeoData] =
+    useState<FeatureCollection<Geometry, ComunidadProperties> | null>(null);
 
   useEffect(() => {
     fetch("/data/comunidades_poligonos.geojson")
-      .then((res) => res.json())
-      .then(
-        (data: FeatureCollection<Geometry, ComunidadProperties>) =>
-          setGeoData(data)
-      )
-      .catch((err) => {
-        console.error("Error al cargar GeoJSON:", err);
-      });
-  }, []);
+      .then((r) => r.json())
+      .then((data) => {
+        setGeoData(data);
+        onLoad(data);
+      })
+      .catch(console.error);
+  }, [onLoad]);
 
-  const colores = [
-    "#FF6B6B",
-    "#4ECDC4",
-    "#FFD93D",
-    "#6A4C93",
-    "#1A659E",
-    "#52B788",
-    "#E26D5A",
-    "#C9ADA1",
-  ];
+  const addLayers = useCallback(() => {
+    if (!map || !geoData) return;
 
-  const styleForIndex = (index: number): L.PathOptions => ({
-    color: "#222",
-    weight: 2,
-    fillColor: colores[index % colores.length],
-    fillOpacity: 0.70,
-  });
-
-  const onEachFeature = (
-    feature: Feature<Geometry, ComunidadProperties>,
-    layer: L.Layer,
-    index: number
-  ) => {
-    const nombre =
-      feature.properties?.NOMBRE ??
-      feature.properties?.name ??
-      `Comunidad #${index + 1}`;
-
-    const descripcion =
-      feature.properties?.DESCRIPCION ??
-      feature.properties?.descripcion ??
-      "Delimitación territorial";
-
-    if (layer instanceof L.Path) {
-      layer.bindTooltip(nombre);
-
-      const originalStyle = styleForIndex(index);
-
-      layer.on("mouseover", (e: LeafletMouseEvent) => {
-        const target = e.target;
-        if (target instanceof L.Path) {
-          target.setStyle({
-            weight: 3,
-            fillOpacity: 0.90,
-          });
-        }
-      });
-
-      layer.on("mouseout", (e: LeafletMouseEvent) => {
-        const target = e.target;
-        if (target instanceof L.Path) {
-          target.setStyle(originalStyle);
-        }
-      });
-
-      layer.on("click", () => {
-        setObraSeleccionada({ nombre, descripcion });
+    if (!map.getSource("comunidades")) {
+      map.addSource("comunidades", {
+        type: "geojson",
+        data: geoData,
       });
     }
-  };
+
+    if (!map.getLayer("comunidades-fill")) {
+      map.addLayer({
+        id: "comunidades-fill",
+        type: "fill",
+        source: "comunidades",
+        paint: {
+          "fill-color": "#691B31",
+          "fill-opacity": 0.5,
+        },
+      });
+    }
+
+    if (!map.getLayer("comunidades-outline")) {
+      map.addLayer({
+        id: "comunidades-outline",
+        type: "line",
+        source: "comunidades",
+        paint: {
+          "line-color": "#2b0b14",
+          "line-width": 2,
+        },
+      });
+    }
+  }, [map, geoData]);
+
+  useEffect(() => {
+    if (!map || !isLoaded || !geoData) return;
+
+    addLayers();
+
+    let hoveredId: number | null = null;
+
+    map.on("mousemove", "comunidades-fill", (e) => {
+      map.getCanvas().style.cursor = "pointer";
+
+      const feature = e.features?.[0];
+      if (!feature) return;
+
+      if (hoveredId !== null) {
+        map.setFeatureState(
+          { source: "comunidades", id: hoveredId },
+          { hover: false }
+        );
+      }
+
+      hoveredId = feature.id as number;
+      map.setFeatureState(
+        { source: "comunidades", id: hoveredId },
+        { hover: true }
+      );
+    });
+
+    map.on("mouseleave", "comunidades-fill", () => {
+      map.getCanvas().style.cursor = "";
+      if (hoveredId !== null) {
+        map.setFeatureState(
+          { source: "comunidades", id: hoveredId },
+          { hover: false }
+        );
+      }
+      hoveredId = null;
+    });
+
+    map.on("click", "comunidades-fill", (e) => {
+      const f = e.features?.[0];
+      if (!f) return;
+
+      const p = f.properties as ComunidadProperties;
+
+      onSelect({
+        nombre: p.NOMBRE ?? p.name ?? "Comunidad",
+        descripcion:
+          p.DESCRIPCION ??
+          p.descripcion ??
+          "Delimitación territorial",
+      });
+    });
+  }, [map, isLoaded, geoData, addLayers, onSelect]);
+
+  return null;
+}
+
+function ComunidadesLegend({
+  data,
+  onSelect,
+}: {
+  data: FeatureCollection<Geometry, ComunidadProperties> | null;
+  onSelect: (data: { nombre: string; descripcion: string }) => void;
+}) {
+  if (!data) return null;
 
   return (
     <div
-      className="relative w-full h-[90vh] rounded-xl overflow-hidden shadow-xl border border-gray-300 bg-cover bg-center"
-      style={{
-        backgroundImage: "url('/images/fondo-tula.png')",
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-      }}
+      className="absolute top-4 right-4 z-20 w-64
+                 rounded-xl bg-white/90 backdrop-blur
+                 border shadow-lg overflow-hidden"
     >
-      <div className="absolute inset-0 bg-[#691B31]/30 backdrop-blur-[1px] z-0" />
+      <div className="px-3 py-2 text-sm font-semibold border-b">
+        Comunidades
+      </div>
 
-      <MapContainer
-        center={[20.051, -99.342]}
-        zoom={13}
-        scrollWheelZoom={true}
-        className="w-full h-full z-10"
-      >
-        <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+      <ul className="max-h-72 overflow-auto">
+        {data.features.map((f, i) => {
+          const p = f.properties ?? {};
+          const nombre = p.NOMBRE ?? p.name ?? `Comunidad ${i + 1}`;
+          const descripcion =
+            p.DESCRIPCION ??
+            p.descripcion ??
+            "Delimitación territorial";
 
-        {geoData &&
-          geoData.features.map((feature, i) => (
-            <GeoJSON
+          return (
+            <li
               key={i}
-              data={feature}
-              style={() => styleForIndex(i)}
-              onEachFeature={(feat, layer) =>
-                onEachFeature(feat, layer, i)
-              }
-            />
-          ))}
-      </MapContainer>
+              onClick={() => onSelect({ nombre, descripcion })}
+              className="px-3 py-2 text-sm cursor-pointer
+                         hover:bg-gray-100 transition"
+            >
+              {nombre}
+            </li>
+          );
+        })}
+      </ul>
+    </div>
+  );
+}
+
+function TerrainInitializer() {
+  const { map, isLoaded } = useMap();
+
+  useEffect(() => {
+    if (!map || !isLoaded) return;
+
+    if (!map.getSource("terrain")) {
+      map.addSource("terrain", {
+        type: "raster-dem",
+        url: "https://demotiles.maplibre.org/terrain-tiles/tiles.json",
+        tileSize: 256,
+        maxzoom: 14,
+      });
+
+      map.setTerrain({
+        source: "terrain",
+        exaggeration: 1.3,
+      });
+    }
+  }, [map, isLoaded]);
+
+  return null;
+}
+
+function MapController() {
+  const { map, isLoaded } = useMap();
+
+  if (!isLoaded || !map) return null;
+
+  const handle3D = () => {
+    map.easeTo({
+      pitch: 60,
+      bearing: -25,
+      zoom: Math.max(map.getZoom(), 14),
+      duration: 1200,
+    });
+  };
+
+  const handleReset = () => {
+    map.easeTo({
+      pitch: 0,
+      bearing: 0,
+      duration: 1000,
+    });
+  };
+
+  return (
+    <div className="absolute top-4 left-4 z-20 flex gap-2">
+      <button
+        onClick={handle3D}
+        className="flex items-center gap-1.5 px-3 py-2 rounded-md
+                   bg-white/90 backdrop-blur border shadow
+                   text-sm font-medium hover:bg-white"
+      >
+        <span>🏔️</span>
+        Vista 3D
+      </button>
+
+      <button
+        onClick={handleReset}
+        className="flex items-center gap-1.5 px-3 py-2 rounded-md
+                   bg-white/90 backdrop-blur border shadow
+                   text-sm font-medium hover:bg-white"
+      >
+        <span>🔁</span>
+        Reiniciar vista
+      </button>
+    </div>
+  );
+}
+
+export default function MapaObras() {
+  const [obraSeleccionada, setObraSeleccionada] = useState<{
+    nombre: string;
+    descripcion: string;
+  } | null>(null);
+
+  const [geoData, setGeoData] =
+    useState<FeatureCollection<Geometry, ComunidadProperties> | null>(null);
+
+  return (
+    <div className="relative w-full h-[90vh] rounded-xl overflow-hidden shadow-xl border border-gray-300">
+      <Map center={[-99.342, 20.051]} zoom={13}>
+        <MapControls
+          position="bottom-right"
+          showZoom
+          showCompass
+          showLocate
+          showFullscreen
+        />
+
+        <TerrainInitializer />
+        <MapController />
+
+        <ComunidadesLayer
+          onSelect={setObraSeleccionada}
+          onLoad={setGeoData}
+        />
+
+        <ComunidadesLegend
+          data={geoData}
+          onSelect={setObraSeleccionada}
+        />
+      </Map>
 
       <DialogObra
         obra={obraSeleccionada}
