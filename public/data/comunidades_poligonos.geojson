@@ -749,7 +749,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+    "id": 7,
+    "NOMBRE": "San Marcos unir",
+    "obras": []
+  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -796,7 +800,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+    "id": 8,
+    "NOMBRE": "Pueblo Nuevo de Jasso",
+    "obras": []
+  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1112,7 +1120,11 @@
     
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+    "id": 9,
+    "NOMBRE": "Acoculco",
+    "obras": []
+  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1175,7 +1187,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+    "id": 10,
+    "NOMBRE": "Heroes Carranza",
+    "obras": []
+  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1262,7 +1278,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+    "id": 11,
+    "NOMBRE": "Santa Maria Michimaltongo",
+    "obras": []
+  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1401,7 +1421,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+    "id": 12,
+    "NOMBRE": "Xiteje de Zapata",
+    "obras": []
+  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1504,8 +1528,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 13,
+    "NOMBRE": "Xiteje de Zapata UNIR",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -1587,7 +1614,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+    "id": 14,
+    "NOMBRE": "Michimaloya agregar",
+    "obras": []
+  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1658,7 +1689,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+    "id": 15,
+    "NOMBRE": "Michimaloya",
+    "obras": []
+  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1785,7 +1820,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+    "id": 16,
+    "NOMBRE": "Monte Alegre",
+    "obras": []
+  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1948,8 +1987,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 17,
+    "NOMBRE": "Nantzha",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -2043,8 +2085,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 18,
+    "NOMBRE": "Nantzha unir",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -2178,8 +2223,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 19,
+    "NOMBRE": "Xiteje de la Reforma",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -2485,8 +2533,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 20,
+    "NOMBRE": "San Andres Tultepec",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -2741,8 +2792,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 21,
+    "NOMBRE": "San Antonio Tula",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -2892,8 +2946,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 22,
+    "NOMBRE": "San Francisco Bojay",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -3131,7 +3188,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+    "id": 23,
+    "NOMBRE": "Julian Villagran",
+    "obras": []
+  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3162,8 +3223,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 24,
+    "NOMBRE": "San Lucas Teacalco",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -3377,8 +3441,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 25,
+    "NOMBRE": "no encontrado 2",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -3412,8 +3479,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 26,
+    "NOMBRE": "San Miguel de las Piedras Primera Seccion",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -3723,8 +3793,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 27,
+    "NOMBRE": "San Pedrito Apulyeca",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -3850,8 +3923,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 28,
+    "NOMBRE": "Santa Maria Macua",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -4237,8 +4313,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 29,
+    "NOMBRE": "no encontrado 3",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -4308,8 +4387,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 30,
+    "NOMBRE": "Xijay de Cuauhtemoc",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -4463,8 +4545,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+"properties": {
+    "id": 31,
+    "NOMBRE": "BUSCAR",
+    "obras": []
+  },      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
