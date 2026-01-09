@@ -1526,7 +1526,7 @@
       "type": "Feature",
 "properties": {
     "id": 13,
-    "NOMBRE": "Xiteje de Zapata UNIR",
+    "NOMBRE": "",
     "obras": []
   },      "geometry": {
         "type": "Polygon",
@@ -4469,7 +4469,7 @@
       "type": "Feature",
 "properties": {
     "id": 31,
-    "NOMBRE": "Xijay de Cuauhtemoc UNIR",
+    "NOMBRE": "",
     "obras": []
   },      "geometry": {
         "type": "Polygon",
