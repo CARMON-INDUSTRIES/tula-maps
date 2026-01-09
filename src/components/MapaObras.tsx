@@ -50,7 +50,7 @@ function ComunidadesLayer({
         source: "comunidades",
         paint: {
           "fill-color": "#691B31",
-          "fill-opacity": 0.5,
+          "fill-opacity": 1,
         },
       });
     }
@@ -61,11 +61,42 @@ function ComunidadesLayer({
         type: "line",
         source: "comunidades",
         paint: {
-          "line-color": "#2b0b14",
-          "line-width": 2,
+          "line-color": "#BC995B",
+          "line-width": 1.9,
         },
       });
     }
+
+    if (!map.getLayer("comunidades-labels")) {
+  map.addLayer({
+    id: "comunidades-labels",
+    type: "symbol",
+    source: "comunidades",
+    layout: {
+      "text-field": [
+        "coalesce",
+        ["get", "NOMBRE"],
+        ["get", "name"],
+      ],
+      "text-size": 11,
+      "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+      "text-anchor": "center",
+      "text-justify": "center",
+      "text-allow-overlap": true,
+    },
+    paint: {
+  "text-color": [
+    "case",
+    ["boolean", ["feature-state", "hover"], false],
+    "#BC995B",
+    "#000000",
+  ],
+  "text-halo-color": "#ffffff",
+  "text-halo-width": 2,
+},
+  });
+}
+
   }, [map, geoData]);
 
   useEffect(() => {
