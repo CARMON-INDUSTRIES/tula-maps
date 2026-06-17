@@ -1,11 +1,14 @@
+
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
 import { Map, MapControls, useMap } from "@/components/ui/map";
 import DialogObra from "@/components/DialogObra";
 import type { FeatureCollection, Geometry } from "geojson";
+import { Popup } from "maplibre-gl";
 
 interface ComunidadProperties {
+  id?: number;
   NOMBRE?: string;
   name?: string;
   DESCRIPCION?: string;
@@ -49,9 +52,20 @@ function ComunidadesLayer({
         type: "fill",
         source: "comunidades",
         paint: {
-          "fill-color": "#691B31",
-          "fill-opacity": 1,
-        },
+          "fill-color": [
+          "case",
+          ["boolean", ["feature-state", "hover"], false],
+          "#8E3951",
+          "#691B31",
+        ],
+
+  "fill-opacity": [
+    "case",
+    ["boolean", ["feature-state", "hover"], false],
+    0.9,
+    0.7,
+  ],
+},
       });
     }
 
@@ -105,6 +119,10 @@ function ComunidadesLayer({
     addLayers();
 
     let hoveredId: number | null = null;
+    const popup = new Popup({
+  closeButton: false,
+  closeOnClick: false,
+  });    
 
     map.on("mousemove", "comunidades-fill", (e) => {
       map.getCanvas().style.cursor = "pointer";
@@ -137,20 +155,35 @@ function ComunidadesLayer({
       hoveredId = null;
     });
 
-    map.on("click", "comunidades-fill", (e) => {
-      const f = e.features?.[0];
-      if (!f) return;
+   map.on("click", "comunidades-fill", async (e) => {
+  const f = e.features?.[0];
+  if (!f) return;
 
-      const p = f.properties as ComunidadProperties;
+  const p = f.properties as ComunidadProperties;
 
-      onSelect({
-        nombre: p.NOMBRE ?? p.name ?? "Comunidad",
-        descripcion:
-          p.DESCRIPCION ??
-          p.descripcion ??
-          "Delimitación territorial",
-      });
-    });
+  const comunidadId = p.id;
+
+  console.log("ID:", comunidadId);
+
+  if (!comunidadId) {
+    console.error("No se encontró id");
+    return;
+  }
+
+  try {
+    const response = await fetch(
+      `https://localhost:7209/api/comunidades/${comunidadId}`
+    );
+
+    const data = await response.json();
+
+    console.log("DATA", data);
+
+    onSelect(data); 
+  } catch (err) {
+    console.error("ERROR FETCH", err);
+  }
+});
   }, [map, isLoaded, geoData, addLayers, onSelect]);
 
   return null;
@@ -163,35 +196,102 @@ function ComunidadesLegend({
   data: FeatureCollection<Geometry, ComunidadProperties> | null;
   onSelect: (data: { nombre: string; descripcion: string }) => void;
 }) {
+  const [search, setSearch] = useState("");
+
   if (!data) return null;
+
+  const filtered = data.features.filter((f) => {
+    const p = f.properties ?? {};
+    const nombre = p.NOMBRE ?? p.name ?? "";
+
+    return nombre
+      .toLowerCase()
+      .includes(search.toLowerCase());
+  });
 
   return (
     <div
-      className="absolute top-4 right-4 z-20 w-64
-                 rounded-xl bg-white/90 backdrop-blur
-                 border shadow-lg overflow-hidden"
+      className="
+      absolute
+      top-4
+      right-4
+      z-20
+      w-80
+      rounded-2xl
+      bg-white/95
+      backdrop-blur-md
+      border
+      shadow-2xl
+      overflow-hidden
+    "
     >
-      <div className="px-3 py-2 text-sm font-semibold border-b">
-        Comunidades
+      <div className="p-4 border-b">
+        <h3 className="font-bold text-[#691B31]">
+          Comunidades
+        </h3>
+
+        <p className="text-xs text-gray-500">
+          {data.features.length} registradas
+        </p>
+
+        <input
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          placeholder="Buscar comunidad..."
+          className="
+            mt-3
+            w-full
+            px-3
+            py-2
+            rounded-lg
+            border
+            text-sm
+            outline-none
+            focus:ring-2
+            focus:ring-[#691B31]
+          "
+        />
       </div>
 
-      <ul className="max-h-72 overflow-auto">
-        {data.features.map((f, i) => {
+      <ul className="max-h-[420px] overflow-auto">
+        {filtered.map((f, i) => {
           const p = f.properties ?? {};
-          const nombre = p.NOMBRE ?? p.name ?? `Comunidad ${i + 1}`;
+
+          const nombre =
+            p.NOMBRE ??
+            p.name ??
+            `Comunidad ${i + 1}`;
+
           const descripcion =
             p.DESCRIPCION ??
             p.descripcion ??
-            "Delimitación territorial";
+            "Sin descripción";
 
           return (
             <li
               key={i}
-              onClick={() => onSelect({ nombre, descripcion })}
-              className="px-3 py-2 text-sm cursor-pointer
-                         hover:bg-gray-100 transition"
+              onClick={() =>
+                onSelect({
+                  nombre,
+                  descripcion,
+                })
+              }
+              className="
+                px-4
+                py-3
+                cursor-pointer
+                hover:bg-gray-50
+                border-b
+                transition
+              "
             >
-              {nombre}
+              <div className="flex items-center gap-2">
+                <span>📍</span>
+
+                <span className="font-medium">
+                  {nombre}
+                </span>
+              </div>
             </li>
           );
         })}
@@ -272,10 +372,8 @@ function MapController() {
 }
 
 export default function MapaObras() {
-  const [obraSeleccionada, setObraSeleccionada] = useState<{
-    nombre: string;
-    descripcion: string;
-  } | null>(null);
+  const [obraSeleccionada, setObraSeleccionada] =
+  useState<Comunidad | null>(null);
 
   const [geoData, setGeoData] =
     useState<FeatureCollection<Geometry, ComunidadProperties> | null>(null);
