@@ -5,7 +5,24 @@ import { useCallback, useEffect, useState } from "react";
 import { Map, MapControls, useMap } from "@/components/ui/map";
 import DialogObra from "@/components/DialogObra";
 import type { FeatureCollection, Geometry } from "geojson";
-import { Popup } from "maplibre-gl";
+
+interface Obra {
+  id: number;
+  obraAccionPrograma: string;
+  tipoIntervencion: string;
+  localidadUbicacion: string;
+  estatus: string;
+  anio: number;
+  direccion: string;
+}
+
+interface Comunidad {
+  id: number;
+  nombre: string;
+  descripcion?: string | null;
+  obras: Obra[];
+}
+
 
 interface ComunidadProperties {
   id?: number;
@@ -15,11 +32,13 @@ interface ComunidadProperties {
   descripcion?: string;
 }
 
+
+
 function ComunidadesLayer({
   onSelect,
   onLoad,
 }: {
-  onSelect: (data: { nombre: string; descripcion: string }) => void;
+  onSelect: (data: Comunidad) => void;
   onLoad: (data: FeatureCollection<Geometry, ComunidadProperties>) => void;
 }) {
   const { map, isLoaded } = useMap();
@@ -119,10 +138,7 @@ function ComunidadesLayer({
     addLayers();
 
     let hoveredId: number | null = null;
-    const popup = new Popup({
-  closeButton: false,
-  closeOnClick: false,
-  });    
+   
 
     map.on("mousemove", "comunidades-fill", (e) => {
       map.getCanvas().style.cursor = "pointer";
@@ -194,7 +210,7 @@ function ComunidadesLegend({
   onSelect,
 }: {
   data: FeatureCollection<Geometry, ComunidadProperties> | null;
-  onSelect: (data: { nombre: string; descripcion: string }) => void;
+  onSelect: (data: Comunidad) => void;
 }) {
   const [search, setSearch] = useState("");
 
@@ -272,9 +288,11 @@ function ComunidadesLegend({
               key={i}
               onClick={() =>
                 onSelect({
+                 id: p.id ?? 0,
                   nombre,
                   descripcion,
-                })
+                  obras: [],
+                  })
               }
               className="
                 px-4

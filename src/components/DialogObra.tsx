@@ -4,6 +4,7 @@ import { useEffect, useRef } from "react";
 import A11yDialog from "a11y-dialog";
 import { animate } from "motion";
 
+
 interface Obra {
   id: number;
   obraAccionPrograma: string;
