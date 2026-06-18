@@ -82,7 +82,7 @@ function ComunidadesLayer({
     "case",
     ["boolean", ["feature-state", "hover"], false],
     0.9,
-    0.7,
+    0.9,
   ],
 },
       });
