@@ -95,7 +95,7 @@ function ComunidadesLayer({
         source: "comunidades",
         paint: {
           "line-color": "#BC995B",
-          "line-width": 1.9,
+          "line-width": 2.5,
         },
       });
     }
@@ -188,7 +188,7 @@ function ComunidadesLayer({
 
   try {
     const response = await fetch(
-      `https://localhost:7209/api/comunidades/${comunidadId}`
+      `https://tula-maps.somee.com/api/comunidades/${comunidadId}`
     );
 
     const data = await response.json();
