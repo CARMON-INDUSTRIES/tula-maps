@@ -228,18 +228,18 @@ function ComunidadesLegend({
   return (
     <div
       className="
-      absolute
-      top-4
-      right-4
-      z-20
-      w-80
-      rounded-2xl
-      bg-white/95
-      backdrop-blur-md
-      border
-      shadow-2xl
-      overflow-hidden
-    "
+        absolute
+        top-4
+        right-4
+        z-20
+        w-96
+        rounded-3xl
+        bg-white/80
+        backdrop-blur-xl
+        border border-white/30
+        shadow-[0_20px_60px_rgba(0,0,0,0.25)]
+        overflow-hidden
+"
     >
       <div className="p-4 border-b">
         <h3 className="font-bold text-[#691B31]">
@@ -298,7 +298,9 @@ function ComunidadesLegend({
                 px-4
                 py-3
                 cursor-pointer
-                hover:bg-gray-50
+                hover:bg-[#691B31]/5
+                hover:translate-x-1
+                duration-200
                 border-b
                 transition
               "
