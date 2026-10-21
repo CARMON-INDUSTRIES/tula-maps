@@ -1,0 +1,43 @@
+{
+  "grupos": [
+    {
+      "id": 33,
+      "nombre": "San Marcos",
+      "nombres": [
+        "San Marcos"
+      ],
+      "poligonos": 3,
+      "sha256": "cc422b187d7c48a790656cbef15804dd91beb6710df4c97ffc57c3b97a1463e3"
+    },
+    {
+      "id": 26,
+      "nombre": "Michimaloya",
+      "nombres": [
+        "Michimaloya",
+        "Michimaloya agregar"
+      ],
+      "poligonos": 2,
+      "sha256": "bf4f02b9749344cf28b1e10b8dd73a27fd37e519e9af28bdb92e6f0217378889"
+    },
+    {
+      "id": 24,
+      "nombre": "Nantzha",
+      "nombres": [
+        "Nantzha",
+        "Nantzha unir"
+      ],
+      "poligonos": 2,
+      "sha256": "c6d856120da6cd1b0db4bd325443f9b8b15e63692ea2b682233f62328773efab"
+    },
+    {
+      "id": 52,
+      "nombre": "Tula Centro",
+      "nombres": [
+        "Tula Centro"
+      ],
+      "poligonos": 2,
+      "sha256": "1f86b18e3d568fdc3399390356e49c9ff6f4545ecad4f8d91c0ec719d1ee436c"
+    }
+  ],
+  "otrosSha256": "6a576e114ead171a2c7c3718f032be54842658a7b30d031d0a5f4235a121822a"
+}
