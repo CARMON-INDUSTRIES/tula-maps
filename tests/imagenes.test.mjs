@@ -33,35 +33,34 @@ test("valida cantidad, formato y tamaño antes de subir", () => {
   assert.doesNotThrow(() => validarImagenes([foto()]));
 });
 
-test("envía archivos multipart y contraseña en encabezado, nunca en la URL", async t => {
+test("envía archivos multipart a la ruta protegida sin exponer claves", async t => {
   const signal = new AbortController().signal;
   const archivo = foto();
   t.mock.method(globalThis, "fetch", async (url, options) => {
-    assert.equal(url.includes("clave-privada"), false);
+    assert.equal(url, "/api/admin/obras/12/imagenes");
     assert.equal(options.method, "POST");
-    assert.equal(options.headers["X-Upload-Key"], "clave-privada");
-    assert.equal(options.headers["Content-Type"], undefined);
+    assert.equal(options.headers, undefined);
     assert.equal(options.signal, signal);
     assert.equal(options.body.getAll("archivos").length, 1);
     assert.equal(options.body.get("archivos").name, archivo.name);
     return Response.json([{ id: 5, nombreArchivo: archivo.name }], { status: 201 });
   });
-  assert.equal((await subirImagenes(12, [archivo], "clave-privada", signal))[0].id, 5);
+  assert.equal((await subirImagenes(12, [archivo], signal))[0].id, 5);
 });
 
-test("no consulta el servidor si falta contraseña o el archivo es inválido", async t => {
+test("no consulta el servidor si el ID o el archivo es inválido", async t => {
   const fetch = t.mock.method(globalThis, "fetch", () => assert.fail("No debe consultar"));
-  await assert.rejects(subirImagenes(12, [foto()], " "), /contraseña/);
-  await assert.rejects(subirImagenes(12, [], "clave"), /1 y 10/);
+  await assert.rejects(subirImagenes(0, [foto()]), /ID válido/);
+  await assert.rejects(subirImagenes(12, []), /1 y 10/);
   await assert.rejects(listarImagenes(0), /ID válido/);
   assert.equal(fetch.mock.callCount(), 0);
 });
 
-test("muestra el rechazo de contraseña y los límites del alojamiento", async t => {
-  const fetch = t.mock.method(globalThis, "fetch", async () => Response.json({ mensaje: "Contraseña incorrecta" }, { status: 401 }));
-  await assert.rejects(subirImagenes(12, [foto()], "incorrecta"), /Contraseña incorrecta/);
+test("muestra una sesión vencida y los límites del alojamiento", async t => {
+  const fetch = t.mock.method(globalThis, "fetch", async () => Response.json({ mensaje: "Tu sesión venció" }, { status: 401 }));
+  await assert.rejects(subirImagenes(12, [foto()]), /sesión venció/);
   fetch.mock.mockImplementation(async () => new Response("<html>Too large</html>", { status: 413 }));
-  await assert.rejects(subirImagenes(12, [foto()], "clave"), /menos imágenes/);
+  await assert.rejects(subirImagenes(12, [foto()]), /menos imágenes/);
 });
 
 test("rechaza listados inválidos y propaga la cancelación de solicitudes", async t => {

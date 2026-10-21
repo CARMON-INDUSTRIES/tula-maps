@@ -42,14 +42,13 @@ export function validarImagenes(archivos: File[]) {
   }
 }
 
-export async function subirImagenes(obraId: number, archivos: File[], clave: string, signal?: AbortSignal) {
+export async function subirImagenes(obraId: number, archivos: File[], signal?: AbortSignal) {
+  if (!Number.isInteger(obraId) || obraId <= 0) throw new Error("La obra no tiene un ID válido.");
   validarImagenes(archivos);
-  if (!clave.trim()) throw new Error("Escribe la contraseña de administración.");
   const form = new FormData();
   archivos.forEach(archivo => form.append("archivos", archivo));
-  return respuestaImagenes(await fetch(rutaImagenes(obraId), {
+  return respuestaImagenes(await fetch(`/api/admin/obras/${obraId}/imagenes`, {
     method: "POST",
-    headers: { "X-Upload-Key": clave },
     body: form,
     signal,
   }));

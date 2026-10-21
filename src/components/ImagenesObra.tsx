@@ -10,19 +10,18 @@ export default function ImagenesObra({ obraId, nombre, administrar = false }: { 
   return (
     <div className="work-images">
       <button type="button" className={"photos-button" + (open ? " is-active" : "")} aria-expanded={open} aria-controls={regionId} onClick={() => setOpen(!open)}><Images size={16} />{open ? "Ocultar imágenes" : administrar ? "Ver / subir fotografías" : "Ver imágenes"}</button>
-      {open && <GaleriaObra key={obraId} obraId={obraId} nombre={nombre} regionId={regionId} iniciarCarga={administrar} />}
+      {open && <GaleriaObra key={obraId} obraId={obraId} nombre={nombre} regionId={regionId} permitirCarga={administrar} />}
     </div>
   );
 }
 
-function GaleriaObra({ obraId, nombre, regionId, iniciarCarga }: { obraId: number; nombre: string; regionId: string; iniciarCarga: boolean }) {
+function GaleriaObra({ obraId, nombre, regionId, permitirCarga }: { obraId: number; nombre: string; regionId: string; permitirCarga: boolean }) {
   const [imagenes, setImagenes] = useState<ImagenObra[]>([]);
   const [index, setIndex] = useState(0);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [retry, setRetry] = useState(0);
-  const [admin, setAdmin] = useState(iniciarCarga);
-  const [clave, setClave] = useState("");
+  const [admin, setAdmin] = useState(permitirCarga);
   const [archivos, setArchivos] = useState<File[]>([]);
   const [uploading, setUploading] = useState(false);
   const [uploadError, setUploadError] = useState("");
@@ -59,12 +58,11 @@ function GaleriaObra({ obraId, nombre, regionId, iniciarCarga }: { obraId: numbe
     setUploadError("");
     setNotice("");
     try {
-      const nuevas = await subirImagenes(obraId, archivos, clave, controller.signal);
+      const nuevas = await subirImagenes(obraId, archivos, controller.signal);
       if (controller.signal.aborted) return;
       setIndex(imagenes.length);
       setImagenes(previous => [...previous, ...nuevas]);
       setArchivos([]);
-      setClave("");
       if (inputRef.current) inputRef.current.value = "";
       setNotice(`${nuevas.length} ${nuevas.length === 1 ? "imagen guardada" : "imágenes guardadas"} correctamente.`);
     } catch (error) {
@@ -93,10 +91,9 @@ function GaleriaObra({ obraId, nombre, regionId, iniciarCarga }: { obraId: numbe
         <div className="photo-caption"><span>{current.nombreArchivo || `Fotografía ${index + 1}`}</span><a href={urlImagen(obraId, current.id)} target="_blank" rel="noopener noreferrer">Abrir original</a></div>
       </> : <div className="gallery-placeholder"><Images size={29} /><strong>Esta obra aún no tiene fotografías</strong><span>Agrega imágenes para documentar su avance.</span></div>}
 
-      {!loading && !error && <button type="button" className="upload-toggle" aria-expanded={admin} onClick={() => { setAdmin(!admin); setClave(""); setUploadError(""); }} disabled={uploading}>{admin ? <X size={15} /> : <ImagePlus size={16} />}{admin ? "Cerrar carga de imágenes" : "Agregar fotografías"}<LockKeyhole size={13} /></button>}
+      {permitirCarga && !loading && !error && <button type="button" className="upload-toggle" aria-expanded={admin} onClick={() => { setAdmin(!admin); setUploadError(""); }} disabled={uploading}>{admin ? <X size={15} /> : <ImagePlus size={16} />}{admin ? "Cerrar carga de imágenes" : "Agregar fotografías"}<LockKeyhole size={13} /></button>}
       {admin && !loading && !error && <form className="upload-form" onSubmit={upload}>
         <div><h4>Cargar fotografías de esta obra</h4><p>JPG, PNG o WebP · Hasta 10 imágenes por envío · Máximo 5 MB por imagen</p></div>
-        <label className="upload-label">Contraseña de administración<input type="password" autoComplete="off" value={clave} onChange={e => setClave(e.target.value)} disabled={uploading} required /></label>
         <label className="upload-label">Seleccionar fotografías<input ref={inputRef} type="file" accept="image/jpeg,image/png,image/webp" multiple disabled={uploading} required onChange={e => {
           setUploadError(""); setNotice("");
           const selected = Array.from(e.target.files ?? []);
@@ -105,7 +102,7 @@ function GaleriaObra({ obraId, nombre, regionId, iniciarCarga }: { obraId: numbe
         }} /></label>
         {archivos.length > 0 && <p className="upload-selection">{archivos.length} seleccionadas · {(archivos.reduce((total, file) => total + file.size, 0) / (1024 * 1024)).toFixed(1)} MB</p>}
         {uploadError && <p className="upload-error" role="alert">{uploadError}</p>}
-        <button className="primary-button upload-submit" type="submit" disabled={uploading || !archivos.length || !clave.trim()}>{uploading ? <Loader2 className="animate-spin" size={16} /> : <Upload size={16} />}{uploading ? "Guardando fotografías…" : "Guardar fotografías"}</button>
+        <button className="primary-button upload-submit" type="submit" disabled={uploading || !archivos.length}>{uploading ? <Loader2 className="animate-spin" size={16} /> : <Upload size={16} />}{uploading ? "Guardando fotografías…" : "Guardar fotografías"}</button>
         <p className="upload-note">Las imágenes guardadas serán visibles para todos los visitantes del mapa.</p>
       </form>}
       {notice && <p className="upload-success" role="status">{notice}</p>}

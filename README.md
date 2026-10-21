@@ -38,14 +38,38 @@ En pantallas pequeñas el panel comienza cerrado para dejar visible el mapa.
 
 Cada ficha tiene un botón **Ver imágenes**, con carrusel y navegación por flechas
 o teclado. Las fotografías se consultan al abrir el carrusel y se descarga solo
-la imagen actual. **Agregar fotografías** permite cargar de 1 a 10 archivos JPG,
-PNG o WebP de hasta 5 MB cada uno, con contraseña de administración.
+la imagen actual. La carga está disponible únicamente en `/obras` después de
+iniciar sesión: de 1 a 10 archivos JPG, PNG o WebP de hasta 5 MB cada uno.
 
 Los archivos se almacenan en SQL Server, en la tabla `ObraImagen`, y no se envían
 a servicios externos. La API debe tener aplicada la migración
 `20261021180000_ImagenesEnBaseDeDatos` y configurada la variable privada
-`Uploads__AccessKey`. La contraseña se introduce al subir y no se persiste en el
-navegador. No debe configurarse como variable `NEXT_PUBLIC_*`.
+`Uploads__AccessKey` como clave técnica de carga. En desarrollo está en User
+Secrets del backend y se retiró de los archivos appsettings.
+
+## Acceso a la administración
+
+Al visitar `/obras` se muestra un modal de contraseña. El servidor del frontend
+valida `OBRAS_ADMIN_PASSWORD` y emite una cookie HttpOnly firmada, válida por
+4 horas. El listado no se renderiza sin una sesión válida. Hay un botón para
+cerrar sesión. El mapa público solo permite ver fotografías.
+
+En desarrollo están configuradas en `.env.local`, excluido de Git:
+
+- `OBRAS_ADMIN_PASSWORD`: contraseña solicitada al entrar.
+- `OBRAS_SESSION_SECRET`: secreto aleatorio que firma las sesiones.
+- `OBRAS_UPLOAD_KEY`: clave técnica que coincide con `Uploads__AccessKey` de la API.
+- `OBRAS_API_URL` (opcional): URL de API desde el servidor, si es distinta de `NEXT_PUBLIC_API_URL`.
+
+Ninguna de estas claves debe tener prefijo `NEXT_PUBLIC_`. El navegador envía
+las fotos a `/api/admin/obras/{id}/imagenes`, que verifica la sesión y contacta
+al backend sin revelar su clave. La contraseña solo se pide al entrar.
+
+Para producción, configurar estas variables privadas en el servidor Next.js y
+`Uploads__AccessKey` en el servidor .NET. La protección requiere ejecutar Next.js
+con soporte de servidor y HTTPS; una exportación estática en GitHub Pages no
+puede ejecutar la autenticación ni la carga protegida. Reiniciar ambos servidores
+al cambiar la configuración. Cambiar `OBRAS_SESSION_SECRET` invalida todas las sesiones.
 
 El backend incluye `IMAGENES.md` y `Scripts/imagenes-en-base-de-datos.sql` con los
 pasos de activación. Esta funcionalidad requiere publicar la API actualizada;
@@ -71,7 +95,7 @@ bun dev
 La pantalla `/obras`, accesible directamente por URL, permite buscar
 por obra, comunidad, ubicación o dirección y consultar 12 obras por página.
 Cada ficha tiene **Ver / subir fotografías**, que abre el carrusel y la carga
-con contraseña de administración. Reutiliza el mismo almacenamiento en SQL.
+usando la sesión de administración. Reutiliza el mismo almacenamiento en SQL.
 
 El backend actualizado incorpora `GET /api/obras?page=1&pageSize=12&buscar=...`.
 Incluye obras sin comunidad asignada y no carga archivos de imagen en el listado.
