@@ -21,11 +21,28 @@ test("consulta el ID de comunidad y transmite la señal de cancelación", async 
   const signal = new AbortController().signal;
   const comunidad = { id: 52, nombre: "Tula Centro", obras: [] };
   t.mock.method(globalThis, "fetch", async (url, options) => {
-    assert.equal(url, "https://example.com/api/comunidades/52");
+    assert.equal(url, "https://example.com/api/comunidades/52/obras");
     assert.equal(options.signal, signal);
     return Response.json(comunidad);
   });
   assert.deepEqual(await obtenerComunidad(52, signal), comunidad);
+});
+
+test("conserva compatibilidad con la API publicada anterior sin repetir errores del servidor", async t => {
+  const urls = [];
+  const signal = new AbortController().signal;
+  const comunidad = { id: 52, nombre: "Tula Centro", obras: [] };
+  const fetch = t.mock.method(globalThis, "fetch", async (url, options) => {
+    urls.push(url);
+    assert.equal(options.signal, signal);
+    return urls.length === 1 ? new Response(null, { status: 404 }) : Response.json(comunidad);
+  });
+  assert.deepEqual(await obtenerComunidad(52, signal), comunidad);
+  assert.match(urls[0], /\/comunidades\/52\/obras$/);
+  assert.match(urls[1], /\/comunidades\/52$/);
+  fetch.mock.mockImplementation(async () => new Response(null, { status: 503 }));
+  await assert.rejects(obtenerComunidad(52), /servidor no pudo/);
+  assert.equal(fetch.mock.callCount(), 3);
 });
 
 test("rechaza IDs inválidos sin llamar al servidor", async (t) => {

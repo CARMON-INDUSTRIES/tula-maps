@@ -137,3 +137,9 @@ En `/obras`, cada fotografía permite **Eliminar fotografía** con confirmación
 Tres contraseñas incorrectas bloquean el acceso durante 15 minutos y muestran una pantalla azul con cuenta regresiva. Se solicita pantalla completa y se ofrece un botón si el navegador la rechaza; Esc permite salir. El contador usa una cookie firmada por navegador: recargar conserva la espera, pero borrar cookies o utilizar otro navegador permite empezar de nuevo. No es un bloqueo global.
 
 El cotejo de IDs de solo lectura y las correcciones propuestas están en `reports/revision-ids-comunidades.md`. No se han reasignado IDs.
+
+## Consulta ligera del mapa
+
+El mapa utiliza `GET /api/comunidades/{id}/obras`, que consulta únicamente los campos mostrados en las tarjetas. El detalle completo permanece en su ruta anterior. La respuesta ligera se conserva 60 segundos en el servidor y permite caché HTTP por el mismo tiempo; los cambios en obras pueden tardar hasta un minuto en reflejarse. Las fotografías siguen consultándose por separado y no se incluyen en esa caché.
+
+Publicar frontend y backend para activar la optimización. El frontend puede usar la ruta anterior si la nueva todavía devuelve 404. No requiere migración ni modifica datos existentes.

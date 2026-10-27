@@ -14,7 +14,11 @@ export async function obtenerComunidad(
 
   let response: Response;
   try {
-    response = await fetch(`${baseUrl}/comunidades/${id}`, { signal });
+    response = await fetch(`${baseUrl}/comunidades/${id}/obras`, { signal });
+    // Permite publicar el frontend antes que la nueva ruta del backend.
+    if (response.status === 404) {
+      response = await fetch(`${baseUrl}/comunidades/${id}`, { signal });
+    }
   } catch (error) {
     if (signal?.aborted) throw error;
     throw new Error(
