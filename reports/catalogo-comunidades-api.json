@@ -1,0 +1,318 @@
+[
+  {
+    "id": 1,
+    "nombre": "Acoculco"
+  },
+  {
+    "id": 2,
+    "nombre": "Bomintzha"
+  },
+  {
+    "id": 3,
+    "nombre": "Alvarado"
+  },
+  {
+    "id": 4,
+    "nombre": "16 de Enero"
+  },
+  {
+    "id": 5,
+    "nombre": "Barrio Alto 1ra Secci\u00F3n"
+  },
+  {
+    "id": 6,
+    "nombre": "Barrio Alto 2da Secci\u00F3n"
+  },
+  {
+    "id": 7,
+    "nombre": "Col. Benito Juarez"
+  },
+  {
+    "id": 8,
+    "nombre": "Dengui"
+  },
+  {
+    "id": 9,
+    "nombre": "Col. El Cielito"
+  },
+  {
+    "id": 10,
+    "nombre": "Col. FOVISSSTE"
+  },
+  {
+    "id": 11,
+    "nombre": "Infonavit"
+  },
+  {
+    "id": 12,
+    "nombre": "Col. Iturbe"
+  },
+  {
+    "id": 13,
+    "nombre": "Col. Jalpa"
+  },
+  {
+    "id": 14,
+    "nombre": "Col. Julian Villagran"
+  },
+  {
+    "id": 15,
+    "nombre": "La Malinche"
+  },
+  {
+    "id": 16,
+    "nombre": "Monte Alegre"
+  },
+  {
+    "id": 17,
+    "nombre": "San Jos\u00E9"
+  },
+  {
+    "id": 18,
+    "nombre": "Tultengo"
+  },
+  {
+    "id": 19,
+    "nombre": "UHP"
+  },
+  {
+    "id": 20,
+    "nombre": "Villas del Salitre"
+  },
+  {
+    "id": 21,
+    "nombre": "El Carmen"
+  },
+  {
+    "id": 22,
+    "nombre": "Llano 1ra Secci\u00F3n"
+  },
+  {
+    "id": 23,
+    "nombre": "Llano 2da Secci\u00F3n"
+  },
+  {
+    "id": 24,
+    "nombre": "Huerto Nantza"
+  },
+  {
+    "id": 25,
+    "nombre": "Ignacio Zaragoza"
+  },
+  {
+    "id": 26,
+    "nombre": "Michimaloya"
+  },
+  {
+    "id": 27,
+    "nombre": "Michimaltongo"
+  },
+  {
+    "id": 28,
+    "nombre": "Pueblo Nuevo"
+  },
+  {
+    "id": 29,
+    "nombre": "San Andr\u00E9s Tultepec"
+  },
+  {
+    "id": 30,
+    "nombre": "San Lorenzo"
+  },
+  {
+    "id": 31,
+    "nombre": "Montecillo"
+  },
+  {
+    "id": 32,
+    "nombre": "San Lucas Teacalco"
+  },
+  {
+    "id": 33,
+    "nombre": "San Marcos"
+  },
+  {
+    "id": 34,
+    "nombre": "Col. La Amistad"
+  },
+  {
+    "id": 35,
+    "nombre": "Col. La Romera"
+  },
+  {
+    "id": 36,
+    "nombre": "Col. El Damu"
+  },
+  {
+    "id": 37,
+    "nombre": "San Miguel Vindho"
+  },
+  {
+    "id": 38,
+    "nombre": "San Pedro Alpuyeca"
+  },
+  {
+    "id": 39,
+    "nombre": "Santa Ana Ahuehuepan"
+  },
+  {
+    "id": 40,
+    "nombre": "Santa Maria Ilucan"
+  },
+  {
+    "id": 41,
+    "nombre": "Santa Maria Macua"
+  },
+  {
+    "id": 42,
+    "nombre": "Teocalco"
+  },
+  {
+    "id": 43,
+    "nombre": "Xiteje de Zapata"
+  },
+  {
+    "id": 44,
+    "nombre": "Xochitlan de las Flores"
+  },
+  {
+    "id": 45,
+    "nombre": "Xochitlan de las Flores"
+  },
+  {
+    "id": 46,
+    "nombre": "Col. San Lorenzo"
+  },
+  {
+    "id": 47,
+    "nombre": "Xijay de Cuauhtemoc"
+  },
+  {
+    "id": 48,
+    "nombre": "Xiteje de la Reforma"
+  },
+  {
+    "id": 49,
+    "nombre": "Xochitl\u00E1n de las Flores"
+  },
+  {
+    "id": 50,
+    "nombre": "El Crest\u00F3n"
+  },
+  {
+    "id": 51,
+    "nombre": "Col. El Salitre"
+  },
+  {
+    "id": 52,
+    "nombre": "Tula Centro"
+  },
+  {
+    "id": 53,
+    "nombre": "H\u00E9roes Carranza"
+  },
+  {
+    "id": 54,
+    "nombre": "Xiteje de las Flores"
+  },
+  {
+    "id": 55,
+    "nombre": "Xijay de Zapata"
+  },
+  {
+    "id": 56,
+    "nombre": "Xijay de la Reforma"
+  },
+  {
+    "id": 57,
+    "nombre": "Xijay de Cuauht\u00E9moc"
+  },
+  {
+    "id": 58,
+    "nombre": "San Francisco Bojay"
+  },
+  {
+    "id": 59,
+    "nombre": "Santa Mar\u00EDa Ilucan"
+  },
+  {
+    "id": 60,
+    "nombre": "La Amistad"
+  },
+  {
+    "id": 61,
+    "nombre": "Santa Mar\u00EDa Michimaltongo"
+  },
+  {
+    "id": 62,
+    "nombre": "San Miguel de las Piedras"
+  },
+  {
+    "id": 63,
+    "nombre": "Teocalco de Tula"
+  },
+  {
+    "id": 64,
+    "nombre": "Santa Mar\u00EDa Macu\u00E1"
+  },
+  {
+    "id": 65,
+    "nombre": "San Pedrito Alpuyeca"
+  },
+  {
+    "id": 66,
+    "nombre": "Nueva Santa Mar\u00EDa"
+  },
+  {
+    "id": 67,
+    "nombre": "Col. Sesenta y Dos"
+  },
+  {
+    "id": 68,
+    "nombre": "Col. Chapultepec"
+  },
+  {
+    "id": 69,
+    "nombre": "Col. Benito Ju\u00E1rez"
+  },
+  {
+    "id": 70,
+    "nombre": "San Antonio Tula"
+  },
+  {
+    "id": 71,
+    "nombre": "Cd. Coop. Cruz Azul"
+  },
+  {
+    "id": 72,
+    "nombre": "Los Fresnos"
+  },
+  {
+    "id": 73,
+    "nombre": "Arboledas"
+  },
+  {
+    "id": 74,
+    "nombre": "San Miguel de las Piedras 1ra"
+  },
+  {
+    "id": 75,
+    "nombre": "San Miguel de las Piedras 2da"
+  },
+  {
+    "id": 76,
+    "nombre": "Unidad hab. Pemex"
+  },
+  {
+    "id": 77,
+    "nombre": "San Francisco Bojay Pueblo"
+  },
+  {
+    "id": 78,
+    "nombre": "La Romera"
+  },
+  {
+    "id": 79,
+    "nombre": "Santa Ana Ahuehuepan"
+  }
+]

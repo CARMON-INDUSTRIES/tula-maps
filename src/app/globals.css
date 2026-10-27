@@ -277,3 +277,38 @@ button:focus-visible, a:focus-visible, select:focus-visible, input:focus-visible
 /* Acceso reservado a la administración de fotografías. */
 .access-placeholder { display: flex; flex-direction: column; gap: 15px; align-items: center; justify-content: center; min-height: 65dvh; text-align: center; color: #89937f; padding: 30px; }.access-placeholder h1 { font-size: 24px; font-weight: 600; color: var(--tula-ink); }.access-placeholder p { font-size: 13px; }
 .access-dialog { width: min(420px, calc(100% - 32px)); padding: 30px; margin: auto; border: 1px solid var(--tula-border); border-radius: 17px; background: #fcfcf9; box-shadow: 0 30px 100px #17241e40; color: var(--tula-ink); }.access-dialog::backdrop { background: #15241caa; }.access-dialog > .eyebrow { display: block; margin: 20px 0 8px; }.access-dialog h2 { font-size: 26px; font-weight: 650; letter-spacing: -.035em; }.access-dialog > p { font-size: 12px; line-height: 1.8; color: #7c8773; margin-top: 10px; }.access-lock { display: inline-grid; place-items: center; width: 55px; height: 55px; border-radius: 14px; background: #f3e7eb; color: var(--tula-wine); }.access-dialog form { margin: 24px 0 18px; display: flex; flex-direction: column; gap: 15px; }.access-dialog form > .primary-button { display: flex; align-items: center; justify-content: center; gap: 8px; padding: 12px; }.access-dialog button:disabled { opacity: .55; cursor: not-allowed; }.access-error { font-size: 12px; color: #a03d35; }.admin-session-actions { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; margin-top: 12px; }.admin-session-actions p { color: #a03d35; font-size: 11px; }
+
+/* Borrado explícito de fotografías y aviso temporal de acceso. */
+.photo-delete { margin: 9px 0 14px; }.delete-button { display: inline-flex; align-items: center; justify-content: center; gap: 6px; border: 1px solid #d8a49c; background: #a03d35; color: white; border-radius: 6px; padding: 8px 10px; font-size: 11px; }.delete-button.subtle { color: #a03d35; background: transparent; border-color: #ead3cd; font-size: 10px; padding: 6px 9px; }.delete-button:disabled { opacity: .5; cursor: not-allowed; }.photo-delete-confirm { padding: 12px; background: #fff5ef; border: 1px solid #ead0c6; border-radius: 8px; font-size: 11px; color: #8e4f43; }.photo-delete-confirm p { line-height: 1.7; }.photo-delete-confirm > div { display: flex; gap: 8px; margin-top: 10px; }.photo-delete .upload-error { margin-top: 9px; color: #a03d35; font-size: 11px; }
+.access-blue-screen { position: fixed; inset: 0; z-index: 1000; overflow: auto; background: #0878c6; color: #fff; font-family: 'Segoe UI', Arial, sans-serif; display: flex; align-items: center; padding: 7vh 10vw; }.blue-screen-content { max-width: 850px; }.blue-screen-face { font-size: clamp(80px, 12vw, 130px); line-height: 1; font-weight: 300; margin-bottom: 32px; }.access-blue-screen h1 { font-size: clamp(24px, 3vw, 38px); line-height: 1.35; font-weight: 350; margin-bottom: 22px; outline: none; }.access-blue-screen p { font-size: 17px; font-weight: 300; line-height: 1.7; max-width: 760px; }.access-blue-screen .blue-screen-countdown { font-size: 23px; margin: 25px 0; font-variant-numeric: tabular-nums; }.blue-screen-code { display: flex; flex-direction: column; gap: 10px; margin: 30px 0; font-size: 13px; }.blue-screen-code small { font-size: 12px; opacity: .85; }.blue-screen-actions { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }.blue-screen-actions button, .blue-screen-actions a { display: inline-flex; gap: 7px; align-items: center; padding: 10px 15px; border: 1px solid #ffffff88; border-radius: 3px; color: white; background: transparent; font-size: 13px; }.blue-screen-actions button:hover, .blue-screen-actions a:hover { background: #ffffff1a; }.access-blue-screen .blue-screen-note, .access-blue-screen .blue-screen-notice { font-size: 12px; margin-top: 20px; opacity: .9; }
+@media (max-width: 760px) { .access-blue-screen { padding: 35px 25px; align-items: flex-start; }.blue-screen-face { margin-bottom: 22px; }.access-blue-screen p { font-size: 14px; }.access-blue-screen .blue-screen-countdown { font-size: 18px; }.photo-delete-confirm > div { flex-wrap: wrap; } }
+
+/* Tema compartido del mapa, catálogo y administración de fotografías. */
+.theme-toggle { display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 9px 12px; border: 1px solid var(--tula-border); border-radius: 8px; background: transparent; color: var(--tula-ink); font-size: 12px; white-space: nowrap; }
+.theme-toggle:hover { background: #73807818; }
+.theme-sun, .theme-dark-label { display: none; }
+.dark .theme-sun, .dark .theme-dark-label { display: inline; }
+.dark .theme-moon, .dark .theme-light-label { display: none; }
+.access-theme-actions { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+html.dark { color-scheme: dark; --tula-ink: #e2ece6; --tula-muted: #a7b8ad; --tula-border: #35463e; --tula-wine: #e7a2b6; --tula-gold: #d4b57e; }
+html.dark, .dark body { background: #121b17; color: var(--tula-ink); }
+.dark :is(.map-explorer, .community-panel, .community-item, .work-card, .works-directory, .tool-button, .size-picker, .photos-button, .upload-label input) { background: #1c2822; color: var(--tula-ink); border-color: var(--tula-border); }
+.dark :is(.works-dialog, .access-dialog, .directory-content) { background: #16211b; }
+.dark :is(.map-settings, .community-search, .directory-search, .upload-form, .gallery-placeholder) { background: #233229; color: var(--tula-muted); border-color: var(--tula-border); }
+.dark :is(.toolbar-mark, .community-pin, .panel-heading h2 > span, .upload-label input::file-selector-button) { background: #314237; color: #d4b57e; }
+.dark :is(.community-item:hover, .tool-button:hover, .icon-button:hover, .floating-button:hover) { background: #2c3d33; }
+.dark :is(.community-item.is-active, .is-active .community-pin, .works-count, .access-lock, .photos-button:hover, .photos-button.is-active) { background: #482b37; color: #f2b5c8; }
+.dark :is(.floating-button, .view-switch, .map-hint, .map-message) { background: #1c2822f5; color: var(--tula-ink); border-color: var(--tula-border); }
+.dark .map-stage { background: #101915; }
+.dark :is(.primary-button, .view-switch button.selected) { background: #913c58; color: #fff; }
+.dark .primary-button:hover { background: #a64c69; }
+.dark .brand-emblem { background: #691b31; }
+.dark :is(.work-details dd, .upload-label, .gallery-placeholder strong, .directory-search input) { color: var(--tula-ink); }
+.dark .work-investment dd { color: var(--tula-wine); }
+.dark :is(.work-details dt, .directory-community, .directory-toolbar p, .directory-pagination, .photo-caption, .upload-toggle, .upload-form p, .upload-form .upload-note, .access-dialog > p, .list-caption, .community-name small, .panel-footnote, .explorer-footer, .site-footer, .works-footer > span, .empty-state, .access-placeholder, .icon-button) { color: var(--tula-muted); }
+.dark .work-status { background: #443b24; color: #efcf83; }
+.dark :is(.work-status.completed, .upload-success) { background: #243f2b; color: #b5ddb0; border-color: #46684a; }
+.dark :is(.photo-delete-confirm, .map-message.is-error) { background: #452b28; color: #ffc3b8; border-color: #795046; }
+.dark :is(.access-error, .upload-form .upload-error, .photo-delete .upload-error, .admin-session-actions p, .delete-button.subtle) { color: #ffb1a5; }
+.dark .community-list { scrollbar-color: #536859 transparent; }
+@media (max-width: 760px) { .site-header { flex-direction: row; align-items: center; justify-content: space-between; gap: 8px; min-height: 77px; }.site-header .theme-toggle { padding: 9px; }.site-header .theme-toggle span { display: none; } }

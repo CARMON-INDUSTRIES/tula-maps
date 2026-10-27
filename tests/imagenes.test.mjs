@@ -7,7 +7,7 @@ const source = readFileSync(new URL("../src/lib/imagenes.ts", import.meta.url), 
 const { outputText } = ts.transpileModule(source, {
   compilerOptions: { module: ts.ModuleKind.ESNext, target: ts.ScriptTarget.ES2022 },
 });
-const { listarImagenes, subirImagenes, urlImagen, validarImagenes, MAX_IMAGEN_BYTES } = await import(
+const { eliminarImagen, listarImagenes, subirImagenes, urlImagen, validarImagenes, MAX_IMAGEN_BYTES } = await import(
   `data:text/javascript;base64,${Buffer.from(outputText).toString("base64")}`
 );
 const foto = () => new File([new Uint8Array([255, 216, 255])], "obra.jpg", { type: "image/jpeg" });
@@ -22,6 +22,20 @@ test("el listado solicita solo metadatos de la obra, con cancelación y sin cach
   });
   assert.equal((await listarImagenes(12, signal))[0].id, 3);
   assert.match(urlImagen(12, 3), /\/obras\/12\/imagenes\/3\/contenido$/);
+});
+
+test("borra la imagen seleccionada por la ruta protegida y conserva errores del servidor", async t => {
+  const signal = new AbortController().signal;
+  const fetch = t.mock.method(globalThis, "fetch", async (url, options) => {
+    assert.equal(url, "/api/admin/obras/12/imagenes/7");
+    assert.equal(options.method, "DELETE");
+    assert.equal(options.signal, signal);
+    return new Response(null, { status: 204 });
+  });
+  await eliminarImagen(12, 7, signal);
+  await assert.rejects(eliminarImagen(12, 0), /ID válido/);
+  fetch.mock.mockImplementation(async () => Response.json({ mensaje: "Tu sesión venció" }, { status: 401 }));
+  await assert.rejects(eliminarImagen(12, 7), /sesión venció/);
 });
 
 test("valida cantidad, formato y tamaño antes de subir", () => {

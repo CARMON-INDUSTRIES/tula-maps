@@ -53,3 +53,12 @@ export async function subirImagenes(obraId: number, archivos: File[], signal?: A
     signal,
   }));
 }
+
+export async function eliminarImagen(obraId: number, imagenId: number, signal?: AbortSignal) {
+  if (![obraId, imagenId].every(id => Number.isInteger(id) && id > 0)) throw new Error("La obra o la imagen no tienen un ID válido.");
+  const response = await fetch(`/api/admin/obras/${obraId}/imagenes/${imagenId}`, { method: "DELETE", signal });
+  if (!response.ok) {
+    const problem = await response.json().catch(() => null);
+    throw new Error(problem?.mensaje ?? "No se pudo eliminar la imagen. Intenta de nuevo.");
+  }
+}

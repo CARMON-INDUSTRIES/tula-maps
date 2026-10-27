@@ -129,3 +129,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Borrado de fotografías y límite de acceso
+
+En `/obras`, cada fotografía permite **Eliminar fotografía** con confirmación. El borrado comprueba la sesión, la clave privada y la pertenencia de la imagen a la obra. Es permanente. Requiere publicar frontend y backend actualizados; no requiere una nueva migración.
+
+Tres contraseñas incorrectas bloquean el acceso durante 15 minutos y muestran una pantalla azul con cuenta regresiva. Se solicita pantalla completa y se ofrece un botón si el navegador la rechaza; Esc permite salir. El contador usa una cookie firmada por navegador: recargar conserva la espera, pero borrar cookies o utilizar otro navegador permite empezar de nuevo. No es un bloqueo global.
+
+El cotejo de IDs de solo lectura y las correcciones propuestas están en `reports/revision-ids-comunidades.md`. No se han reasignado IDs.

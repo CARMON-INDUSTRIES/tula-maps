@@ -1,8 +1,8 @@
 "use client";
 
 import { useEffect, useId, useRef, useState } from "react";
-import { ChevronLeft, ChevronRight, ImagePlus, Images, Loader2, LockKeyhole, Upload, X } from "lucide-react";
-import { listarImagenes, subirImagenes, urlImagen, validarImagenes, type ImagenObra } from "@/lib/imagenes";
+import { ChevronLeft, ChevronRight, ImagePlus, Images, Loader2, LockKeyhole, Trash2, Upload, X } from "lucide-react";
+import { eliminarImagen, listarImagenes, subirImagenes, urlImagen, validarImagenes, type ImagenObra } from "@/lib/imagenes";
 
 export default function ImagenesObra({ obraId, nombre, administrar = false }: { obraId: number; nombre: string; administrar?: boolean }) {
   const [open, setOpen] = useState(false);
@@ -27,9 +27,13 @@ function GaleriaObra({ obraId, nombre, regionId, permitirCarga }: { obraId: numb
   const [uploadError, setUploadError] = useState("");
   const [notice, setNotice] = useState("");
   const [failedImage, setFailedImage] = useState<number | null>(null);
+  const [confirmDelete, setConfirmDelete] = useState<number | null>(null);
+  const [deleting, setDeleting] = useState(false);
+  const [deleteError, setDeleteError] = useState("");
   const inputRef = useRef<HTMLInputElement | null>(null);
   const requestRef = useRef<AbortController | null>(null);
   const current = imagenes[index];
+  const busy = uploading || deleting;
 
   useEffect(() => {
     const controller = new AbortController();
@@ -49,7 +53,27 @@ function GaleriaObra({ obraId, nombre, regionId, permitirCarga }: { obraId: numb
   }, [obraId, retry]);
   useEffect(() => () => requestRef.current?.abort(), []);
 
-  const move = (step: number) => setIndex(value => (value + step + imagenes.length) % imagenes.length);
+  const move = (step: number) => {
+    if (busy) return;
+    setConfirmDelete(null); setDeleteError("");
+    setIndex(value => (value + step + imagenes.length) % imagenes.length);
+  };
+  const removeImage = async () => {
+    if (!current || confirmDelete !== current.id) return;
+    const controller = new AbortController(); requestRef.current = controller;
+    setDeleting(true); setDeleteError(""); setNotice("");
+    try {
+      await eliminarImagen(obraId, current.id, controller.signal);
+      if (controller.signal.aborted) return;
+      const remaining = imagenes.filter(image => image.id !== current.id);
+      setImagenes(remaining);
+      setIndex(Math.max(0, Math.min(index, remaining.length - 1)));
+      setConfirmDelete(null);
+      setNotice("Fotografía eliminada correctamente.");
+    } catch (error) {
+      if (!controller.signal.aborted) setDeleteError(error instanceof TypeError ? "No se pudo conectar con el servidor. Intenta de nuevo." : error instanceof Error ? error.message : "No se pudo eliminar la imagen.");
+    } finally { if (!controller.signal.aborted) setDeleting(false); }
+  };
   const upload = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const controller = new AbortController();
@@ -85,16 +109,20 @@ function GaleriaObra({ obraId, nombre, regionId, permitirCarga }: { obraId: numb
             // eslint-disable-next-line @next/next/no-img-element
             <img key={current.id} src={urlImagen(obraId, current.id)} alt={`Fotografía ${index + 1} de ${nombre}`} decoding="async" onError={() => setFailedImage(current.id)} />
           )}
-          {imagenes.length > 1 && <><button className="carousel-arrow previous" aria-label="Imagen anterior" onClick={() => move(-1)}><ChevronLeft size={23} /></button><button className="carousel-arrow next" aria-label="Imagen siguiente" onClick={() => move(1)}><ChevronRight size={23} /></button></>}
+          {imagenes.length > 1 && <><button className="carousel-arrow previous" aria-label="Imagen anterior" disabled={busy} onClick={() => move(-1)}><ChevronLeft size={23} /></button><button className="carousel-arrow next" aria-label="Imagen siguiente" disabled={busy} onClick={() => move(1)}><ChevronRight size={23} /></button></>}
           <span className="carousel-counter" aria-live="polite">{index + 1} / {imagenes.length}</span>
         </div>
         <div className="photo-caption"><span>{current.nombreArchivo || `Fotografía ${index + 1}`}</span><a href={urlImagen(obraId, current.id)} target="_blank" rel="noopener noreferrer">Abrir original</a></div>
+        {permitirCarga && <div className="photo-delete">
+          {confirmDelete === current.id ? <div className="photo-delete-confirm" role="group" aria-label="Confirmar eliminación de fotografía"><p>¿Eliminar «{current.nombreArchivo || `Fotografía ${index + 1}`}» de esta obra? Esta acción no se puede deshacer.</p><div><button type="button" className="delete-button" disabled={busy} onClick={removeImage}>{deleting ? <Loader2 size={15} className="animate-spin" /> : <Trash2 size={15} />}{deleting ? "Eliminando…" : "Sí, eliminar"}</button><button type="button" className="tool-button" disabled={busy} onClick={() => { setConfirmDelete(null); setDeleteError(""); }}>Cancelar</button></div></div> : <button type="button" className="delete-button subtle" disabled={busy} onClick={() => { setConfirmDelete(current.id); setDeleteError(""); }}><Trash2 size={14} />Eliminar esta fotografía</button>}
+          {deleteError && <p role="alert" className="upload-error">{deleteError}</p>}
+        </div>}
       </> : <div className="gallery-placeholder"><Images size={29} /><strong>Esta obra aún no tiene fotografías</strong><span>Agrega imágenes para documentar su avance.</span></div>}
 
-      {permitirCarga && !loading && !error && <button type="button" className="upload-toggle" aria-expanded={admin} onClick={() => { setAdmin(!admin); setUploadError(""); }} disabled={uploading}>{admin ? <X size={15} /> : <ImagePlus size={16} />}{admin ? "Cerrar carga de imágenes" : "Agregar fotografías"}<LockKeyhole size={13} /></button>}
+      {permitirCarga && !loading && !error && <button type="button" className="upload-toggle" aria-expanded={admin} onClick={() => { setAdmin(!admin); setUploadError(""); }} disabled={busy}>{admin ? <X size={15} /> : <ImagePlus size={16} />}{admin ? "Cerrar carga de imágenes" : "Agregar fotografías"}<LockKeyhole size={13} /></button>}
       {admin && !loading && !error && <form className="upload-form" onSubmit={upload}>
         <div><h4>Cargar fotografías de esta obra</h4><p>JPG, PNG o WebP · Hasta 10 imágenes por envío · Máximo 5 MB por imagen</p></div>
-        <label className="upload-label">Seleccionar fotografías<input ref={inputRef} type="file" accept="image/jpeg,image/png,image/webp" multiple disabled={uploading} required onChange={e => {
+        <label className="upload-label">Seleccionar fotografías<input ref={inputRef} type="file" accept="image/jpeg,image/png,image/webp" multiple disabled={busy} required onChange={e => {
           setUploadError(""); setNotice("");
           const selected = Array.from(e.target.files ?? []);
           try { validarImagenes(selected); setArchivos(selected); }
@@ -102,7 +130,7 @@ function GaleriaObra({ obraId, nombre, regionId, permitirCarga }: { obraId: numb
         }} /></label>
         {archivos.length > 0 && <p className="upload-selection">{archivos.length} seleccionadas · {(archivos.reduce((total, file) => total + file.size, 0) / (1024 * 1024)).toFixed(1)} MB</p>}
         {uploadError && <p className="upload-error" role="alert">{uploadError}</p>}
-        <button className="primary-button upload-submit" type="submit" disabled={uploading || !archivos.length}>{uploading ? <Loader2 className="animate-spin" size={16} /> : <Upload size={16} />}{uploading ? "Guardando fotografías…" : "Guardar fotografías"}</button>
+        <button className="primary-button upload-submit" type="submit" disabled={busy || !archivos.length}>{uploading ? <Loader2 className="animate-spin" size={16} /> : <Upload size={16} />}{uploading ? "Guardando fotografías…" : "Guardar fotografías"}</button>
         <p className="upload-note">Las imágenes guardadas serán visibles para todos los visitantes del mapa.</p>
       </form>}
       {notice && <p className="upload-success" role="status">{notice}</p>}
