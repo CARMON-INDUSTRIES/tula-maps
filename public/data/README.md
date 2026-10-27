@@ -16,6 +16,8 @@
 
 Los polígonos mantienen todos sus puntos y su precisión. Solo se añadió el punto inicial al final de los anillos que estaban abiertos. No se rellenan huecos ni se crean puentes entre territorios separados. Cada comunidad agrupada aparece una sola vez en el listado y sus partes comparten selección.
 
+El cierre se aplica también a las 47 figuras restantes, incluida Xiteje de Zapata: así la línea dorada dibuja el mismo tramo final que el relleno cierra automáticamente. No se desplazan vértices ni se cambia el área. `scripts/cerrar-contornos.mjs` permite repetir esta reparación sin duplicar puntos de cierre.
+
 La agrupación usa nombres e IDs identificados, nunca únicamente el ID: La Mezquitera, por ejemplo, conserva su figura aparte aunque comparta el 52 con Tula Centro.
 
 `scripts/agrupar-comunidades.mjs` permite repetir la agrupación sin duplicar puntos ni figuras. `tests/fixtures/comunidades-agrupadas.json` conserva las huellas de sus coordenadas originales para comprobar su integridad.
