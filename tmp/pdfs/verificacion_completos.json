@@ -1,0 +1,65 @@
+[
+  {
+    "module": 1,
+    "source_words": 16860,
+    "output_words": 16896,
+    "pages": 30,
+    "changes": 400,
+    "modified_paragraphs": 178,
+    "paragraphs": 425
+  },
+  {
+    "module": 2,
+    "source_words": 18713,
+    "output_words": 18745,
+    "pages": 32,
+    "changes": 482,
+    "modified_paragraphs": 181,
+    "paragraphs": 395
+  },
+  {
+    "module": 3,
+    "source_words": 17536,
+    "output_words": 17584,
+    "pages": 31,
+    "changes": 550,
+    "modified_paragraphs": 209,
+    "paragraphs": 373
+  },
+  {
+    "module": 4,
+    "source_words": 12666,
+    "output_words": 12714,
+    "pages": 23,
+    "changes": 319,
+    "modified_paragraphs": 135,
+    "paragraphs": 271
+  },
+  {
+    "module": 5,
+    "source_words": 11272,
+    "output_words": 11331,
+    "pages": 21,
+    "changes": 341,
+    "modified_paragraphs": 130,
+    "paragraphs": 226
+  },
+  {
+    "module": 6,
+    "source_words": 11682,
+    "output_words": 11760,
+    "pages": 21,
+    "changes": 300,
+    "modified_paragraphs": 127,
+    "paragraphs": 227
+  },
+  {
+    "module": 7,
+    "source_words": 12785,
+    "output_words": 12827,
+    "pages": 22,
+    "changes": 334,
+    "modified_paragraphs": 131,
+    "paragraphs": 234
+  }
+]

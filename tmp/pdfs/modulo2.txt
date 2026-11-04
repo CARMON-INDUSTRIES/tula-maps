@@ -1,0 +1,2903 @@
+
+--- PAGINA 1 ---
+ 
+Módulo II Herramientas 
+metodológicas para la 
+Evaluación del Desempeño 
+
+--- PAGINA 2 ---
+ 
+ 
+Diplomado de Evaluación del Desempeño a 
+Intervenciones Públicas 
+Septiembre de 2026  
+ 
+Subsecretaría de Egresos  
+Unidad de Política y Estrategia para Resultados  
+ 
+Av. Insurgentes Sur 1971, Torre III, Piso 12  
+Col. Guadalupe Inn, C.P. 01020  
+Alcaldía Álvaro Obregón, Ciudad de México 
+
+--- PAGINA 3 ---
+ 
+ 
+Edgar Abraham Amador Zamora  
+Secretario de Hacienda y Crédito Público  
+ 
+Bertha Gómez Castro  
+Subsecretaria de Egresos  
+ 
+Juan Armando Rodríguez Lara  
+Titular de la Unidad de Política y Estrategia para 
+Resultados  
+ 
+Coordinación del Diplomado  
+ 
+Gabriela Cantón Santana  
+Directora de Profesionalización  
+ 
+Equipo Técnico  
+ 
+Maribel García Rivera 
+Subdirectora de Planes y Programas de Formación  
+ 
+Jessica Estrada Sánchez  
+Subdirectora de Contenidos  
+ 
+Diana Longino Hilario 
+Jefe de Departamento de Metodologías de Formación  
+ 
+Ricardo Ángel Ayala González  
+Jefe de Departamento de Programas de Formación 
+ 
+Alma Rosa Mateo Pérez 
+Jefa de Departamento 
+
+--- PAGINA 4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introducción ______________________________________________ 5 
+Tema 8 
+La Teoría del Cambio: del problema a la intervención  
+pública ____________________________________________________ 7 
+Tema 9 
+Métodos cualitativos en el marco de la Evaluación  
+del Desempeño ____________________________________________ 25 
+Tema 10 
+Métodos cuantitativos aplicados a la Evaluación  
+del Desempeño ____________________________________________ 36 
+Tema 11 
+Diseños mixtos y su aplicación en la práctica ______________ 51 
+Tema 12 
+Introducción al diseño muestral ___________________________ 64 
+Conclusiones ______________________________________________ 83 
+Lista de figuras, cuadros y tablas __________________________ 84 
+Bibliografía ________________________________________________ 86 
+ 
+
+--- PAGINA 5 ---
+ 
+5 
+ 
+ 
+ 
+  
+¡Bienvenidas y bienvenidos al Módulo II!  
+ 
+En este Módulo exploraremos algunas herramientas destacadas para 
+llevar a cabo el proceso evaluativo. Aplicar un estricto rigor técnico es 
+indispensable para generar evaluaciones de calidad que rompan la 
+inercia institucional y que incidan verdaderamente en la mejora de las 
+intervenciones públicas. Te invitamos a estudiar detenidamente cada 
+Tema, con la certeza de que estos contenidos fortalecerán tu ejercicio 
+profesional.  
+ 
+Para iniciar el Módulo, e n el Tema 8 se examina la Teoría del Cambio 
+(TdC) como el modelo causal que explica cómo una intervención pública 
+va a generar determinado cambio en una población como consecuencia 
+de la implementación de una serie de acciones. Por ende, también se 
+estudia a detalle su interacción estratégica con la Metodología del Marco 
+Lógico (MML) a través de la cual se diseñan Programas presupuestarios 
+en México.  
+ 
+En los  Temas 9 y 10 se estudiarán  los dos enfoques metodológicos 
+esenciales para evaluar las intervenciones públicas. Por un lado, se 
+presentan los métodos cualitativos que aportan un enfoque inductivo y 
+exploratorio por medio de la observación, entrevistas y grupos de 
+enfoque, lo cual permite comprender el contexto de implementación. 
+Por el otro, las metodologías cuantitativas , que aplican un enfoque 
+deductivo y representativo para medir numéricamente el desempeño, 
+verificar hipótesis de causalidad y dimensionar el cumplimiento de 
+metas. 
+Introducción 
+
+--- PAGINA 6 ---
+ 
+6 
+ 
+  
+Por su parte, en el Tema 11 se estudian los métodos mixtos, los cuales 
+parten del supuesto de que am bos métodos se complementan, por los 
+que los combinan sistemáticamente  dentro de un mismo ejercicio 
+evaluativo, articulando criterios de temporalidad, prioridad e integración 
+de datos que fortalecen la toma de decisiones y sustentan la asignación 
+presupuestaria. Asimismo, se exploran casos prácticos de aplicación en 
+América Latina (Colombia, Chile, Costa Rica y Argentina), demostrando 
+su utilidad para sustentar decisiones presupuestarias y fortalecer el 
+aprendizaje institucional. 
+ 
+Finalmente, el Tema 12, aborda los fundamentos conceptuales de la 
+estadística inferencial y el diseño muestral para interpretar la evidencia 
+de las evaluaciones y cuestionar la validez de los hallazgos. Se definen 
+las medidas de tendencia central (media, m ediana y moda) en la 
+caracterización de los datos. Se analizan las diferencias entre el 
+muestreo no aleatorio o de juicio y el muestreo aleatorio probabilístico, 
+detallando las modalidades simple, sistemático, estratificado, por 
+conglomerados y polietápico.  
+ 
+En este Módulo II, las y los estudiantes explorarán la lógica causal de las 
+intervenciones públicas mediante la Teoría del Cambio y la Metodología 
+del Marco Lógico. Asimismo, comprenderán la integración de métodos 
+cualitativos, cuantitativos y mixtos p ara capturar tanto la complejidad 
+contextual como la evidencia numérica del desempeño. Finalmente, 
+adquirirán los conocimientos para verificar si una evaluación fue 
+realizada con el rigor necesario, sabiendo distinguir cuando una muestra 
+es representativa. 
+ 
+Introducción 
+
+--- PAGINA 7 ---
+ 
+7 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ 
+ 
+ 
+ 
+En el Módulo anterior se explicó que las Políticas Públicas y los Programas 
+presupuestarios están orientados a la resolución de un problema público o a la 
+atención de necesidades específicas de la población; y que, para hacerlo, es 
+indispensable que los recursos de los que dispone el Esta do se utilicen de 
+manera eficiente y eficaz, a efecto de maximizar la generación de valor público. 
+En este contexto, toma relevancia tener plenamente identificada la Teoría del 
+Cambio (TdC) que sustenta la intervención pública.  
+En el marco de la administr ación pública, la TdC se define como un modelo 
+exhaustivo que explicita la manera en que un programa gubernamental o la 
+intervención de una agencia pública espera generar los resultados e impactos 
+deseados. A diferencia de las herramientas tradicionales de planificación, la TdC 
+exige que los administradores públicos identifiquen de manera explícita los 
+mecanismos causales, las hipótesis de comportamiento, los factores del 
+contexto político-social y los riesgos que influirán en el éxito o fracaso de la 
+acción gubernamental (Funnell & Rogers, 2011, pp. 19-21). 
+Ya en el campo del diseño y evaluación de las intervenciones públicas, la TdC es 
+una descripción de cómo se supone que una intervención pública conseguirá 
+los resultados deseados. Detalla la lógica causal de cómo y por qué una Política 
+Pública (PP) o un Programa presupuestario (Pp) lograrán los resultados 
+previstos (Gertler et al., 2017, p. 22). De acuerdo con los mismos autores, las 
+TdC describen una secuencia de eventos que generan resultados (Figura 8.1):  
+TEMA 8. 
+La Teoría del Cambio: del problema a la 
+intervención pública 
+
+--- PAGINA 8 ---
+ 
+8 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ 
+Figura 8.1 Secuencia de eventos que generan resultados por medio de las TdC  
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Gertler et al. (2017). 
+ 
+Al momento de formular una TdC, es indispensable contar con una serie de 
+principios sólidos que le den sustento a la hipótesis causal sobre la cual se va a 
+construir la intervención gubernamental. Esta base lógica sustenta que la 
+solución propuesta responda de manera directa y coherente al problema 
+público identificado. Por lo tanto , es importante estudiar lo que es el núcleo 
+duro de una TdC.  
+ 
+Núcleo Duro de la Teoría del Cambio 
+ 
+El planteamiento de una TdC  implica un trabajo de investigación científica, y 
+como tal, se descompone en una parte rígida y otra flexible. La parte rígida 
+incluye un núcleo duro, el cual se conforma de principios irrefutables por la 
+ciencia. En el caso de las Políticas Públicas, pue den ser, tanto las ciencias 
+sociales como las exactas; y otra en constante cambio o adaptación conforme 
+a los nuevos descubrimientos o paradigmas, conocido como la parte heurística, 
+que consiste en hipótesis alternativas o propuestas refutables. Como señal a 
+Cejudo citando a Majone (Merino & Cejudo, 2010), el núcleo duro le da 
+coherencia interna a la política, y aunque algunos de sus atributos cambien, sus 
+elementos esenciales no deberían mutar . A continuación, se presenta un 
+
+
+--- PAGINA 9 ---
+ 
+9 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ejemplo sencillo de la relación entre el núcleo duro y la parte más flexible de 
+una política hipotética. 
+Es irrefutable que para un sano 
+crecimiento del cuerpo humano se 
+necesita consumir vitaminas. Esta 
+información está respaldada por una 
+larga tradición de investigaciones de 
+medicina y ciencias de la salud , que 
+para fines prácticos no citamos, pero 
+corresponde al núcleo duro. La forma 
+como éstos se adquirirán es varia ble. 
+Se puede hacer mediante una dieta 
+balanceada de origen natural, a través 
+del enriquecimiento o fortalecimiento 
+de ciertos alimentos o por medio de 
+suplementos alimenticios. Esta 
+información constituye la parte 
+flexible o heurística y la manera como 
+se considere óptima la adquisición de vitaminas, dependerá del paradigma de 
+alimentación que se esté retomando (ver Figura 8.2). 
+ 
+Definir el núcleo duro de la TdC consiste en establecer la solución que se 
+requiere para hacer frente a determinado problema.  Al inicio de este Tema 
+se explicó que para ello es indispensable contar con un buen diagnóstico de la 
+necesidad que se busca resolver con la intervención. Una vez especificado el 
+problema, la investigación científica o académica es utilizada para lanzar una 
+serie de hipótesis que , por métodos estadísticos se confirman o descartan de 
+acuerdo con los datos disponibles para probarlos. De acuerdo con Merino 
+(2013), un núcleo duro representa las certezas y convicciones más firmes 
+derivadas de una definición previa  de un problema que se quiere atender , 
+mientras que la parte flexible actúa a la manera de un cinturón de protección, 
+en el que están los procedimientos, las reglas operativas, las decisiones 
+Figura 8.2 Ejemplo práctico sobre el 
+núcleo duro  
+ 
+Fuente: elaboración propia con 
+base en Gertler et al. (2017). 
+
+
+--- PAGINA 10 ---
+ 
+10 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+cotidianas y todo aquello necesario para que el núcleo duro de la política pueda 
+llevarse a cabo.  
+La presencia de un núcleo duro indefinido o laxo, así como de un cinturón de 
+protección insuficiente, genera una Política Pública fallida ; de tal forma que, 
+con el  paso del tiempo lo adjetivo en un programa se convierte e n lo 
+fundamental y las rutinas terminan por adueñarse de los propósitos de la 
+política. Tal es el caso de programas que actúan inercialmente y que se resisten 
+a cambiar porque “siempre se ha hecho así” o porque “así lo marca la norma”, 
+y en consecuencia, s e orientan a cumplir estrictamente sus procedimientos o 
+entregar puntualmente sus bienes y servicios, sin cuestionarse el impacto que 
+esto tiene sobre la problemática o necesidad que justifica su existencia. 
+La falta de un núcleo duro bien definido también hace muy difícil la evaluación 
+de las políticas y la convierte en un ejercicio poco útil para juzgar la pertinencia 
+de las acciones. No es sorpresa entonces que las intervenciones públicas se 
+justifiquen a sí mismas por razones estrictamente procedimentales, dado que, 
+cuando se ha perdido de vista la definición de un problema público y se ha 
+abandonado la teoría causal y los criterios que la originaron, se corre el riesgo 
+de que la evaluación se convierta en un conjunto de datos sin conexión de 
+sentido (Merino, 2013). 
+Tener un núcleo duro robusto ayudará a que cualquier política, programa o 
+estrategia que se enfrente a cambios de enfoque en la administración pública, 
+no se desvié de los propósitos originales. Si bien la representación gráfica de la 
+TdC ayuda a ejemplificar de manera sucinta una cadena de resultados, ésta no 
+explica cómo el núcleo duro soporta el cambio deseado de forma profunda.  
+En este sentido, transitar de la construcción conceptual de un núcleo duro 
+robusto hacia una intervención pública  estructurada exige una herramienta 
+sistemática que traduzca la hipótesis causal en un esquema de trabajo medible. 
+Para asegurar que el cinturón de protección operativo no termine asfixiando el 
+propósito original de la intervención pública, se requiere de un andamiaje que 
+alinee el problema, la solución y los factores externos de forma coherente. Es 
+precisamente en este punto donde la reflexión teórica encuentra su aplicación 
+práctica e institucional, estableciendo el puente necesario entre la solidez de la 
+
+--- PAGINA 11 ---
+ 
+11 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Teoría del Cambio y los instrumentos formales de planeación y diseño 
+gubernamental. 
+ 
+La Teoría del Cambio y la Metodología del Marco Lógico  
+ 
+Considerando lo anterior , si bien es a través de la evaluación de impacto que se 
+logra determinar esta consecució n de los resultados esperados, el 
+planteamiento de la TdC es un ejercicio que debe realizarse estrictamente 
+durante el diseño o formulación de la intervención pública. En México, la parte 
+más sustantiva de la determinación de la TdC se realiza a través de la 
+implementación de la Metodología del Marco Lógico (MML) de la cual 
+surgen los Instrumentos de Seguimiento del Desempeño (ISD).  
+De acuerdo con los Lineamientos para 
+regular la gestión de los Instrumentos 
+de Diseño y de Seguimiento del 
+desempeño de los Programas 
+presupuestarios (Lineamientos ID -ISD), 
+la MML “es una herramienta metodológica de planeación estratégica basada 
+en la estructuración y solución de problemas, que permite organizar de manera 
+sistemática y lógica los objetivos de un 
+Programa y sus relaciones de causalidad; 
+identificar y definir los factores externos al 
+Programa que pueden influir en el 
+cumplimiento de los objetivos; evaluar el 
+avance en la co nsecución de estos, así 
+como examinar el desempeño del 
+programa en todas sus etapas. Esta 
+metodología, facilita el proceso de 
+conceptualización y diseño de los 
+Programas presupuestarios y permite 
+fortalecer la vinculación de la planeación 
+con la programación” (SHCP , 2026).  
+Fuente: elaboración 
+propia SHCP, 2026. 
+
+--- PAGINA 12 ---
+ 
+12 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Derivado de la implementación de la MML, se obtienen los Instrumentos de 
+Seguimiento del Desempeño (ISD), los cuales son la Matriz de Indicadores para 
+Resultados (MIR), la Ficha de Monitoreo Estratégico (FiME) y la Ficha de 
+Seguimiento a la Gestión (FiSeG) (SHCP , 2026).  
+Figura 8.3 Tipos de Instrumentos de Seguimiento del Desempeño 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2026).  
+ 
+Más allá de ser la principal herramienta para la realización del Seguimiento, los 
+ISD son un conjunto de objetivos causalmente vinculados orientados al 
+cumplimiento de un propósito específico. Este conjunto de objetivos vinculados 
+resume la TdC de la inter vención pública, partiendo del entendido de que, 
+mediante la realización de determinadas Actividades, se obtendrán bienes o 
+servicios (Componentes) que, al ser entregados a la población objetivo, 
+transformarán su situación inicial según lo previsto por el Pp, logrando así su 
+Propósito y contribuyendo a su Fin.  Para lograrlo, se debe realizar un análisis 
+estructurado del problema público que quedará plasmado en un Instrumento 
+de Diseño (ID), que son los documentos estratégicos en los cuales se justifica la 
+
+
+--- PAGINA 13 ---
+ 
+13 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+existencia de un Pp y en el que se establece su diseño como resultado del 
+diagnóstico de la situación inicial de la problemática. A partir de la definición de 
+Teoría del Cambio de Funnell &  Rogers (2011), en la Figura 8.4  se resume el 
+momento en la implemen tación de la MML en el que se encuentran cada uno 
+de sus elementos.  
+Figura 8.4 Dónde encontrar los elementos de la TdC en la MML
+ 
+Fuente: elaboración propia (SHCP, 2026) con base en SHCP Funnell & Rogers (2011). 
+ 
+Para comprender el diseño de una intervención pública, es necesario identificar 
+sus mecanismos causales; es decir , la relación causa-efecto que explican por 
+qué y cómo  una problemática surge y se desarrolla. En este sentido, la 
+identificación de estos meca nismos constituye la razón de ser de la MML. A 
+través de un esquema denominado Árbol del Problema, se analizan las causas 
+y efectos de determinado problema público que será atendido mediante la 
+intervención pública. Una vez concluido el esquema, contará co n una serie de 
+problemáticas vinculadas causalmente, donde los elementos de la base 
+explican aquellos situados en la parte superior (véase la Figura 8.5). 
+ 
+
+
+--- PAGINA 14 ---
+ 
+14 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Figura 8.5 Árbol del Problema 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+De acuerdo con la MML, esta lógica causal que se construye en el Árbol del 
+Problema se conserva en las siguientes etapas hasta la formulación de la 
+Estructura Analítica del Programa (EAP) como puede verse en la Figura 8.6 , en 
+la cual se determina el Instrumento de Segui miento del Des empeño. De esta 
+forma, los objetivos de los ISD , así como los Indicadores de Desempeño 
+diseñados para medir su cumplimiento y avance, se hacen partiendo de la 
+construcción de estos mecanismos causales.  
+Figura 8.6 Transición de la lógica causal desde el Árbol del Problema hasta la EAP 
+Fuente: elaboración propia SHCP, 2026. 
+
+
+--- PAGINA 15 ---
+ 
+15 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+A diferencia de los mecanismos causales que constituyen la parte medular de 
+la MML, las hipótesis de comportamiento suelen identificarse de forma más 
+implícita; primero en la sección de “Experiencias de atención ” de los 
+Instrumentos de Diseño, en donde se hace una revisión de casos nacionales e 
+internacionales que atienden temáticas similares al problema público 
+identificado, y se argumenta sobre su funcionamiento. En segundo lugar , en la 
+etapa de Selección de Alternativas, en la cual se configuran y eligen las 
+alternativas de solución más viables y pertinentes, de acuerdo con los criterios 
+que definen al Programa. Por consiguiente, en el  marco de la Evaluación del 
+Desempeño, se tendrán que revisar los dos momentos antes descritos para 
+ubicar adecuadamente estás hipótesis de comportamiento.  
+Con respecto al contexto político – social, en la Introducción de los 
+Instrumentos de Diseño se aborda, entre otras cosas, la descripción del entorno 
+político, económico, social e institucional en el que opera u operará el Pp, y se 
+indica la información más relevante sobre su creación o evolución. De esta 
+forma, la consulta de los Dia gnósticos de los Programas presupuestarios es 
+indispensable para poder determinar este contexto.  
+Finalmente, el análisis de riesgos  se realiza en la sexta etapa de la MML, al 
+construir la columna de Supuestos de la MIR. Estos se definen como los 
+“factores externos al Pp que no son controlados por la Unidad Responsable 
+ejecutora, y que se considera necesario que sucedan o se den para el 
+cumplimiento de los objetivos planteados en el Resumen Narrativo ” (SHCP , 
+2026).  
+Si se observa con detenimiento, los Supue stos en sí mismos no son riesgos. 
+Mientras que la redacción de un riesgo es a manera de “situación negativa”, la 
+redacción de un Supuesto es como “algo que debe suceder para que funcione 
+el Programa”. Es decir , no todos los Supuesto son un riesgo, sin embargo, la 
+mayoría pueden tornarse en riesgos si su redacción se transforma a manera de 
+situación negativa. Por ejemplo, ante el Supuesto “los sindicatos de 
+transportistas permiten la construcción de la infraestructura del teleférico ”, se 
+puede entender q ue existe el riesgo de que “los sindicatos de transportistas 
+impidan la construcción de la infraestructura del teleférico”.  
+
+--- PAGINA 16 ---
+ 
+16 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Tomando en consideración lo antes descrito, los diagnósticos son 
+fundamentales en el diseño de Políticas Públicas y Programas presupuestarios, 
+pues determinan en buena medida el éxito o fracaso de la intervención pública 
+al aportar  los elementos necesarios para  atender adecuadamente la 
+problemática. Por este motivo, resulta indispensable que las personas 
+hacedoras de política pública elaboren Diagnósticos realistas y  lo más 
+exhaustivos posible. Para ello deberán realizar una investigación profunda en 
+la que se integr e información de distintas fuentes obtenida 
+metodológicamente. 
+Por tanto, se espera que los Diagnósticos sean ejercicios exhaustivos de análisis 
+que estén orientados a identificar el estado actual de la problemática, así como 
+las causas de raíz y las consecuencias de los problemas . Que se  analice la 
+existencia de brechas de desigualdad, rezagos o afectaciones 
+desproporcionadas entre personas, comunidades o territorios, reconociendo 
+los problemas como multifactoriales que requieren soluciones multisectoriales 
+e integrales. 
+La importancia de un buen Diagnóstico resultará en la mejora sustantiva de los 
+procesos de diseño de la política pública; siempre y cuando estén presentes los 
+tres conceptos fundamentales, q ue se describen a continuación en la Figura 
+8.7.  
+Figura 8.7 Elementos orientadores para el análisis de un problema público 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+
+
+--- PAGINA 17 ---
+ 
+17 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Así, se deberá concretar la forma como se procederá para que la intervención 
+gubernamental logre los resultados esperados en la población objetivo durante 
+la etapa que le precede a ésta. En este contexto, la TdC ayuda a explicar cómo 
+los resultados de las actividades realizadas, a través de las Políticas y Programas 
+contribuyen a lograr el impacto o el resultado previsto (Rogers, 2014). Tal como 
+se describe en la Figura 8.8 , la TdC es de suma utilidad en diversas etapas de 
+una Política o Programa y no solo para el diseño de las mismas.  
+Figura 8.8 Importancia de la TdC en el ciclo de políticas 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Gertler et al. (2017). 
+ 
+En este sentido, la TdC como herramienta de planeación ayuda a las 
+organizaciones a cuestionarse sobre el trabajo que están realizando. Con esto 
+se fortalecen las alianzas entre los distintos actores o instancias que actúan en 
+la operación de la intervención pública, al apoyar el desarrollo organizacional y 
+facilitar la comunicación entre los mismos. La claridad de los objetivos, 
+resultados y estrategias que ofrece la TdC mejora las intervenciones y los 
+diseños de evaluación, además fortalece la capacidad de respuesta de los 
+operadores y desarrolladores de Pol íticas Públicas y Programas  
+presupuestarios 
+
+
+--- PAGINA 18 ---
+ 
+18 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Es importante destacar que, al momento de trabajar en conjunto con todas las 
+partes interesadas en cierta Política o Programa, se puede aclarar y mejorar su 
+diseño de manera notable. En la Figura 8.9  se representa por medio de un 
+esquema la TdC ; si se observa con detenimiento se podrá identificar que los 
+indicadores mencionados son equivalentes a los que establece la Secretaría de 
+Hacienda y Crédito Público (SHCP)  en la MIR ; es decir corresponden a los 
+indicadores de Fin, Propósito y Componente, respectivamente.  
+Figura 8.9 Representación esquemática de la Teoría del Cambio 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Rogers (2014).  
+ 
+Toda TdC debe tener como punto de partida un análisis acertado de la situación 
+y p ara que esto suceda es imperativo identificar el problema que una 
+determinada intervención busca atender , considerando sus causas, 
+consecuencias y oportunidades, tales como las sinergias con otras iniciativas o 
+los recursos disponibles que pueden aprovecharse o fortalecerse. Aun cuando 
+la TdC se desarrolle en una fase avanzada de ejecución, es importante examinar 
+la situación que propició la intervención y de esta manera cerciorarse que ésta 
+puede abordar la situación de la manera más adecuada.  
+
+
+--- PAGINA 19 ---
+ 
+19 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+El siguiente paso consiste en delimitar qué aspectos del problema hará frente 
+la intervención y definir explícitamente los resultados e impactos que se 
+pretenden alcanzar. Una vez que se logra un acuerdo sobre la situación actual 
+y el cambio que se busca generar , es momento de desarrollar una teoría 
+entendida como un planteamiento especulativo sustentado en evidencia sobre 
+cómo la realidad se transformará a raíz de la  intervención, tal como se ilustra 
+en la Figura 8.10.  
+Figura 8.10 Desarrollo de una Teoría del Cambio 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Rogers (2014).  
+ 
+Por su parte, es posible desarrollar una TdC cuando se está bajo uno de los 
+escenarios descritos en la Figura 8.11 (Rogers, 2014).  
+Figura 8.11 Escenarios en los que es posible desarrollar una TdC 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Rogers (2014).  
+ 
+Entre las distintas maneras que existen de presentar una TdC destaca la cadena 
+de resultados.  Esta es una definición lógica de cómo una secuencia de 
+insumos, actividades y productos o servicios que conforman la Política o 
+
+
+--- PAGINA 20 ---
+ 
+20 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Programa, establece las vías por las que se logran los impactos deseados. La 
+cadena de resultados define la lógica causal desde  el comienzo del Pp, 
+empezando por los insumos y actividades a realizar , a fin de producir una serie 
+de bienes o servicios, hasta llegar a los resultados e impactos generados (Figura 
+8.12). 
+Figura 8.12 Elementos de una cadena de resultados básica 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Gertler et al. (2017). 
+La formulación de la TdC puede estructurarse a través de la MML debido a que 
+los elementos de la cadena de resultados básica corresponden a los niveles de 
+
+
+--- PAGINA 21 ---
+ 
+21 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+la MIR generada por dicha m etodología. Sin embargo, deben tomarse en 
+cuenta tres consideraciones técnicas. 
+La primera de ellas es que la versión de la MML que se utiliza a nivel federal en 
+México está diseñada para la creación de Programas presupuestarios. Aunque 
+puede emplearse par a el diseño de instrumentos con enfoque de Políticas 
+Públicas —como los Programas derivados del  Plan Nacional de Desarrollo 
+(PPND) —, su lógica metodológica está orientada a la identificación y 
+vinculación de problemas específicos, los cuales se traducen en  cursos de 
+acción estrictamente delimitados. 
+Derivado de esta diferencia, la segunda consideración se encuentra en el nivel 
+superior . En la cadena de 
+resultados, este nivel está 
+representado por el "impacto" o 
+la consecución de objetivos 
+finales dentro de  una única línea 
+causal de la intervención pública. 
+Mientras que, en la MIR este nivel 
+corresponde a la "contribución" 
+de un objetivo de mayor alcance. 
+Esto significa que, al atender un 
+problema público específico y 
+acotado, los Programas 
+presupuestarios contribuyen de manera conjunta con otras intervenciones a la 
+solución de una problemática de mayor envergadura, consolidando así una 
+visión de política pública. Es importante hacer énfasis en que esta lógica de 
+contribución es adicional a la noción de impacto, ya que desde sus orígenes se 
+concibió al nivel Fin de la MIR como el “impacto general que tendrá el proyecto” 
+(Ortegón et al., 2005, p. 22).  
+La tercera consideración es que, dentro de la MML no se incluyen 
+explícitamente los insumos necesarios para la realización de las Actividades, 
+mientras que en la cadena de resultados básica sí se contempla de forma 
+explícita. Esto obedece a que la MIR es una herramienta orientada al  
+seguimiento de Indicadores de Desempeño (aquellos que miden el avance en 
+
+
+--- PAGINA 22 ---
+ 
+22 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+el cumplimiento de objetivos estratégicos o de gestión). En este sentido, 
+aunque los insumos son indispensables para poder llevar a cabo las 
+actividades, en sí mismos no reflejan el cumplimiento de ninguno de estos dos 
+tipos de objetivos. 
+ 
+La Teoría del Cambio como parte de la evaluación 
+ 
+La TdC como un enfoque para la evaluación, inicialmente se utilizó en el 
+contexto de las iniciativas de cambio comunitario; sin embargo, poco a poco se 
+ha ido utilizando internacionalmente en otros sectores. Algunos autores 
+(Gertler , et.al, 2017) afirman que el objetivo de este enfoque en la evaluación es 
+informar la mejora generada con la P olítica o Programa implementado . El 
+empleo de  la TdC para la evaluación requiere tres etapas, mismas que se 
+presentan en la Figura 8.13.  
+ 
+Figura 8.13 Etapas de la TdC como enfoque para la evaluación 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Gertler et al. (2017). 
+
+
+--- PAGINA 23 ---
+ 
+23 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Es importante mencionar que la TdC entendida como una teoría a priori , se 
+asocia a un sistema lógico deductivo basado en una o más hipótesis, su campo 
+de aplicación le permite extraer consecuencias de las hipótesis. Las ventajas de 
+este enfoque quedan descritas en la Figura 8.14. 
+Figura 8.14 Ventajas de la TdC como enfoque para la evaluación 
+ 
+ 
+ Fuente: elaboración propia SHCP, 2026. 
+ 
+Un cambio debe fundamentarse en la “estrategia de ejecución”  de una 
+Política Pública o un Programa presupuestario; para este cambio deberá 
+tomarse en cuenta el cumplimiento de supuestos y el abatimiento de los 
+riesgos que puedan presentarse, al cumplirse o superarse éstos, permitirán la 
+producción y entrega de los bienes o servicios de la Política o Programa. La 
+entrega de los productos puede evaluarse mediante los indicadores definidos 
+para el proceso correspondiente. Si éstos son satisfactorios y se cumplen se 
+obtendrá el resultado esperado, el cual será a su vez  valorado mediante sus 
+indicadores; si se superan los supuestos y riesgos de este nivel, se alcanzaría el 
+impacto del programa y por lo tanto un cambio en la población objetivo. 
+Para Will Allen (2016), la TdC instrumentada en diferentes intervenciones a 
+menudo tiene objetivos ambiciosos, por lo que es difícil  planificar estrategias 
+concretas para alcanzar estos objetivos. La TdC es indispensable para el éxito 
+en el proceso de evaluación. La ej ecución y la evaluación de los P rogramas 
+deben basarse en una buena TdC, para que los operadores pued an estar 
+seguros de que sus proyectos generan las actividades correctas para el logro 
+de los resultados deseados. 
+
+
+--- PAGINA 24 ---
+ 
+24 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Tomando en cuenta lo revisado en este Tema, la Teoría del Cambio constituye 
+la columna vertebral de cualquier Evaluación del Desempeño, ya que, sin una 
+lógica causal explícita, la medición de resultados se convierte en un ejercicio 
+estéril de recolección de datos sin conexión con el impacto buscado. La 
+verdadera eficacia de una intervención pública no se agota en el cumplimiento 
+puntual de sus metas procedimentales o en la entrega de insumos, sino en su 
+capacidad para transformar la situación inicial de la población objetivo. Por ello, 
+el diseño de la TdC es el filtro crítico que separa las intervenciones públicas que 
+generan valor real de aquellas que operan por inercia burocrática. 
+ 
+ 
+ 
+
+--- PAGINA 25 ---
+ 
+25 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ 
+ 
+ 
+En el Tema anterior se estudió la relevancia de la Teoría del Cambio (TdC) para 
+la realización de Evaluaciones del Desempeño, especialmente, para verificar 
+que efectivamente la acción pública implementada llevará a los resultados 
+esperados. Sin embargo, el ejercicio evaluativo exige una co mprensión 
+profunda de las intervenciones públicas que trascienda la sola identificación de 
+la TdC. En este sentido, evaluar implica no solo cuantificar los resultados 
+obtenidos, sino también desentrañar la complejidad de los procesos sociales, 
+políticos e institucionales en los que operan dichas intervenciones (Weiss, 1998, 
+p. 262). Para lograr esta visión integral, el quehacer evaluativo requiere de 
+herramientas metodológicas capaces de capturar los matices del contexto y las 
+percepciones de los múltiples actores involucrados en la gestión pública. 
+Es en este escenario donde las metodologías cualitativas adquieren un valor 
+fundamental para la investigación evaluativa. A diferencia de los enfoques 
+puramente estadísticos o estandarizados, la indagación cualit ativa permite 
+explorar el "cómo" y el "por qué" detrás del funcionamiento de una Política o 
+Programa gubernamental. La recolección sistemática de datos no numéricos 
+como método proporciona una riqueza narrativa y analítica que facilita la 
+comprensión de los significados, las dinámicas de implementación y los efectos 
+no esperados que frecuentemente escapan de las métricas del marco lógico 
+(Patton, 2014, p. 112). 
+Mediante las metodologías cualitativas es posible construir y delimitar 
+hipótesis de trabajo sólidamente fundamentadas en la realidad del fenómeno 
+estudiado, mismas que, en una fase de investigación posterior , podrán ser 
+sometidas a comprobación empírica mediante herramientas cuantitativas 
+(Creswell y Creswell, 2018, p. 57). Este diseño secuencial exploratorio asegura 
+que aquello que se decida medir de forma estadística sea verdaderamente 
+relevante y responda a las problemáticas reales de la intervención. 
+ 
+TEMA 9. 
+Métodos cualitativos en el marco de la 
+Evaluación del Desempeño 
+
+--- PAGINA 26 ---
+ 
+26 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Las técnicas cualitativas, tales como las 
+entrevistas a profundidad, los grupos 
+focales y el análisis documental, 
+proporcionan herramientas 
+metodológicas cruciales que permiten 
+identificar variables intervinientes y 
+mecanismos causales latentes que no 
+siempre son evidentes en los 
+diagnósticos iniciales (Bamberger , Rugh y Mabry, 2011, p. 267). Al dar voz a los 
+beneficiarios y operadores en el t erreno, la evaluación deja de ser un ejercicio 
+exclusivamente de escritorio y se convierte en un análisis empírico riguroso, 
+holístico y contextualmente situado.  
+Por consiguiente, el dominio de las metodologías cualitativas constituye una 
+competencia esencial e irrenunciable para diseñar Evaluaciones de Desempeño 
+verdaderamente integrales. Con este fin, el presente Tema busca que las 
+personas participantes identifiquen l os principales métodos cualitativos  y su 
+aplicación. 
+En la segunda mitad del siglo XX, pero sobre 
+todo a partir de los años 60, con la 
+influencia de los cambios económicos y 
+sociopolíticos sufridos en la época de la 
+posguerra, se ampl ió el campo de 
+investigación social para interpretar los 
+fenómenos de la vida cotidiana de los 
+grupos minori stas de los conglomerados 
+urbanos (inmigrantes, grupos marginados 
+y grupos étnicos discriminados, entre otros ). Se hace énfasis en la 
+interpretación de la subjetividad de las personas, de sus valores culturales, sus 
+representaciones sociales, las concepciones con que afronta el contexto social 
+de su cotidianeidad y las relaciones que produce en la estructura social (García, 
+2010). Con este nuevo enfoque, se da lugar al surgimiento de un nuevo 
+paradigma de investigación, conocido en la actualidad como el mét odo de 
+investigación cualitativa (García, 2010). 
+
+
+--- PAGINA 27 ---
+ 
+27 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+La metodología cualitativa se basa en el método inductivo exploratorio, lo que 
+implica formular preguntas que pueden servir para plantear hipótesis. Más que 
+"la verdad", busca la comprensión detallada de las perspectivas de las personas 
+que participan en el estudio, considera que la verdad está compuesta por 
+múltiples construcciones de la realidad más que por una realidad única y 
+objetiva (García, 2010). 
+De acuerdo con Rosario García (2010), se trabaja con el  universo de signos, 
+aspiraciones, creencias y valores buscando una interpretación más profunda de 
+los procesos y los fenómenos. Por ejemplo, las técnicas de levantamiento de la 
+información utilizan la observación participante, la entrevista a profundidad, las 
+discusiones de grupos, los grupos nominales y focales, los informantes claves, 
+las historias de vida y otras.  
+Una de las características de la investigación cualitativa es la paradoja de que, 
+aunque muchas veces se estudia a pocas personas, la cantidad de información 
+obtenida es muy grande (Álvarez -Gayou, 2003). Otra de sus características es 
+que se trabaja principalmente con palabras y no con números, y las palabras 
+ocupan más espacio que los números. Por ejemplo, una semana de trabajo de 
+campo puede generar 200-300 páginas de transcripciones y otros materiales 
+(Miles y Huberman, 1994), más específicamente, cada hora de entrevista se 
+transforma en alrededor de 10.000 palabras a ser  analizadas (Rubin y Rubin, 
+2005).  
+Los modos de recolección  de informa ción empleados por los estudios 
+cualitativos son flexibles, capaces de adaptarse a situaciones sociales nuevas o 
+no previstas en la planeación original. Asimismo, cabe señalar que las técnicas 
+utilizadas en la investigación cualitativa se derivan de la postura epistemológica 
+y marco teórico, los cuales sustentan la formulación de las preguntas y el diseño 
+de la investigación. En este marco, la teoría orienta la perspectiva con la cual se 
+aborda el problema , delimitando el objeto de estudio y guiando su 
+interpretación. En la Figura 9.1 se resumen algunas características de la 
+investigación cualitativa. 
+ 
+ 
+
+--- PAGINA 28 ---
+ 
+28 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Figura 9.1 Principales características de la investigación cualitativa 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Quecedo y Castaño (2002).  
+Cabe destacar que los métodos cualitativos funcionan con una visión enfocada 
+en el diálogo y la comunicación , en donde los problemas sociales se expresan 
+de manera directa o indirecta mediante el dialogo entre  personas (Hamui  y 
+Varela, 2013). Por esta razón , los métodos cualitativos básicos se basan en la 
+
+
+--- PAGINA 29 ---
+ 
+29 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+comunicación. En la Figura 9.2 se presentan tres de los principales métodos que 
+se ocupan para el proceso evaluativo, y que más adelante se detallan.   
+Figura 9.2 Métodos cualitativos aplicables a la evaluación 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Patton (1987), MacDougall, 
+Fudge (2001), Gobierno de México (2018) y Kahan (2001). 
+ 
+Observaciones 
+ 
+El análisis social tiene una fuente de 
+información muy importante en las 
+evaluaciones realizadas por medio de la 
+observación cualitativa de un Programa. 
+En sí, en el marco de la investigación 
+cualitativa se requiere más allá de la 
+simple observación casual , es decir , se 
+necesita contar con observadores 
+experimentados y/o entrenados en 
+
+
+--- PAGINA 30 ---
+ 
+30 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+identificar y describir de manera precisa los procesos e interacciones humanas 
+(Patton, 1987). 
+La información obtenida a través de estos ejercicios tiene diversos propósitos. 
+El primero de ellos es el de describir la forma en que un Programa o política 
+trabaja, esto es, las actividades que se realizan, las personas que participan y el 
+significado de las acciones realizadas por estos actores. La información que se 
+recopila por medio de las observaciones permite al evaluador entender mejor 
+el contexto en que las actividades de un Programa o política se llevan a cabo. 
+También es importante este acercamiento ya que permite a los evaluadores 
+tener un panorama más inductivo, y se evita depender de conceptualizaciones 
+en un inicio (Patton, 1987).  
+Además, con este método es posible observar situaciones que de otra forma 
+escaparían a la atención de los evaluadores. Esto puede pasar debido a que en 
+todos los sistemas en los que se involuc ran varios individuos, eventualmente 
+se crean rutinas o costumbres que dejan de ser vistas de forma tan evidente y 
+que no podrían ser tomadas en cuenta por muy importante que estas pudieran 
+llegar a ser (Patton, 1987). 
+De igual importancia es que con la ob servación, el evaluador tiene la 
+oportunidad de aprender de situaciones que podrían no estar disponibles con 
+otros métodos de investigación ya que se tratan de temas sensibles sobre los 
+cuales los sujetos de estudio no están dispuestos a hablar . Por último, también 
+es importante señalar que, con este método, los evaluadores tienen la 
+posibilidad de ver más allá de las percepciones selectivas por parte de los 
+entrevistados; información que puede estar sesgad a dependiendo de qué tan 
+selectiva sea la percepción de estos, sin olvidar que el evaluador también puede 
+tener esta clase de sesgo (Patton, 1987). 
+ 
+Entrevista en Profundidad 
+ 
+Las entrevistas en profundidad junto con los grupos de enfoque son los dos 
+métodos cualitativos que se utilizan con mayor frecuencia. Estas primeras se 
+definen como encuentros repetidos en persona , entre investigadores e 
+
+--- PAGINA 31 ---
+ 
+31 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+informantes con la intención de entender la perspectiva y experiencia individual 
+de estos últimos, en sus propias palabras, sobre Programas, políticas o 
+situaciones (MacDougall, Fudge, 2001). De esta forma, se puede preguntar a la 
+población objetivo, al personal de la Unidad Responsable o , a otros actores 
+involucrados con el Programa, sobre sus experiencias y expectativas referentes 
+a éste. Adicionalmente, pod rá opinar sobre las operaciones, actividades, 
+procesos, resultados del Programa, y los cambios que perciben en su entorno 
+como resultado de la implementación del mismo (Boyce, Neale, 2006). 
+Estas entrevistas son útiles para obtener información más detalla da sobre las 
+opiniones respecto a un Programa, aportando así mayor contexto a los datos 
+derivados de  los estudios cuantitativos. También es muy útil para superar 
+obstáculos como la incomodidad por parte de ciertos individuos para hablar 
+sobre temas que pudieran ser tomados como sensibles y que no hablarían de 
+manera abierta si se encontrarán en un grupo, como los de enfoque, por lo que 
+también son útiles para refinar la información obtenida en estos últimos 
+(Boyce, Neale, 2006). De igual manera, 
+estas entre vistas pueden ayudar a 
+minimizar el sesgo de respuesta por 
+presión por parte del grupo, en el que 
+las personas podrían estar cambiando 
+sus preferencias u opiniones abiertas 
+al encontrarse en un grupo de 
+enfoque.  
+Al momento de escoger a los participantes e n las entrevistas, es necesario 
+seleccionar a aquellos que mejor representen a la variedad existente de las 
+partes interesadas en el Programa o política, así como la variedad de sus 
+opiniones; estas partes interesadas están representadas por miembros 
+generales de la comunidad, los tomadores de decisiones, el personal de las 
+actividades del Programa/política y la población objetivo (Boyce, Neale, 2006). 
+Estas entrevistas de profundidad son de naturaleza flexible debido a que no hay 
+un formato específico a seguir;  sin embargo, como cualquier evaluación y 
+metodología de estudio, es necesario que se tenga una estructura. También es 
+importante que, al momento de presentar los resultados, se utilicen 
+
+
+--- PAGINA 32 ---
+ 
+32 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+descriptores cualitativos que denoten  que hay un sentir u opiniones que se 
+presentaron en general y evitar “cuantificar” la información en forma de 
+porcentajes; esto con el fin de evitar la impresión de que los resultados pueden 
+proyectarse en una población general, lo cual se encuentra fuera de los límites 
+de esta metodología (Boyce, Neale, 2006). 
+ 
+Grupos de Enfoque 
+ 
+En términos generales, un grupo de enfoque puede ser entendido como un 
+conjunto de personas con perfiles y antecedentes diversos las cuales son 
+convocadas para abordar un tema es pecífico o para poder dar una solución a 
+un problema y surgir con una serie de ideas para su resolución (Gobierno de 
+México, 2018). También es posible entenderlo como un espacio de opinión para 
+captar las opiniones de los individuos que conforman estos gru pos, 
+provocando explicaciones para obtener datos cualitativos (Hamui  y Varela, 
+2013). 
+Anteriormente, esta metodología era asociada únicamente a la investigación 
+de m ercado con un enfoque comercial;  sin embargo, los grupos focales se 
+hacen paso cada vez más para la formulación de recomendaciones y evaluación 
+de Políticas Públicas, gracias a la información sobre las diferentes valoraciones 
+que pudieran tener los grupos que se verían afectados por estas (Kahan, 2001). 
+Estos grupos de enfoque, en 
+general, invo lucran discusiones 
+guiadas sobre temas específicos 
+con el grupo elegido. 
+Específicamente, en el marco de la 
+Evaluación del Desempeño, estos 
+grupos pueden ser usados para 
+obtener opiniones acerca de los 
+bienes y servicios entregados por 
+el Programa, pero ta mbién puede aportar información que conlleve a un 
+entendimiento más profundo sobre ciertos temas. Adicionalmente, apoyan y 
+
+
+--- PAGINA 33 ---
+ 
+33 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+extienden los resultados obtenidos por medio de las encuestas y otros métodos 
+cuantitativos. Estos grupos se realizan mediante el  uso de protocolos de 
+investigación y con una temática específica, preguntas de investigación, 
+objetivos claros, justificación de acuerdo con un objetivo establecido. De 
+manera típica, son grupos pequeños de entre 6 a 15 personas y la sesión dura 
+entre 90 y 120 minutos (Kahan, 2001). 
+Para el diseño metodológico se debe considerar la conformación de un grupo 
+relativamente homogéneo según el tema de interés a evaluar , incluso en cuanto 
+a la edad, sexo y otros aspectos que pudieran afectar las opiniones respecto al 
+tema de interés. También es necesario contar con un moderador que guie al 
+grupo hacia los temas de interés para el análisis, facilitando la interacción, 
+comentarios y preguntas de los participantes, y cubriendo los temas 
+importantes siguiendo el esqu ema estructurado, mientras se mantiene un 
+ambiente informal y permisivo (Kahan, 2001).  
+Existen ciertas acciones concretas necesarias para realizar un grupo de enfoque 
+en las condiciones del sector público en México. En la Figura 9.3 se presentan 
+cada una de estas etapas sugeridas.  
+Figura 9.3 Etapas sugeridas para la conformación de un grupo de enfoque 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Gobierno de México (2018).  
+
+
+--- PAGINA 34 ---
+ 
+34 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Para la determinación de la primera etapa, los tipos de grupos pueden ser 
+creativos o evaluativos. Los grupos de enfoque creativos suelen ser muy 
+diversos, por lo tanto, no es necesario tener en cuenta el grupo objetivo del 
+Programa. Su razón de ser es generar ideas innovadoras por lo que es valioso 
+que también sea multidisciplinario. Por su parte, el grupo de enfoque 
+evaluativo sigue siendo un grupo diverso, pero se conforma con criterios de 
+selección más específicos. Éste tendrá como objetivo obtener 
+retroalimentación sobre una Política Pública o Programa presupuestario.  
+En la segunda etapa se convoca a las personas que conformarán el grupo. Para 
+ello, es necesario que aquellos que sean considerados como participantes sean 
+objetivos y neutrales en su opinión de la política pública, y que no sepan sobre 
+la forma en cómo opera y funciona, con el propósito de  tener información 
+genuina. También, es importante que entre los mediadores de los grupos se 
+encuentren involucrados tomadores de decisión, para que la retroalimentación 
+sea tomada en cuenta y puesta en acción de manera veloz.  
+En la etapa tres se determina el tamaño del grupo y ambiente. Si bien ya se 
+había señalado que se recomienda que estos grupos sean de hasta 15 
+personas, las guías del Gobierno de Mé xico (2018) exhortan a que sean de 8 a 
+10 personas con el fin de que todos puedan dar su opinión de la mejor manera. 
+Adicionalmente, se sugiere que el ambiente de las sesiones sea lo más relajado 
+e informal posible para que las personas expresen opiniones más honestas y 
+claras. 
+En la medida de lo posible, es muy importante evitar los sesgos. En general, los 
+sesgos son errores sistemáticos a los q ue se puede incurrir cuando se 
+seleccionan o favorecen determinadas respuestas o posturas frente a otras. Por 
+ello, en la etapa cuatro es determinante que se comunique de manera objetiva 
+la información relevante sobre el Programa y el objetivo de la investigación para 
+que todos los participantes partan del mismo piso. Es importante tener en 
+cuenta que puede existir un sesgo por presión de grupo, esto es, que pueden 
+modificar sus preferencias al momento de opinar frente a un grupo de 
+desconocidos, que solos. Finalmente, como etapa cinco, se recomienda crear 
+prototipos para que los comentarios de retroalimentación que se hagan en las 
+sesiones de consulta, sean entendidos por todos los participantes del grupo. 
+
+--- PAGINA 35 ---
+ 
+35 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+La incorporación de los métodos cualitativos en la evaluación trasciende la 
+mera recolección de percepciones, ya que representa una estrategia analítica 
+fundamental para comprender mejor las intervenciones públicas. Al 
+desentrañar las lógicas institucionales, las resistencias operativas y las 
+adaptaciones sociales que ocurren durante la ejecución, estos métodos pueden 
+identificar fallas de diseño que los indicadores estandarizados rara vez logran 
+capturar . Esta profundidad permite a quienes toman las decisiones ajustar los 
+mecanismos de entrega sobre la marcha, asegurando que los bienes y servicios 
+públicos no solo se planifiquen de manera adecuada, sino que resuelvan el 
+problema central en el territorio. 
+Sin embargo, la riqueza narrativa y la especificidad de la indagación cualitativa 
+encuentran su límite n atural cuando surge la necesidad de generalizar los 
+hallazgos o medir la magnitud exacta de los resultados a escala poblacional. Es 
+en este punto de inflexión donde la investigación requiere complementariedad, 
+abriendo paso al estudio de los métodos cuanti tativos. A través de la 
+recolección de datos numéricos estructurados, los diseños estadísticos y la 
+medición de causalidad, el enfoque cuantitativo permitirá someter a prueba 
+empírica las hipótesis y hallazgos construidos desde la visión cualitativa, 
+dotando al ejercicio de evaluación del rigor y la representatividad necesarios 
+para emitir juicios de valor concluyentes sobre el desempeño gubernamental. 
+ 
+ 
+
+--- PAGINA 36 ---
+ 
+36 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ 
+ 
+ 
+La Evaluación del Desempeño de Políticas Públicas (PP) y Programas 
+presupuestarios (Pp) exige herramientas metodológicas capaces de 
+proporcionar evidencia objetiva, estandarizada y medible sobre los resultados 
+de la acción pública. En este sentido, los métodos cuantitativos destacan por su 
+rigor analítico y su capacidad para sintetizar realid ades complejas en métricas 
+precisas. Mediante la recolección sistemática de información numérica y la 
+aplicación de modelos estadísticos, estos métodos permiten cuantificar el 
+alcance, la eficiencia y el impacto de las intervenciones públicas, ofreciendo a  
+los tomadores de decisiones información estructurada y confiable. Su mayor 
+fortaleza radica en la posibilidad de generalizar hallazgos, dimensionar la 
+magnitud de los problemas públicos de forma agregada y establecer 
+parámetros de comparación objetivos a lo largo del tiempo. 
+En el contexto de la Evaluación del 
+Desempeño, los métodos cuantitativos  
+se definen como el conjunto de 
+procedimientos sistemáticos enfocados en 
+la recolección, medición y análisis 
+estadístico de datos empíricos y numéricos 
+con el pro pósito de valorar de manera 
+objetiva los resultados, la eficiencia y el 
+impacto de una intervención pública 
+(Weiss, 1998). Esta aproximación 
+metodológica se fundamenta en la premisa de que el desempeño de las 
+intervenciones gubernamentales y los fenómenos sociales pueden traducirse 
+en variables e indicadores estandarizados, lo que permite a los evaluadores 
+comprobar hipótesis, establecer niveles de causalidad, dimensionar la 
+magnitud de los logros alcanzados y generalizar los hallazgos a una población 
+más a mplia mediante modelos matemáticos estructurados (Rossi, Lipsey, & 
+Freeman, 2004).  
+TEMA 10. 
+Métodos cuantitativos aplicados a la 
+Evaluación del Desempeño 
+
+
+--- PAGINA 37 ---
+ 
+37 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+En términos generales, los métodos cuantitativos buscan medir el grado de  
+asociación o relación entre variables, así como objetivar y generalizar sus  
+resultados a través de una muestra. Esto permite hacer inferencias respecto de 
+la población de la cual proviene dicha  muestra. Más allá del estudio de la 
+asociación entre variables , estos métodos buscan realizar  inferencias que 
+expliquen por qué los fenómenos ocurren o no de una forma determinada.  
+Antes de ahondar en los métodos cuantitativos, es importante comprender lo 
+que implica la investigación cuantitativa q ue se utiliza en los procesos 
+evaluativos. En primer lugar , este tipo de investigación es el proceso completo 
+o enfoque general que tiene un estudio, mientras que los métodos 
+cuantitativos son las herramientas técnicas específicas que se utilizan para la 
+recolección y análisis de datos. Derivado de lo anterior , es preciso iniciar 
+estudiando la investigación cuantitativa para posteriormente analizar las 
+metodologías. La Figura 10.1 presenta cinco tipos de investigación 
+representativos de este enfoque que, si bien no son los únicos, son los que más 
+se aplican en los ejercicios evaluativos.  
+Figura 10.1 Tipos de investigación cuantitativa 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+
+
+--- PAGINA 38 ---
+ 
+38 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Investigación exploratoria 
+ 
+Hernández, Fernández y Baptista (2014) refieren que los estudios exploratorios 
+se realizan cuando el objetivo es examinar un tema o problema de investigación 
+poco estudiado, del que se tienen  muchas dudas o que no se ha abordado 
+antes. Es decir , cuando la revisión de la literatura reveló que tan solo hay guías 
+no investigadas e ideas vagamente relacionadas con el problema de estudio, o 
+bien, si se desea indagar sobre temas y áreas desde nuevas perspectivas. 
+En este sentido, el alcance exploratorio cumple un papel esencial en el proceso 
+metodológico, ya que actúa  como el cimiento estratégico sobre el cual se 
+construirán estudios descriptivos, correlacionales o explicativos posteriores. Al 
+adentrarse en terrenos teóricos o prácticos poco mapeados, este tipo de 
+investigación no busca proporcionar conclusiones defini tivas, sino más bien 
+familiarizar al analista con fenómenos desconocidos gracias a su enfoque 
+flexible. Su principal valor radica en su capacidad para identificar variables y 
+conceptos potencialmente relevantes, establecer prioridades para 
+indagaciones fut uras y, fundamentalmente, ayudar a formular hipótesis 
+iniciales mucho más precisas que guiarán las fases subsecuentes del 
+conocimiento.  
+ 
+
+--- PAGINA 39 ---
+ 
+39 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Sarmiento & Galárraga (2022).  
+ 
+Investigación descriptiva 
+ 
+Los estudios descriptivos buscan especificar las propiedades, las características 
+y los perfiles de personas, grupos, comunidades, procesos, objetos o cualquier 
+otro fenómeno que se somete a un análisis (Hernández, Fernández y Baptista, 
+2014). Es decir , su objet ivo no consiste en indicar cómo se relacionan las 
+
+
+--- PAGINA 40 ---
+ 
+40 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+variables, sino en medir o recolectar información de manera independiente o 
+conjunta sobre los conceptos o las variables a las que se refieren. 
+De manera que, la riqueza del alcance descriptivo radica en su capacidad para 
+ofrecer una "fotografía" detallada y rigurosa del fenómeno de estudio en un 
+momento o contexto específico. A diferencia de los estudios exploratorios que 
+abordan terrenos desconocidos, la inv estigación descriptiva asume que los 
+conceptos o variables ya han sido identificados previamente, por lo que el 
+esfuerzo se concentra en medirlos con la mayor precisión posible. Su gran valor 
+metodológico es que, al documentar sistemáticamente la magnitud,  
+prevalencia o distribución de una variable, proporciona la evidencia empírica 
+necesaria —el "qué", el 
+"dónde", el "cuándo" o el 
+"cuánto"— que servirá 
+como un diagnóstico antes 
+de intentar explicar las 
+causas, establecer 
+predicciones o buscar 
+correlaciones subyacentes. 
+ 
+Al contextualizarla en el marco de la Gestión para Resultados (GpR), la 
+investigación descriptiva constituye el insumo primordial para el diseño, 
+monitoreo y diagnóstico de cualquier Programa presupuestario. Por ejemplo, 
+para definir la línea base de los indicadores en una Matriz de Indicadores para 
+Resultados (MIR ) o al consolidar un Padrón de b eneficiarios, se requiere un 
+análisis netamente descriptivo para caracterizar a la población objetivo: 
+cuántos son, en qué entidades o municipios se concentran, cuáles son sus 
+rangos de edad o qué carencias específicas presentan. En esta etapa, la 
+evaluación no busca demostrar si la intervención pública es la causa directa de 
+una mejora social (lo cual exigiría un diseño explicativo), sino dimensionar con 
+exactitud la focalización, la cobertura y la gestión, permitiendo documentar con 
+objetividad si los bienes y servicios gubernamentales están llegando a la 
+población adecuada y bajo qué características operativas. 
+
+
+--- PAGINA 41 ---
+ 
+41 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2026a). 
+ 
+Investigación Correlacional 
+ 
+Una correlación se define como una relación entre dos variables, conceptos o 
+aspectos. En tal sentido, las investigaciones correlacionales buscan establecer 
+
+
+--- PAGINA 42 ---
+ 
+42 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+la intensidad y el sentido de la relación entre dos variables, si una aumenta, se 
+pretende conocer qué pasa con la otra; o si una disminuye, cuál es el efecto que 
+se tendrá en la otra variable. Por lo general se habla de dos variables, pero 
+pueden analizarse asociaciones entre dos o más. Salkind (199 8) acota que la 
+investigación correlacional describe la relación lineal entre dos o más variables 
+sin tratar en lo absoluto de atribuir a una variable el efecto observado de la 
+otra. La investigación correlacion al es de gran valor analítico porque indica si 
+dos variables (como el número de horas de estudio y el puntaje obtenido en 
+una prueba) tienen algo en común. Si así es, existe una correlación entre las 
+dos.  
+Es f undamental subrayar que, si 
+bien este diseño metodológico 
+permite visualizar cómo varían en 
+conjunto los fenómenos a través 
+de coeficientes estadísticos, se rige 
+bajo la premisa invariable de que 
+correlación no implica 
+causalidad. Esto significa que la 
+presencia de una fuerte asociación 
+matemática entre dos elementos no prueba que uno sea el origen o la causa 
+directa del otro, ya que el comportamiento observado podría estar influenciado 
+de manera simultánea por terceras variables externas no controladas. No  
+obstante, su principal valor metodológico y práctico reside en su capacidad 
+predictiva: al documentar empíricamente la dirección y magnitud del 
+comportamiento de una variable, el analista puede anticipar , con un nivel de 
+confianza estadísticamente calcula ble, la dinámica de la variable asociada sin 
+necesidad de realizar experimentos controlados (Creswell, 2014). 
+Al ubicarlo en el ámbito del S istema de Evaluación del Desempeño (SED) , la 
+investigación correlacional se convierte en un instrumento analítico útil para el 
+seguimiento del desempeño, ya que permite identificar patrones en la 
+operación de los Programas presupuestarios. Por ejemplo, una dependencia 
+podría utilizar este diseño para medir la relación entre el porcentaje de avance 
+en el ejercicio del gasto (variable A) y el nivel de cumplimiento de las metas de 
+un indicador de Propósito en la Matriz de Indicadores para Resultados (variable 
+B); o bien, correlacionar el grado de profesionalización de los servidores 
+públicos con los tiempos de atención en un servicio gubernamental. Si bien este 
+
+
+--- PAGINA 43 ---
+ 
+43 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+análisis no basta para afirmar categóricamente que el presupuesto o la 
+capacitación son los únicos causantes del éxito del Programa, sí proporciona a 
+los tomadores de decisiones una brújula cuantitativa rigurosa para ubicar qué 
+variables se mueven juntas hacia el buen desempeño y, con ello, orientar 
+ajustes oportunos en la planeación institucional (Kusek & Rist, 2004).  
+La investigación correlacional se puede utilizar para la generación de 
+indicadores proxy o indirectos, las cuales, en el marco del PbR -SED se definen 
+como alternativas que se utilizan para aproximar la medición de un fenómeno 
+que es inobservable, logística mente complejo, o demasiado costoso de medir 
+de manera directa (Gertler et al., 2011). Para que un indicador proxy sea 
+metodológicamente válido y no introduzca sesgos, su selección no debe 
+basarse en la intuición; tiene que fundamentarse empíricamente a tr avés de 
+una investigación correlacional rigurosa que demuestre una asociación 
+estadística fuerte, constante y teóricamente congruente entre la variable 
+sustituta y la variable real de interés (Gertler et al., 2011). 
+ 
+
+--- PAGINA 44 ---
+ 
+44 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Henderson et al. (2012).  
+ 
+
+
+--- PAGINA 45 ---
+ 
+45 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Investigación Explicativa 
+ 
+En muchas oportunidades, el investigador puede estar interesado en 
+establecer las relaciones de causa –efecto entre las variables características de 
+los fenómenos, situaciones o eventos. La meta de toda la investigación 
+explicativa es responder a la pregunta “¿por qué?”; es decir , intenta ir más allá 
+de lo exploratorio y descriptivo con el objetivo de determinar las causas reales 
+que producen un fenómeno. Como su nombre lo indica, su interés se enfoca en 
+explicar por qué ocurre un fenómeno  y en qué condiciones se manifiesta, o 
+por qué se relacionan dos o más variables. 
+Para lograr este nivel de profundidad, el diseño explicativo exige un rigor 
+metodológico superior al de los estudios previos, ya que no basta con 
+documentar estadísticamente que dos variables se mueven de forma 
+simultánea, sino que es imperativo aislar y comprobar el efecto directo de una 
+sobre la otra. Esto implica controlar o neutralizar la influencia de factores 
+externos mediante diseños experimentales o cuasiexperimentales, 
+construyendo escenarios contrafactuales 1 que respondan a una pregunta 
+analítica esencial: ¿qué habría ocurrido con el fenómeno observado si la 
+supuesta causa no hubiera estado presente? Es precisamente a través de esta 
+comprobación rigurosa que se logra descartar que los resultados sean 
+producto del azar o variables externas no contro ladas, y con ello  construir 
+evidencia irrefutable para la toma de decisiones. 
+Derivado de estas características, la 
+investigación explicativa es indispensable 
+para las Evaluaciones de Impacto, ya que 
+permite demostrar  científicamente que la 
+intervención gubernamental fue la causa de 
+la solución del problema público. Mientras 
+que el diseño de un Programa 
+presupuestario se construye sobre la 
+hipótesis teórica de que ciertas acciones 
+resolverán una necesidad específica (su 
+                                                
+1 El concepto del contrafactual se explorará con mayor detalle en el Tema correspondiente a 
+la Evaluación de Impacto.  
+
+
+--- PAGINA 46 ---
+ 
+46 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Teoría del Cambio), el alcance explicativo proporciona las herramientas 
+analíticas para someter dicha hipótesis a una comprobación empírica 
+inobjetable.  
+Al estimar con precisión la atribución causal del Programa sobre los cambios 
+observados y aislar el efecto de factores externos o temporales, la investigación 
+explicativa eleva la práctica evaluativa: transita de un mero ejercicio descriptivo 
+de seguimiento operativo hacia una herramienta estratégica de alto nivel que 
+demuestra científicamente la creación de valor público, aportando la evidencia 
+definitiva que justifica la continuidad, expansión o cancelación de las 
+intervenciones gubernamentales. 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Attanasio et al. (2011). 
+
+
+--- PAGINA 47 ---
+ 
+47 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Investigación Proyectiva 
+ 
+La investigación proyectiva se asocia a la elaboración de un modelo, plan o 
+propuesta como solución a un problema detectado por el investigador . Este tipo 
+de investigación tiene muchos detractores; sin embargo, quienes la apoyan se 
+basan en la propuesta de Simon (2007) sobre la Ciencia del Diseño quien indica 
+que el diseño es un proceso de búsqueda y de descubrimiento de nueva 
+información sobre las alternativas que están disponibles y acerca de las 
+consecuencias que se seguirán si se escogen esas alternativas.  Pero el diseño 
+es también un proceso de descubrimiento de metas a alcanzar y de 
+restricciones a satisfacer . 
+Para que una investigación alcance 
+el nivel proyectivo, debe 
+sustentarse en las fases previas de 
+la indagación científica. Es decir , 
+resulta impos ible diseñar una 
+propuesta de solución viable y 
+rigurosa sin antes haber explorado, 
+descrito y explicado las causas, 
+variables y la dinámica del problema original. En este sentido, el valor 
+metodológico de la investigación proyectiva radica en su carácter prospectivo y 
+transformador . Así, no se limita a diagnosticar o contemplar la realidad, sino 
+que trasciende hacia la acción al formular lineamientos, normativas, Programas 
+presupuestarios o nuevos modelos operativos. Su rigor científico no se evalúa 
+por la  ejecución o implementación inmediata de la propuesta, sino por la 
+solidez técnica, la factibilidad operativa y la justificación teórica del modelo 
+diseñado para llevar una situación actual hacia un estado deseado (Hurtado de 
+Barrera, 2010).  
+En el marco de la Evaluación del Desempeño en México, la investigación 
+proyectiva resulta de mucha utilidad para la elaboración de los hallazgos y 
+sobre todo de las recomendaciones a partir de las cuales se formularán los 
+Aspectos Susceptibles de Mejora (ASM)2. Toda vez que, cuando se identifican 
+                                                
+2 Los Aspectos Susceptibles de Mejora serán abordados a profundidad en el Módulo VII del 
+Diplomado.  
+
+
+--- PAGINA 48 ---
+ 
+48 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+fallas estructurales en un Pp, la información procedente de la investigación 
+descriptiva o explicativa no constituye en sí misma un curso de acción a realizar; 
+es aquí donde el ejercicio evaluativo adopta un enfoque proyectivo, al proponer 
+una nueva arquitectura lógica de la intervención y un rediseño integral de los 
+Árboles de Problemas y Objetivos, o al plantear un nuevo modelo de provisión 
+de bienes y servicios. Esta propuesta, concebida como investigación proyectiva, 
+ofrece soluciones a las problemáticas identificadas, trazando una ruta de acción 
+concreta y fundamentada en evidencia para optimizar la g eneración de valor 
+público en los ejercicios fiscales subsecuentes.   
+ 
+Fuente: elaboración propia SHCP (2026) con base en Pérez & Gómez (2021). 
+
+
+--- PAGINA 49 ---
+ 
+49 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Como se pudo observar , cada uno de los enfoques de investigación 
+cuantitativos da un paso más que el anterior , y la información que proveen va 
+abriendo nuevas posibilidades de Política Pública. Adicionalmente, los tipos de 
+investigación bajo el enfoque cuantitativo pueden tener dos tipos de di seño: 
+los no experimentales y los experimentales.  
+Los diseños no experimentales se realizan sin modificar variables; es decir , no 
+hay variación intencional de alguna de ellas para medir su efecto sobre otra, 
+sino que se observan los fenómenos tal como se presentan en su contexto 
+natural. En este tipo de estudios, las variables independientes ocurren y no se 
+pueden manipular , al igual que los efectos que ellas tienen. Los estudios 
+exploratorios no buscan establecer , ni probar relaciones de causa-efecto entre 
+las variables, por lo tanto, se utilizan los diseños no experimentales (aleatorios 
+o no) para el acopio de datos y el cumplimiento de  los objetivos de 
+investigación. 
+Tal como se ha indicado hasta ahora, los estudios de profundidad explicativa o 
+confirmatoria buscan probar las relaciones de causa–efecto entre las variables 
+ligadas a un fenómeno, evento o situación. Las pruebas de estas relaciones se 
+realizan a través de diseños experimentales  donde se manipula la variable 
+independiente para medir su efecto  sobre la dependiente, apoyado en el 
+control de variables intervinientes. A diferencia de un estudio descriptivo, un 
+experimento es un estudio en el que un tratamiento, procedimiento o 
+programa se introduce intencionadamente y se observa su incidencia sobr e 
+otras variables. Entonces, “un experimento se lleva a cabo para analizar si una 
+o más variables independientes afectan a una o más variables dependientes y 
+por qué lo hacen” (Hernández, Fernández y Baptista, 2014). 
+Ambos diseños son de gran utilidad y su  uso dependerá de las circunstancias 
+de cada fenómeno a estudiar y del presupuesto disponible para conducir l a 
+investigación. En el cuadro 10 .1 se sintetizan las diferencias entre los diseños 
+experimentales y no experimentales.  
+ 
+ 
+ 
+ 
+
+--- PAGINA 50 ---
+ 
+50 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Cuadro 10.1 Comparación entre diseños experimentales y no experimentales 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Murillo (s.f.) 
+Los números y las estadísticas son herramientas excelentes para decir "qué" 
+pasó, "cuándo" y "a cuántas" personas se atendió. En el gobie rno, la medición 
+del cumplimiento de metas es clave para cuidar el presupuesto y rendir 
+cuentas. Sin embargo, a veces una gráfica perfecta cuenta la historia a medias. 
+Los datos duros no siempre dicen si el trámite fue complicado para el 
+ciudadano, o por q ué algunas personas decidieron abandonar un Programa, 
+aunque lo necesitaran. Ahí es donde la estadística se queda corta: muestra la 
+foto final de los resultados, pero no cuenta cómo se vivieron las cosas en el 
+mundo real ni los obstáculos que hubo en el camino. 
+Para entender verdaderamente si se está mejorando la vida de las personas, se 
+necesita juntar lo mejor de dos mundos: la fuerza de las matemáticas con la 
+riqueza de las historias. Por eso es relevante el estudio del siguiente Tema de 
+este Módulo: los métod os de investigación mixtos. Al combinar las cifras frías 
+con las voces y experiencias de quienes operan y reciben los bienes o servicios 
+de los Pp todos los días, se puede visualizar el panorama completo. Esta mezcla 
+es la herramienta más poderosa para cre ar Aspectos Susceptibles de Mejora 
+(ASM) que no solo arreglen indicadores desde el escritorio, sino que de verdad 
+transformen la realidad en la calle.
+
+
+--- PAGINA 51 ---
+ 
+51 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ 
+ 
+ 
+En el campo de la evaluación, los métodos no son neutrales ni intercambiables: 
+su elección depende del propósito evaluativo, de la etapa del ciclo de la Política 
+Pública, de la disponibilidad de información, de las capacidades institucionales 
+y del uso esperado de los resultados. No es lo mismo e valuar un programa 
+piloto en fase de diseño que una política consolidada con amplia cobertura 
+nacional. Tampoco es equivalente una evaluación orientada a justificar 
+asignaciones presupuestarias que una cuyo objetivo principal es mejorar la 
+implementación o rediseñar instrumentos.  
+Tradicionalmente, tal como se 
+estudió en los dos Temas 
+anteriores, los métodos de 
+investigación aplicables a la 
+Evaluación del Desempeño se 
+han clasificado en dos grandes 
+enfoques: cuantitativos y 
+cualitativos. Los métodos 
+cuantitativos se apoyan en 
+datos numéricos y en técnicas 
+estadísticas para medir magnitudes, estimar efectos, identificar patrones y 
+establecer relaciones entre variables, mediante investigaciones exploratorias, 
+descriptivas, correlacionales, explicativas y proyectivas. Mientras que, los 
+métodos cualitativos, se enfocan en la comprensión profunda de procesos, 
+significados, percepciones, arreglos institucionales y contextos específicos, a 
+través de técnicas como entrevistas, grupos focales, observación o aná lisis 
+documental. Para comprender de mejor manera los aportes de cada tipo de 
+metodología, en la Figura 11.1 se contrastan sus características generales a 
+través de cuatro dimensiones.   
+ 
+ 
+TEMA 11. Diseños mixtos y su aplicación en la práctica 
+
+
+--- PAGINA 52 ---
+ 
+52 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Figura 11.1 Principales diferencias entre los métodos cuantitativos y cualitativos 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Quecedo & Castaño (2002).  
+ 
+La dimensión Inducción – Deducción hace referencia al lugar de la teoría en la 
+investigación; es decir, de dónde parte y hacia dónde se dirigen. Mientras que 
+los métodos cuantitativos buscan la comprobación de una teoría, los métodos 
+
+
+--- PAGINA 53 ---
+ 
+53 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+cualitativos buscan construir una teoría explicativa. De  esta forma, en una 
+misma evaluación se puede partir de un método cualitativo para la 
+construcción de la teoría que posteriormente se verificará con algún método 
+cuantitativo.   
+La dimensión Generación - Verificación se refiere al lugar de la evidencia en la 
+investigación, así como la medida en que los resultados del estudio son 
+aplicables a otros grupos. En los métodos cuantitativos se busca comprobar 
+una hipótesis que pueda extenderse al universo del cual se obtuvo la muestra 
+representativa. Por su parte,  los métodos cualitativos buscan que los 
+resultados obtenidos se puedan trasladar a otros contextos o grupos similares, 
+lo cual no es lo mismo a la representatividad estadística (Goetz & LeCompte, 
+1988).  
+La dimensión Construcción – Enumeración hace referencia a los modos de 
+formulación y diseño de las unidades de análisis de un estudio. Mientras que 
+los métodos cuantitativos buscan someter a prueba conceptos previamente 
+delimitados, los métodos cualitativos buscan construir las unidades de análisis, 
+las cuales se van revelando en el proceso de observación.  
+Finalmente, la dimensión Subjetividad – Objetividad se refiere al tipo de datos 
+que se obtienen y analizan en la investigación. Es importante destacar que 
+ambos métodos buscan realizar una observación ob jetiva al fenómeno; sin 
+embargo, la diferencia radica en que los métodos cuantitativos miden 
+características concretas del fenómeno estudiado, mientras que los métodos 
+cualitativos se enfocan en la obtención de datos subjetivos que no 
+necesariamente están previamente construidos.  
+Por su carácter objetivo, suele asignársele mayor importancia a los métodos 
+cuantitativos de investigación para llevar a cabo distintos tipos de evaluaciones. 
+Sin embargo, de acuerdo con lo estudiado en los Temas anteriores y lo 
+planteado en la Figura 11.1, se puede concluir que ambos métodos son 
+necesarios y complementarios para poder abordar la complejidad de los 
+fenómenos sociales que la intervención gubernamental pretende abordar.  
+
+--- PAGINA 54 ---
+ 
+54 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+En muchos casos, la aplicación de un método c uantitativo está en función de 
+que previamente se haya llevado a cabo un proceso de investigación cualitativa 
+por medio del cual se hayan construido las hipótesis y las categorías que se 
+pretenden probar por medio de 
+los métodos cuantitativos.  La 
+complejidad creciente de las 
+Políticas Públi cas, así como la 
+necesidad de producir evidencia 
+útil para decisiones reales, ha 
+impulsado una aproximación 
+más integradora: los métodos 
+mixtos.  
+ 
+ 
+Características de los métodos mixtos  
+ 
+De acuerdo con Creswell y Plano Clark (2018, p.5), los métodos mixtos 
+“constituyen un enfoque metodológico que implica recolectar , analizar e 
+integrar de forma intencionada tanto datos cuantitativos como cualitativos en 
+un solo estudio. La premisa central de este diseño es que la combinación de 
+ambos tipos de evidencia proporciona una comprensión más completa y 
+profunda de un problema de la que se obtendría al utilizar cualquiera de los 
+dos enfoques por separado".  
+En el ámbito de la Evaluación del Desempeño a intervencio nes públicas, se 
+definen como aquellos diseños que integran de manera intencional y 
+sistemática enfoques cuantitativos y cualitativos dentro de un mismo ejercicio 
+evaluativo. La clave no es la simple coexistencia de técnicas diversas, sino la 
+integración m etodológica. La Figura 11.2 resume el alcance que tiene la 
+aplicación de los métodos mixtos.  
+ 
+ 
+
+
+--- PAGINA 55 ---
+ 
+55 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Figura 11.2 Alcance de la aplicación de métodos mixtos 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+ 
+Al diseñar una evaluación con métodos mixtos, es indispensable tomar 
+decisiones explícitas considerando, al menos, los cuatro elementos que se 
+muestran en la Figura 11.3.  
+Figura 11.3 Elementos para tomar decisiones clave en los métodos mixtos 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+
+
+--- PAGINA 56 ---
+ 
+56 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Fases de estudio 
+ 
+En las fases de estudio o secuencia temporal, la decisión sobre el momento 
+en que se recolectan y analizan los datos es fundamental. Los métodos pueden 
+aplicarse de forma secuencial o de manera concurrente (Figura 11.4). En los 
+diseños concurrentes o convergentes, ambos tipos de datos se recopilan de 
+forma simultánea e independiente para luego comparar o consolidar los 
+hallazgos (Creswell & Plano Clark, 2018).  
+Por otro lado, en los diseños secuenciales, los resultados de una fase informan 
+a la siguiente. Esto puede darse en un formato secuencial explicativo, donde 
+los datos cualitativos posteriores ayudan a explicar los mecanismos 
+subyacentes de los hallazgos cuantitativos iniciales; o secuencial exploratori o, 
+donde la fase cualitativa precede a la cuantitativa, generalmente para 
+identificar variables o construir instrumentos (Morgan, 1998). La elección de la 
+secuencia debe responder directamente al propósito evaluativo primario: 
+explicar resultados estadísti cos, explorar fenómenos emergentes antes de 
+medirlos, o triangular evidencia en tiempo real (Tashakkori & Teddlie, 2010). 
+Figura 11.4 Definición de las fases de estudio del método mixto 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Tashakkori & Teddlie (2010). 
+ 
+ 
+
+
+--- PAGINA 57 ---
+ 
+57 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Peso relativo de los enfoques 
+ 
+Otro elemento importante de reconocer es que el peso relativo de los 
+enfoques o su prioridad  dependerá del ejercicio evaluativo que se esté 
+realizando. En algunas evaluaciones, el componente cuantitativo es dominante 
+y el cualitativo cumple un rol estrictamente complementario. En la literatura 
+metodológica esto se nota como QUAN/qual, o viceversa QUAL/quan (Morse, 
+1991). También pueden diseñarse con un estatus equivalente (QUAN/QUAL), 
+aunque esto exige mayores recursos y tiempo. El peso metodológico depende 
+estrictamente de las preguntas de investigación y de la audiencia. Por ejemplo, 
+un estudio impulsado por la medición de impacto priorizará lo cuantitativo, 
+utilizando lo cualitativo para ilustrar casos atíp icos; mientras que un estudio 
+centrado en la comprensión 
+profunda de una comunidad 
+priorizará lo cualitativo, 
+usando herramientas 
+cuantitativas solo para 
+dimensionar ciertos hallazgos 
+(Johnson, Onwuegbuzie & 
+Turner, 2007). 
+ 
+Puntos de integración de los métodos 
+ 
+La integración es el núcleo real de los métodos mixtos; sin ella, la investigación 
+es meramente "multimetódica", pero no mixta (Bazeley, 2018). Fetters, Curry y 
+Creswell (2013) señalan que esta convergencia o integración puede ocurrir en 
+tres niveles principales (véase la Figura 11.5); no obstante, dada la flexibilidad 
+metodológica en función de la evaluación, existen otras propuestas 
+conceptuales para categorizar dichos niveles. 
+ 
+ 
+ 
+ 
+
+
+--- PAGINA 58 ---
+ 
+58 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Figura 11.5 Niveles en los que se integran los métodos mixtos 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Creswell & Plano Clark (2018).  
+ 
+La integración en el nivel del diseño  ocurre cuando la planificación y el flujo 
+de una vertiente metodológica depende directamente de la otra. Esto se da 
+habitualmente mediante los mecanismos de conexión, construcción y 
+anidamiento. La conexión ocurre cuando los resultados de una fase se utilizan 
+para seleccionar o muestrear a los participantes de la siguiente. Por ejemplo, a 
+partir de los resultados de una encuesta a gran escala (cuantitativo), se 
+seleccionan estadísticamente casos atípicos o representativos para realizarles 
+entrevistas a profundidad (cualitativo) (Creswell & Plano Clark, 2018). 
+La construcción sucede cuando los hallazgos de una fase informan la 
+recolección de datos de la otra. El ejemplo clásico es realizar primero grupos 
+focales (cualitativo) para identificar las categorías y el lenguaje local, y usar esa 
+información para construir un cuestionario o instrumento de medición 
+validado (cuantitativo) aplicable a una muestra mayor. 
+
+
+--- PAGINA 59 ---
+ 
+59 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Por su parte, el anidamiento o incorporación  ocurre en diseños donde un 
+método es secundario y se in serta dentro del otro en el diseño general. Por 
+ejemplo, en un ensayo clínico aleatorizado (cuantitativo), se anidan 
+observaciones o entrevistas (cualitativo) para entender cómo los participantes 
+están experimentando la intervención (Fetters, Curry & Creswell, 2013). 
+La integración en el nivel de análisis o durante el tratamiento de los datos se 
+produce una vez que estos ya han sido recolectados, cruzando la información 
+empírica. Suele ser el momento más complejo y requiere técnicas analíticas 
+avanzadas com o la transformación de datos y análisis cruzado de bases de 
+datos. De acuerdo con Fetters, Curry y Creswell  (2013) el proceso de 
+transformación se da en dos pasos: primero un tipo de datos debe convertirse 
+en el otro; es decir, pasar de cualitativo a cuant itativo y viceversa; 
+posteriormente, los datos transformados se integran con aquellos que no han 
+sido transformados. Por ejemplo, los resultados obtenidos de la aplicación de 
+encuestas u opiniones de satisfacción (cualitativo) se pueden transformar en 
+variables numéricas y relacionarlas con otros datos cuantitativos.  
+Mientras que, el análisis cruzado  implica comparar las bases de datos 
+directamente. Por ejemplo, agrupar las encuestas según los perfiles o 
+tipologías identificadas en el análisis cualitativo previo para ver si existen 
+diferencias estadísticas significativas entre dichos perfiles (Bazeley, 2018). 
+La integración en el nivel de la interpretación se lleva a cabo al momento de 
+reportar y discutir los resultados. Para lograrlo, se extraen conclusion es 
+conjuntas denominadas metainferencias (Tashakkori y Teddlie, 2010). 
+Metodológicamente, esto se logra mediante dos estrategias: la integración 
+narrativa y las presentaciones conjuntas. En la primera, se redacta el reporte 
+“tejiendo” los hallazgos. Por ca da tema o variable discutida, el autor presenta 
+el resultado estadístico y, en el mismo párrafo, lo complementa o contrasta con 
+las citas y narrativas de las entrevistas, explicando si ambos métodos 
+convergen, divergen o se amplían mutuamente (Fetters, Cur ry y Creswell, 
+2013). Por su parte, las presentaciones conjuntas usan matrices, tablas o 
+gráficos diseñados específicamente para mostrar datos cuantitativos y 
+cualitativos simultáneamente (Guetterman, Fetters y Creswell, 2015).  
+ 
+
+--- PAGINA 60 ---
+ 
+60 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Uso de los resultados 
+ 
+El propósito final de elegir un diseño de métodos mixtos, especialmente en 
+contextos de Evaluación del Desempeño de intervenciones públicas, es generar 
+evidencia que sea más completa y directamente aplicable a la realidad. Gracias 
+a estos, es posible responde r a las preguntas ¿qué? y ¿por qué? de forma 
+simultánea. Los datos cuantitativos proporcionan evidencia dura y 
+generalizable sobre la magnitud de un problema o el impacto de una 
+intervención. Por su parte, los datos cualitativos explican los mecanismos 
+subyacentes detrás de esos números. Juntos, ofrecen una visión panorámica 
+indispensable para comprender fenómenos complejos (Creswell & Plano Clark, 
+2018). 
+Cuando los hallazgos se van a utilizar para diseñar 
+políticas o asignar recursos, se requiere un alto nivel 
+de confianza. Si los resultados estadísticos y las 
+narrativas de las personas apuntan hacia la misma 
+conclusión; es decir, se corroboran mutuamente, la 
+validez y credibilidad del estudio aumentan 
+significativamente frente a las audiencias que 
+tomarán las decisiones (Mertens, 2015). 
+Los resultados mixtos son invaluables para realizar ajustes prácticos. Mientras 
+que un análisis cuantitativo puede revelar que un programa está fallando en 
+una región específica, el componente cualitativo puede iluminar las  barreras 
+culturales, operativas o logísticas que están causando esa falla. Esto permite 
+que las recomendaciones del estudio sean específicas, contextualizadas y 
+altamente útiles para la mejora continua (Patton, 2014). 
+Para entender cómo esta combinación m etodológica trasciende la teoría y se 
+traduce en decisiones de política pública reales, la mejor forma de comprender 
+su alcance es analizar diversos estudios de caso implementados en algunos 
+países de América Latina.  
+ 
+ 
+ 
+
+
+--- PAGINA 61 ---
+ 
+61 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Aplicaciones prácticas de métodos mixtos en América Latina 
+ 
+Colombia: evaluación orientada a resultados y aprendizaje 
+institucional. 
+En Colombia, el sistema nacional de evaluación ha incorporado de manera 
+sistemática enfoques mixtos, particularmente a través de evaluaciones 
+coordinadas po r el Departamento Nacional de Planeación. En la práctica, 
+muchas evaluaciones combinan análisis cuantitativos de Indicadores de 
+Desempeño, cobertura y resultados, con trabajo cualitativo orientado a 
+comprender la implementación territorial de las políticas.  
+Un ejemplo recurrente es la evaluación de programas sociales con cobertura 
+nacional, donde los datos administrativos y encuestas permiten identificar 
+diferencias regionales en resultados, mientras que entrevistas con operadores, 
+beneficiarios y autorida des locales explican cómo influyen factores 
+institucionales, capacidades locales y contextos socioeconómicos en dichos 
+resultados. El enfoque mixto permite así pasar de la pregunta “qué funciona” a 
+“qué funciona, para quién y bajo qué condiciones”. 
+ 
+Chile: evaluación para la toma de decisiones presupuestarias 
+Chile presenta una de las experiencias más consolidadas de evaluación 
+vinculada al presupuesto. Las evaluaciones de programas gubernamentales y 
+las evaluaciones de impacto suelen incorporar métodos mi xtos, aunque con 
+distintos énfasis. 
+En evaluaciones de impacto, el componente cuantitativo es central para estimar 
+efectos causales, pero frecuentemente se incorpora un componente cualitativo 
+para analizar la fidelidad de la implementación, la coordinación  
+interinstitucional y la percepción de los beneficiarios. En las evaluaciones de 
+programas, el análisis de indicadores y desempeño se complementa con 
+entrevistas y revisión documental, lo que permite emitir juicios integrales sobre 
+diseño, gestión y resultados. 
+Este enfoque ha sido clave para formular recomendaciones diferenciadas: 
+algunas orientadas al rediseño conceptual de los programas y otras enfocadas 
+en ajustes operativos o de gestión. 
+
+
+--- PAGINA 62 ---
+ 
+62 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ 
+Costa Rica: métodos mixtos en el marco de la planificación nacional 
+En Costa Rica, los métodos mixtos se han integrado principalmente como parte 
+del sistema de planificación y seguimiento del desarrollo. Las evaluaciones 
+estratégicas promovidas desde el ente rector combinan información 
+cuantitativa proveniente de metas e indicadores del plan nacional con análisis 
+cualitativos sobre gobernanza, coordinación institucional y pertinencia de las 
+intervenciones. 
+En la práctica, esto se traduce en evaluaciones que no solo miden avances 
+numéricos, sino que analizan la coherenc ia entre objetivos, instrumentos y 
+resultados, así como los factores que explican rezagos o avances desiguales. El 
+uso de métodos mixtos ha fortalecido la capacidad del sistema para generar 
+recomendaciones estratégicas y no solo operativas. 
+ 
+Argentina: evaluación para mejorar el diseño y la implementación 
+En Argentina, los métodos mixtos han sido especialmente relevantes en la 
+evaluación de políticas sociales y programas territoriales. La combinación de 
+datos administrativos y encuestas con estudios de cas o cualitativos ha 
+permitido identificar brechas de implementación, problemas de focalización y 
+desafíos de coordinación entre niveles de gobierno. 
+En muchos casos, el análisis cuantitativo identifica patrones generales —por 
+ejemplo, niveles de cobertura o acceso— mientras que el trabajo cualitativo 
+revela obstáculos concretos en la implementación local, como capacidades 
+institucionales limitadas, problemas de articulación o barreras culturales. Esta 
+combinación ha sido clave para formular recomendaciones de  mejora del 
+diseño y de fortalecimiento institucional. 
+La experiencia comparada en América Latina muestra que los métodos mixtos 
+aportan valor en al menos tres dimensiones. Primero, permiten producir 
+evidencia más robusta y creíble, al combinar medición y comprensión. 
+Segundo, facilitan el diálogo entre evaluadores, gestores y tomadores de 
+decisión, al ofrecer resultados cuantificables y narrativas explicativas. Tercero, 
+contribuyen al aprendizaje institucional, al identificar no solo si una política 
+funciona, sino cómo y por qué lo hace. 
+
+
+--- PAGINA 63 ---
+ 
+63 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+No obstante, los métodos mixtos también plantean desafíos importantes: 
+requieren mayores capacidades técnicas, más tiempo de diseño, claridad en la 
+integración metodológica y un uso efectivo de los resultados para justifica r su 
+mayor complejidad. Cuando estos elementos no se cuidan, existe el riesgo de 
+producir evaluaciones fragmentadas, donde lo cuantitativo y lo cualitativo 
+conviven sin dialogar. 
+Los métodos mixtos representan hoy uno de los enfoques más prometedores 
+para la evaluación de Programas presupuestarios y Políticas Públicas en 
+contextos complejos como los de América Latina. Su valor radica no solo en la 
+combinación de técnicas, sino en su capacidad para articular evidencia, teoría 
+y práctica en función de decisiones públicas mejor informadas. 
+Ahora bien, definir el enfoque de la evaluación, ya sea cuantitativo, cualitativo 
+o mixto, es solo el primer gran paso en la estructuración metodológica. Una vez 
+trazada la ruta analítica y los niveles de integración, surge una interrogante 
+práctica ineludible: ¿a qué sujetos, expedientes, regiones o unidades de análisis 
+se debe observar para que los resultados obtenidos sean válidos, creíbles y 
+útiles? 
+La aplicación empírica de cualquier método de investigación exige determinar 
+con precisión a los participantes del estudio. Los métodos cuantitativos 
+requerirán estrategias que garanticen la representatividad estadística para 
+poder generalizar sus hallazgo s, mientras que los cualitativos demandarán 
+selecciones intencionadas que aseguren la profundidad y la transferencia de 
+significados a contextos similares. Es aquí donde cobra vital importancia el 
+diseño muestral, que será precisamente el enfoque del siguiente y último tema 
+de este Módulo II. 
+
+--- PAGINA 64 ---
+ 
+64 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+ 
+ 
+ 
+A lo largo del Módulo II, se han revisado  desde una perspectiva conceptual, 
+distintos enfoques metodológicos útiles para aplicar en  Evaluaciones del 
+Desempeño. Entre los métodos disponibles, la estadística inferencial  es la 
+herramienta más robusta de la cual se dispone para explicar los distintos 
+fenómenos que pueden ser abordados por un Programa presupuestario. La 
+estadística inferencial es un conjunto de métodos y procedimientos por medio 
+de los que se obtienen conclusiones (inferencias) sobre las propiedades de una 
+población a partir de la observación de una muestra. Algunos de los principales 
+modelos de estadística inferencial se presentan en la Figura 12.1.  
+ 
+Figura 12.1 Modelos de estadística inferencial 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+ 
+ 
+TEMA 12. Introducción al diseño muestral 
+
+--- PAGINA 65 ---
+ 
+65 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Para comprender y dominar la aplicación de estos métodos, es necesario 
+realizar estudios estadísticos avanzados que van más allá de  los objetivos del 
+Diplomado. Sin embargo, el presente Tema busca explorar la importancia de la 
+conformación de muestras representativas desde un enfoque conceptual con 
+el fin de que las personas participantes tengan la capacidad de interpretar los 
+resultados de las evaluaciones externas. Por ejemplo, si el ente e valuador 
+levanta datos con una muestra sesgada al solo encuestar a beneficiarios de 
+zonas urbanas omitiendo a las rurales, la persona servidora pública, con estas 
+bases conceptuales, podrá cuestionar la validez de los hallazgos y evitar que se 
+tomen decisiones de rediseño basada en evidencia defectuosa.  
+ 
+¿Qué es una muestra?  
+ 
+Antes de presentar una definición de los conceptos de población y muestra, 
+comencemos con un ejemplo cotidiano. Imaginemos que necesitamos adquirir 
+un queso en la cremería o supermer cado. Para saber cuál queso comprar , es 
+común que pidamos una “muestra” o “degustación” de los distintos quesos que 
+se ofertan con el fin de determinar si el sa bor es de nuestro agrado. Cuando 
+hacemos la degustación de esta muestra de queso, podemos “inferir” o 
+“concluir” que el resto del queso (universo) tiene el mismo sabor que la muestra 
+que se nos dio. Es decir , es una muestra representativa de la pieza de queso. De 
+esta forma, con una pequeña muestra podemos decidir si el queso es de 
+nuestro agrado o no sin necesidad de consumirlo en su totalidad. 
+Si bien este es un ejemplo muy simple, de acuerdo con López (2004), “…todas 
+las ciencias hacen uso del muestreo. Para algunos el obj eto de estudio es la 
+población humana, para otros, como los agrónomos serán los árboles frutales, 
+parcelas o para los médicos la muestra son pacientes con determinados 
+síntomas patológicos; para los comunicadores, la población de estudio no sólo 
+son personas sino también videos, películas, artículos de prensa, programas de 
+radio, p rogramas de televisión, cartillas informativas y otros ”. Entonces, las 
+muestras pueden tener distinta naturaleza dependiendo de la población objeto 
+de estudio. Aquí lo importante es tener claro que las muestras deben tener la 
+misma unidad de análisis que la población. Es decir , si la población son mujeres 
+de 18 a 64 años, la muestra también deberá estar conformada por mujeres del 
+
+--- PAGINA 66 ---
+ 
+66 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+mismo grupo etario. En la Figura 12.2 se presentan las definiciones de los 
+conceptos de muestra y población. 
+Figura 12.2 Definiciones de muestra y población 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en López (2004).  
+ 
+Antes de entrar a estudiar los distintos tipos de muestra, es importante revisar 
+de forma resumida las medidas de tendencia central, ya que estas proveen una 
+base para comprender la conformación de la información muestral. 
+ 
+Medidas de tendencia central 
+ 
+Las medidas de tendencia central son parámetros estadísticos que informan 
+sobre el centro de la distribución de la muestra o población estadística 
+(Quevedo, 2011, p. 1 ). En otras palabras, son el centro en torno al cual se 
+
+
+--- PAGINA 67 ---
+ 
+67 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+encuentra ubicado un conjunto de datos. También pueden ser consideradas 
+como un “resumen” de los datos estadísticos. Por ello, las medidas de tendencia 
+central son muy útiles para comparar e interpretar los resultados obtenidos con 
+relación a distintos valores observados. Estas medidas son tres: media, 
+mediana y moda. En la Figura 12.3 se resumen los aspectos fundamentales de 
+cada una de ellas. 
+ 
+Figura 12.3 Medidas de tendencia central 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Quevedo (2011).
+
+
+--- PAGINA 68 ---
+ 
+68 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+De las tres medidas de tendencia central, la más utilizada es la media 
+aritmética3, la cual generalmente se conoce como promedio. A continuación, 
+se presenta un ejemplo muy sencill o de promedio de una población; es decir, 
+del total de las observaciones. Supongamos que en una oficina se presentan 
+diversas quejas por parte del personal porque las cinco salas de juntas 
+existentes están saturadas, retrasando así la concertación de acuerdos. Para 
+resolver el problema, se está pensando habilitar una o dos salas de juntas 
+adicionales. Como parte del diagnóstico de la obra, se calcula  el promedio de 
+horas que las salas de juntas están ocupadas, obteniendo los resultados que se 
+presentan en la Figura 12.4.  
+ 
+Figura 12.4 Promedio de horas de ocupación de las salas de juntas 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+Para obtener el promedio de horas que las salas están ocupadas se suman los 
+cinco valores registrados en la segunda columna, con lo cual se obtendrá el 
+                                                
+3 La aritmética es el ti po de media que es más conocida;  sin embargo, también existe la ponderada, la 
+geométrica y la armonizada. Adicionalmente, los promedios aritméticos pueden ser de la población o de 
+la muestra. Los primeros son una cantidad fija mientras que el promedio de la muestra es variable, puesto 
+que diferentes muestras extraídas a la misma población tienden a tener diferentes medias (Quevedo, 
+2011). 
+
+
+--- PAGINA 69 ---
+ 
+69 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+numerador. El resultado de esta suma (60.3) se dividirá entre el número de 
+salas (5). Esto da como resultado 12.1 horas.  
+12.5 + 14.3 + 9.8 + 15.6 + 8.1
+5  =  60.3
+5  = 12.1 ℎ𝑜𝑟𝑎𝑠 
+Al interpretar los datos , se observa que  las salas de juntas se utilizan en 
+promedio 1 2.1 horas al día. Este hallazgo es relevante  dado que  la jornada 
+laboral en la oficina es de 8 horas, lo cual implica que los empleados están 
+permaneciendo hasta 4 horas más al día  para poder ocupar las salas, 
+generando costos adicionales. Para evaluar el impacto de construir  2 salas 
+complementarias se repite  el procedimiento, ajustando el número total de 
+salas, entonces el denominador será 7 (5 salas originales + 2 nuevas).  
+60.3
+7  = 8.6 ℎ𝑜𝑟𝑎𝑠 
+Como resultado obtenemos un promedio de 8.6 horas, el cual es  mucho más 
+cercano a la jornada laboral oficial. Como conclusión de este ejemplo, con el 
+acondicionamiento de estas dos nuevas salas más una buena gestión y 
+calendarización de los tiempos de ocupación, el problema quedará resuelto. 
+ 
+Tipos de muestreo  
+ 
+Existen dos métodos para seleccionar muestras de poblaciones o universos: el 
+no aleatorio o de juicio, y el aleatorio de probabilidad (Figura 12.5). El muestreo 
+no aleatorio o de juicio utiliza el conocimiento y la opinión para identificar los 
+elementos que nuestra muestra incluirá. Este tipo de muestra se basa en la 
+experiencia de alguien con respecto a la población. Por ejemplo, un 
+guardabosque reunirá una muestra no aleatoria o de juicio para estimar las 
+zonas con mayor número de árboles, y así determinar la cantidad de madera 
+que podría obtenerse. En ocasiones, las muestras no aleatorias se utilizan de 
+forma preliminar a una muestra aleatoria.
+
+--- PAGINA 70 ---
+ 
+70 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Figura 12.5 Tipos de muestreo 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+Este tipo de muestras son cómodas y pueden usarse con éxito, pero tienen una 
+baja significancia estadística. La significancia estadística , en términos muy 
+sencillos, se defin e como la confianza que se tiene  en que la muestra 
+represente a la población de la cual fue extraída. Por ende, si no hay un rigor 
+en la selección de la muestra -como sucede con las no aleatorias-, la confianza 
+en que esta represente adecuadamente a la población es baja. Adicionalmente, 
+como las muestras no aleatorias utilizan el conocimiento y la opinión de una o 
+varias personas, están sesgadas a su punto de vista del objeto de estudio. 
+Por su parte, en el muestreo aleatorio o de probabilidad, todos los elem entos 
+de la población tienen oportunidad de ser escogidos para la muestra. Para ello, 
+los diseñadores de la muestra utilizan metodologías es tadísticas para verificar 
+que todos los elementos de la población tengan la misma oportunidad de ser 
+seleccionados. Este tipo de muestras sustenta una alta significancia estadística, 
+por lo que se tiene “confianza” de que las conclusiones que se obtengan de la 
+muestra también aplicarán a la población. La confianza que se puede tener en 
+esta representatividad varía por distintas circunstancias. Pero en términos 
+generales, entre más grande es la muestra en proporción con su población, 
+mayor confianza hay de que las conclusiones que se generen como  producto 
+de su estudio son extensivas a la población4. 
+                                                
+4 También es importante considerar si la distribución de las variables es normal o no. 
+
+
+--- PAGINA 71 ---
+ 
+71 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Por esta razón, el muestreo aleatorio es el que se utiliza con mayor frecuencia 
+tanto en investigaciones en general, como en Evaluaciones del Desempeño. En 
+el siguiente apartado se abordarán los distintos tipos de muestreos aleatorios 
+de los cuales se dispone. 
+ 
+Tipos de muestreo aleatorio 
+ 
+Gracias a la aleatoriedad de una muestra se pueden conocer las posibilidades 
+de que un elemento del universo se incluya o no  en la muestra ; es decir, es 
+posible determinar objetivamente las estimaciones de la población que 
+resultan de una muestra dada. Sin embargo, existen distintas formas de 
+construir una muestra aleatoria. Algunas de ellas se presentan en la Figura 
+12.6.  
+Figura 12.6 Tipos de muestreo aleatorio 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en INEGI (2011). 
+
+
+--- PAGINA 72 ---
+ 
+72 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Muestreo aleatorio simple 
+ 
+El muestreo aleatorio simple es la modalidad más conocida y que tiene mayor 
+rigor científico. Permite que cada posible muestra tenga una igual probabilidad 
+de ser seleccionada y que cada elemento de la población total tenga una 
+oportunidad igual de ser incluida en la muestra. Para entender esto, revisemos 
+un ejemplo muy sencillo. Supongamos que en un curso  se tienen cuatro 
+estudiantes5  (A, B, C y D) y que es de interés entrevistar a dos, seleccionándolos 
+de forma aleatoria. Entonces, aquí están los cuatro estudiantes.  
+Figura 12.7 Ejemplo del muestreo aleatorio simple 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+ 
+Entonces, cada muestra (combinación de personas) tiene 1/6 de posibilidad de 
+ser elegida. Pero al mismo tiempo, cada persona tiene la posibilidad de 1/2 de 
+ser elegida. Por ejemplo, observemos que la persona “A” puede ser elegida en 
+las muestras 1, 2 y 3, por ende, tiene un 50% (1/2) de probabilidad de participar 
+en la entrevista. De la misma forma, la persona “B” puede ser elegida en las 
+muestras 1, 4 y 5. Esto sucede de la misma forma con las personas C y D.
+                                                
+5 Cuando tenemos un universo menor de 30 unidades de observación no se puede c rear una muestra 
+representativa; sin embargo, utilizamos este ejemplo para que sea sencillo entender los conceptos 
+revisados. 
+
+
+--- PAGINA 73 ---
+ 
+73 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Es importante considerar que el ejemplo tiene un tipo de población fin ita de 
+tan solo cuatro estudiantes. Por finito se refiere a que la población tiene un 
+tamaño limitado o establecido ; esto es, existe un número entero que indica 
+cuántos elementos hay en la población. Por el con trario, el término infinito 
+indica que no se conoce el número total de elementos de una población.  
+Para la selección de la muestra se pueden utilizar diferentes técnicas, que van 
+desde una tabla de números aleatorios impresa o producidos por opciones 
+informatizadas como una calculadora u hoja de cálc ulo. Este método que se 
+caracteriza por su simpleza tiene poca utilidad práctica cuando la población es 
+muy grande (Hernández y Carpio, 2019), por ejemplo, cuando se diseña la 
+muestra de una encuesta nacional del INEGI. Por esta razón, se recurren a otros 
+tipos de muestreo. 
+ 
+Muestreo aleatorio sistemático 
+ 
+En este tipo de muestreo, los elementos de la muestra se seleccionan con 
+respecto a un intervalo uniforme que se mide con respecto al tiempo, al orden 
+o al espacio. Por ejemplo, si se tuviera que entrevistar a cada décimo estudiante 
+de una universidad, se escogería un punto de inicio aleatorio entre los primeros 
+10 nombres de la lista de estudiantes y luego cada décimo nombre de ahí en 
+adelante.  
+En el muestreo sistemático se 
+puede tener el pr oblema de 
+introducir un error en el proceso 
+de muestreo. Supongamos que se 
+estuviera muestreando la 
+cantidad de basura producida en 
+el hogar de los mexicanos y se 
+decidiera muestrear 100 casas 
+cada lunes. En este ejemplo la probabilidad de que nuestra mues tra no fuera 
+representativa es alta, porque la basura de los lunes incluiría la del sábado y 
+domingo ya que esos días no pasa el camión por ser días de descanso. Por lo 
+tanto, la cantidad de desechos estaría sesgada hacia arriba por haber elegido 
+este procedimiento de muestreo.  
+
+
+--- PAGINA 74 ---
+ 
+74 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Aun así, este muestreo tiene sus ventajas. Cuando los elementos entran en un 
+patrón secuencial, puede requerir menos tiempo y, algunas veces, se tiene  
+como resultado un costo menor que el método de muestreo aleatorio simple.  
+ 
+Muestreo aleatorio estratificado 
+ 
+El diseño de una encuesta estadísticamente significativa que permita 
+extrapolar los resultados a todo el país requiere un diseño muestral avanzado. 
+Para ello, aparte de ser aleatorias, las muestras  pueden ser  estratificadas, 
+polietápicas y por conglomerados. Si bien su aplicación requiere rigor 
+metodológico, comprender de qué trata cada característica es muy sencillo. 
+Primeramente, la característica que tienen en común las muestras 
+estratificadas y las muestras por conglome rados es que construyen un 
+subgrupo de la población para hacer más sencillo el manejo de la información.  
+El muestreo aleatorio estratificado divide la población en estratos o subgrupos 
+menores, parecidos internamente respecto a una característica, pero 
+heterogéneos entre ellos, diferenciándolos por una variable que resulte de 
+interés para la investigación, por ejemplo, según la profesión, municipio, 
+estado civil, sexo (Hernández y Carpio, 2019). En otras palabras, se tiene que 
+garantizar que cada estrato es diferente.  
+Una vez establecidos los estratos se utiliza alguno de los siguientes 
+planteamientos: se selecciona aleatoriamente en cada estrato un número 
+específico de elementos correspondiente a la proporción de éste en relación 
+con la población completa; o se extrae el mismo número de elementos de cada 
+estrato y después se ponderan los resultados considerando la proporción que 
+el estrato representa con respecto a la población total. Cualquiera que sea el 
+planteamiento elegido, el muestreo estratificado garantiza que cada elemento 
+de la población tenga posibilidad de ser seleccionado.  
+Este tipo de muestra, siempre y cuando se diseñe adecuadamente, tiene como 
+ventaja que refleja de manera más precisa las características de la población de 
+la cual fueron elegidas, en comparación con otro tipo de muestras.  
+ 
+
+--- PAGINA 75 ---
+ 
+75 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Muestreo aleatorio por conglomerados (o racimos) 
+ 
+Por su parte, en el muestreo por conglomerados o racimos, la homogeneidad 
+se va a dar cuando los subgrupos se parecen entre sí, pero dentro hay 
+variación. Este tipo de diseño muestral se utiliza cuando se tiene una población 
+muy grande y dispersa; y adicionalmente, no se dispone de una lista detallada 
+y enumerada de cada una de las unidades que conforman la población y resulta 
+muy complejo elaborarla (López, 2004).  
+Para su selección, primero se conforman los conglomerados, se eligen 
+aleatoriamente los que integrarán la muestra y, finalmente,  se seleccionan al 
+azar las unidades muéstrales de cada uno. Si un conglomerado tiene un peso 
+mayor de unidades puede utilizarse un muestreo proporcional a su tamaño 
+(Hernández y Carpio, 2009). Entonces, la principal diferencia entre las muestras 
+estratificadas y por conglomerados es la forma como se construyen los 
+subgrupos. En la Figura 12. 8 se representan las diferenci as entre el muestreo 
+por conglomerados y el estratificado. 
+ 
+Figura 12.8 Diferencias entre las muestras estratificadas y por conglomerados 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+
+
+--- PAGINA 76 ---
+ 
+76 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Entonces, se recomienda utilizar el muestreo estratificado cuando cada grupo  
+tiene una pequeña variación dentro de sí mismo, pero hay una amplia variación 
+de un grupo a otro. Por el contrario, se recomienda utilizar el muestreo por 
+conglomerados en el caso opuesto, cuando hay una variación considerable 
+dentro de cada grupo, pero l os grupos son esencialmente similares entre sí 
+(Levin & Rubin, 2004). 
+ 
+Muestreo aleatorio polietápico  
+ 
+El muestreo aleatorio en varias etapas se considera como una variante o 
+complemento del muestreo por conglomerados. Las muestras se diseñan en 
+varias etapas cuando no se dispone de la localización exacta de cada una de las 
+unidades de observación, o cuando  el tamaño de la población de estudio es 
+demasiado grande. Entonces se forman conglomerados agrupando unidades 
+de observaciones que tienen características en común (INEGI, 2011).  
+Cuando la población que se está estudiando se divide en conglomerados, pero 
+estos tienen mucha diferencia de tamaño, se pueden hacer nuevos subgrupos 
+al interior del conglomerado más grande. Por eso, las muestras pueden ser 
+bietápicas (dos etapas), trietápicas (tres etapas) y polietápicas (o multietápicas). 
+Otra solución a este pr oblema de disparidad de tamaños entre los 
+conglomerados es combinar esta técnica de muestreo con los estratos. Así 
+surgen las encuestas aleatorias, polietápicas, estratificadas y por 
+conglomerados del INEGI, mismas que son poderosos instrumentos 
+estadísticos para hacer inferencias sobre distintas características de la 
+población en nuestro país. 
+ 
+Tamaño de la muestra 
+ 
+El tamaño de la muestra es un tema muy relevante ya que ésta debe incluir una 
+cantidad mínima de elementos si se quiere  que refleje las condiciones de la 
+población o universo con cierto grado de exactitud y confiabilidad. En la Figura 
+12.9 se resume en tres pasos lo que se debe hacer para construir una muestra 
+aleatoria simple. Es importante considerar que la construcción de las muestras 
+
+--- PAGINA 77 ---
+ 
+77 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+sistemáticas, estratificadas y por conglomerados requiere cálculos adicionales 
+cuyo estudio supera los objetivos del presente Tema.   
+Figura 12.9 Construcción de una muestra aleatoria simple  
+ 
+Fuente: elaboración propia SHCP (2026) con base en Levin y Rubin (2004). 
+ 
+Como primer paso, se debe conocer el tamaño de la población o universo, que 
+corresponde al número total de elementos que conforman la población objeto 
+de estudio. Para estudios con bastantes elementos, se puede  usar un valor 
+aproximado en lugar de un número exacto. Entre más grande sea el tamaño 
+del universo, se pueden usar aproximaciones con mayor libertad. Por ejemplo, 
+si la población objetivo incluye a todos los habitantes del país, se puede usar 
+un estimado de 130 millones de habitantes, a pesar de que el número real 
+pueda variar por algunos cientos o miles de individuos.  
+En segundo lugar, se debe determinar el margen de error. A pesar de que las 
+muestras aleatorias se construyen para ser representativas de la población de 
+donde son obtenidas, siempre existe una posibilidad de error, lo cual 
+estadísticamente es aceptable. A este margen de error se le conoce como 
+intervalo de confianza, que en palabras más sencillas implica el determinar qué 
+grado de error se está dispuesto a aceptar en los resultados.  
+
+
+--- PAGINA 78 ---
+ 
+78 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Este margen de error es un porcentaje que indica qué tan cerca estarán los 
+resultados de la muestra, respecto del valor real de la población general.  A 
+menor margen de error, las medidas tenderán a ser más exactas; sin embargo, 
+la elección de un margen de error más 
+pequeño requerirá que se tome un 
+tamaño de muestra más grande. Al 
+presentar los resultados del estudio, el 
+margen de error se denota usualmente 
+como un porcentaje negativo y positivo 
+a la vez. Por  ejemplo: “60% de los 
+jóvenes en  México tienen algún 
+contacto con el mundo digital, con un 
+margen de error de +/ - 5%”. En nuestro 
+ejemplo, el margen de error indica que quien realizó el estudio está “seguro” 
+que, si hiciera el mismo análisis con todos los jóve nes de nuestro país, un 
+porcentaje de entre 55% (60 – 5) y 65% (60 + 5) de jóvenes tendría algún 
+contacto con el mundo digital.  
+El tercer paso es establecer el nivel de confianza, el cual está relacionado 
+estrechamente con el intervalo de confianza (o margen de error). Este valor 
+mide el grado de certidumbre de la medida en cuanto a qué tan bien una 
+muestra representa la población objetivo, respetando el margen de error 
+establecido. En otras palabras, si elegimos un niv el de confianza de 95% nos 
+permitirá afirmar que estamos 95% seguros de que los resultados obtenidos 
+respetaron el margen de error que se escogió previamente.  
+A mayor nivel de confianza, mayor será el grado 
+de exactitud que tendrán los resultados, pero a  
+su vez, requerirá que se tome una muestra más 
+grande. En el ejemplo anterior de los jóvenes, si 
+se estableciera un nivel de confianza de 95%, esto 
+querrá decir que estamos 95% seguros de que un 
+porcentaje de entre 55% y 65% de los jóvenes 
+tienen alguna re lación con el mundo digital. Los 
+niveles de confianza usados con más frecuencia 
+son de 90%, de 95% y de 99% de confianza. 
+
+
+--- PAGINA 79 ---
+ 
+79 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Cuando la población determinada sea inferior a 200 elementos, se recomienda 
+utilizar el método de muestreo aleatorio simple. En cambio , cuando existan 
+más de 200 registros, se sugiere adoptar el muestreo estratificado. No 
+obstante, también se podrá emplear la estratificación en poblaciones de 
+tamaño menor.  
+Una vez que se cuenta con una muestra estadísticamente representativa, se 
+puede utilizar para hacer distintos cálculos como puede ser la media, misma 
+que se revisó al inicio del Tema. Al momento de tomar los datos de la muestra 
+como representativos de su p oblación, se deben considerar todas las 
+características y limitaciones que tiene cada método. Adicionalmente, las 
+muestras no solo sirven para obtener estadística descriptiva, también son 
+relevantes para generar los modelos de estadística inferencial que s e 
+presentaron en la Figura 12.1.  
+ 
+Usos del muestreo en la Evaluación del Desempeño  
+ 
+Las técnicas estadísticas revisadas previamente pueden ser utilizada s en 
+distintos momentos para llevar a cabo evaluaciones. Un ejemplo de ello ocurre 
+al establecer la muestra de los Programas presupuestarios susceptibles de ser 
+evaluados, considerando el promedio de población que atienden o las 
+diferencias presupuestarias otorgadas para atender el problema público, ya 
+sea a través de una mediana, un promedio o una moda.  Esto no significa que 
+sean los únicos elementos considerados al momento de seleccionar muestras 
+de evaluación, sino que representan algunos de los instrumentos disponibles 
+para llevarlo a cabo.  
+Por otro lado, la estadística también está presente cuando s e busca identificar 
+los efectos que la intervención tuvo en la población atendida; a este momento 
+se le conoce como Evaluación de Impacto. 
+Existen dos conceptos clave que se precisarán a continuación en este apartado 
+y que permiten la comprensión de las E valuaciones de I mpacto en futuros 
+Temas. Estas últimas requieren de un diseño muestral riguroso que permita 
+indagar si los cambios en la población son efectivamente atribuibles a la 
+intervención; es decir, se busca identificar si los instrumentos del progra ma 
+ocasionaron el efecto deseado, aislando la influencia de factores externos. 
+
+--- PAGINA 80 ---
+ 
+80 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Existen elementos que suelen confundirse al momento de buscar los efectos 
+de una intervención sobre una población. La inferencia causal y la correlación 
+a menudo se confunden, h aciendo creer que una no podría ser explicada por 
+la otra. Como lo ejemplifica Cunningham (2021), cuando el sol sale, el gallo 
+canta; sin embargo, esto no significa que dicho fenómeno haya sucedido 
+porque el gallo cantó: si el gallo no existiera, el sol ha bría salido de todas 
+maneras. Esto demuestra que de un evento simple se pueden derivar múltiples 
+explicaciones que deben ser validadas por el conocimiento científico. 
+Lo anterior implica que una simple correlación no explica la causalidad sobre 
+un problema público. Esto se debe a que la realidad social es dinámica y se 
+transforma con el paso del tiempo, lo que demuestra que las intervenciones 
+pueden constituir una de las razones por las cuales cambió la situación de una 
+persona; no obstante, ello no signifi ca que expliquen todo el conjunto de 
+factores involucrados para que esto pasara. 
+Veámoslo de esta forma: cuando el médico nos diagnostica una enfermedad, 
+nos prescribe un tratamiento enfocado en mitigar nuestros malestares. Dicho 
+tratamiento debe completar se en un tiempo determinado para cumplir su 
+objetivo: aliviar nuestro padecimiento. Sin embargo, existen otras indicaciones 
+complementarias para mejorar la salud, tales como tomar abundantes líquidos, 
+consumir cierto tipo de alimentos, guardar reposo de se r necesario y evitar el 
+consumo de bebidas alcohólicas. De esta forma, cuando logramos mejorar, 
+sabemos que el medicamento no fue lo único que empleó el doctor para 
+aliviarnos, sino que también dependió de otros factores que eran nuestra 
+responsabilidad. 
+Determinar que nuestros malestares se aliviaron únicamente por el 
+tratamiento médico habría invisibilizado otros mecanismos asociados a la 
+atención de nuestra salud. En la Evaluación de Impacto ocurre una situación 
+similar: cuando se confunde la inferencia causal con la correlación, se suelen 
+formular interpretaciones que solo consideran un elemento de entre todos los 
+instrumentos y herramientas de política pública utilizados para atender el 
+problema público. En la Figura 12.10  se ilustran los ejemplos de correlación e 
+inferencia causal. 
+ 
+ 
+
+--- PAGINA 81 ---
+ 
+81 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Figura 12.10 Comparación entre la correlación y la inferencia causal 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+De esta forma, cuando Gertler et al. (2017) mencionan los elementos clave para 
+las Evaluaciones de Impacto, no se deben confundir. Mientras que una simple 
+correlación solo dice que dos variables se mueven juntas, el análisis 
+contrafactual es la vía estadística para contrastar a la población que recibió el 
+tratamiento frente a la que no lo recibió, permitiendo responder con rigor qué 
+habría pasado con los beneficiarios en ausencia del programa. 
+Dentro del contrafactual, a la población que n o recibió el tratamiento se le 
+conoce como “grupo de control”, mientras que a la que sí lo recibió se le 
+denomina “grupo de tratamiento”. El reto en la Evaluación de Impacto radica 
+en que estas poblaciones deben ser estadísticamente idénticas, garantizando  
+así que exista una relación atribuible al tratamiento otorgado. Dicha similitud 
+estadística se establece a partir de variables como sexo, género, edad, trabajo, 
+ubicación geográfica y otras que el investigador determine para asegurar que 
+los grupos se an idénticos. En la Figura 12.11  se ilustra el ejemplo del análisis 
+contrafactual. 
+ 
+ 
+
+
+--- PAGINA 82 ---
+ 
+82 
+ 
+Herramientas metodológicas para la Evaluación del Desempeño II 
+Figura 12.11 Ejemplo de Análisis contrafactual 
+ 
+  
+Fuente: elaboración propia SHCP, 2026. 
+ 
+En resumen, la inferencia causal es el marco metodológico y estadístico que 
+permite afirmar con certeza científica la relación entre la causa y el efecto del 
+programa, mientras que el contrafactual es la búsqueda de un clon en la 
+población que no recibió e l programa presupuestario —y que, por lo tanto, 
+puede compararse con quienes sí recibieron dicho tratamiento — para 
+identificar los efectos observados. Es por ello que la estadística no está sujeta 
+únicamente a una etapa del ciclo de Políticas Públicas, resultando fundamental 
+comprender cada uno de sus componentes y su interacción en el quehacer 
+cotidiano de los hacedores de política pública. 
+
+
+--- PAGINA 83 ---
+ 
+83 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A lo largo del Módulo se estudiaron las herramientas metodológicas y técnicas 
+necesarias para comprender los procesos de Evaluación del Desempeño en las 
+intervenciones públicas. Lo anterior, se basa en el estudio de la Teoría del 
+Cambio y su articulación con la Metodología del Marco Lógico. Así mismo, se 
+realizó una revisión de los métodos cualitativos, cuantitativos y mixtos que 
+permiten integrar la evidencia, asegurando una comprensión del valor público 
+generado. Finalmente, la aproximación a los fundamentos del diseño muestral 
+dota a las y los estudiantes del rigor analítico requerido para juzgar la 
+representatividad, validez e inferencia estadística de los hallazgos evaluativos.  
+Así, este Módulo nos muestra cómo el rigor técnico no es solo un trámite, sino 
+la herramienta clave para guiar la asignación de recursos, impulsar la mejora 
+continua de las Políticas Públicas y de los Programas presupuestarios para que 
+generen real valor público. Una vez hecha la cimentación de las bases para la 
+recolección y análisis de información, en los siguientes tres Módulos se 
+estudiarán las distintas caras de la evaluación del desempeño en México.  
+El Módulo III abre con el estudio del enfoque progresivo de maduración para 
+posteriormente abordar los cuatro tipos de evaluaciones a Programas 
+presupuestarios. Por su parte, en el Módulo IV se estudian los distintos 
+abordajes desde los cuales se puede evaluar el gasto federalizado, que es el 
+dinero que se transfiere a los gobiernos de los órdenes estatal y municipal. 
+Finalmente, en el Módulo V se estudian los avances en la evaluación a Políticas 
+Públicas y los retos que ofrece el proceso evaluativo a futuro.  
+Conclusiones 
+
+--- PAGINA 84 ---
+ 
+84 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 8.1 Secuencia de eventos que generan resultados por medio de las 
+TdC .......................................................................................................................... 8 
+Figura 8.2 Ejemplo práctico sobre el núcleo duro ........................................... 9 
+Figura 8.3 Tipos de Instrumentos de Seguimiento del Desempeño ........... 12 
+Figura 8.4 Dónde encontrar los elementos de la TdC en la MML ................ 13 
+Figura 8.5 Árbol del Problema .......................................................................... 14 
+Figura 8.6 Transición de la lógica causal desde el Árbol del Problema hasta 
+la EAP ................................................................................................................... 14 
+Figura 8.7 Elementos orientadores para el análisis de un problema público
+ .............................................................................................................................. 16 
+Figura 8.8 Importancia de la TdC en el ciclo de políticas ............................. 17 
+Figura 8.9 Representación esquemática de la Teoría del Cambio .............. 18 
+Figura 8.10 Desarrollo de una Teoría del Cambio ......................................... 19 
+Figura 8.11 Escenarios en los que es posible desarrollar una TdC.............. 19 
+Figura 8.12 Elementos de una cadena de resultados básica ....................... 20 
+Figura 8.13 Etapas de la TdC como enfoque para la evaluación ................. 22 
+Figura 8.14 Ventajas de la TdC como enfoque para la evaluación .............. 23 
+Figura 9.1 Principales características de la investigación cualitativa ........ 28 
+Figura 9.2 Métodos cualitativos aplicables a la evaluación ......................... 29 
+Figura 9.3 Etapas sugeridas para la conformación de un grupo de enfoque
+ .............................................................................................................................. 33 
+Figura 10.1 Tipos de investigación cuantitativa ............................................ 37 
+ 
+Lista de figuras, cuadros y tablas 
+
+--- PAGINA 85 ---
+ 
+85 
+ 
+ 
+ 
+ 
+ 
+ 
+Cuadro 10.1 Comparación entre diseños experimentales y no 
+experimentales .................................................................................................. 50 
+Figura 11.1 Principales diferencias entre los métodos cuantitativos y 
+cualitativos ......................................................................................................... 52 
+Figura 11.2 Alcance de la aplicación de métodos mixtos ............................. 55 
+Figura 11.3 Elementos para tomar decisiones clave en los métodos mixtos
+ .............................................................................................................................. 55 
+Figura 11.4 Definición de las fases de estudio del método mixto .............. 56 
+Figura 11.5 Niveles en los que se integran los métodos mixtos ................. 58 
+Figura 12.1 Modelos de estadística inferencial ............................................. 64 
+Figura 12.2 Definiciones de muestra y población ......................................... 66 
+Figura 12.3 Medidas de tendencia central ..................................................... 67 
+Figura 12.4 Promedio de horas de ocupación de las salas de juntas ......... 68 
+Figura 12.5 Tipos de muestreo ......................................................................... 70 
+Figura 12.6 Tipos de muestreo aleatorio ........................................................ 71 
+Figura 12.7 Ejemplo del muestreo aleatorio simple ..................................... 72 
+Figura 12.8 Diferencias entre las muestras estratificadas y por 
+conglomerados ................................................................................................... 75 
+Figura 12.9 Construcción de una muestra aleatoria simple ........................ 77 
+Figura 12.10 Comparación entre la correlación y la inferencia causal ...... 81 
+Figura 12.11 Ejemplo de Análisis contrafactual ............................................. 82 
+  
+
+--- PAGINA 86 ---
+ 
+86 
+ 
+ 
+ 
+ 
+ 
+Tema 8 
+Funnell, S. C., & Rogers, P. J. (2011). Purposeful program theory: Effective use of 
+theories of change and logic models. Jossey-Bass. 
+Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. J. 
+(2017). La evaluación de impacto en la práctica (2.ª ed.). Banco Interamericano de 
+Desarrollo y Banco Mundial. https://doi.org/10.1596/978-1-4648-0888-3 
+Merino, M. (2013). Políticas públicas: Ensayo sobre la intervención del Estado en la 
+solución de problemas públicos. Centro de Investigación y Docencia Económicas. 
+Merino, M., & Cejudo, G. (Coords.). (2010). Problemas, decisiones y soluciones: 
+Enfoques de política pública. Fondo de Cultura Económica; Centro de 
+Investigación y Docencia Económicas. 
+Ortegón, E., Pacheco, J. F., & Prieto, A. (2005). Metodología del marco lógico para 
+la planificación, el seguimiento y la evaluación de proyectos y programa s (Serie 
+Manuales No. 42). Comisión Económica para América Latina y el Caribe (CEPAL). 
+https://repositorio.cepal.org/handle/11362/5607  
+Rogers, P. (2014 ). La teoría del cambio. Síntesis metodológicas: evaluación de 
+impacto n.º 2. Centro de Investigaciones de UNICEF. 
+Secretaría de Hacienda y Crédito Público. (2026). Lineamientos para regular la 
+gestión de los Instrumentos de Diseño y de Seguimiento del desempeño de los 
+Programas presupuestarios. 
+ https://www.gob.mx/cms/uploads/attachment/file/978244/Lineamientos_ID-
+ISD_2025.pdf 
+ 
+ 
+ 
+Bibliografía 
+
+--- PAGINA 87 ---
+ 
+87 
+ 
+ 
+ 
+Tema 9 
+Álvarez-Gayou, J. L. (2003). Cómo hacer investigación cualitativa, fundamentos y 
+metodología. Paidós. 
+http://www.derechoshumanos.unlp.edu.ar/assets/files/documentos/como-
+hacer-investigacion-cualitativa.pdf 
+Bamberger, M., Rugh, J., y Mabry, L. (2011). RealWorld evaluation: Working under 
+budget, time, data, and political constraints. [Evaluación en el mundo real: trabajar 
+bajo restricciones presupuestarias, de tiempo, de datos y políticas] (2.ª ed.). SAGE 
+Publications. 
+Boyce, C., & Neale, P. (2006). Conducting In -depth interviews. Monitoring and 
+Evaluation. [Realizando entrevistas a profundidad. Seguimiento y evaluación].  
+Pathfinder International. https://nyhealthfoundation.org/wp -
+content/uploads/2019/02/m_e_tool_series_indepth_interviews-1.pdf  
+Creswell, J. W., y Creswell, J. D. (2018). Research design: Qualitative, quantitative, 
+and mixed methods approaches [Diseño de investigación: enfoques cualitativos, 
+cuantitativos y métodos mixtos] (5.ª ed.). SAGE Publications. 
+García, R. (2010). Utilidad de la integración y convergencia de los métodos 
+cualitativos y cuantitativos en las investigaciones en salud.  Revista Cubana de 
+Salud Pública, 36(1), 19 -29. 
+https://www.redalyc.org/articulo.oa?id=21416134004  
+Gobierno de México. (2018).  Guía para realizar grupos de enfoque orientados al 
+diseño de servicios digitales centrados en el usuario.  
+https://www.gob.mx/wikiguias/articulos/guia-para-realizar-grupos-de-
+enfoque-orientados-al-diseno-de-servicios-digitales-centrados-en-el-
+usuario?tab=  
+ 
+ 
+ 
+
+--- PAGINA 88 ---
+ 
+88 
+ 
+ 
+ 
+ 
+ 
+ 
+Hamui-Sutton, A., & Varela -Ruiz, M. (2013). La técnica de grupos focales.  
+Investigación en Educación Médica, 2(5), 55 -60. 
+https://www.redalyc.org/articulo.oa?id=349733230009  
+Kahan, J. (2001). Focus Groups as a tools for policy analysis. Analyses of Social Issues 
+and Public Policy [Los grupos focales como herramienta para el análisis de políticas. 
+Análisis de cuestiones sociales y políticas públicas].  
+https://psicopolis.com/Grupponew/focgrpol.pdf  
+MacDougal, C., & Fudge, E. (2001). Planning and Recruiting the Sample for Focus 
+Groups and In -Depth Interviews. Qualitative Health Research [Planificación y 
+reclutamiento de la muestra para grupos focales y entrevistas en profundidad]  
+Miles, M., & Huberman, M. (1994). Qualitative Data Analysis: An expa nded 
+sourcebook [Análisis de datos cualitativos: un manual ampliado].  California: SAGE 
+Publications. 
+https://vivauniversity.files.wordpress.com/2013/11/milesandhuberman1994.p
+df  
+Patton, M. (1987). How to use Qualitative Methods in Evaluation [Cómo utilizar  
+métodos cualitativos en la evaluación].  SAGE Publications. 
+https://books.google.com.mx/books?id=0co1ESOVJHkC&printsec=frontcover&
+hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q=%20human%20inte
+ractions&f=false  
+Patton, M. Q. (2014). Qualitative research & evaluation methods: Integrating theory 
+and practice [Métodos de investigación y evaluación cualitativa: integración de 
+teoría y práctica] (4.ª ed.). SAGE Publications. 
+Quecedo, R., & Castaño, C. (2002). Introducción a la metodología de investigación 
+cualitativa. Revista de Psicodidáctica (14), 5 -39. 
+https://www.redalyc.org/pdf/175/17501402.pdf  
+
+--- PAGINA 89 ---
+ 
+89 
+ 
+ 
+ 
+ 
+ 
+ 
+Rubin, H., y Rubin, I. (2005). Qualitative Interviewing. Art of hearing data. 
+[Entrevistas cualitativas. El arte de escuchar los datos] . SAGE Publications . 
+https://books.google.com.mx/books?id=nrHnP5kT1_EC&printsec=frontcover&
+hl=es&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false  
+Weiss, C. H. (1998 ). Evaluation: Methods for studying programs and policies 
+[Evaluación: Métodos para estudiar programas y políticas] (2.ª ed.). Prentice Hall. 
+ 
+Tema 10 
+Attanasio, O., Kugler, A., & Meghir, C. (2011). Subsidizing vocational training for 
+disadvantaged youth in Colombia: Evidence from a randomized trial. American 
+Economic Journal: Applied Economics, 3(3), 188 -220. 
+https://www.aeaweb.org/articles?id=10.1257/app.3.3.188 
+Creswell, J. W. (2014). Research design: Qualitative, quantitative, and mixed 
+methods approaches (4ta ed.). SAGE Publications. 
+Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C . M. 
+(2011). La evaluación de impacto en la práctica. Banco Mundial y Banco 
+Interamericano de Desarrollo. 
+Henderson, J. V., Storeygard, A., & Weil, D. N. (2012). Measuring economic growth 
+from outer space.  The American Economic Review, 102(2), 994 -1028. 
+https://www.aeaweb.org/articles?id=10.1257/aer.102.2.994   
+Hernández, R., Fernandez, C., & Baptista, P. (2014). Metodología de la 
+investigación (Sexta ed.).  México: Mc Graw Hill. 
+https://apiperiodico.jalisco.gob.mx/api/sites/periodicooficial.jalisco.gob.mx/fil
+es/metodologia_de_la_investigacion_-_roberto_hernandez_sampieri.pdf  
+ 
+
+--- PAGINA 90 ---
+ 
+90 
+ 
+ 
+ 
+ 
+ 
+ 
+Hurtado de Barrera, J. (2010). Metodología de la investigación: Guía para la 
+comprensión holística de la ciencia (4ta ed.). Quirón Ediciones. 
+Kusek, J. Z., & Rist, R. C. (2004). Ten steps to a results -based monitoring and 
+evaluation system.  The World Bank. 
+https://openknowledge.worldbank.org/server/api/core/bitstreams/f87d81cf-
+54e9-5a35-ab9e-dc24fc61f85a/content  
+Murillo, F. J. (s.f.). La investigación experimental y no experimenta l. Universidad 
+Autónoma de Madrid. 
+Pérez, R., & Gómez, A. (2021). Propuesta metodológica para el rediseño y 
+focalización de subsidios agrícolas en México a partir del enfoque de marco lógico. 
+Gestión y Política Pública, 30(1), 115-148.  
+Rossi, P. H., Lipse y, M. W., & Freeman, H. E. (2004).  Evaluation: A systematic 
+approach (7.ª ed.). SAGE Publications. 
+Salkind, N. (1998). El papel y la importancia de la investigación. En N. Salkind, 
+Métodos de Investigación.  México: Prentice Hall. Obtenido de 
+https://sbecdb035178db168.jimcontent.com/download/version/0/module/101
+20081460/name/M%C3%A9todos-de-investigacion.pdf  
+Sarmiento, M. C., & Galárraga, C. A. (2022). Estudio exploratorio del entorno 
+fintech en Ecuador.  Revista Científica de Ciencias Administrativas STRATE GOS, 
+2(2). 
+https://revistas.ug.edu.ec/index.php/strat/en/article/download/1825/4308/11
+493 
+Simon, H. (2007). Formación de problemas, detección de problemas y solución de 
+problemas de Diseño. En W. González, Las Ciencias del Diseño: Racionalidad 
+limitada, predicción y prescripción. La Coruña: Netbiblo. 
+ 
+
+--- PAGINA 91 ---
+ 
+91 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Hacienda y Crédito Público. (2026a). Términos de referencia para la 
+evaluación de consistencia y resultados. Unidad de Política y Estrategia para 
+Resultados.https://www.transparenciapresupuestaria.gob.mx/work/models/PT
+P/SED/Documentos/MTdR_ECyR_PAE_2026.docx 
+Weiss, C. H. (1998). Evaluation: Methods for studying programs and policies (2.ª 
+ed.). Prentice Hall. 
+ 
+Tema 11 
+Bazeley, P. (2018). Integrating analyses in  mixed methods research.  SAGE 
+Publications. 
+Creswell, J. W., & Plano Clark, V. L. (2018).  Designing and conducting mixed 
+methods research (3rd ed.). SAGE Publications. 
+Fetters, M. D., Curry, L. A., & Creswell, J. W. (2013). Achieving integration in mixed 
+methods designs—principles and practices. Health services research.  
+Goetz, J. P., & LeCompte, M. D. (1988). Etnografía y diseño cualitativo en 
+investigación educativa. Ediciones Morata. 
+Guetterman, T. C., Fetters, M. D., & Creswell, J. W. (2015). Integrating quantitative 
+and qualitative results in health science mixed methods research through joint 
+displays. The Annals of Family Medicine, 13(6), 554-561. 
+Johnson, R. B., Onwuegbuzie, A. J., & Turner, L. A. (2007 ). Toward a definition of 
+mixed methods research. Journal of mixed methods research. 
+Mertens, D. M. (2015). Research and evaluation in education and psychology: 
+Integrating diversity with quantitative, qualitative, and mixed methods.  SAGE 
+Publications. 
+
+--- PAGINA 92 ---
+ 
+92 
+ 
+ 
+ 
+ 
+ 
+ 
+Morgan, D. L. (1998). Practical strategies f or combining qualitative and 
+quantitative methods: Applications to health research. Qualitative health research. 
+Morse, J. M. (1991). Approaches to qualitative -quantitative methodological 
+triangulation. Nursing research, 40(2). 
+Patton, M. Q. (2014). Qualitative research & evaluation methods: Integrating theory 
+and practice. SAGE Publications.   
+Quecedo, R., & Castaño, C. (2002). Introducción a la metodología de investigación 
+cualitativa. Revista de Psicodidáctica. 
+https://www.redalyc.org/pdf/175/17501402.pdf 
+Tashakkori, A., & Teddlie, C. (Eds.). (2010). SAGE handbook of mixed methods in 
+social & behavioral research. SAGE Publications. 
+ 
+Tema 12 
+Cunningham, S. (2021). Causal inference: The mixtape. Yale University Press.  
+Gertler, P. J., Martinez, S., Premand , P., Rawlings, L. B., & Vermeersch, C. M. J. 
+(2017). La evaluación de impacto en la práctica (2.ª ed.).  Banco Mundial; Banco 
+Interamericano de Desarrollo. https://publications.iadb.org/es/la -evaluacion-
+de-impacto-en-la-practica-segunda-edicion  
+Hernández, C. A., & Carpio, N. A. (2019). Introducción a los tipos de muestreo. 
+ALERTA. Revista Científica del Instituto Nacional de Salud, 76 -79. 
+https://camjol.info/index.php/alerta/article/view/7535/7746  
+INEGI. (2021). Guía de Diseño de la Muestra para Encuestas . INEGI. 
+https://www.inegi.org.mx/contenidos/infraestructura/aseguramiento/doc/gui
+a_de_diseno_de_la_muestra_para_encuestas.pdf  
+
+--- PAGINA 93 ---
+ 
+93 
+ 
+ 
+ 
+ 
+ 
+ 
+Levin, R. I., & Rubin, D. S. (2004). Estadística para la Administración y Economía 
+(Séptima ed.). Pearson Education.  
+López, P. L. (2004). Población, muestra y muestreo. Punto Cero, 9(8), 69 -74. 
+http://www.scielo.org.bo/pdf/rpc/v09n08/v09n08a12.pdf  
+Quevedo, F. (2011). Estadística Aplicada a la Investigación en Salud. Medwave (3). 
+ 
+ 
+ 
+
+--- PAGINA 94 ---
+ 
+ 
+ 

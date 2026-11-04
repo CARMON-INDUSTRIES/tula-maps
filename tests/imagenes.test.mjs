@@ -41,9 +41,11 @@ test("borra la imagen seleccionada por la ruta protegida y conserva errores del 
 test("valida cantidad, formato y tamaño antes de subir", () => {
   assert.throws(() => validarImagenes([]), /1 y 10/);
   assert.throws(() => validarImagenes(Array.from({ length: 11 }, foto)), /1 y 10/);
-  assert.throws(() => validarImagenes([new File([], "vacia.png", { type: "image/png" })]), /5 MB/);
+  assert.throws(() => validarImagenes([new File([], "vacia.png", { type: "image/png" })]), /4 MB/);
   assert.throws(() => validarImagenes([new File(["svg"], "imagen.svg", { type: "image/svg+xml" })]), /JPG, PNG o WebP/);
-  assert.throws(() => validarImagenes([new File([new Uint8Array(MAX_IMAGEN_BYTES + 1)], "grande.jpg", { type: "image/jpeg" })]), /5 MB/);
+  assert.throws(() => validarImagenes([new File([new Uint8Array(MAX_IMAGEN_BYTES + 1)], "grande.jpg", { type: "image/jpeg" })]), /4 MB/);
+  const mediana = () => new File([new Uint8Array(3 * 1024 * 1024)], "mediana.jpg", { type: "image/jpeg" });
+  assert.throws(() => validarImagenes([mediana(), mediana()]), /envío completo.*4 MB/);
   assert.doesNotThrow(() => validarImagenes([foto()]));
 });
 

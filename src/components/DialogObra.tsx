@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { Building2, MapPin, X } from "lucide-react";
+import { Building2, X } from "lucide-react";
 import type { Comunidad } from "@/types/comunidad";
 import ImagenesObra from "@/components/ImagenesObra";
 
@@ -23,7 +23,7 @@ export default function DialogObra({ obra, onClose }: {
       if (e.clientX < rect.left || e.clientX > rect.right || e.clientY < rect.top || e.clientY > rect.bottom) e.currentTarget.close();
     }}>
       {obra && <>
-        <header className="works-header"><span className="eyebrow"><MapPin size={13} /> OBRAS POR COMUNIDAD</span><button autoFocus className="icon-button" onClick={() => dialogRef.current?.close()} aria-label="Cerrar detalles"><X size={20} /></button><h2 id="community-title">{obra.nombre}</h2><p>{obra.descripcion || "Conoce las intervenciones registradas en esta comunidad."}</p><span className="works-count"><Building2 size={14} /> {obra.obras.length} {obra.obras.length === 1 ? "obra registrada" : "obras registradas"}</span></header>
+        <header className="works-header"><button autoFocus className="icon-button" onClick={() => dialogRef.current?.close()} aria-label="Cerrar detalles"><X size={20} /></button><h2 id="community-title">{obra.nombre}</h2><p>{obra.descripcion || "Conoce las intervenciones registradas en esta comunidad."}</p><span className="works-count"><Building2 size={14} /> {obra.obras.length} {obra.obras.length === 1 ? "obra registrada" : "obras registradas"}</span></header>
         <div className="works-content">
           {!obra.obras.length ? <div className="empty-state"><Building2 size={32} /><h3>Aún no hay obras registradas</h3><p>Puedes explorar otra comunidad desde el mapa.</p></div> : obra.obras.map(o => (
             <article className="work-card" key={`${obra.id}-${o.id}`}>

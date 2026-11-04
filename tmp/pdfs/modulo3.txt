@@ -1,0 +1,2852 @@
+
+--- PAGINA 1 ---
+ 
+Módulo III La evaluación del 
+desempeño a Programas 
+presupuestarios. 
+
+--- PAGINA 2 ---
+ 
+ 
+Diplomado de Evaluación del Desempeño a 
+Intervenciones Públicas 
+Septiembre de 2026  
+ 
+Subsecretaría de Egresos  
+Unidad de Política y Estrategia para Resultados  
+ 
+Av. Insurgentes Sur 1971, Torre III, Piso 12  
+Col. Guadalupe Inn, C.P. 01020  
+Alcaldía Álvaro Obregón, Ciudad de México 
+
+--- PAGINA 3 ---
+ 
+ 
+Edgar Abraham Amador Zamora  
+Secretario de Hacienda y Crédito Público  
+ 
+Bertha Gómez Castro  
+Subsecretaria de Egresos  
+ 
+Juan Armando Rodríguez Lara  
+Titular de la Unidad de Política y Estrategia para 
+Resultados  
+ 
+Coordinación del Diplomado  
+ 
+Gabriela Cantón Santana  
+Directora de Profesionalización  
+ 
+Equipo Técnico  
+ 
+Maribel García Rivera 
+Subdirectora de Planes y Programas de Formación  
+ 
+Jessica Estrada Sánchez  
+Subdirectora de Contenidos  
+ 
+Diana Longino Hilario 
+Jefe de Departamento de Metodologías de Formación  
+ 
+Ricardo Ángel Ayala González  
+Jefe de Departamento de Programas de Formación 
+ 
+Alma Rosa Mateo Pérez 
+Jefa de Departamento 
+
+--- PAGINA 4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introducción ______________________________________________ 5 
+Tema 13 
+Dimensiones de la Evaluación del Desempeño _____________ 7 
+Tema 14 
+Evaluación de Consistencia y Resultados  __________________ 17 
+Tema 15 
+Evaluación de Indicadores _________________________________ 29 
+Tema 16 
+Evaluación de Procesos ____________________________________ 48 
+Tema 17 
+Evaluación de Impacto ____________________________________ 62 
+Conclusiones ______________________________________________ 75 
+Lista de figuras, cuadros y tablas __________________________ 77 
+Bibliografía ________________________________________________ 79 
+ 
+ 
+
+--- PAGINA 5 ---
+ 
+5 
+ 
+ 
+ 
+  
+Una vez concluido el análisis de las herramientas metodológicas 
+aplicables a los ejercicios evaluativos, es momento de abordar los tipos 
+específicos de Evaluación vigentes en México. Para ello, a lo largo de los 
+próximos tres Módulos se estudiarán estas tipologías clasificadas en tres 
+enfoques principales. 
+En el Módulo III se revisarán las Evaluaciones de Consistencia y 
+Resultados, Indicadores, Procesos e Impacto, las cuales corresponden a 
+los tipos de Evaluación aplic ables a los Programas presupuestarios. El 
+objetivo fundamental de este apartado es que las personas participantes 
+comprendan sus principales características, elementos metodológicos y 
+alcance. 
+Por su parte, el Módulo IV analizará la Evaluación desde la per spectiva 
+del gasto federalizado; es decir, los recursos que el Gobierno Federal 
+transfiere a las entidades federativas, municipios y demarcaciones 
+territoriales de la Ciudad de México en el marco del Sistema Nacional de 
+Coordinación Fiscal, para la ejecuci ón de diversas actividades 
+gubernamentales. 
+Finalmente, a diferencia del Módulo III, donde la unidad de análisis es el 
+Programa presupuestario, el Módulo V abordará las intervenciones 
+públicas desde una perspectiva de mayor magnitud y alcance: el 
+enfoque d e Políticas Públicas. Con este fin, se examinarán las 
+Evaluaciones Específicas de Gestión Operativa, las cuales ya se 
+incorporan en el Programa Anual de Evaluación (PAE) 2026 y 2027, así 
+como otros esquemas hacia los cuales transitará la Evaluación de 
+Políticas Públicas en el mediano plazo, tales como las Evaluaciones a los 
+Programas Derivados del Plan Nacional de Desarrollo y a los Anexos 
+Transversales. 
+Introducción 
+
+--- PAGINA 6 ---
+ 
+6 
+ 
+  
+Tomando esto en consideración, el Módulo III inicia con el Tema 13 el 
+cual tiene como objetivo que las personas participantes comprendan las 
+diversas dimensiones que conforman la Evaluación del Desempeño, 
+reconociendo que no existe un esquema único ni una sola metodología 
+aplicable a todas las intervenciones públicas. A través del análisis de las 
+distintas clasificaciones, podrán identificar la “caja de herramientas” 
+disponible para realizar Evaluaciones y asimilar cómo estas dimensiones 
+suelen intersecarse en los ejercicios reales.   
+Posteriormente, en los Temas 14 a 17 se estudian cada uno de los tipos 
+específicos de Evaluación referidos previamente partiendo de la revisión 
+de los Términos de Referencia aplicables para cada uno de ellos. 
+Inicialmente, se h ace una delimitación conceptual para comprender el 
+enfoque que aborda el tipo de Evaluación, así como su objetivo general 
+y específicos.  
+A continuación, se analiza el alcance del ejercicio evaluativo y su 
+relevancia dentro del Sistema de Evaluación del De sempeño (SED), 
+concluyendo con la revisión del abordaje metodológico empleado para 
+su ejecución. Cabe destacar que este esquema analítico no aplica para la 
+Evaluación de Impacto; debido a la rigurosidad y diseño estadístico que 
+exige su naturaleza, no se d ispone de un modelo estandarizado de 
+Términos de Referencia, por lo que el análisis se centrará en los retos 
+metodológicos que implica su diseño e implementación. 
+ 
+Introducción 
+
+--- PAGINA 7 ---
+ 
+7 
+ 
+La evaluación del desempeño a Programas presupuestarios. III 
+ 
+ 
+Como se revisó en los Módulos anteriores, el ejercicio evaluativo puede 
+aplicarse a prácticamente cualquier actividad humana. Por esta razón, resulta 
+inviable implementar un solo esquema de evaluación aplicable a todos los 
+casos, así como también sería imposible utilizar  una sola metodología para 
+implementarlos. De ahí la necesidad de conocer distintas dimensiones en la 
+Evaluación del Desempeño, cuya clasificación y alcances se presentan en la 
+Figura 13.1.  
+Figura 13.1 Dimensiones de la Evaluación del Desempeño 
+ 
+Fuente: elaboración propia SHCP, 2026.
+TEMA 13. Dimensiones de la Evaluación del Desempeño 
+
+--- PAGINA 8 ---
+ 
+8 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Si bien el estudio de estas dimensiones es fundamental para comprender la 
+caja de herramientas disponible para realizar Evaluaciones del Desempeño, en 
+la práctica son frecuentes las intersecciones entre ellas en los ejercicios 
+evaluativos. Por ejemplo, las  
+Evaluaciones de Consistencia y 
+Resultados son 
+predominantemente de 
+gabinete; sin embargo, se 
+pueden complementar con 
+investigaciones de campo. Por 
+su parte, las Evaluaciones de Impacto tienen un fuerte componente 
+cuantitativo, pero su planteamiento se realiza desde el ámbito cualitativo. 
+Tomando esto en consideración, a continuación, se detallan las características 
+de cada una de estas dimensiones.  
+ 
+Evaluaciones a poblaciones objetivo y a áreas de enfoque  
+ 
+De acuerdo con la Ley Federal de Presupuesto y Responsabilidad Hacendaria 
+(LFPRH) y con su Reglamento, la Secretaría de Hacienda y Crédito Público 
+(SHCP), a través de la Unidad de Evaluación del Desempeño (UED), es la 
+responsable, en el marco del Sistema de Evaluación del D esempeño (SED), de 
+coordinar el proceso de evaluación externa realizada a  Políticas Públicas 
+Federales y Programas presupuestarios,  definiendo metodologías y 
+estrategias. 
+ Antes de 2025, la coordinación de las evaluaciones de la política de desarrollo 
+social estaba a cargo del ahora extinto Consejo Nacional de Evaluación de la 
+Política de Desarrollo Social (CONEVAL), cuyas atribuciones se fundamentaban 
+en la Ley General de Desarrollo Social (LGDS). Dicho organismo definía 
+anualmente el universo de análisis (Programas y acciones federales de 
+desarrollo social), así como las metodologías y estrategias de evaluación 
+aplicables. Adicionalmente, contaba con sus propios modelos de  Términos de 
+Referencia (TdR), técnicas y métodos para medir la política social en México, tal 
+como se estudió en el Tema 6 del presente Diplomado.  
+
+
+--- PAGINA 9 ---
+ 
+9 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Actualmente y derivado de esta extinción, ya no se cuenta con la división 
+entre evaluaciones sociales y no sociales, pero si es posible identificar 
+diferencias entre las realizadas a poblaciones objetivo y a aquellas realizadas a 
+áreas de enfoque (véase Figura 13.2).  
+Figura 13.2 Poblaciones beneficiarias de los Programas presupuestarios  
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2026a). 
+ 
+Si bien, ambos tipos de poblaciones son consideradas como beneficiarias de un 
+Programa presupuestario (Pp), la población objetivo es un subconjunto de la 
+población potencial que se tiene previsto atender efectivamente en un periodo 
+determinado a través de un Pp y que cumple con los criterios de elegibilidad 
+establecidos en la normativa (SHCP, 2026a). Las poblaciones objetivo están 
+conformadas por aquellas personas que comparten la misma afectación 
+derivada de un problema público. Por ende, los Pp que se construyen en torno 
+a la atención de estos tipos de problemas, cuentan con bienes y/o servicios que 
+se entregan directamente a las personas. Para este tipo de Programas, la 
+revisión del padrón de beneficiarios y un riguroso análisis de poblaciones es 
+indispensable.  
+En contraste, las  áreas de enfoque  son unidades de análisis u objetos de 
+intervención que no están constituidas por personas de manera individual. 
+Pueden comprender elementos tangibles (como flora, fauna, ecosistemas o 
+infraestructura) o construcciones institucionales y sectoriales (como 
+organismos, marcos normativos o sectores económicos). Si bien, de manera 
+
+
+--- PAGINA 10 ---
+ 
+10 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+indirecta los Pp que atienden estas áreas de enfoque también benefician a la 
+sociedad; es decir, la población no recibe directamente los bienes o servicios 
+generados. Por esta razón, la revisión de padrones de beneficiarios o reglas de 
+operación no son estrictamente necesarios.  
+Otra diferencia sustantiva es que, dependiendo del tipo de población 
+beneficiaria y del número de objetivos identificados, producto de la 
+implementación de la Metodología del Marco Lógico (MML), los Pp podrán 
+contar con diferentes Instrumentos de Seguimien to del Desempeño (ISD), los 
+cuales son una de las unidades de análisis más importantes en el proceso 
+evaluativo.  
+De acuerdo con los 
+Lineamientos para regular 
+la gestión de los 
+Instrumentos de Diseño y 
+de Seguimiento de los 
+Programas presupuestarios 
+(SHCP, 2026b), los Pp que 
+entreguen directamente bienes o servicios a la población, tendrán como ISD 
+una Matriz de Indicadores para Resultados (MIR).  En cambio,  aquellos que no 
+realizan entregas directamente a la población, podrán utilizar una Ficha de 
+Monitoreo Estratégico (FiME) o una Ficha de Seguimiento a la Gestión (FiSeG).  
+ 
+Evaluaciones ex ante y ex post 
+ 
+De forma intuitiva, se pudiera entender que las Evaluaciones del Desempeño 
+son ejercicios analíticos que se realizan durante la operación de la intervención 
+pública o una vez que esta ha concluido. Esto, porque se espera identificar 
+procesos y resultados derivados de la implementación de dicha intervención. 
+Sin embargo, también pueden existir ejercicios de evaluaciones ex ante, que 
+justamente son aquellas que se realizan antes de la operación del Programa.  
+La esencia de estas evaluaciones es valorar algunos aspectos de la intervención 
+pública que permitirán afinar la decisión de su implementación. Por ejemplo, 
+una evaluación de costo -efectividad o de cost o-eficiencia ex ante, proporciona 
+una idea sobre la rentabilidad del Programa a implementarse. Como se verá 
+Fuente: elaboración propia SHCP, 2026. 
+
+--- PAGINA 11 ---
+ 
+11 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+más adelante, previo a la realización de una Evaluación de Impacto, también es 
+importante contar con un estudio ex ante que ayude a determinar la viabilidad 
+del ejercicio, aunque en sí mismo, no constituya un ejercicio evaluativo. 
+Por otra parte, las evaluaciones que se realizan durante o después del 
+lanzamiento de la intervención pública se conocen como evaluaciones  ex post. 
+En general, estas  buscan afinar o mejorar algunos elementos de la Política o 
+Programa evaluado, mismos que pueden agruparse de acuerdo con el tipo 
+particular de evaluación que se trate (elementos del Diseño, de los Procesos, o 
+de los Resultados, por ej emplo). Las evaluaciones ex post proporcionan a los 
+ejecutores diversos resultados que van desde información para mejorar el 
+Programa en su diseño, orientación a resultados, focalización de su población 
+o área de enfoque  objetivo, procesos operativos, entr e otros. Así como 
+elementos objetivos y rigurosos que permitan tomar la decisión de incrementar 
+o disminuir los recursos asignados, o incluso suspender la intervención pública 
+implementada. 
+Si bien lo ideal es contar con ejercicios ex ante para asegurar la mejor decisión 
+sobre la implementación de un Programa, proyecto o Política, en la realidad es 
+poco común que se realicen de manera rigurosa antes de su implementación, 
+por diversas restricciones e influencias a las que pueden enfrentarse sus 
+promotores o impulsores.  
+La ejemplificación de estos dos tipos de evaluaciones se muestra en la Figura 
+13.3 a continuación. 
+Figura 13.3 Evaluaciones ex ante y ex post 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+
+
+--- PAGINA 12 ---
+ 
+12 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+Evaluaciones de campo y de gabinete 
+ 
+En función del tipo de trabajo que se necesita realizar, las evaluaciones se 
+dividen en dos grandes grupos: las de campo y las de gabinete. Las 
+evaluaciones de campo se caracterizan porque el insumo principal que sirve 
+para hacer las valoraciones que conte ndrá la evaluación, se obtiene 
+necesariamente mediante el levantamiento de información; es decir, al entrar 
+en contacto con los beneficiarios del Programa, aquellos que reciben sus 
+componentes o incluso con aquellos encargados de su ejecución.  
+Por ejemplo, para las Evaluaciones de Impacto  es indispensable la realización 
+de trabajo de campo que permita observar y medir los efectos atribuibles, de 
+la intervención que se trate, sobre la población beneficiaria. Es importante no 
+confundir las investigaciones de campo con el ámbito rural. También se pueden 
+conducir investigaciones de campo en el ámbito urbano o incluso con un 
+enfoque hacia las unidades económicas u otros sectores.  
+Por su parte, las evaluaciones de gabinete se caracterizan por hacerse “desde 
+el escritorio”; es decir, para éstas so lo se procesa información recopilada o 
+entregada para hacer las valoraciones y los hallazgos propios de la evaluación. 
+Un ejemplo de estas evaluaciones lo constituye la evaluación de diseño ex post, 
+en la que se entrega un paquete de información a la instancia evaluadora para 
+que a partir de su experiencia y conocimiento valore las fortalezas y debilidades 
+del diseño sobre el cual se implementa la Política o el Programa. 
+En otras palabras, una investigación de campo recopila información y la de 
+gabinete analiza información previamente recopilada, tal como se ejemplifica 
+en la Figura 13.4.  
+ 
+ 
+ 
+ 
+ 
+
+--- PAGINA 13 ---
+ 
+13 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Figura 13.4 Evaluaciones de campo y de gabinete 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+Como puede deducirse, en la práctica, lo más común es que para realizar una 
+Evaluación se haga tanto trabajo de campo como de gabinete, puesto que el 
+levantamiento de información en campo, per se, difícilmente podría derivar en 
+hallazgos o resultados útile s para la evaluación y para la toma de decisiones 
+sobre la implementación de la Política, Programa o proyecto. Un ejemplo de 
+estas evaluaciones lo constituyen las Evaluaciones de Procesos o las de 
+Impacto, que involucran trabajo de campo para obtener los i nsumos 
+principales para hacer las valoraciones, y, trabajo de gabinete para procesar la 
+información recabada en campo y para hacer las valoraciones e investigaciones 
+relativas. 
+ 
+Evaluaciones con métodos cualitativos y cuantitativos 
+ 
+A pesar de que estas me todologías se explicaron con mayor detalle en el 
+Módulo II del Diplomado, es importante considerar los métodos de 
+investigación como parte de las dimensiones de la evaluación. Así, las 
+evaluaciones con metodologías cualitativas  pretenden la comprensión 
+profunda de procesos sociales, sus dinámicas y estructuras, así como de su 
+relación con los resultados observables de la interacción entre los distintos 
+elementos que componen la unidad de análisis.  
+
+
+--- PAGINA 14 ---
+ 
+14 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Por su parte, las metodologías cuantitativas utilizan el método hipotético 
+deductivo. Parten del planteamiento de hipótesis que se confirma o verifica 
+mediante la obtención de evidencia empírica, tratando de eliminar el azar. Su 
+diseño es sistemático y suele basarse en el muestreo esta dístico para que sus 
+interpretaciones sean válidas, es decir estadísticamente representativas para 
+una determinada población (García, 2010).  
+El método cuantitativo es útil cuando se quiere medir la magnitud de un 
+fenómeno; el método cualitativo lo es cuan do se desea interpretar, investigar 
+o plantear una hipótesis sobre la ocurrencia de determinado fenómeno (García, 
+2010). En la Figura 13.5 se ejemplifican algunas fuentes de información que, de 
+acuerdo con el Modelo de Términos de Referencia de la Evaluaci ón de 
+Consistencia y Resultados vigente (SHCP, 2026c), se deben analizar como parte 
+del ejercicio evaluativo, y clasificadas según la metodología requerida para 
+llevar a cabo dicho análisis.  
+Figura 13.5 Ejemplo de metodologías requeridas para implementar una 
+Evaluación de Consistencia y Resultados 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+
+
+--- PAGINA 15 ---
+ 
+15 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Evaluaciones externas e internas 
+ 
+Esta clasificación hace referencia a la instancia que realiza la evaluación. Las 
+externas son aquellas conducidas o realizadas por una instancia evaluadora 
+ajena a la operación del Programa, pudiendo ser un equipo de personas 
+evaluadoras contratadas para este fin, o un grupo de servidores públicos de la 
+misma Dependencia pero que no se encuentren involucrados con la operación 
+del Programa. A esta segunda se le conoce como “evaluación por sí misma”. Por 
+su parte, la evaluación interna, también conocida como autoevaluación, es 
+llevada a cabo por los mismos operadores del Programa. Ambos enfoques de 
+evaluación tienen ventajas y desventajas, q ue hay que conocer para decidir 
+cuándo es oportuno aplicarlos. En la Figura 13.6 se contrastan las 
+características de estos dos tipos de evaluaciones.  
+Figura 13.6 Características de las evaluaciones externas e internas 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+La elección entre una evaluación externa y una interna dependerá 
+fundamentalmente de los objetivos específicos que persiga el análisis dentro 
+del ciclo de las Políticas Públicas. Por un lado, la evaluación externa aporta un 
+
+
+--- PAGINA 16 ---
+ 
+16 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+alto grado de imparcialid ad, credibilidad y rigor metodológico, elementos 
+indispensables para fortalecer la rendición de cuentas frente a la ciudadanía y 
+transparentar el ejercicio de los recursos públicos. Mientras que, la evaluación 
+interna resulta una herramienta altamente efec tiva para promover el 
+aprendizaje organizacional y la mejora continua, ya que permite a los propios 
+equipos operativos identificar cuellos de botella y áreas de oportunidad en 
+tiempo real. 
+Es importante destacar que la normativa federal de México en el marco del SED, 
+solo reconoce las evaluaciones externas. Esto no significa que no sea de valor 
+o utilidad llevar a cabo evaluaciones internas, solo que estos ejercicios no serían 
+considerados como evaluaciones en este contexto.  
+A manera de conclusión, vale la pena mencionar que el estudio de estas 
+dimensiones es útil, ya que permite comprender el proceso evaluativo de forma 
+más ordenada y pone a nuestra disposición el abanico de posibilidades que 
+existen para plantear un proyecto de investigación dentro de una evaluación. 
+Ahora que ya se conocen los tipos generales de evaluación, es momento de 
+conocer a partir del siguiente Tema, los tipos de evaluaciones a Programas 
+presupuestarios de los que se dispone en México. 
+
+--- PAGINA 17 ---
+ 
+17 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+ 
+ 
+Al inicio del presente Diplomado se explicó que, de acuerdo con el enfoque 
+progresivo, la revisión del diseño de un Programa presupuestario (Pp) y la 
+identificación de sus principales logros se hace a través de la Evaluación de 
+Consistencia y Resultados. Asimismo, los hallazgos y recomendaciones que se 
+emiten en el Informe Final son el insumo para determinar el proceso evaluativo 
+que tomará cada Pp en particular. 
+Si en el Informe se identifican áreas de oportunidad en puntos críticos de la 
+ejecución, se realizará una Evaluac ión de Procesos; si el Programa funciona, 
+pero la medición falla, se podrá optar por una Evaluación de Indicadores; o si 
+se identifican diversas áreas de oportunidad, se podrá hacer “a la medida” una 
+evaluación específica. Por esta razón, se puede consider ar a la Evaluación de 
+Consistencia y Resultados 
+como el punto de partida de 
+todo el proceso evaluativo. 
+De manera que, e sta 
+Evaluación permite obtener 
+un diagnóstico 
+fundamentado sobre la 
+orientación del Programa hacia el logro de resultados concretos, basándose en 
+la revisión de su alineación estratégica, su diseño metodológico, la calidad de 
+sus indicadores y sus procesos operativos, a fin de verificar su efectividad para 
+mitigar el problema público para el que fue creado. 
+ 
+Delimitación conceptual  
+ 
+El objetivo general de la Evaluación de Consistencia y Resultados es analizar 
+sistemáticamente el diseño y desempeño  global de un Pp, para mejorar su 
+gestión y medir  el logro de sus resultados con base en su Instrumento de 
+Seguimiento del Desempeño (ISD). 
+TEMA 14. Evaluación de Consistencia y Resultados   
+Fuente: elaboración propia SHCP, 2026. 
+
+--- PAGINA 18 ---
+ 
+18 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Es importante  mencionar que esta  Evaluación busca verificar que el 
+financiamiento público del Pp se encuentre debidamente justificado a partir de 
+su contribución a la atención o solución de un problema público. Para ello, se 
+analiza la adecuada identificación del problema, la pertinencia de la alternativa 
+de intervención seleccionada y la lógica causal que vincula los bienes y servicios 
+generados con los resultados esperados. 
+En este sentido, la Evaluación de Consistencia y Resultados examina 
+cualitativamente la coherencia integral del diseño y la estrategia de 
+intervención del Pp, valorando la forma en que los insumos, las actividades y 
+los productos se articulan para contribuir al logro de los objetivos y resultados 
+previstos. En la Figura 14.1 se presentan los seis objetivos específicos de este 
+tipo de evaluación de acuerdo con el Modelo de Términos de Referencia (TdR) 
+vigentes.  
+ 
+Figura 14.1 Objetivos específicos de la Evaluación de Consistencia y Resultados 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2026).  
+
+
+--- PAGINA 19 ---
+ 
+19 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+Estos objetivos específicos no constituyen un simple listado de requisitos 
+administrativos, sino una arquitectura completa y secuencial pensada para 
+orientar los ejercicios evaluativos subsecuentes. A continuación, se analiza cada 
+una de las dimensiones que abarcan estos objetivos.  
+Una clara vinculación del Pp con los instrumentos de planeación superior  
+es de alta relevancia por la forma como está conformada la estructura 
+programática en México. A través de los Pp se hace la asignación de los 
+recursos para  cumplir la serie de objetivos especificados en los ISD. Sin 
+embargo, estos no funcionan de forma aislada, pues sus objetivos estratégicos 
+se deben vincular con los instrumentos de planeación superior; es decir, con el 
+Plan Nacional de Desarrollo (PND) y s us Programas derivados en el plano 
+nacional; y con los Objetivos de Desarrollo Sustentable (ODS) de la Agenda 
+2030. Es gracias a esta vinculación que la estructura programática conforma 
+una red de intervenciones públicas orientada al cumplimiento del proye cto de 
+nación plasmado en el PND.  
+El segundo objetivo 
+correspondiente al análisis y 
+valoración del diseño del Pp 
+busca identificar que haya 
+una relación causal real y 
+demostrable entre lo que el 
+gobierno hace y lo  que 
+pretende resolver . Para ello, 
+se revisa el adecuado 
+sustento de la Teoría del 
+Cambio, que le da soporte 
+conceptual a la intervención pública; y el correcto planteamiento de los Árboles 
+del Problema y de Objetivos como parte de la implementación de la 
+Metodología del Marco Lógico.  
+De acuerdo con esta última, derivado de la implementación de sus primeras 
+cinco etapas, se obtiene un ISD , que es una agrupación de indicadores 
+estratégicos y de gestión a través de los cuales se mide el cumplimiento de los 
+objetivos de un Programa presupuestario (SHCP, 2026). Si bien los ISD tienen 
+relevancia en todo el Ciclo Presupuestario, de forma concreta tienen dos 
+Fuente: elaboración propia SHCP, 2026. 
+
+--- PAGINA 20 ---
+ 
+20 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+principales funciones. La primera es constituir un resumen u hoja de ruta que 
+oriente el sentido de la inte rvención pública. La segunda  es funcionar como 
+herramienta para realizar el seguimiento de los avances del Programa en el 
+cumplimiento de dichos objetivos por medio de la medición de sus indicadores 
+de desempeño.  
+ 
+Considerando lo anterior, el tercer objetivo 
+de este tipo de Evaluación tiene dos 
+elementos. El primero enfatiza el análisis y 
+valoración de la calidad y consistencia 
+global del ISD;  es decir, el correcto 
+establecimiento de sus objetivos. Y el 
+segundo, implica una revisión rigurosa de 
+los Indicadores de Desempeño.  Es importante considerar que, en caso de 
+encontrar inconsistencias en este análisis, se podrá emitir la recomendación de 
+realizar una Evaluación de Indicadores.  
+Como parte de este mismo objetivo , también se hace una revisión de la 
+población y cobertura del Programa presupuestario. El primer elemento se 
+conoce como “análisis de poblaciones”, y desde el enfoque evaluativo consiste 
+en verificar que la identificación, caracterización y cuantificación de la población 
+objetivo o área de enfoque que presenta el problema público sea adecuada 
+(SHCP, 2025). Por su parte, la revisión de 
+la cobertura se enfoca en identificar si los 
+criterios de focalización y las condiciones 
+que debe cumplir esta población objetivo 
+para acceder a los bienes y servicios del 
+Programa están adecuadamente 
+planteados en función de los objetivos 
+considerados en su ISD correspondiente 
+(SHCP, 2025).  
+Estos primeros tres objetivos del Modelo de TdR de las Evaluaciones de 
+Consistencia y Resultados se enfocan en revisar y valorar la planeación y diseño 
+del Pp; es decir, se revisan las acciones previo al lanzamiento del Programa. En 
+contraste, los últimos tres objetivos del Modelo se enfocan en la revisión de la 
+
+
+--- PAGINA 21 ---
+ 
+21 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ejecución del Programa y lo s resultados intermedios obtenidos; es decir, 
+estudian elementos del Pp ya que está en ejecución.   
+Así, el cuarto objetivo está enfocado al análisis y valoración de los principales 
+procesos establecidos para la operación del Pp.  Este objetivo se logra al 
+revisar los documentos normativos, operativos, institucionales o estratégicos 
+correspondientes, tales como Reglas de Operación, Lineamientos y Manuales 
+de Procedimientos. Derivado de este análisis se podrá determinar si es 
+necesario profundizar en la revis ión de la operación del Programa por medio 
+de una Evaluación de Procesos, misma que se estudiará más adelante en este 
+mismo Módulo.  
+Por su parte, el quinto objetivo gira en torno al análisis y valoración de los 
+sistemas informáticos que soportan a los Pp y los mecanismos de 
+transparencia y rendición de cuentas. Es importante considerar que el uso de 
+un sistema informático adecuado para la gestión operativa del Pp es 
+indispensable. Las herramientas tecnológicas permiten automatizar los 
+procesos administrati vos, financieros y de padrones de beneficiarios, 
+asegurando un registro preciso y en tiempo real tanto del ejercicio del gasto 
+como del avance en el cumplimiento de los objetivos del ISD. 
+En consecuencia, una infraestructura operativa robusta no solo optim iza la 
+toma de decisiones y agiliza la entrega de bienes o servicios a la población, sino 
+que resulta ineludible para prevenir la corrupción, facilitar los procesos 
+evaluativos y garantizar una adecuada transparencia y rendición de cuentas. 
+Actualmente, las Unidades 
+Responsables de los Pp  pueden 
+hacer uso de herramientas de 
+Inteligencia Artificial (IA) para 
+automatizar el procesamiento de 
+grandes volúmenes de datos. 
+Mediante algoritmos de aprendizaje 
+automático, la IA puede identificar 
+patrones de subejercicio o 
+sobrejercicio en tiempo rea l, 
+analizar de forma cruzada los 
+padrones de beneficiarios para detectar inconsistencias y proyectar 
+Fuente: elaboración propia SHCP, 2026. 
+
+--- PAGINA 22 ---
+ 
+22 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+probabilísticamente el cumplimiento de las metas establecidas en la Matriz de 
+Indicadores para Resultados (MIR).  
+Tomando en cuenta este abanico de posibilidades, y a pesar de que no se tiene 
+considerado en los TdR, es fundamental que el proceso evaluativo considere la 
+revisión del tipo de información que se está procesando con la IA, haciendo 
+especial énfasis en la protección de los datos personales de los padrones de 
+beneficiarios y los datos financieros del Programa. Para ello, en la Figura 14.2 
+se presentan una serie de recomendaciones a considerar.  
+ 
+Figura 14.2 Recomendaciones para verificar el adecuado uso de la IA 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en LGPDPPSO (2025), Principios de 
+Chapultepec (2026), Plan Nacional de Inteligencia Artificial (2026), OCDE (2024) y 
+UNESCO (2021). 
+ 
+
+
+--- PAGINA 23 ---
+ 
+23 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+El sexto y último objetivo se centra en la valoración de los resultados del Pp 
+respecto a la atención del p roblema público o necesidad para la que fue 
+creado. Considerando que se trata de una evaluación de gabinete, tal como se 
+explicará más adelante, la valoración de los resultados se hará con base en el 
+análisis de los objetivos e indicadores del ISD correspondiente, realizando una 
+comparación de las metas anuales aprobadas, metas anuales ajustadas y 
+metas anuales realizadas.  
+ 
+Alcance de la Evaluación de Consistencia y Resultados 
+ 
+Para este tipo de evaluaciones, se espera que las recomendaciones se orienten 
+al fortalecimiento integral del diseño, la operación y el desempeño de la 
+intervención pública. En este sentido, podrán enfocarse en mejorar su 
+alineación con los objetivos del PND, sus programas derivados, los Objetivos 
+de Desarrollo Sostenible y, en su ca so, con la misión institucional de la 
+dependencia o entidad responsable. Asimismo, podrán considerar ajustes que 
+fortalezcan la generación de valor público, la consistencia de los árboles de 
+problemas y objetivos, la calidad de los Instrumentos de Diseño y Seguimiento 
+del Desempeño, así como la definición y cuantificación de las poblaciones 
+potencial, objetivo y atendida, y la pertinencia de la cobertura de la 
+intervención. 
+De igual manera, las recomendaciones podrán orientarse al fortalecimiento e 
+institucionalización de los procesos operativos para la provisión de bienes y 
+servicios, la actualización de metas conforme a los resultados y avances 
+observados, el mejoramiento de la información de desempeño para apoyar la 
+toma de decisiones y la optimización de  los mecanismos de transparencia y 
+rendición de cuentas. En conjunto, estas acciones deberán contribuir a 
+incrementar la eficacia, eficiencia, coherencia y capacidad de la intervención 
+para alcanzar los resultados previstos. 
+ 
+ 
+ 
+
+--- PAGINA 24 ---
+ 
+24 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Abordaje metodológico 
+ 
+La Evaluación de Consistencia y Resultados constituye una herramienta que 
+permite valorar de manera integral la lógica de la intervención pública, de la 
+operación y los resultados de un Pp. Su aplicación se desarrolla principalmente 
+mediante un análisis de gabinete, que como se vio previamente, es el proceso 
+sistemático de recopilación, organización, revisión y análisis de información 
+proveniente de registros administrativos, bases de datos, evaluaciones previas, 
+normatividad, documentos programáticos y dem ás información pública 
+relacionada con el programa evaluado.  
+Como parte de este proceso, la 
+información proporcionada por las 
+Unidades Responsables del 
+Programa representa la principal 
+fuente de evidencia para el análisis. 
+No obstante, cuando la necesida d 
+de información así lo requieran, 
+pueden complementarse las 
+actividades de revisión documental con entrevistas o reuniones de trabajo 
+dirigidas a personas responsables de la operación, planeación, seguimiento o 
+evaluación del Programa, con el propósito de  profundizar en aspectos 
+específicos de su funcionamiento y desempeño. 
+La Evaluación de Consistencia y Resultados se organiza en siete secciones 
+temáticas que, en conjunto, permiten cumplir con los objetivos previamente 
+descritos y contribuyen al análisis de los principales elementos que determinan 
+la consistencia de un Programa y su orientación a resultados. Estas secciones 
+se muestran en la Figura 14.3. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGINA 25 ---
+ 
+25 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Figura 14.3 Secciones temáticas de la Evaluación de Consistencia y Resultados 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+Conforme a las siete secciones y a través de diez reactivos de análisis, se 
+examina la congruencia entre los distintos componentes del Programa, la 
+calidad de sus instrumentos de planeación y seguimiento, la pertinencia de su 
+cobertura, la eficacia de sus procesos operativos y la evidencia disponible sobre 
+sus resultados. 
+Los reactivos  son de carácter abierto y analítico , por lo que no se limitan a 
+verificar la existencia de documentos, mecanismos o procedimientos. Por el 
+contrario, buscan valorar la calidad, pertinencia, suficiencia y coherencia de los 
+elementos que integran el programa, así como su capacidad para contribuir al 
+logro de los objetivos  públicos para los 
+cuales fue diseñado. En este sentido, las 
+respuestas deb en sustentarse en 
+evidencia documental verificable  y 
+desarrollar argumentos sólidos que 
+permitan identificar fortalezas, áreas de 
+oportunidad y aspectos susceptibles de 
+mejora. 
+Asimismo, cada análisis debe concluir con la identificación de hallazgos 
+relevantes derivados de la evidencia revisada. Estos deben redactarse de 
+manera clara, objetiva y precisa, reflejando conclusiones directamente 
+vinculadas con el análisis realizado y orientadas a la toma de decisiones. De 
+igual forma, cuando se detecten oportuni dades de fortalecimiento, es 
+
+
+--- PAGINA 26 ---
+ 
+26 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+recomendable formular recomendaciones específicas, factibles y alineadas con 
+las atribuciones institucionales de las Unidades Responsables. 
+Es importante enfatizar que la Evaluación de Consistencia y Resultados se 
+conforma sobr e todo por métodos cualitativos de gabinete,  pero también 
+requiere un análisis correlacional entre la entrega y/o generación de los bienes 
+y servicios del Pp respecto del presupuesto ejercido para tal fin durante el 
+periodo de alcance temporal de la Evaluación. Tal como se estudió en el Módulo 
+anterior, este análisis correlacional es un método cuantitativo  que busca 
+determinar el grado de asociación o co -variación entre variables sin que esto 
+implique causalidad.  
+Adicionalmente, de acuerdo con 
+las necesidades de información y 
+tomando en cuenta la forma de 
+operar de cada Pp, se podrán 
+programar y llevar a cabo 
+entrevistas con responsables de 
+los programas, personal de la 
+unidad o área de evaluación o 
+planeación de la dependencia,  o cualquier otra que result e relevante, lo cual 
+constituye en método de investigación cualitativo de campo.  
+ 
+Criterios de calidad para la evaluación 
+ 
+Durante el desarrollo de esta evaluación, la Instancia Evaluadora (IE) y el Área 
+de Evaluación  (AE) deberán cumplir con una serie de requisitos técnicos y 
+administrativos orientados a garantizar la calidad, oportunidad y validez de los 
+productos generados mismos que se presentan en el Cuadro 14.1  
+ 
+ 
+ 
+ 
+
+
+--- PAGINA 27 ---
+ 
+27 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Cuadro 14.1 Contribución de los actores para garantizar la calidad de la 
+evaluación 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2026).  
+ 
+A modo de cierre, es fundamental visualizar la Evaluación de Consistencia y 
+Resultados no como un mero listado de requisitos administrativos, sino como 
+un estudio integral que sirve de punto de partida para todo el proceso 
+evaluativo de un Programa. Esta Evaluación permite verificar que el 
+financiamiento de los Pp esté verdaderamente justificado, toda vez que 
+examina de manera sistemática la alineación entre  el problema público, la 
+
+
+--- PAGINA 28 ---
+ 
+28 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+lógica de la intervención y la operación del programa. Más allá del análisis 
+documental, su valor real radica en su capacidad para emitir recomendaciones 
+orientadas al fortalecimiento del diseño, la entrega de bienes y servicios, y  la 
+generación de valor público de la intervención.   
+Sin embargo, el mejor diseño metodológico resulta insuficiente si no se cuenta 
+con los instrumentos precisos para medir los avances, haciendo que el análisis 
+de la calidad del ISD cobre relevancia. Como se identificó previamente, si un 
+Programa funciona de manera adecuada en su ejecución, pero sus 
+mecanismos de medición presentan fallas o ár eas de oportunidad, el propio 
+estudio determinará el siguiente paso a seguir. Por ello, el eslabón natural que 
+se abordará a continuación es la Evaluación de Indicadores, una revisión de que 
+aquello que se está midiendo refleje fielmente la mitigación del problema 
+público.
+
+--- PAGINA 29 ---
+ 
+29 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+ 
+ 
+Como se mencionó en el 
+Tema anterior referente a 
+la Evaluación de 
+Consistencia y Resultados, 
+cuando se identifica que 
+un Programa 
+presupuestario no está  siendo medido adecuadamente, se requiere realizar 
+una Evaluación de Indicadores.  
+De acuerdo con los Lineamientos Generales aplicables a la gestión para 
+resultados de los recursos públicos federales (Lineamientos GpR) (SHCP, 2025), 
+una Evaluación de Indicadores es un análisis sistemático y objetivo que sirve 
+para revisar la pertinencia y calidad del diseño de los indicadores de un 
+Programa presupuestario.  
+Su propósito principal es verificar que los indicadores establ ecidos en una 
+Matriz de Indicadores para Resultados (MIR) estén construidos correctamente 
+y que en realidad midan los objetivos que pretenden alcanzar. En otras 
+palabras, se asegura que los indicadores sean claros, relevantes, monitoreables 
+y adecuados para reflejar si el Programa está solucionando el problema público 
+para el cual fue creado. 
+Además, esta evaluación sirve como una herramienta indispensable para 
+mejorar la toma de decisiones, la transparencia y la rendición de cuentas. Al 
+identificar las fortalezas y debilidades en la forma en que un programa mide su 
+éxito, la evaluación permite emitir recomendaciones puntuales para corregir, 
+sustituir o mejorar dichos indicadores. Esto garantiza que el gobierno cuente 
+con información confiable sobre el desem peño de sus políticas, asegurando 
+que los recursos públicos se utilicen de manera eficiente y que se puedan 
+demostrar resultados reales a la ciudadanía. 
+ 
+ 
+TEMA 15. Evaluación de Indicadores 
+Fuente: elaboración propia SHCP, 2026. 
+
+--- PAGINA 30 ---
+ 
+30 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Delimitación conceptual 
+ 
+La construcción de un Programa presupuestario (Pp) debe considerar los 
+elementos que permitan rastrear la totalidad de las actividades planteadas 
+para su ejecución. Para los Pp en México, esto se hace a través de los 
+Indicadores de Desempeño que forman parte de la MIR. En este contexto, la 
+Evaluación de Indicadores tiene como propósito valorar la calidad, pertinencia 
+y suficiencia de las métricas establecidas para el seguimiento y monitoreo del 
+programa. Para tal fin, se analiza la existencia de indicadores adecuados para 
+medir el desempeño del Pp en todos los niveles de la MIR: Fin, Propósito, 
+Componentes y Actividades.  
+De manera específica, el objetivo 
+general de este ejercicio consiste en 
+evaluar la construcción y el diseño 
+de los indicadores estratégicos y de 
+gestión que integran la MIR del 
+Programa presupuestario, a fin de 
+proveer información que permita mejorar el planteamiento de instrumentos 
+apropiados para dar seguimiento a su desempeño. Sus objetivos específicos se 
+presentan en la Figura 15.1.  
+Figura 15.1 Objetivos específicos de la Evaluación de Indicadores 
+ 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+
+--- PAGINA 31 ---
+ 
+31 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2026a). 
+ 
+Estos objetivos no solo buscan asegurar que los indicadores cumplan con 
+criterios mínimos de calidad, sino que exigen un escrutinio profundo de la 
+lógica vertical de las matrices, garantizando que verdaderamente exista una 
+alineación entre sus niveles. De manera que, el enfoque de esta evaluación 
+trasciende la simple validación de los indicadores de desempeño y hace 
+énfasis en la construcción de un marco de revisión integral enfocado en la 
+solidez metodológica y la congruencia estratégica. 
+Esta visión busca  que los indicadores respondan a los postulados de la 
+Metodología de Marco Lógico  (MML), permitiendo que la estructuración del 
+problema público se traduzca en parámetros que reflejen el impacto y valor 
+público real, y no solo el cumplimiento inercial de procesos. Asimismo, la 
+articulación de estos objetivos demuestra un interés particular por diagnosticar 
+la madurez institucional y la viabilidad operativa del ecosistema de monitoreo 
+dentro de las dependencias.  
+Al requerir la verificación de la disponibilidad de recursos para procesar los 
+indicadores, junto con el análisis exhaustivo de  la confiabilidad de las fuentes 
+de información y la calidad de los registros administrativos, la Evaluación 
+aborda la sostenibilidad técnica del seguimiento. Esta perspectiva permite 
+identificar si las instituciones cuentan verdaderamente con la capacidad  para 
+mantener series históricas consistentes a lo largo del tiempo, garantizando que 
+la memoria institucional y la comparabilidad temporal no se vean vulneradas 
+por rotaciones o transiciones administrativas.  
+Finalmente, vale la pena comentar que el entra mado de los objetivos 
+específicos evidencia una clara orientación hacia la consolidación de una 
+cultura de toma de decisiones basada en evidencia, pilar indispensable en el 
+Ciclo Presupuestario. Al examinar explícitamente si los indicadores son 
+utilizados en los procesos de planeación, ajustes y diseño de políticas, y al 
+escrutar si la definición de metas está técnica y financieramente justificada 
+
+
+--- PAGINA 32 ---
+ 
+32 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+frente a la capacidad instalada, se busca desincentivar el establecimiento de 
+parámetros subestimados. De este modo, la Evaluación propuesta deja de ser 
+un examen abstracto para convertirse en un catalizador que orienta la 
+información del desempeño directamente hacia la toma de decisiones 
+estratégicas y la mejora sustantiva de la gestión pública.   
+ 
+Alcances de la Evaluación  
+ 
+A diferencia de la Evaluación de Consistencia y Resultados, el Modelo de 
+Términos de Referencia (TdR) de la Evaluación de Indicadores desglosa el 
+alcance de cada uno de los objetivos específicos, trazando una ruta secuencial 
+de ocho componentes analíticos, los cuales se detallan a continuación:  
+ 
+Con el objetivo de evaluar el cumplimiento de los criterios mínimos de calidad 
+aplicables a los indicadores estratégicos y de gestión, el alcance se delimita a la 
+ejecución de un análisis de gabinete exhaustivo sobre la totalidad de la MIR. 
+Dicho proceso implica  la aplicación sistemática de la metodología CREMAA a 
+cada indicador, garantizando con ello un diagnóstico preciso sobre la claridad, 
+pertinencia y robustez conceptual de la estructura de medición. 
+Los criterios CREMAA  son un acrónimo de seis pautas fundamentales para 
+garantizar que un Indicador de Desempeño proporcione información objetiva 
+y útil para llevar a cabo el seguimiento de los Programas presupuestarios y para 
+la toma de decisi ones en esta misma materia (SHCP, 2026b). En la Figura 15.2 
+se resumen cada uno de estos criterios.  
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+--- PAGINA 33 ---
+ 
+33 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Figura 15.2 Criterios CREMAA 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2026b).  
+ 
+Sobre la “claridad” de los indicadores, estos deben 
+estar fraseados de tal forma que sean tan directos e 
+inequívocos como sea posible. Cuando se diseña un 
+indicador en el marco de la MML, se debe considerar 
+que es un instrumento de seguimiento que será 
+utilizado y revisado po r actores ajenos al Programa, 
+entre los que destaca el Poder Legislativo y la 
+ciudadanía en general. Por ello, se deben de utilizar el 
+menor número de tecnicismos posible, de tal forma 
+
+
+--- PAGINA 34 ---
+ 
+34 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+que la mayoría de las personas puedan comprender lo que se está midiendo y 
+los avances logrados. 
+En ocasiones, al estarse midiendo situaciones de gran complejidad, suelen 
+generarse Indicadores de Desempeño, que, si bien están correctamente 
+estructurados, no están lo suficientemente relacionados con el objetivo que 
+pretenden m edir. Con el criterio de “relevancia” se busca garantizar que la 
+lógica horizontal entre la columna de Indicadores y la columna de Resumen 
+Narrativo se respete. Es importante recordar que en los indicadores 
+estratégicos o de nivel Propósito y Fin, dependie ndo del Instrumentos de 
+Seguimiento del Desempeño (ISD), en algunas ocasiones es necesario recurrir 
+a indicadores proxy, los cuales, por definición, no tienen una relación directa 
+con el objetivo que pretenden medir. Sin embargo, para los indicadores de 
+gestión o de Componente y Actividad, el principio de relevancia siempre se 
+debe respetar, ya que los indicadores están midiendo el cumplimiento de los 
+productos entregados a través del Programa. 
+Con respecto al tercer criterio, se busca que los 
+indicadores sean rentables desde el aspecto 
+“económico”, en términos de que los costos para 
+obtener la información sean lo s menores, respecto a la 
+importancia que tenga el indicador para la medición de 
+los resultados. Todo Programa que se implementa desde 
+cualquier nivel de la administración pública, cuenta con 
+recursos limitados para cumplir sus funciones. Por esta razón, es indispensable 
+que el proceso de medición de indicadores se haga con la mayor eficiencia 
+posible, ya que, dentro de estos recursos, también se encuentran los humanos, 
+y puede suceder que, si en cada periodo de medición se ocupan excesivamente 
+los recursos humanos de la Unidad Responsable (UR), se estará distrayendo al 
+personal de sus actividades sustantivas.  
+Un indicador que cumple con el criterio de ser “monitoreable” es aquel que 
+cualquier persona, sin importar su procedencia o formación, puede consultar y 
+comprobar la validez y veracidad de la información que lo conforma. Por esta 
+razón, este cuarto criterio está estrechamente relacionado con los  medios de 
+verificación, de tal forma que, si este último no cumple con ser accesible y 
+verificable para la población, se estará incumpliendo en el criterio de ser 
+monitoreable.  
+
+
+--- PAGINA 35 ---
+ 
+35 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+El cumplimiento de este criterio no solo 
+es benéfico para los diversos actores que 
+consultan los Instrumento de 
+Seguimiento del Desempeño (ISD, sino 
+también lo es para la misma U R del 
+Programa. Si por alguna razón la 
+información no se encuentra disponible 
+cuando la UR requiere reportar sus 
+avances, ésta podrá incurrir en 
+incumplimiento de sus obligaciones.  
+Se considerará un indicador como “adecuado” cuando la medición que hace 
+no es excesivamente indirecta y abstracta, y su estimación no constituye una 
+tarea complicada y problemática. Es comprensible que en los niveles de 
+Propósito y Fin se haga uso de indicadores más complejos; sin embargo, para 
+los niveles inferiores, siempre se les debe dar prioridad a aquellos indicadores 
+que sean sencillos de comprender y de calcular . 
+Finalmente, el criterio de “aportación marginal” se refiere a darle prioridad al 
+indicador que provea más información en comparación con las otras 
+mediciones. En este sentido, el término “marginal” no tiene una connotación 
+social relacionada con la exclusión, sino que tiene un sentido económico que 
+hace referencia a “algo adicional”. Por esta razón, el criterio de aportación 
+marginal implica seleccionar el indicador que provea más información o 
+información adicional, comparado con otras pro puestas para medir el mismo 
+objetivo o comparado con los indicadores ya implementados para medir otros 
+objetivos y niveles.  
+ 
+Retomando los componentes analíticos del alcance de la evaluación, la revisión 
+de la consistencia de los indicadores de los niveles de Fin y Propósito  de la 
+MIR se hace mediante la verificación de la lógica vertical de dichos niveles 
+superiores. Para ello, se analiza si el indicador de Propósito mide efectivamente 
+el resultado directo sobre la población objetivo o área de enfoque; y si el Fin 
+refleja la alineación estratégica, asegurando la ausencia de indicadores de 
+gestión en este nivel. 
+2 
+
+--- PAGINA 36 ---
+ 
+36 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+De acuerdo con l os Lineamientos generales para la aplicación de la 
+Metodología del Marco Lógico (Lineamientos MML) (SHCP, 2026b), la lógica 
+vertical es la relación causal que se plantea en el Árbol del Problema durante la 
+etapa de análisis del problema y que se conserva hasta la construcción de la 
+MIR. Permite inferir que por medio de la realización de las Actividades se 
+obtendrán los Componentes suficientes y necesarios para lograr el Propósito 
+del Programa presupuestario, el cual contribuirá al cumplimiento de los 
+objetivos de la planeación nacional intermedia y superior. En la Figura 15.3 se 
+presenta la forma como se construye la lógica vertical en el Árbol del Problema, 
+mientras que en la Figura 15.4 se representa cómo la lógica vertical identificada 
+en el Árbol del Pr oblema transita hacia el Árbol de Objetivos y finalmente a la 
+MIR1.  
+ 
+Figura 15.3 Construcción de la lógica vertical en el Árbol del Problema 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+                                                
+1 Es importante mencionar que, para que las etapas de la MML estuvieran completas, faltaría incorporar el 
+Árbol de Alternativas y la Estructura Analítica del Programa. Sin embargo, no se incorporan solo para facilitar 
+la explicación de la lógica vertical.  
+
+
+--- PAGINA 37 ---
+ 
+37 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Figura 15.4 La transición de la lógica vertical en la MML 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+ 
+Es importante precisar que este análisis pondrá especial énfasis en detectar la 
+consistencia conceptual entre la gestión de bienes y la generación de 
+resultados. 
+ 
+Con el objetivo de verificar la disponibilidad de recursos materiales  para 
+elaborar, procesar y dar seguimiento a los indicadores de gestión, el alcance 
+del ejercicio contempla el levantamiento de información mediante el 
+instrumento de Valoración Global de Indicadores, cuya fuente de información 
+principal son las MIR y sus Fichas Técnicas de Indicadores que deberán ser 
+proporcionadas por los responsables del Programa. Este ejercicio permitirá 
+indagar la capacidad operativa de la Unidad Responsable.  
+Las Fichas Técnicas de Indicadores que se realizan durante el diseño de los 
+Programas presupuestarios, concentran la información más relevante sobre los 
+indicadores. Es importante considerar que todos los  indicadores que forman 
+parte del Sistema de Evaluación del Desempeño (SED) en México, deben contar 
+3 
+
+--- PAGINA 38 ---
+ 
+38 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+con estas fichas sin importar el ISD del cual formen parte. En la Figura 15.5 se 
+presentan los elementos que conforman estas fichas.  
+Figura 15.5 Elementos de las Fichas Técnicas de Indicadores 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+Adicional a la información contenida en la MIR y las Fichas antes referidas, l as 
+Instancias Evaluadoras podrán revisar información complementaria que 
+consideren relevante para fortalecer el análisis, derivado del cual se espera 
+contar con información sistematizada que permita sostener adecuadamente el 
+sistema de monitoreo.  
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGINA 39 ---
+ 
+39 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+ 
+Para analizar la continuidad temporal de los indicadores, su historial de 
+observaciones y su capacidad para reflejar la evolución de los resultados del 
+Programa, el alcance se enfoca a la revisión de las series históricas de datos. 
+Dicho procedimiento se instrumentará con el fin de evaluar la comparabilidad 
+temporal, identificar vacíos de información y validar si la tendencia reportada 
+guarda congruencia con la 
+realidad operativa. En esta 
+revisión, será importante 
+que se presente evi dencia 
+sobre la permanencia de los 
+indicadores y de la memoria 
+histórica del Programa.  
+En este tenor , es importante recordar que cada vez que se hace un ajuste en el 
+método de cálculo o una adecuación del instrumento de captación de la 
+información, se de be reiniciar la serie histórica, comenzando por el 
+establecimiento de la línea base. De esto se puede concluir que el ajuste 
+constante de los indicadores es una 
+práctica que entorpece el 
+seguimiento de los Programas 
+presupuestarios. Por esta razón, es 
+prioritario que estos últimos cuenten 
+con adecuados Indicadores de 
+Desempeño que puedan ser 
+sostenidos a lo largo del tiempo.  
+También es relevante considerar los cambios metodológicos que pudieran 
+tener las fuentes de información externas a la operación del Programa, mismos 
+que generalmente son empleados en los niveles estratégicos de Fin y  
+Propósito.  
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+4 
+
+--- PAGINA 40 ---
+ 
+40 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+El objetivo fundamental de un Sistema de Evaluación del Desempeño es 
+consolidarse como una herramienta de gerencia pública que transforme la 
+información en insumos estratégicos para la toma de decisiones. Dentro de 
+este ciclo, los indicadores de gestión cobran una relevancia primordial, ya 
+que actúan como el termómetro operativo de los Programas presupuestarios. 
+Al proveer datos periódicos sobre la efici encia de los procesos y la entrega 
+puntual de bienes y servicios, estos indicadores permiten a los tomadores de 
+decisiones identificar cuellos de botella, realizar ajustes programáticos 
+oportunos y ejecutar acciones correctivas de manera ágil, asegurando q ue el 
+ejercicio continuo de los recursos públicos mantenga su alineación con los 
+objetivos estratégicos y se traduzca efectivamente en valor público. 
+En este tenor, con el propósito de examinar el uso de 
+los indicadores de gestión como apoyo en la toma de  
+decisiones, el alcance del ejercicio contempla la 
+revisión documental y, en su caso, la realización de 
+entrevistas. En este marco, dicho proceso permitirá 
+identificar si los indicadores son utilizados en los procesos de planeación, 
+programación, seguimien to, evaluación y ajustes presupuestarios, así como 
+analizar la existencia de mecanismos formales de retroalimentación y toma de 
+decisiones basadas en resultados.  
+ 
+Para evaluar la construcción de líneas base y metas  para los indicadores de 
+gestión, el alcance se delimita a la revisión técnica de los parámetros de 
+comparación, enfocándose en el año base y las metas periódicas. Dicho 
+procedimiento se instrumentará con el fin de analizar la metodología de cálculo 
+empleada y determinar si estos parámetros se estructuran de forma alcanzable 
+pero retadora. 
+La línea base es el valor del indicador que se establece como punto de partida 
+para su seguimiento y evaluación. Es la forma que permite identificar la 
+situación inicial en la que se encuentra el problema público o situación que se 
+5 
+6 
+
+--- PAGINA 41 ---
+ 
+41 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+busca atender, al momento de poner en marcha el Programa. Por esta razón 
+es indispensable que todo Programa presupuestario tenga bien identificada su 
+línea base.  
+Al momento de plantear la línea base se pueden presentar dos situaciones: que 
+existan mediciones previas al inicio del Programa o que no existan. El primer 
+caso sucede sobre todo con los indicadores que tienen medios de verificación 
+externos y dependen de otras instancias para obtener l a información para 
+realizar la medición del indicador. 
+La otra situación que puede presentarse al momento de determinar la línea 
+base es que no se cuente con mediciones previas al inicio del Programa. Esto 
+sucede generalmente con indicadores de gestión ya que en su mayoría 
+dependen de la Unidad Responsable del mismo; y para generar la información, 
+es necesario poner en marcha el Pp. Para estos casos, la línea base será la 
+primera medición anual obtenida una vez iniciado el Programa. Esto 
+independientemente de la frecuencia de medición que tenga el indicador.  
+Por su parte, las metas son los resultados que se espera que ocurran durante 
+y una vez finalizada la vigencia o un periodo específico del Programa. En este 
+sentido, indican atributos concretos que se qu ieren lograr o conseguir 
+mediante la intervención del Programa. Estos atributos pueden ser la cantidad, 
+tiempo, lugar y calidad que se reflejan en la definición de los distintos objetivos 
+del Resumen Narrativo. A diferencia de los objetivos que para la Met odología 
+son narraciones de la situación deseada que se busca alcanzar, las metas 
+necesariamente están expresadas de forma numérica. La comparación de la 
+línea base y metas de desempeño se muestra en la Figura 15.6. 
+Figura 15.6 Comparación entre línea base y meta 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con datos ficticios. 
+
+
+--- PAGINA 42 ---
+ 
+42 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Las metas de desempeño deben de plantearse de tal forma que, si se movilizan 
+adecuadamente los recursos, se llevan a cabo puntualmente las actividades y/o 
+se entregan adecuadamente los productos sea posible lograrlas en el periodo 
+establecido. En este sentido es importante enfatizar que las metas siempre se 
+deben de plantear bajo el supuesto de que todo funcione tal como se tiene 
+planteado. Por ello, una meta debe ser factible de alcanzar y, por lo tanto, ser 
+realista respecto a los plazos y a los recursos humanos y financieros que 
+involucran.  
+Por otro lado, los indicadores estratégicos cuyo cumplimiento dependen de 
+muchos otros factores, deben hacer uso de lo establecido en sus instrumentos 
+de planeación para identificar a donde se quiere llegar, además de  utilizar 
+estadísticas y series de tiempo para lograr una estimación. 
+De esta forma, el análisis se enfocará en detectar la presencia de metas 
+inerciales o subestimadas, así como verificar la vigencia de las líneas base para 
+asegurar que los parámetros de comparación no se encuentren obsoletos 
+frente a las condiciones actuales del problema público. 
+ 
+Para comprobar la coherencia y confiabilidad de las fuentes de información 
+empleadas en el cálculo de los indicadores de gestión, el alcance de este 
+objetivo se delimita a validar la trazabilidad y accesibilidad del dato. Dicho 
+procedimiento se instrumentará con el fin de contrastar las fuentes citadas en 
+las Fichas Técnicas frente a su disponibilidad real (pública o interna). 
+Es importante considerar que los indicadores de desempeño pueden requerir 
+diversas fuentes, ya que no necesariamente todas 
+sus variables se encontrarán en el mismo sitio. Por 
+ejemplo, para el indicador “Porcentaje de viviendas 
+unifamiliares compradas por p ersonas agricultoras 
+de bajos ingresos residentes de zonas marginadas”, 
+se necesita la siguiente información como medio de 
+verificación:  
+Registros de catastro de la entidad donde se hicieron las compras.  
+7 
+
+--- PAGINA 43 ---
+ 
+43 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Datos sobre el nivel de ingreso de los compradores  (registros administrativos 
+del Programa).  
+Datos sobre el lugar de residencia previa.  
+Para cada una de estas fuentes de información, será importante revisar la 
+disponibilidad y oportunidad de su obtención, es decir, si se pueden obtener 
+con la frecuencia necesaria de acuerdo con su nivel de la MIR.  
+ 
+Con el propósito de analizar las características y calidad de los registros 
+administrativos utilizados en los indicadores de gestión, el alcance del 
+ejercicio contempla la valoración de los medios de verificación internos. En este 
+marco, dicho proceso permitirá verificar su orden, estandarización y 
+mecanismos de resguardo. 
+La revisión verificará la integridad y seguridad de los mecanismos de captura, 
+asegurando además que los registros administrativos cumplan estrictamente 
+con la normativa vigente en materia de protección de datos personales. 
+ 
+Abordaje metodológico 
+ 
+La metodología de la Evaluación de Indicadores se desarrolla en dos etapas 
+consecutivas. La primera corresponde a la valoración inicial, la cual se realiza 
+mediante análisis de gabinete de la MIR, las Fichas Técnicas de Indicadores y 
+demás documentación relevante del Pp. Como punto crítico de esta etapa, se 
+analiza la calidad técnica de los indicadores estratégicos y de gestión a partir 
+del cumplimiento de los criterios CREMAA, mismos que se estudiaron 
+previamente. El objetivo de esta revisión es identificar fortalezas, debilidades y 
+oportunidades de mejora en su diseño. 
+La segunda etapa consiste en la valoración global de los indicadores, la cual 
+combina el análisis documental con la aplicación de una entrevista a los 
+responsables del Pp. Esta etapa examina aspectos relacionado s con la 
+disponibilidad de recursos para la generación y seguimiento de la información, 
+la permanencia y comportamiento histórico de los indicadores, su utilización 
+8 
+
+--- PAGINA 44 ---
+ 
+44 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+en la toma de decisiones, la construcción de líneas base y metas, así como la 
+consistencia de las fuentes de información y, en su caso, la calidad de los 
+registros administrativos empleados para su cálculo.  
+Para evaluar el uso de los indicadores en la toma de decisiones, es fundamental 
+distinguir entre dos enfoques metodológicos. Una entrevista  estructurada es 
+aquella que sigue estrictamente un cuestionario diseñado con anterioridad, 
+donde a todos los participantes se les formulan las mismas preguntas 
+exactamente en el mismo orden, basándose en un sistema de medición rígido 
+y preestablecido. Por el contrario, una entrevista semiestructurada emplea una 
+guía temática ordenada, pero otorga al evaluador un grado de libertad y 
+flexibilidad para adaptar la conversación en tiempo real y ahondar de forma 
+espontánea en temas relevantes que vayan surgiendo (ATLAS.ti, s.f.). 
+El uso de entrevistas estructuradas  
+aporta ventajas significativas cuando el 
+objetivo de la evaluación es recabar 
+información estandarizada, confiable y 
+objetiva entre múltiples actores. Al aplicar 
+un protocolo estricto, se elimina en g ran 
+medida el sesgo del entrevistador y se 
+facilita la comparación cuantitativa directa de las respuestas entre diferentes 
+dependencias o Unidades Responsables. Este enfoque resulta especialmente 
+eficiente si se requiere encuestar a un volumen alto de funcionarios operativos 
+para validar, de forma binaria, la simple existencia de mecanismos formales o 
+reuniones calendarizadas para la revisión de los indicadores de gestión 
+(Universidad de Chile, s.f.). 
+Por otro lado, la principal ventaja de utilizar entrevistas semiestructuradas 
+radica en su capacidad para explorar las dimensiones cualitativas y el contexto 
+real de la gerencia pública. Dado que la toma de decisiones basada en el 
+desempeño a menudo involucra matices no documentados, este formato 
+permite realiz ar preguntas de seguimiento o pedir ejemplos concretos. Al 
+fomentar un diálogo natural, los servidores públicos pueden compartir cómo 
+interpretan los datos o qué obstáculos enfrentan para realizar ajustes 
+presupuestarios (ATLAS.ti, s.f.). Por ello, para lo s fines de esta evaluación, una 
+entrevista semiestructurada puede aportar información complementaria sobre 
+una “cultura de toma de decisiones basada en evidencia” que difícilmente se 
+
+
+--- PAGINA 45 ---
+ 
+45 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+podrá identificar en la revisión documental que sustenta todo este ejerci cio 
+evaluativo. 
+ 
+¿Cómo se integran ambas etapas? 
+ 
+Los resultados de ambas etapas se documentan en informes que integran los 
+hallazgos, conclusiones y recomendaciones orientadas al fortalecimiento del 
+sistema de seguimiento y monitoreo del Programa. 
+Como parte de los productos a entregar por parte de la Instancia Evaluadora, 
+se deberá integrar una calificación final del Pp como resultado de la evaluación 
+de sus indicadores, misma que se encontrará en una escala de 0 a 100, siendo 
+100 la mejor calificación posible. Dicha calificación estará conformada por dos 
+puntajes, correspondientes a cada una de las etapas de la evaluación. La 
+ponderación de cada etapa en la calificación final se muestra en la Tabla 15.1.  
+Tabla 15.1 Ponderaciones de las etapas de la Evaluación de Indicadores 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2026a).  
+ 
+Criterios de calidad para la Evaluación  
+ 
+Para garantizar su calidad, el Área de Evaluación de la dependencia o entidad 
+responsable de la operación del Pp eval uado, debe revisar y verificar que la 
+Instancia Evaluadora cumpla con lo establecido en las consideraciones 
+generales y específicas de los TdR que se utilicen para su desarrollo.   
+Entre las fuentes mínimas para realizar la evaluación, se encuentran las 
+siguientes: información derivada de los Indicadores de Desempeño (nombre 
+
+
+--- PAGINA 46 ---
+ 
+46 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+del indicador, objetivo del indicador, medios de verificación, método de cálculo, 
+unidad de medida, línea base, periodicidad, sentido del indicador, metas, 
+responsables del indicador); páginas web donde se localiza la información; 
+bases de datos del programa o formatos; evidencia relacionada con convenios 
+de colaboración que involucren el intercambio de información; sitios web 
+institucionales; y evidencia documental que respalda la metodología del medio 
+de verificación, entre otros. 
+Es de me ncionarse que en caso de que la  Unidad Responsable del Pp  no 
+cuenten con alguna de las fuentes de información mínimas o no contenga los 
+elementos suficientes para realizar el análisis, la Instancia Evaluadora debe 
+describir las implicaciones respecto de la carencia o deficiencia de los 
+documentos. 
+Es por ello qu e los informes de evaluación no solo deben cumplir con la 
+estructura de los entregables que se plasma, también tiene que garantizar que 
+la información obtenida en el proceso de evaluación permita identificar cada 
+uno de los hallazgos establecidos dentro de l informe, así como las 
+recomendaciones que de éstos derivan. 
+A manera de conclusión, vale la pena enfatizar que la Evaluación de Indicadores 
+es relevante en el marco del SED ya que busca asegurar que los parámetros de 
+medición reflejen si realmente se está solucionando el problema público que 
+originó el Programa. No  obstante, desde una perspectiva reflexiva, el mayor 
+aporte de este ejercicio radica en visibilizar que un mal diseño métrico puede 
+enmascarar el fracaso de una política o invisibilizar sus verdaderos logros. 
+Exponer estas fallas impulsa una madurez instit ucional que obliga a las 
+dependencias a abandonar el cumplimiento inercial, promoviendo en su lugar 
+que la información recabada y las metas —las cuales deben estar justificadas 
+técnica y presupuestariamente — detonen ajustes reales y decisiones 
+estratégicas basadas en evidencia.   
+Sin embargo, contar con un ecosistema de medición robusto y confiable 
+resuelve únicamente la dimensión de "qué" se está logrando y en qué 
+magnitud, dejando a menudo sin respuesta el "cómo" se estructuran los 
+esfuerzos diarios para alcanzar dichas metas. Es en esta frontera donde el 
+análisis de métricas se vincula indefectiblemente con el siguiente paso lógico: 
+la Evaluación de Procesos.  
+
+--- PAGINA 47 ---
+ 
+47 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Mientras que la Evaluación de Indicadores 
+se encarga de verificar que existan los 
+recursos mate riales para monitorear el 
+desempeño y asegurar que los 
+instrumentos de seguimiento sean de 
+calidad, la Evaluación de Procesos se 
+adentra en las entrañas operativas de las 
+dependencias. Un indicador que arroja 
+alertas sobre un bajo desempeño es apenas el sí ntoma de un problema más 
+profundo; diagnosticar las ineficiencias, los cuellos de botella en la entrega de 
+bienes o las fallas en los flujos de trabajo internos es la tarea central de la 
+evaluación de procesos, convirtiéndola en el complemento indispensable para 
+transformar los datos de los indicadores en mejoras tangibles para la 
+ciudadanía.   
+
+
+--- PAGINA 48 ---
+ 
+48 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+ 
+ 
+De acuerdo con los 
+Lineamientos Generales 
+aplicables a la gestión para 
+resultados de los recursos 
+públicos federales 
+(Lineamientos GpR), este 
+tipo de evaluación “analiza si los procesos operativos de las Políticas Públicas y 
+los Programas presupuestarios se realizan de manera eficaz, eficiente y 
+contribuyen al logro de sus objetivos y al mejoramiento de la gestión“  (SHCP, 
+2025). Por su parte, en el Tema 5 del Diplomado se explicó que las Evaluaciones 
+de Procesos son necesarias cuando se detectan puntos críticos en la operación; 
+estos pueden ser identificados mediante una Evaluación de Consistencia y 
+Resultados -que, como se vio en el Tema 14, cuenta con u na pregunta 
+relacionada con procesos -, o bien cuando los operadores del Programa 
+identifican fallas atribuibles a la implementación. Por ejemplo, de acuerdo con 
+Lara Álvarez (2018), las evaluaciones de Procesos son necesarias cuando se 
+identifican fallas en la cobertura o en la retención de la población objetivo.  
+ 
+Delimitación conceptual  
+ 
+Esta evaluación busca analizar los procesos, subprocesos y, en su caso, 
+macroprocesos, que intervienen en la generación y entrega de bienes y/o 
+servicios. Con ello se bu sca obtener información que contribuya al 
+fortalecimiento de las etapas de Planeación, Monitoreo y Evaluación de los 
+Programas Presupuestarios (Pp), mediante la identificación de las principales 
+problemáticas, cuellos de botella, áreas de oportunidad, así como el 
+reconocimiento de las buenas prácticas que contribuyen en la operación de los 
+Pp.  
+  
+TEMA 16. Evaluación de Procesos 
+Fuente: elaboración propia SHCP, 2026. 
+
+--- PAGINA 49 ---
+ 
+49 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+Por lo tanto, e l objetivo general de la Ev aluación de 
+Procesos es contribuir a la mejora del funcionamiento, 
+gestión y organización del Pp, mediante el análisis y la 
+valoración de los procesos, subprocesos y, en su caso, 
+macroprocesos, así como de su operación, a fin de 
+generar información que per mita orientar su gestión 
+hacia la consecución de resultados de manera eficaz y eficiente (SHCP, 2024).  
+Para valorar el cumplimiento del objetivo general, la evaluación considera seis 
+objetivos específicos, mismos que se presentan en la Figura 16.1.  
+ 
+Figura 16.1 Objetivos específicos de la Evaluación de Procesos 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2024). 
+
+
+--- PAGINA 50 ---
+ 
+50 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Para comprender adecuadamente los objetivos antes descritos, es 
+indispensable discernir entre los que son subprocesos, procesos y 
+macroprocesos. Por esta razón en la Figura 16.2 se presenta el alcance de cada 
+uno de estos conceptos, en el marco de la MIR, y mediante la aplicación de un 
+ejemplo práctico.    
+ 
+Figura 16.2 Subprocesos, procesos y macroprocesos 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2024).  
+ 
+Los subprocesos corresponden al nivel más específico que incluye un conjunto 
+de actividades que interactúan para la generación de un producto o entregable 
+puntual. La suma de dos o más subprocesos es lo que permite que el proceso 
+general se cumpla. Generalmente, estos pas os ya se encuentran formalizados 
+en manuales de procedimientos, o bien, se ejecutan de manera informal a 
+partir del conocimiento empírico de quienes los operan.  Por ejemplo, los 
+subprocesos llevados a cabo para la elaboración del presente Diplomado serían 
+la formulación del temario, el diseño de los reactivos de evaluación, o la gestión 
+administrativa de la plataforma virtual y el registro de la matrícula.  
+De este ejemplo, se puede observar que existe una vinculación directa entre las 
+Actividades de los P rogramas y los subprocesos. Sin embargo, es importante 
+
+
+--- PAGINA 51 ---
+ 
+51 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+recordar que al ser la Matriz de Indicadores para Resultados (MIR) una hoja de 
+ruta de la intervención pública, la descripción de los procesos no es exhaustiva. 
+Por ende, el ejercicio evaluativo no se deberá limitar al análisis de las 
+Actividades como los únicos subprocesos a revisar.  
+Los procesos que conforman el nivel 
+intermedio estructural consisten en un 
+conjunto de actividades, subprocesos 
+y recursos relacionados que 
+transforman elementos de entrada en 
+resultados o elementos de salida. 
+Estos eslabones, al agruparse, pueden 
+formar parte de macroprocesos. 
+Siguiendo la línea del mismo ejemplo, 
+los procesos serían el diseño, coordinación y ejecución de los Módulos del 
+Diplomado de Evaluación, los cual es toman como entrada una necesidad 
+formativa, procesan los recursos didácticos y tiene n como salida el egreso de 
+personas servidoras públicas profesionalizadas.  
+Los procesos se ubican en un nivel intermedio entre las Actividades y los 
+Componentes de la MIR. Aunque en este punto ya se aborda la producción de 
+los bienes y servicios que entrega el Programa, es importante recordar que en 
+la MIR los productos suelen describirse de manera agregada. En el ejemplo de 
+la profesionalización, el Resumen Narrativo d el Componente sería: “Personas 
+servidoras públicas profesionalizadas en materia de Gestión para Resultados”. 
+Por ende, aunque el Diplomado de Evaluación forma parte de los productos 
+que entrega el Programa, en la MIR no se incluye de forma particular, sino que 
+se engloba de manera general junto con el resto de la oferta de 
+profesionalización en la materia. 
+Finalmente, el nivel de macroprocesos es el más amplio e integrador y se 
+define como un conjunto de procesos ejecutados en el marco de la operación 
+de un  Pp, mediante el cual se generan bienes y/o servicios. Representa los 
+grandes bloques de actuación de una dependencia o entidad gubernamental. 
+Por ejemplo, la gestión integral de la profesionalización y la capacitación en 
+materia de Gestión para Resultados  sería un macroproceso, en el cual se 
+agrupan todos los cursos, diplomados, capacitaciones y demás instrumentos 
+orientados a incrementar las competencias de las personas servidoras públicas 
+
+
+--- PAGINA 52 ---
+ 
+52 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+de los tres órdenes de gobierno en México. Este sería un  solo Componente en 
+la MIR.  
+ 
+Alcance de la Evaluación  
+ 
+Este tipo de ejercicio de Evaluación no se limita únicamente a identificar áreas 
+de oportunidad susceptibles de mejora, a partir del análisis de los procesos, 
+subprocesos y macroprocesos involucrados en la gen eración del bien y/o 
+servicio que proporciona el Pp. También busca reconocer aquellas buenas 
+prácticas que contribuyen a resolver problemáticas al interior de la 
+organización y que, en consecuencia, favorecen la generación y entrega 
+oportuna de los bienes y/o servicios.  
+Asimismo, con su aplicación se espera que el trabajo conjunto entre el Área de 
+Evaluación, la Unidad Responsable (UR) y la Instancia Evaluadora permita 
+identificar, de manera precisa, los procesos, subprocesos o macroprocesos que 
+requieren un análisis más detallado, a partir de la detección de las necesidades 
+que enfrenta las UR en la implementación del Pp.  
+Finalmente, las recomendaciones emitidas por la Instancia Evaluadora deberán 
+guardar congruencia con los hallazgos derivados del anális is del Pp, 
+considerando el ámbito de competencia y la capacidad de actuación de la UR 
+para su implementación, así como el contexto en el que opera el Pp. Lo anterior 
+permitirá valorar objetivamente los retos, implicaciones y posibles efectos, 
+positivos o n egativos, asociados con la implementación de cada 
+recomendación, de acuerdo con la valoración que realicen los responsables de 
+su atención. 
+Un elemento que se podrá tomar en cuenta para establecer el alcance de la 
+evaluación es el grado de consolidación operativa del Pp, el cual podrá 
+determinarse a priori considerando los elementos que se describen en la Figura 
+16.3.  
+  
+
+--- PAGINA 53 ---
+ 
+53 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Figura 16.3 Etapas del grado de consolidación operativa. 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2024).  
+ 
+Se considera que existe un mayor grado de consolidación operativa cuando 
+existen todos los elementos señalados anteriormente; y disminuirá 
+gradualmente conforme haga falta uno o más de ellos hasta el menor grado de 
+consolidación que es cuando no existe ninguno de los elementos. 
+La Evaluación de Procesos requiere de un equipo de evaluadores pragmáticos, 
+con suficiente experiencia en la elaboración de instrumentos de captación, para 
+que las encuestas funcionen adecuadamente en la recopilación de la 
+información necesaria para el proceso evaluativo. El equipo debe ser capaz de 
+analizar de qué manera las reglas de operación o acciones inerciales —como 
+los horarios de atención — pueden obstaculizar la solicitud de un apoyo por 
+parte de la población. Si bien esta variable es determinante en ciertos 
+programas, en otros su impacto puede ser marginal o nulo. 
+Si bien, cada Pp tiene sus propios procesos, en los Términos de Referencia se 
+contempla un modelo general que sirve como referente para llevar a cabo este 
+tipo de evaluación. En la Figura 16.4 se presenta el Modelo General de Procesos 
+que se puede tomar como base de la evaluación. Es interesante observar que 
+los procesos presentados tienen cierta correspondencia con el ciclo de políticas 
+que se estudió en lecciones previas, aunque como se anticipó en su momento, 
+no existe un ciclo de políticas consensuado cuyo uso sea universal.  
+  
+
+
+--- PAGINA 54 ---
+ 
+54 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Figura 16.4 Modelo General de Procesos 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2024).  
+ 
+El proceso de planeación es aquél en el que, por medio de la implementación 
+de la Metodología de Marco Lógico  (MML) antes estudiada, se define el 
+problema público o necesidad a atender, se delimita a la población objetivo, se 
+elaboran los árboles del problema y objetivos, se defi nen los objetivos del Pp 
+en el Resumen Narrativo, los Indicadores de Desempeño por medio de los 
+cuales se va a medir su avance y se establecen las metas de acuerdo con su 
+frecuencia de medición. Adicionalmente se define una estrategia de cobertura, 
+un plan  estratégico y los recursos financieros y humanos requeridos para 
+lograr las metas establecidas.  
+En el proceso de planeación se determinan las directrices en el diseño e 
+implementación del Pp. Lo s subprocesos que lo integran son los siguientes: 
+planeación estratégica, programación y presupuesto, actualización de los 
+Instrumentos de Seguimiento del Desempeño (ISD), de la normativa y, en su 
+caso, la definición de la agenda o estrategia de evaluación de mediano y de 
+
+
+--- PAGINA 55 ---
+ 
+55 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+largo plazo. Con estos subprocesos se acent úa el vínculo y la interacción de la 
+planeación y la evaluación (SHCP, 2024). 
+El siguiente es el proceso de comunicación interna y externa  en el que se 
+informan diversas características y objetivos del Pp tanto a los actores 
+involucrados en su funcionamiento y operación (interna), como a su población 
+objetivo (externa). Por su parte, la selección de destinatarios es el proceso en 
+el que se determina quiénes o qué instancias serán los receptores directos de 
+los componentes o entregables de un Pp  en función de su población objetivo.  
+La revisión del proceso de comunicación es muy importante ya que, en la 
+mayoría de los bienes y servicios que provee el Estado, es necesario que la 
+población objetivo y receptora se movilice de alguna forma para su rec epción. 
+Igualmente, para que los actores involucrados en la operación del Programa lo 
+hagan adecuadamente, es importante que se informe oportunamente sobre el 
+funcionamiento y actividades a realizar en el marco del Pp.  
+Respecto a la  selección de destinata rios, es importante diferenciar entre la 
+población objetivo y la población receptora de un Pp. En la Figura 16.5 se define 
+y ejemplifica cada uno de ellos.  
+Figura 16.5 Población objetivo y población receptora 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+
+
+--- PAGINA 56 ---
+ 
+56 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+En términos generales, la producción de entregables es el proceso en el que 
+se elaboran los productos o realizan los Componentes del Pp conforme a la 
+normativa aplicable. Es fundamental considerar que no necesariamente el área 
+responsable debe producir tal cual los productos del Programa. Muchas veces, 
+puede adquirir los bienes terminados o subcontratar a un tercero para la 
+prestación de los servicios. Lo importante de este proceso es que se obtengan 
+de manera eficiente los productos de tal forma que estén listos para su entrega.  
+Por ejemplo, en el sector salud se entregan botes de fórmula láctea infantil a 
+niños de cero a cinco meses que asisten mensualmente a su consulta de control 
+a las Unidades de Medicina Familiar. En este caso, no sería óptimo que el sector 
+salud produjera fórmula láctea cuando en el mercado existe una gran variedad 
+de laboratorios que lo producen. Por esta razón la mejor forma de obtener el 
+producto a entregar es adquiriendo aquella fórmula que cumpla con los 
+requisitos nutricionales para la edad de los lactantes. 
+También vale la pena mencionar que los entregables de los Pp deben 
+corresponder a los componentes indicados en su MIR, pero si ésta no es sólida 
+o tiene áreas de mejora, de acuerdo con la MML, podrían no coincidir. En este 
+caso se espera que la Instancia Evaluadora identifique esta área de mejora.  
+El siguiente proceso es la entrega de estos bienes o servicios  producidos, 
+generados o adquiridos a los destinatarios, 
+beneficiarios o receptores directos. Es importante 
+enfatizar que no necesariamente los destinatarios, 
+beneficiarios o receptores directos son la misma 
+persona. Retomando el ejemplo de la entrega de 
+fórmulas lácteas, el receptor directo del producto 
+son los padres o tutores del menor, aunque el 
+beneficiario del Programa sea el menor. 
+El seguimiento a la población atendida  implica la revisión  de actividades y 
+mecanismos que permiten al Pp conocer cómo son utilizados o aprovechados 
+los bienes y/o servicios entregados a la población beneficiaria, para que, entre 
+otras funciones, la UR del Pp verifique el cumplimiento de los objetivos. En este 
+proceso se incluyen las actividades que un Pp implementa para conocer el 
+grado de satisfacción de su población beneficiaria. Así, este seguimiento busca 
+identificar cómo han cambiado  las conductas de la población beneficiaria , 
+producto de la entrega de bienes y servicios. Por ello, a diferencia de los 
+
+
+--- PAGINA 57 ---
+ 
+57 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+procesos revisados previamente, será necesario que la Instancia Evaluadora 
+lleve a cabo una investigación de campo, y que por medio de encuestas y 
+entrevistas capte el punto de vista de la población beneficiaria.  
+El control hace referencia a las actividades y mecanismos implementados entre 
+los operadores del Pp  para verificar que los diferentes procedimientos, 
+procesos y subprocesos se estén ejecutando conforme a lo planeado (control 
+interno). Es importante no confundir el seguimiento y el control. El primero es 
+la identificación de avances en el cumplimiento de  las metas, mientras que el 
+control verifica internamente que los recursos se estén movilizando de acuerdo 
+con lo planeado. 
+El seguimiento al desempeño  hace referencia al proceso coordinado por el 
+que una Unidad Administrativa ajena a la que opera el Pp, recaba, registra y 
+valida la información sobre el avance de las metas de los Indicadores del 
+Desempeño en el Portal Aplicativo de la Secretaría de Hacienda (PASH), así 
+como el seguimiento a los resultados de indicadores adicionales en caso de que 
+se cuente con un sistema de monitoreo de gestión. 
+Finalmente, la Evaluación del Desempeño externa  es el proceso coordinado 
+por una Unidad Administrativa ajena a la operación del Pp, pero idealmente 
+con la participación de la UR del Pp, mediante el cual se define la  agenda de 
+evaluación externa del Pp, se definen las metodologías o los Términos de 
+Referencia (TdR) y se contratan las evaluaciones externas de cualquier tipo. 
+Asimismo, abarca la recopilación de información que será entregada a los 
+equipos evaluadores, s e realiza el seguimiento durante el desarrollo de las 
+evaluaciones externas, se aprueban los informes finales, se notifica a las 
+instancias correspondientes sobre la conclusión de las evaluaciones externas y 
+se definen los Aspectos Susceptibles de Mejora ( ASM) para su seguimiento y 
+atención. 
+A partir de los procesos definidos en el modelo anterior , el equipo evaluador 
+deberá realizar una equivalencia de los procesos aplicables respecto a los 
+propuestos. Cabe mencionar que los procesos definidos en el modelo  no son 
+limitativos, por lo que si el equipo evaluador identifica procesos adicionales 
+deberá incluirlos. 
+ 
+ 
+
+--- PAGINA 58 ---
+ 
+58 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Abordaje metodológico 
+ 
+La Evaluación de Procesos deberá adoptar una metodología de corte 
+cualitativo, orientada a generar evidencia sobre las problemáticas que enfrenta 
+la Unidad Responsable cuando alguno de los procesos involucrados en la 
+operación del Pp presenta fallas o limitaciones que afecta la entrega y/o 
+generación del bien y/o servicio. De manera complementaria, la evaluación 
+deberá permitir identificar y analizar aquellos momentos en los que las buenas 
+prácticas contribuyen positivamente a la operación y favorecen la entrega del 
+bien y/o servicio. La Evaluación de Procesos se realizará mediante técnicas de 
+investigación cualitativa, tal es como el análisis documental, la observación 
+directa, estudios de caso y multicasos específicos, entrevistas 
+semiestructuradas y grupos focales, entre otras técnicas que la Instancia 
+Evaluadora considere pertinentes para desarrollo del trabajo de campo.  
+De acuerdo con su s Términos de Referencia (SHCP, 2024), este ejercicio 
+evaluativo cuenta con tres “productos” o entregas:  
+1) Producto 1: Diagnóstico y alcance de la Evaluación de Procesos , en donde se 
+especifica el contexto en que opera el Pp, técnicas de investigación a utilizarse, 
+estrategia y plan de trabajo de campo, así como propuesta y justificación del 
+enfoque metodológico y del diseño muestral propuesto. 
+2) Producto 2: Informe preliminar de la Evaluación de Procesos, en donde a parte 
+de la descripción m etodológica y muestral, ya se debe incorporar el análisis y 
+medición de procesos y subprocesos, así como una primera versión de los 
+hallazgos y resultados. 
+3) Producto 3: Informe Final de Evaluación de Procesos, en el que a partir del 
+Producto 2, se presenta el ejercicio evaluativo integral, incorporando los ajustes 
+que se requieran derivado de la revisión con el área responsable del Programa.  
+A través de un análisis de gabinete, se tendrá como resultado un diagnóstico 
+inicial de los procesos, subprocesos o macroprocesos que integran la operación 
+o gestión del Pp. Para llevar a cabo este análisis, se espera que la Instancia 
+Evaluadora considere por lo menos, las siguientes fuentes de información que 
+se presentan en la Figura 16.6.   
+ 
+ 
+
+--- PAGINA 59 ---
+ 
+59 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Figura 16. 6 Fuente de información para una Evaluación de Procesos 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2024).  
+ 
+A partir del análisis de gabinete se identificarán los procesos estratégicos que 
+sustentan el funcionamiento y la operación del Pp para la generación o entrega 
+de los bienes y/o servicios. Asimismo, el análisis documental permitirá 
+identificar aquellos procesos que merecen ser analizados para realizar el 
+trabajo de campo. Los resultados de esta fase constituirán un insumo para la 
+integración de los Productos 2 y 3, al permitir contrastar los hallazgos derivados 
+del análisis de gabinete con la información obtenida durante el trabajo de 
+campo.  
+En este sentido, la estructura del diagnóstico deberá contener una descripción 
+del contexto en el que oper a el Pp, la cual deberá contrastarse con la 
+identificación de los procesos, subprocesos y macroprocesos que conforman 
+su operación de acuerdo con la normatividad aplicable. Asimismo, se espera 
+que la Instancia Evaluadora presente el abordaje metodológico q ue empleará 
+durante el desarrollo del trabajo de campo.  
+La segunda fase corresponde al diseño metodológico del trabajo de campo. 
+En esta etapa, a partir  del contexto operativo del Pp, su alcance y el enfoque 
+
+
+--- PAGINA 60 ---
+ 
+60 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+metodológico adoptado para la evaluación, se establecerán las bases para la 
+generación y análisis de los hallazgos que serán analizados en el Producto 2. 
+Para ello, la Instancia Evaluadora deberá elaborar una propuesta de estrategia 
+y un plan de trabajo de campo, sustentados en un cronograma de actividades. 
+Como resultado de este abordaje, el Producto 1 deberá integrar la sección 
+correspondiente a los Instrumentos de levantamiento de información, 
+desarrollada conforme a los siguientes elementos revisados en la Figura 16.4. 
+En las secciones que integran el Producto 2, deberá incorporarse un apartado 
+específico para la descripción y valoración de los procesos, subprocesos y, 
+en su caso, macroprocesos.  Para ello, se requiere elaborar una descripción 
+detallada de su desarrollo y  un análisis conforme al alcance establecido, 
+utilizando la información recabada mediante el análisis de gabinete y el trabajo 
+de campo. Asimismo, se deberá efectuar una valoración integral sobre la 
+gestión de cada proceso, considerando la operación observ ada en sus 
+respectivos subprocesos y macroprocesos. 
+El Producto 3, integrará los hallazgos obtenidos en los Productos 1 y 2, de 
+manera que, a partir de las conclusiones, la valoración global y las 
+recomendaciones, se obtendrá una valoración cuantitativa de  la eficacia, 
+oportunidad, suficiencia y pertinencia de los procesos, subprocesos o 
+macroprocesos para la generación y/o entrega del bien y/o servicio que 
+contempla el Pp.  
+ 
+Criterios de calidad para la Evaluación 
+ 
+Para garantizar la calidad de este tipo d e evaluación, el Área de Evaluación de 
+la Dependencia o Entidad responsable de la operación del Pp evaluado, deberá 
+revisar y verificar que la Instancia Evaluadora cumpla con las consideraciones 
+generales y específicas establecidas en los TdR utilizados pa ra el desarrollo de 
+la evaluación.  
+Asimismo, como parte de los criterios para garantizar la calidad de la 
+evaluación, la Instancia Evaluadora deberá entregar una bitácora de trabajo de 
+campo y bases de datos en la que se destaque de forma sintética, entre  otros 
+
+--- PAGINA 61 ---
+ 
+61 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+puntos, las principales actividades y situaciones a las que se enfrentó y que 
+podrían afectar los resultados de la Evaluación de Procesos del Pp.  
+De igual forma, la Instancia Evaluadora deberá entregar las bases de datos 
+generadas a partir de la ap licación de los instrumentos de recolección y 
+recopilación de información durante el trabajo de campo. Estas deberán 
+encontrarse sistematizadas e integrar la información recabada mediante los 
+instrumentos de levantamiento de información, de manera que perm itan 
+sustentar el análisis, las valoraciones, los hallazgos y las conclusiones de la 
+evaluación. 
+Finalmente, las recomendaciones deberán proporcionar información útil a los 
+operadores del Pp para realizar adecuaciones en la ejecución de los procesos, 
+subprocesos y, en su caso, macroprocesos, de manera que contribuyan a 
+fortalecer la consecución de resultados del Pp. Para ello, las recomendaciones 
+deben guardar congruencia con los hallazgos obtenidos durante el análisis del 
+Producto 1 y del análisis desarrollado en el Producto 2, así como con la 
+valoración integral y el abordaje formalizado en el Producto 3. 
+En conclusión, la Evaluación de Procesos implica contrastar el deber ser con la 
+realidad e identificar los puntos que se deben mejorar para optimizar la 
+implementación de los Programas presupuestarios. Es importante enfatizar 
+que la metodología de investigación empleada en este tipo de evaluación es 
+predominantemente cualitativa, haciendo uso de distintos tipos de entrevistas 
+y haciendo un importante trabajo de gabinete. Por esta razón es importante 
+que la Instancia Evaluadora sea experta en este tipo de metodologías y que 
+conozca cabalmente el tema a evaluar. 
+ 
+
+--- PAGINA 62 ---
+ 
+62 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+ 
+De acuerdo con Gertler et al. (2017), los Programas y las políticas de desarrollo 
+suelen estar diseñados para conseguir resultados. Algunos ejemplos de 
+resultados esperados pueden ser el aumento de los ingresos de un sector de 
+la población, la mejora en el aprendizaje en determinada materia o la reducción 
+de la tasa de incidencia de una enfermedad. A pesar de que la medición de la 
+consecución de los objetivos planteados por las diversas políticas y programas 
+públicos debería ser una cuestión esencial para garantizar su éxito, es  una 
+realidad que el tema no suele abordarse con suficiente frecuencia.  
+Habitualmente los operadores de los Programas y los responsables de Políticas 
+se concentran en medir los insumos y los productos inmediatos ; por ejemplo, 
+cuánto dinero se gasta o cuántos libros de texto se distribuyen, en lugar de 
+valorar si los Programas han alcanzado sus objetivos. Esto se debe, entre otras 
+cosas, a que las instituciones públicas generan rutinas en las cuales se favorece 
+la entrega de los productos sobre la consecución de los objetivos, ya que estos 
+últimos son más difíciles de medir .  
+La Evaluación de Impacto es el ejercicio más 
+riguroso, en términos técnicos y 
+metodológicos, para identificar y cuantificar 
+el logro de resultados directos y atribuibles a 
+las Políticas Públicas  (PP) y Programas 
+presupuestarios (Pp); en otras palabras, el 
+cambio que se logra generar en los 
+beneficiarios o destinatarios, a partir de la intervención pública. Es también 
+un ejercicio que contribuye a la toma de decisiones y a la rendición de cuentas; 
+es decir, aporta información tanto para actores a nivel gerencial, como para los 
+ciudadanos sobre la efectividad de los Programas a los cuales se destina un 
+presupuesto público. De acuerdo con los Linea mientos Generales aplicables a 
+la gestión para resultados de los recursos públicos federales (Lineamientos 
+GpR) (SHCP, 2025), la Evaluación de Impacto identifica los resultados atribuibles 
+a la ejecución de las PP y Pp sobre su población objetivo.   
+TEMA 17. Evaluación de Impacto 
+
+
+--- PAGINA 63 ---
+ 
+63 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+La conducción de Evaluaciones de Impacto generalmente demanda mucho 
+más tiempo y recursos con respecto a los otros tipos de evaluacio nes, motivo 
+por el cual, se observan pocos ejercicios evaluativos de este tipo a pesar de su 
+utilidad. Es importante recordar que esta es una generalidad, ya que dadas las 
+diferencias entre los Programas presupuestarios que conforman la estructura 
+programática federal, los costos también puede ser diversos dependiendo de 
+los requerimientos específicos de cada Programa. 
+Asimismo, es importante destacar que, a diferencia de los otros tres tipos de 
+evaluaciones a Programas presupuestarios, no se cuenta con un Model o de 
+Términos de Referencia para la Evaluación de Impacto. Esto se debe a que cada 
+ejercicio evaluativo de esta naturaleza posee una lógica propia y requiere 
+distintas herramientas metodológicas; por lo tanto, su estandarización, lejos de 
+fungir como una guía orientadora, podría convertirse en una camisa de fuerza. 
+ 
+Utilidad de la Evaluación de Impacto  
+ 
+ Aunque existe evidencia de que las Evaluaciones de Impacto se han utilizado 
+en las ciencias naturales desde hace mucho tiempo, las primeras aplicaciones 
+enfocadas en Políticas Públicas datan de la década de 1970 . En México  es un 
+ejercicio reciente que comenzó en 1997 con la evaluación del Programa 
+Progresa. Este tipo de evaluación ha demostrado ser un instrumento orientado 
+a lograr tres aspectos que son de interés para los funcionarios de gobierno, los 
+cuales se describen en la Figura 17.1. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGINA 64 ---
+ 
+64 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+Figura 17.1 Utilidad de las Evaluaciones de Impacto 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+ 
+Con respecto al último  punto, es importante tener cuidado con la 
+interpretación que se le da a la información que se obtiene producto de una 
+Evaluación de Impacto. El que u n Programa concluya no necesariamente 
+significa que ya cumplió su Propósito en términos de lo establecido en la Matriz 
+de Indicadores para Resultados (MIR). También puede suceder que los 
+hallazgos lleven a la conclusión de que no es costo – efectivo o que el problema 
+público evolucionó de tal forma que el Programa ya no está bien orientado para 
+resolverlo. En estos últimos casos, se procede a rediseñar el Programa 
+iniciando con un nuevo diagnóstico que considere estos cambios. 
+Por su parte, que un Programa continúe, no necesariamente significa que no 
+es eficaz para la resolución del problema público que atiende . Primeramente, 
+los Programas presupuestarios dirigidos a poblaciones que se renuevan 
+pueden tener una continuidad indeterminada. Por ejemplo, aquellos 
+encaminados a la prevención de distintos fenómenos sociales como la 
+discriminación, la violencia en el h ogar o el embarazo adolescente tienen que 
+estar funcionando de forma constante. También puede suceder que los 
+hallazgos lleven a la conclusión de que el Programa está bien encaminado para 
+
+
+--- PAGINA 65 ---
+ 
+65 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+atender el problema para el cual fue creado y que con ajustes puede seguir 
+aportando valor público.  
+ 
+El reto de la construcción de un contrafactual 
+ 
+La peculiaridad que hace tan valiosos los resultados de la Evaluación de 
+Impacto es que utiliza metodologías rigurosas para identificar los cambios 
+atribuibles a la intervención de un Programa o Política específica. Sin embargo, 
+no siempre se cuenta con las condiciones para llevarla a cabo. Uno de los 
+principales problemas que enfrenta la Evaluación de Impacto para identificar 
+relaciones causales es la falta del contrafactual;  es decir, la estimación de cuál 
+habría sido el resultado para los participantes en el programa en ausencia de 
+éste. Inferir este contrafactual para el estudio de los efectos de una 
+intervención requiere metodologías y técnicas rigurosas y suficiente 
+información para poder controlar todos los otros factores que podrían estar 
+incidiendo. 
+Existen diversas metodologías que permiten identificar el contrafactual. Lo 
+principal es contar con un grupo de comparación o grupo de control 
+(Observatorio Empresarial para el Crecimiento Inclusivo, 2016) para 
+contrastarlo con la población atendida. Éste se selecciona con elementos que 
+tienen condiciones y características similares a los de la población objetivo 
+(personas, animales, instituciones, dependencias, ecosistemas),  pero que, a 
+diferencia de esta última, no será favorecido por el Programa. Gracias al 
+seguimiento constante del comportamiento del grupo de control se podrá 
+determinar qué “hubiera pasado” si a la población objetivo no se le atendiera. 
+Si bien esta definición parece sencilla, la determinación del grupo de control se 
+debe realizar con metodologías rigurosas aplicando lo revisado en el Tema 12 
+de muestreo. En la Figura 17.2 se presentan algunos métodos para plantear un 
+contrafactual.  
+ 
+ 
+ 
+ 
+
+--- PAGINA 66 ---
+ 
+66 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Figura 17.2 Principales métodos para la conformación del contrafactual 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Observatorio Empresarial para 
+el Crecimiento Inclusivo (2016) y Gertler et al. (2017).  
+ 
+La asignación aleatoria se erige como la aproximación más robusta, ya que 
+garantiza que todos los elementos del marco muestral tengan la misma 
+probabilidad de ser seleccionados y que, con el fin de evitar sesgos, la elección 
+se haya hecho estrictamente en función de criterios objetivos. Es el método más 
+sólido para estimar impactos causales, ya que consiste en asignar el acceso al 
+Pp por medio de un sorteo u otro mecanismo aleatorio, creando dos grupos 
+estadísticamente equivalentes: uno que recibe la intervención y otro que no. 
+Debido a que ambos grupos son similares en características observables y no 
+observables, cualquier diferencia posterior en los resultados puede atribuirse 
+con alto grado de certeza al Pp.  
+Cuando el control total sobre la asignación del Pp no es factible, enfoques como 
+la promoción aleatoria permiten sortear el problema al ofrecer incentivos de 
+participación a través de la organización de campañas de promoción dirigidas 
+a una muestra aleatoria de la población de interés.  
+
+
+--- PAGINA 67 ---
+ 
+67 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+Por su parte, las variables instrumentales se utilizan cuando la participación 
+en una intervención no es aleatoria y puede estar influida por factores que 
+también afectan los resultados. En este caso, se emplea una variable externa 
+—llamada instrumento— que influye en la probabilidad de participar en el Pp, 
+pero que no afecta directamente el resultado de interés, excepto a través de la 
+intervención. Este enfoque permite aislar la parte de la participación que es 
+exógena y estimar el impacto causal para el grupo de personas cuya decisión 
+de pa rticipar está determinada por el instrumento, conocido como el efecto 
+local promedio del tratamiento.  
+Por otro lado, desde la perspectiva de los diseños cuasiexperimentales, el 
+diseño de regresión discontinua aprovecha las propias reglas de focalización: 
+se clasifican los posibles beneficiarios mediante un índice continuo (como una 
+puntuación obtenida) y estos son seleccionados según superen o no alcancen 
+la calificación previamente definida, permitiendo comparar a los individuos que 
+quedaron justo por encima y por debajo del umbral de corte. 
+Para complementar el abanico  metodológico frente al reto de la construcción 
+de un  contrafactual, los métodos cuasiexperimentales  ofrecen alternativas 
+rigurosas cuando la aleatorización pura no es viable por restricciones 
+operativas, éticas o de diseño de política pública. 
+Por un lado, el Emparejamiento o Pareamiento  (Propensity Score Matching 
+en inglés) permite construir un grupo d e control artificial al emparejar a los 
+beneficiarios de la intervención con individuos no participantes que poseen 
+características preexistentes y observables muy similares. Esto se logra 
+calculando la probabilidad matemática que tiene cada individuo de p articipar 
+en el programa con base en sus atributos, lo que ayuda a reducir 
+significativamente el sesgo de selección (Gertler et al., 2017). 
+Mientras que, el diseño de Diferencias en Diferencias (DiD)  aborda el 
+problema analizando la trayectoria de los resultados a lo largo del tiempo. Este 
+método estima el impacto al comparar el cambio en los indicadores del grupo 
+de tratamiento (antes y después de la intervención) con la variación observada 
+en el grupo de comparación durante ese mismo periodo. La solidez d e este 
+enfoque descansa en el supuesto fundamental de "tendencias paralelas"; es 
+decir, asume que, en ausencia del programa, las variables de interés en ambos 
+grupos habrían evolucionado de manera idéntica (Gertler et al., 2017). 
+
+--- PAGINA 68 ---
+ 
+68 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+La selección del método de  Evaluación de Impacto depende directamente de 
+las características operativas del Pp que se desea evaluar, en particular de los 
+recursos disponibles, de los criterios de elegibilidad para definir a la población 
+beneficiaria y de la forma en que se implemen ta en el tiempo. Para analizar 
+este contexto operativo, es fundamental responder tres preguntas clave, cuyas 
+respuestas orientan la elección del diseño metodológico más adecuado.  
+Las metodologías en la Evaluación de Impacto permiten estimar de manera 
+rigurosa qué habría ocurrido en ausencia de una intervención mediante la 
+construcción de un contrafactual válido. La asignación  y promoción aleatoria, 
+las variables instrumentales, la regresión discontinua, el emparejamiento y las 
+diferencias en diferencias of recen distintos caminos para lograrlo, cada uno 
+adecuado a contextos específicos. La correcta selección y aplicación de estos 
+métodos es fundamental para producir evidencia confiable que sustente 
+decisiones informadas sobre el diseño, la continuidad y la m ejora de  las 
+Políticas Públicas y los Programas presupuestarios. 
+ 
+Condiciones necesarias para la realización de una Evaluación 
+de Impacto 
+ 
+Cuando los insumos requeridos para la Evaluación de Impacto se consideran 
+desde el momento del diseño del Programa, se pueden reducir 
+significativamente los costos y el tiempo necesario para llevar a cabo su 
+conducción. Por esta razón, es indispensable que los hacedores de política 
+conozcan la importancia de este tipo de evaluación y que se fortalezca su papel 
+como ejercicios de valoración de esta consecución de objetivos y de la 
+generación del valor público para el cual fueron creados los Pp. Tomando en 
+consideración lo anterior, es viable y a propiado hacer una Evaluación de 
+Impacto cuando se cuenta con las condiciones que se presentan en la Figura 
+17.3.  
+ 
+ 
+ 
+
+--- PAGINA 69 ---
+ 
+69 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+Figura 17.3 Condiciones necesarias para la realización de una Evaluación de 
+Impacto 
+ 
+Fuente: elaboración propia SHCP (2026) con base en Befani & Mayne (2014).  
+ 
+1. El Programa cuenta con una Teoría del Cambio o esta puede ser 
+reconstruida. 
+Para evaluar el impacto de un Programa, es fundamental entender la lógica 
+detrás de su diseño; es decir , cómo se espera que las actividades e insumos 
+generen los productos, resultados y, finalmente el impacto deseado. La Teoría 
+del Cambio es ese mapa causal. Si el P rograma no la formuló explícitamente 
+desde su inicio, el equipo evaluador debe ser capaz de reconstruirla 
+retrospectivamente junto con los a ctores clave. Sin esta hoja de ruta, es 
+imposible rastrear los mecanismos causales y determinar si los cambios 
+observados se deben realmente a la intervención. 
+
+
+--- PAGINA 70 ---
+ 
+70 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+2. Ha pasado suficiente tiempo para que los resultados se materialicen. 
+Las intervenciones públicas no generan transformaciones de la noche a la 
+mañana. Si una Evaluación de Impacto se realiza demasiado pronto, se corre el 
+riesgo de concluir erróneamente que la intervención fracasó (un falso 
+negativo), simplemente porque los procesos de cambio aún es tán en marcha. 
+El tiempo de espera debe estar alineado con las expectativas de maduración de 
+los resultados definidos previamente en la Teoría del Cambio del Programa. 
+3. Existe suficiente evidencia y esta puede ser captada y recopilada. 
+Cualquier evaluación rigurosa requiere datos 
+de calidad, ya sean cuantitativos o 
+cualitativos. Esta condición implica que debe 
+existir información base o histórica, registros 
+administrativos, o la viabilidad técnica y 
+financiera para levantar encuestas, realizar 
+entrevistas o aplicar pruebas. Si la evidencia 
+no existe, se perdió de forma irreversible, o los costos y barreras logísticas para 
+recopilarla son prohibitivos, la evaluación carecerá de sustento empírico para 
+llegar a conclusiones válidas. 
+4. Los actores involucrad os necesitan comprender cómo y por qué se 
+produjo el cambio, no solo si este ocurrió. 
+Las Evaluaciones de Impacto tradicionales a menudo operan como una "caja 
+negra": te dicen si el Pp funcionó y cuál fue la magnitud del cambio, pero no 
+explican los motivo s. Esta condición subraya la necesidad de abrir esa caja 
+negra. Para los tomadores de decisiones, entender los mecanismos causales 
+(el "cómo" y el "por qué") es crucial para mejorar lo, escalar la intervención a 
+otras regiones o adaptarla a nuevos contextos . Esto justifica el uso de 
+metodologías cualitativas y basadas en la Teoría del Cambio. 
+5. Los diseños aleatorizados no son viables, éticos ni suficientes por sí 
+solos. 
+Los Ensayos Controlados Aleatorizados (RCT, por sus siglas en inglés) suelen 
+considerarse el "estándar de oro" en la Evaluación de Impacto pura, pero a 
+
+
+--- PAGINA 71 ---
+ 
+71 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+menudo se enfrentan a barreras reales. Puede ser éticamente inaceptable 
+negar un servicio vital a un grupo de control, políticamente inviable aleatorizar 
+la entrega de un beneficio, o imposib le encontrar un grupo de comparación 
+cuando se trata de políticas a nivel nacional. En estos casos, se justifica y se 
+hace necesario recurrir a enfoques alternativos que permitan inferir causalidad 
+sin depender de un diseño experimental. 
+Tomando esto en co nsideración, para realizar una evaluación de este tipo a 
+nivel Federal, las Dependencias y Entidades deberán elaborar un análisis de 
+factibilidad con base en los criterios técnicos y actividades que la Unidad de 
+Política y Estrategia para Resultados (UPER) , en su papel de coordinador del 
+Sistema de Evaluación del Desempeño defina (SHCP , 2025).  
+ 
+Objetivos de la Evaluación de Impacto  
+ 
+La manera en que se diseña y desarrolla una Evaluación de Impacto depende 
+en gran medida de sus objetivos y de sus usuarios primarios. En la Figura 17.4 
+se presentan algunos de los principales objetivos de este tipo de evaluaciones. 
+Figura 17.4 Objetivos de las Evaluaciones de Impacto 
+ 
+ 
+Fuente: elaboración propia (SHCP) con base en Perrin (2012).  
+
+
+--- PAGINA 72 ---
+ 
+72 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+Para decidir sobre la continuidad, ampliación o cancelación de los Programas 
+presupuestarios, las Evaluaciones de Impacto proporcionan evidencia objetiva 
+sobre los efectos de una intervención. Adicionalmente, identifica n en qué 
+condiciones un Pp piloto puede ampliarse o reproducirse en otros contextos 
+institucionales, territoriales o poblacionales, permitiendo así su  replicación y 
+escalamiento. Ya sea para realizar esta replicación y escalamiento, o para 
+ajustarse a la realidad cambiante de los p roblemas públicos, la Evaluación de 
+Impacto permite ajustar el diseño de una intervención cuando se traslada a 
+realidades distintas, asegurando que mantenga su efectividad.  
+Finalmente, como herramienta de rendición de cuentas,  la Evaluación de 
+Impacto puede, por un lado, asegurar que los recursos públicos se inviertan de 
+manera responsable, demostrando con evidencia qué funciona y qué no, y 
+mejorando las decisiones futuras de inversión; y por el otro, sirve para informar 
+de manera transparente si un Pp está beneficiando a la población objetivo y en 
+qué medida lo está haciendo.  
+ 
+Alcance de la Evaluación de Impacto 
+ 
+Una Evaluación de Impacto no solo busca comprobar que un Pp produjo 
+determinados cambios, sino entender en qué medida esos cambios pueden 
+atribuirse a la intervención pública. En ese sentido, no se trata de demostrar 
+que fue la única causa, sino de analizar qué tan relevante fue su contribución 
+a los resultados ob servados. Para ello, este tipo de evaluación requiere 
+independencia, métodos de investigación rigurosos, una mirada enfocada en 
+los efectos de mediano y largo plazo, el análisis de lo que realmente se 
+implementó y herramientas que permitan distinguir los efectos propios del Pp 
+de aquellos generados por otros factores. Por lo tanto, algunas características 
+que distinguen a las Evaluaciones de Impacto se presentan en la Figura 17.5. 
+ 
+ 
+
+--- PAGINA 73 ---
+ 
+73 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+ 
+Figura 17.5 Características de las Evaluaciones de Impacto 
+ 
+ 
+ 
+Fuente: elaboración propia (SHCP) con base en Perrin (2012).  
+ 
+A diferencia del monitoreo o de las evaluaciones operativas, la Evaluación de 
+Impacto es generalmente un estudio de investigación puntual y estructurado, 
+con un diseño metodológico claramente d efinido. Como se estudió 
+previamente, no se trata de una actividad continua, sino de un ejercicio 
+analítico que se realiza en momentos estratégicos del ciclo del Programa  
+presupuestario, cuando ya es posible observar resultados y efectos atribuibles 
+a la intervención.  
+No se limita a medir productos inmediatos (como número de beneficiarios o 
+servicios entregados), sino que se enfoca en los cambios sostenidos en la vida 
+de las personas. Esto incluye, por ejemplo, mejoras en el ingreso, el empleo, la 
+salud, l a educación o la calidad de vida de la población objetivo. Su interés 
+
+
+--- PAGINA 74 ---
+ 
+74 
+ 
+La evaluación del desempeño a Programas presupuestarios. 
+ 
+III 
+principal es determinar si el programa generó transformaciones reales y 
+duraderas.  
+Adicionalmente, no evalúa únicamente el diseño teórico del Pp, sino lo que 
+efectivamente se ejecutó. P ara ello, utiliza información proveniente del 
+monitoreo y la evaluación, como registros administrativos, indicadores de 
+avance y datos de implementación. Esto es fundamental para interpretar 
+correctamente los impactos observados y distinguir entre fallas d e diseño y 
+problemas de ejecución.  
+Finalmente, el objetivo central de la Evaluación de Impacto es identificar qué 
+cambios pueden atribuirse causalmente a la intervención y no a otros factores 
+externos. De esta manera, la Evaluación no solo describe cambio s, sino que 
+determina en qué medida dichos cambios son resultado de la política pública.  
+A partir de lo anterior, puede señalarse que la característica principal de la 
+Evaluación de Impacto consiste en producir evidencia sobre el desempeño de 
+un Pp a fin de que sea utilizada por los funcionarios públicos, los 
+administradores del programa, la sociedad civil y otros actores relevantes. Sus 
+resultados son particularmente útiles cuando las conclusiones se pueden 
+aplicar a una población de interés más amplia. 
+A manera de conclusión, el verdadero valor de una Evaluación de Impacto 
+radica en la correcta interpretación de sus resultados para orientar la toma de 
+decisiones estratégicas. Lejos de ser lecturas simplistas sobre el éxito o fracaso 
+de una interven ción, estos análisis deben entenderse de forma 
+contextualizada. Por un lado, la finalización de un Programa presupuestario no 
+siempre implica el cumplimiento de sus metas en la MIR; puede reflejar la 
+necesidad de un rediseño integral debido a cambios en el  problema público o 
+a problemas de costo -efectividad. Por otro lado, la continuidad indefinida de 
+ciertas intervenciones —especialmente aquellas de carácter social — no debe 
+juzgarse como una falta de eficacia, sino como una respuesta a poblaciones 
+que se renuevan constantemente. Es decir, una lectura técnica y rigurosa de la 
+evidencia es lo que permite ajustar el rumbo de los Pp y asegurar que sigan 
+aportando valor público. 
+
+--- PAGINA 75 ---
+ 
+75 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+La evaluación a Programas presupuestarios trasciende el mero cumplimiento 
+de requisitos administrativos para constituirse como un ecosistema de análisis 
+progresivo e interconectado que garantiza la generación de valor público. Este 
+engranaje metodológico tiene como punto de partida un diagnóstico integral 
+sobre la coherencia del diseño y la lógica de intervención. A partir de este 
+primer escrutinio conceptual, es posible identificar debilidades estructurales 
+que detonan revisiones operativas o métricas much o más profundas y 
+especializadas. De este modo, la vigilancia gubernamental evoluciona de 
+manera lógica para asegurar que el financiamiento de cada intervención 
+cuente con un sustento técnico irrefutable y esté verdaderamente enfocado 
+en la mitigación de l os problemas sociales prioritarios.  Un buen diseño 
+conceptual resulta estéril si carece de métricas precisas o si se ejecuta 
+mediante mecanismos institucionales ineficientes.  
+Paralelamente, el escrutinio detallado de las entrañas operativas permite 
+transformar los datos estadísticos en mejoras gubernamentales tangibles, 
+diagnosticando cuellos de botella y optimizando el flujo para la entrega de 
+bienes y servicios. Esta sinergia entre medir correctamente y operar 
+eficientemente es lo que permite a las depe ndencias abandonar inercias 
+burocráticas y consolidar una auténtica gerencia basada en evidencia.   
+En la cúspide de esta arquitectura analítica se encuentra la determinación de 
+los cambios reales y sostenidos en la calidad de vida de las personas, lo cual  
+exige aislar el efecto directo de la intervención gubernamental frente a otras 
+variables contextuales. Esta labor representa el mayor reto técnico de todo el 
+ciclo, ya que demanda la construcción de escenarios contrafactuales mediante 
+metodologías estadísticas rigurosas para responder qué habría pasado sin el 
+Programa.  
+ 
+Conclusiones 
+
+--- PAGINA 76 ---
+ 
+76 
+ 
+ 
+  
+Conclusiones 
+Superar este desafío empírico es vital, pues proporciona a los hacedores de 
+política la evidencia definitiva sobre la rentabilidad social de la estrategia, 
+justificando con datos  duros su escalamiento, continuidad o su cancelación 
+para evitar el dispendio del erario.  Mientras que el presente Módulo se ha 
+enfocado en consolidar las herramientas para diseccionar la lógica, operación 
+e impacto de los Programas presupuestarios conceb idos como unidades de 
+análisis individuales, es innegable que gran parte de la Política Pública se 
+materializa en un entorno descentralizado.  
+Por consiguiente, el Módulo IV expande este horizonte analítico para abordar 
+la Evaluación del gasto federalizado, centrando el estudio en los recursos que 
+el Gobierno Federal transfiere a las entidades federativas y municipios bajo el 
+Sistema Nacional de Coordinación Fiscal. Esta transición temática resulta el 
+paso natural e ineludible, ya que traslada t odo el rigor metodológico aquí 
+estudiado hacia la compleja realidad territorial, justo en el nivel donde los 
+gobiernos locales ejecutan el presupuesto para atender de primera mano las 
+necesidades de la población. 
+
+--- PAGINA 77 ---
+ 
+77 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 13.1 Dimensiones de la Evaluación del Desempeño ........................... 7 
+Figura 13.2 Poblaciones beneficiarias de los Programas presupuestarios . 9 
+Figura 13.3 Evaluaciones ex ante y ex post .................................................... 11 
+Figura 13.4 Evaluaciones de campo y de gabinete........................................ 13 
+Figura 13.5 Ejemplo de metodologías requeridas para implementar una 
+Evaluación de Consistencia y Resultados ....................................................... 14 
+Figura 13.6 Características de las evaluaciones externas e internas ........ 15 
+Figura 14.1 Objetivos específicos de la Evaluación de Consistencia y 
+Resultados ........................................................................................................... 18 
+Figura 14.2 Recomendaciones para verificar el adecuado uso de la IA ..... 22 
+Figura 14.3 Secciones temáticas de la Evaluación de Consistencia y 
+Resultados ........................................................................................................... 25 
+Cuadro 14.1 Contribución de los actores para garantizar la calidad de la 
+evaluación ........................................................................................................... 27 
+Figura 15.1 Objetivos específicos de la Evaluación de Indicadores ............ 30 
+Figura 15.2 Criterios CREMAA ........................................................................... 33 
+Figura 15.3 Construcción de la lógica vertical en el Árbol del Problema ... 36 
+Figura 15.4 La transición de la lógica vertical en la MML ............................ 37 
+Figura 15.5 Elementos de las Fichas Técnicas de Indicadores ..................... 38 
+Figura 15.6 Comparación entre línea base y meta ........................................ 41 
+Tabla 15.1 Ponderaciones de las etapas de la Evaluación de Indicadores 45 
+Figura 16.1 Objetivos específicos de la Evaluación de Procesos ................. 49 
+Figura 16.2 Subprocesos, procesos y macroprocesos .................................. 50 
+Lista de figuras, cuadros y tablas 
+
+--- PAGINA 78 ---
+ 
+78 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 16.3 Etapas del grado de consolidación operativa............................ 53 
+Figura 16.4 Modelo General de Procesos........................................................ 54 
+Figura 16.5 Población objetivo y población receptora ................................. 55 
+Figura 16. 6 Fuente de información para una Evaluación de Procesos ...... 59 
+Figura 17.1 Utilidad de las Evaluaciones de Impacto ................................... 64 
+Figura 17.2 Principales métodos para la conformación del contrafactual 66 
+Figura 17.3 Condiciones necesarias para la realización de una Evaluación 
+de Impacto .......................................................................................................... 69 
+Figura 17.4 Objetivos de las Evaluaciones de Impacto................................. 71 
+Figura 17.5 Características de las Evaluaciones de Impacto ....................... 73 
+  
+
+--- PAGINA 79 ---
+ 
+79 
+ 
+ 
+ 
+ 
+ 
+Tema 13 
+Cámara de Diputados del H. Congreso de la Unión. (2006). Ley Federal de 
+Presupuesto y Responsabilidad Hacendaria.  Diario Oficial de la Federación. 
+https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf   
+Cámara de Diputados del H. Congreso de la Unión. (2004). Ley General de 
+Desarrollo Social.  Diario Oficial de la Federación.  
+https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf  
+García, R. (2010). Utilidad de la integración y convergencia de los métodos 
+cualitativos y cuantitativo s en las investigaciones en salud.  Revista Cubana de 
+Salud Pública, 36(1), 19 -29. https://www.scielosp.org/pdf/rcsp/2010.v36n1/19-
+29  
+Secretaría de Hacienda y Crédito Público. (2026a). Lineamientos generales para 
+la aplicación de la Metodología del Marco L ógico en la creación y modificación de 
+Programas presupuestarios federales.  
+https://www.gob.mx/shcp/documentos/lineamientos-generales-para-la-
+aplicacion-de-la-metodologia-del-marco-logico?state=published 
+Secretaría de Hacienda y Crédito Público. (2026b). Lineamientos para regular la 
+gestión de los Instrumentos de Diseño y de Seguimiento de los Programas 
+presupuestarios. https://www.gob.mx/shcp/documentos/lineamientos-para-
+regular-la-gestion-de-los-instrumentos-de-diseno-y-de-seguimiento-de-los-
+programas-presupuestarios  
+Secretaría de Hacienda y Crédito Público. (2026c). Términos de Referencia para 
+la Evaluación de Consistencia y Resultados.  
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Doc
+umentos/MTdR_ECyR_PAE_2026.docx 
+ 
+Bibliografía 
+
+--- PAGINA 80 ---
+ 
+80 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Hacienda y Crédito Público. (2006). Reglamento Interior de la 
+Secretaría de Hacienda y Crédito Público. Diario Oficial de la Federación.  
+https://www.gob.mx/cms/uploads/attachment/file/1003083/RISCHP_compilad
+o_24febrero2025.pdf   
+ 
+Tema 14 
+Secretaría de Hacienda y Crédito Público. (2026). Términos de Referencia para la 
+Evaluación de Consistencia y Resultados.  
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Doc
+umentos/MTdR_ECyR_PAE_2026.docx  
+Secretaría de Hacienda y Crédito Público. (2025) Modelo para la integración del 
+Instrumento de Diseño tipo: “Diagnóstico Ampliado”  
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/NPTP/De
+scargables/Diagnostico_ampliado.docx  
+Secretaría de Hacienda y Crédito Público (2026). Lineamientos generales para la 
+aplicación de la Metodología del Marco Lógico en la creación y modificación de 
+Programas presupuestarios federales.   
+https://www.gob.mx/shcp/documentos/lineamientos-generales-para-la-
+aplicacion-de-la-metodologia-del-marco-logico?state=published 
+Cámara de Diputados. (2025). Ley General de Protección de Datos Personales en 
+Posesión de Sujetos Obligados.  Diario Oficial de la Federación, 2025. 
+https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf 
+ 
+ 
+
+--- PAGINA 81 ---
+ 
+81 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Ciencia, Humanidades, Tecnología e Innovación y Agencia de 
+Transformación Digital y Telecomunicaciones. (2026). Principios de Chapultepec. 
+Declaración de ética y buenas prácticas para el uso y desarrollo de la Inteligencia 
+Artificial. https://secihti.mx/ciencia-y-humanidades/principios-de-chapultepec-
+declaracion-de-etica-y-buenas-practicas-para-el-uso-y-desarrollo-de-la-
+inteligencia-artificial/  
+Agencia de Transformación Digital y Telecomunicaciones. (2026). Plan Nacional 
+de Inteligencia Artificial.  https://www.portal.atdt.gob.mx/wp-
+content/uploads/2026/06/Plan-Nacional-de-IA.pdf   
+Organización para la Cooperación y el Desarrollo Económicos (OCDE). (2024). 
+Recomendación del Consejo sobre Inteligencia Artificial.  
+https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449  
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura 
+(UNESCO). (2021). Recomendación sobre la Ética de la Inteligencia Artificial.  
+https://unesdoc.unesco.org/ark:/48223/pf0000380455 
+ 
+Tema 15 
+ATLAS.ti. (s.f.). Tipos de entrevistas de investigación. Guía del análisis de entrevistas. 
+https://atlasti.com/es/guias/guia-del-analisis-de-entrevistas/tipos-de-
+entrevistas-de-investigacion 
+ Secretaría de Hacienda y Crédito Público. (2025). Lineamientos Generales 
+aplicables a la gestión para resultados de los recursos públicos federales. Diario 
+Oficial de la Federación.   
+https://www.dof.gob.mx/nota_detalle.php?codigo=5756237&fecha=29/04/202
+5#gsc.tab=0  
+
+--- PAGINA 82 ---
+ 
+82 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Hacienda y Crédito P úblico. (2026b). Lineamientos generales para 
+la aplicación de la Metodología del Marco Lógico.  Diario Oficial de la Federación. 
+https://www.gob.mx/shcp/documentos/lineamientos-generales-para-la-
+aplicacion-de-la-metodologia-del-marco-logico?state=published 
+Secretaría de Hacienda y Crédito Público. (2026a). Términos de Referencia para 
+la Evaluación de Consistencia y Resultados.  
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Doc
+umentos/MTdR_ECyR_PAE_2026.docx   
+Universidad de Chile. (s.f.).  La entrevista como instrumento de investigación.  
+https://aprendizaje.uchile.cl/recursos-para-leer-escribir-y-hablar-en-la-
+universidad/profundiza/profundiza-en-la-tesis/entrevista/ 
+ 
+Tema 16 
+Lara Álvarez, J. (2018). Evaluación de procesos en la gestión pública. El Economista. 
+https://www.eleconomista.com.mx/opinion/Evaluacion-de-procesos-en-la-
+gestion-publica-20180912-0171.html  
+Secretaría de Hacienda y Crédito Público. (2024). Modelo de Términos de 
+Referencia para la Evaluación de Procesos.  
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Doc
+umentos/MTDR_Procesos_2024.docx  
+Secretaría de Hacienda y Crédito Público. (2025). Lineamientos Generales 
+aplicables a la gestión para resultados de los recursos públicos federales.  Diario 
+Oficial de la Federación.   
+https://www.dof.gob.mx/nota_detalle.php?codigo=5756237&fecha=29/04/202
+5#gsc.tab=0   
+
+--- PAGINA 83 ---
+ 
+83 
+ 
+ 
+ 
+ 
+ 
+Tema 17 
+Befani, B., & Mayne, J. (2014). Process tracing and contribution analysis: A 
+combined approach to generative causal inference for impact evaluation.  IDS 
+Bulletin, 45(6), 17–36. https://doi.org/10.1111/1759-5436.12110 
+Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. J. 
+(2017). La evaluación de impacto en la práctica (2.ª ed., Cap. 8). Banco 
+Interamericano de Desarrollo; Grupo del Banco Mundial. 
+Observatorio Empresarial para el Crecimiento Inclusivo. (2016). El valor de la 
+evaluación de impacto.   https://www.crecimientoinclusivo.org/valor-de-la-
+evaluacion-impacto/ 
+ Secretaría de Hacienda y Crédito Públ ico. (2025). Lineamientos Generales 
+aplicables a la gestión para resultados de los recursos públicos federales.  Diario 
+Oficial de la Federación.   
+https://www.dof.gob.mx/nota_detalle.php?codigo=5756237&fecha=29/04/202
+5#gsc.tab=0   
+Perrin, B. (2012). Linking monitoring and evaluation to impact evaluation. (Impact 
+Evaluation Notes No. 2). InterAction. 
+  
+
+--- PAGINA 84 ---
+ 
+ 
+ 

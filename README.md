@@ -39,13 +39,16 @@ En pantallas pequeñas el panel comienza cerrado para dejar visible el mapa.
 Cada ficha tiene un botón **Ver imágenes**, con carrusel y navegación por flechas
 o teclado. Las fotografías se consultan al abrir el carrusel y se descarga solo
 la imagen actual. La carga está disponible únicamente en `/obras` después de
-iniciar sesión: de 1 a 10 archivos JPG, PNG o WebP de hasta 5 MB cada uno.
+iniciar sesión: de 1 a 10 archivos JPG, PNG o WebP, con un máximo conjunto de 4 MB por envío.
 
-Los archivos se almacenan en SQL Server, en la tabla `ObraImagen`, y no se envían
-a servicios externos. La API debe tener aplicada la migración
+Las fotos nuevas se almacenan en Cloudinary; SQL conserva únicamente su URL y
+su relación con la obra en `ObraImagen`. Las fotos binarias anteriores de SQL
+siguen disponibles y no se migran automáticamente. La API debe tener aplicada la migración
 `20261021180000_ImagenesEnBaseDeDatos` y configurada la variable privada
 `Uploads__AccessKey` como clave técnica de carga. En desarrollo está en User
-Secrets del backend y se retiró de los archivos appsettings.
+Secrets del backend y se retiró de los archivos appsettings. Las credenciales de
+Cloudinary se configuran en el archivo privado `cloudinary.local.json` del backend;
+consultar `CLOUDINARY.md` en ese proyecto. No se requiere otra migración.
 
 ## Acceso a la administración
 
@@ -95,7 +98,8 @@ bun dev
 La pantalla `/obras`, accesible directamente por URL, permite buscar
 por obra, comunidad, ubicación o dirección y consultar 12 obras por página.
 Cada ficha tiene **Ver / subir fotografías**, que abre el carrusel y la carga
-usando la sesión de administración. Reutiliza el mismo almacenamiento en SQL.
+usando la sesión de administración. Las nuevas fotografías se envían a Cloudinary
+y sus referencias se guardan en SQL.
 
 El backend actualizado incorpora `GET /api/obras?page=1&pageSize=12&buscar=...`.
 Incluye obras sin comunidad asignada y no carga archivos de imagen en el listado.

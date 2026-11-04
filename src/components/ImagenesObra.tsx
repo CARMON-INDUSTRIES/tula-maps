@@ -117,11 +117,11 @@ function GaleriaObra({ obraId, nombre, regionId, permitirCarga }: { obraId: numb
           {confirmDelete === current.id ? <div className="photo-delete-confirm" role="group" aria-label="Confirmar eliminación de fotografía"><p>¿Eliminar «{current.nombreArchivo || `Fotografía ${index + 1}`}» de esta obra? Esta acción no se puede deshacer.</p><div><button type="button" className="delete-button" disabled={busy} onClick={removeImage}>{deleting ? <Loader2 size={15} className="animate-spin" /> : <Trash2 size={15} />}{deleting ? "Eliminando…" : "Sí, eliminar"}</button><button type="button" className="tool-button" disabled={busy} onClick={() => { setConfirmDelete(null); setDeleteError(""); }}>Cancelar</button></div></div> : <button type="button" className="delete-button subtle" disabled={busy} onClick={() => { setConfirmDelete(current.id); setDeleteError(""); }}><Trash2 size={14} />Eliminar esta fotografía</button>}
           {deleteError && <p role="alert" className="upload-error">{deleteError}</p>}
         </div>}
-      </> : <div className="gallery-placeholder"><Images size={29} /><strong>Esta obra aún no tiene fotografías</strong><span>Agrega imágenes para documentar su avance.</span></div>}
+      </> : <div className="gallery-placeholder"><Images size={29} /><strong>Esta obra aún no tiene fotografías</strong><span>{permitirCarga ? "Puedes agregar fotografías desde el formulario de esta obra." : "Las fotografías estarán disponibles aquí cuando se incorporen al registro de la obra."}</span></div>}
 
       {permitirCarga && !loading && !error && <button type="button" className="upload-toggle" aria-expanded={admin} onClick={() => { setAdmin(!admin); setUploadError(""); }} disabled={busy}>{admin ? <X size={15} /> : <ImagePlus size={16} />}{admin ? "Cerrar carga de imágenes" : "Agregar fotografías"}<LockKeyhole size={13} /></button>}
       {admin && !loading && !error && <form className="upload-form" onSubmit={upload}>
-        <div><h4>Cargar fotografías de esta obra</h4><p>JPG, PNG o WebP · Hasta 10 imágenes por envío · Máximo 5 MB por imagen</p></div>
+        <div><h4>Cargar fotografías de esta obra</h4><p>JPG, PNG o WebP · Hasta 10 imágenes · Máximo 4 MB en total por envío</p></div>
         <label className="upload-label">Seleccionar fotografías<input ref={inputRef} type="file" accept="image/jpeg,image/png,image/webp" multiple disabled={busy} required onChange={e => {
           setUploadError(""); setNotice("");
           const selected = Array.from(e.target.files ?? []);

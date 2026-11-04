@@ -1,0 +1,306 @@
+MÓDULO I
+Fundamentos de la evaluación del desempeño
+
+Tema 1. Gestión pública orientada a resultados
+
+La Gestión para Resultados (GpR) coloca las necesidades colectivas y los cambios que se buscan alcanzar en el centro de la administración pública. Para valorar una intervención, es necesario conocer qué logra, cómo utiliza sus recursos y en qué medida beneficia a la población.
+
+El Presupuesto basado en Resultados (PbR) incorpora información sobre el desempeño a las decisiones presupuestarias. El Sistema de Evaluación del Desempeño (SED), por su parte, articula procedimientos, herramientas y disposiciones que permiten revisar objetivos, metas y resultados.
+
+La GpR se apoya en cinco ámbitos: planificación; presupuesto orientado a resultados; administración financiera, auditoría y adquisiciones; gestión de programas y proyectos; y seguimiento y evaluación. Su articulación permite conectar la planeación con lo que efectivamente sucede durante la ejecución.
+
+El seguimiento registra periódicamente el avance de una intervención. La evaluación interpreta la evidencia para juzgar su diseño, funcionamiento o logros. Ambos aportan información distinta y se necesitan mutuamente.
+
+Tema 2. Qué significa evaluar
+
+Una evaluación relaciona tres elementos: objetivos definidos, información sobre lo ocurrido y una valoración sustentada. Por ello, reunir cifras no basta. Los datos deben analizarse frente a criterios que permitan determinar si el desempeño es satisfactorio y qué ajustes resultan pertinentes.
+
+Las Políticas Públicas reúnen decisiones y acciones dirigidas a problemas de interés colectivo. Los Programas presupuestarios organizan objetivos, actividades y recursos dentro de la estructura del gasto. La evaluación puede estudiar una política completa, un programa o un aspecto específico de su intervención.
+
+Su utilidad se expresa en el aprendizaje institucional, la rendición de cuentas y la mejora de decisiones. Verificar actividades realizadas permite conocer parte del desempeño, pero no demuestra por sí solo que haya cambiado la situación que justificó la intervención.
+
+Tema 3. La evaluación dentro de los ciclos públicos
+
+El análisis de una Política Pública suele distinguir la identificación del problema, la formulación de alternativas, la selección de una respuesta, su puesta en marcha y su evaluación. Estas fases representan una forma de ordenar el razonamiento; en la práctica pueden coincidir, repetirse y modificarse entre sí.
+
+En el presupuesto se distinguen planeación, programación, presupuestación, ejercicio y control, seguimiento, evaluación y rendición de cuentas. La información evaluativa conecta estas fases al aportar elementos para revisar prioridades, procesos y asignaciones posteriores.
+
+Evaluar es útil en distintos momentos. Antes de ejecutar permite examinar la lógica propuesta; durante la operación ayuda a corregir dificultades; después permite valorar lo conseguido. La oportunidad de los hallazgos determina cuánto pueden influir en una decisión.
+
+Tema 4. Bases normativas del sistema
+
+El artículo 134 constitucional constituye un fundamento del manejo y la evaluación de los recursos públicos. Establece principios de eficiencia, eficacia, economía, transparencia y honradez para su administración y contempla la evaluación de resultados.
+
+La Ley Federal de Presupuesto y Responsabilidad Hacendaria desarrolla reglas relativas al presupuesto y al desempeño. La Ley General de Contabilidad Gubernamental facilita la armonización de registros e información. Las disposiciones de coordinación fiscal y otros instrumentos precisan responsabilidades sobre los recursos y su revisión.
+
+Para comprender este marco conviene distinguir sus funciones: establecer principios, regular el gasto, ordenar la información, distribuir responsabilidades y definir procedimientos de evaluación.
+
+Tema 5. Selección progresiva de evaluaciones
+
+El enfoque progresivo presentado en el curso plantea que las necesidades de cada programa orienten el trabajo evaluativo. La madurez, la prioridad, los datos disponibles y los problemas detectados son relevantes para decidir qué estudiar.
+
+La Evaluación de Consistencia y Resultados permite revisar la justificación, el diseño y los logros generales. Sus conclusiones pueden indicar la conveniencia de profundizar en procesos, indicadores o impacto. De este modo se construye una ruta que responde a los hallazgos, en lugar de depender únicamente de la antigüedad del programa.
+
+Dentro de este esquema, el análisis del diseño se integra a Consistencia y Resultados. También adquieren importancia los ejercicios estratégicos que estudian varias intervenciones y la atención verificable de las recomendaciones.
+
+Tema 6. Articulación de los instrumentos normativos
+
+La renovación descrita en el material vincula las reglas de diseño y seguimiento con las de evaluación y mejora. Incluye instrumentos relativos a la GpR, los ID e ISD, la MML, los ASM, el Padrón de Evaluadores, las evaluaciones por sí mismas y los fondos de aportaciones.
+
+Los Instrumentos de Diseño justifican la existencia y la lógica de los programas. Los Instrumentos de Seguimiento del Desempeño permiten observar sus avances. Los Aspectos Susceptibles de Mejora formalizan las acciones que se asumirán tras analizar los resultados evaluativos. La coherencia entre estos instrumentos favorece un uso efectivo de la evidencia.
+
+Tema 7. Alcances de auditoría y evaluación
+
+La auditoría examina cuestiones de cumplimiento, legalidad y administración de recursos, con alcances que varían según su modalidad. La evaluación estudia la pertinencia, la operación y los resultados de una intervención para fundamentar decisiones de mejora.
+
+Sus preguntas pueden coincidir parcialmente, aunque sus propósitos y procedimientos no son idénticos. El cumplimiento de reglas no garantiza por sí mismo resultados suficientes; de igual manera, obtener resultados no elimina la obligación de administrar correctamente los recursos. Ambos ejercicios fortalecen la responsabilidad pública.
+
+===MODULO===
+MÓDULO II
+Métodos y herramientas para construir evidencia
+
+Tema 8. Explicar el cambio esperado
+
+La Teoría del Cambio (TdC) expone la explicación causal de una intervención: qué situación busca transformar, mediante qué acciones y bajo cuáles condiciones. Hace explícitos los mecanismos, supuestos y factores del contexto que sostienen esa expectativa.
+
+La cadena de resultados conecta insumos, actividades, productos, resultados e impactos. Cada nivel responde a una pregunta diferente: con qué se trabaja, qué se hace, qué se entrega y qué cambios se esperan. Esta distinción evita presentar recursos utilizados o servicios producidos como si fueran efectos finales.
+
+La Metodología del Marco Lógico (MML) ayuda a ordenar el problema, sus causas y consecuencias, los objetivos y las alternativas de intervención. Los instrumentos derivados expresan esa estructura, pero no sustituyen toda la explicación causal de la TdC.
+
+El curso distingue la Matriz de Indicadores para Resultados (MIR), la Ficha de Monitoreo Estratégico (FiME) y la Ficha de Seguimiento a la Gestión (FiSeG) como Instrumentos de Seguimiento del Desempeño.
+
+Tema 9. Comprensión cualitativa de las intervenciones
+
+El enfoque cualitativo permite conocer cómo viven e interpretan una intervención sus participantes y operadores. Resulta útil para comprender prácticas, obstáculos, relaciones institucionales y condiciones que las cifras agregadas no explican por sí solas.
+
+La observación permite reconocer lo que ocurre durante la operación. Las entrevistas profundizan en experiencias particulares. Los grupos de enfoque exploran perspectivas mediante una conversación guiada. La revisión documental aporta antecedentes y elementos para contrastar lo señalado por los actores.
+
+El rigor exige justificar a quién se consulta, registrar el procedimiento y analizar la evidencia de manera sistemática. Contrastar testimonios y documentos ayuda a fundamentar los hallazgos. Las opiniones recuperadas no deben proyectarse automáticamente al conjunto de la población ni expresarse como porcentajes que sugieran representatividad estadística.
+
+Tema 10. Medición y análisis cuantitativo
+
+Los métodos cuantitativos emplean variables numéricas y herramientas estadísticas para describir magnitudes, estudiar asociaciones y contrastar hipótesis. La calidad de sus conclusiones depende de cómo se obtienen y procesan los datos.
+
+La investigación exploratoria aproxima el análisis a asuntos poco conocidos. La descriptiva caracteriza personas, procesos o situaciones. La correlacional identifica relaciones entre variables. La explicativa busca comprender los factores que producen un fenómeno.
+
+Encontrar una asociación no permite asegurar que una variable cause otra. Es necesario considerar otras explicaciones, diferencias entre los grupos observados y posibles errores de medición. Del mismo modo, generalizar resultados requiere un diseño adecuado y conocer los límites de la información disponible.
+
+Tema 11. Integración de enfoques
+
+Los diseños mixtos combinan evidencia cualitativa y cuantitativa para responder una misma necesidad de información. Su aportación surge al integrar los resultados y explicar sus coincidencias o discrepancias.
+
+Un diseño convergente contrasta información obtenida por ambos enfoques en un periodo semejante. Un diseño secuencial explicativo parte del análisis cuantitativo y después profundiza cualitativamente. Uno secuencial exploratorio comienza con la comprensión cualitativa y utiliza sus hallazgos para orientar la medición posterior.
+
+La secuencia elegida debe corresponder con las preguntas, los recursos y el tiempo disponible. Utilizar varias técnicas sin relacionar sus conclusiones no produce por sí mismo una integración metodológica.
+
+Tema 12. Selección de la muestra
+
+La población es el universo sobre el que se desea conocer algo. La muestra reúne las unidades que se observarán. El marco muestral permite identificar de dónde serán seleccionadas y la unidad de análisis indica a qué se referirán las conclusiones.
+
+En los diseños probabilísticos se conocen las probabilidades de selección. Bajo condiciones apropiadas, permiten realizar inferencias sobre la población. Entre sus modalidades se encuentran el muestreo aleatorio simple, sistemático, estratificado y por conglomerados.
+
+Los diseños no probabilísticos utilizan criterios como accesibilidad o relevancia de los participantes. Pueden ser pertinentes para determinados estudios, aunque no garantizan representatividad estadística.
+
+El tamaño muestral debe considerar precisión, confianza, variabilidad, diseño y no respuesta. Incrementar el número de observaciones no resuelve por sí solo problemas de selección o cobertura. Por ello, la planificación de la muestra debe preceder al levantamiento de información.
+
+===MODULO===
+MÓDULO III
+Modalidades de evaluación de los programas
+
+Tema 13. Criterios para clasificar una evaluación
+
+Las evaluaciones pueden distinguirse por aquello que estudian, el momento en que se realizan, los métodos empleados, el origen de la evidencia y la relación del equipo evaluador con la operación. Estas características se combinan dentro de un mismo ejercicio.
+
+El trabajo de gabinete analiza documentos, bases de datos y registros existentes. El trabajo de campo obtiene información directamente de actores vinculados con la intervención. Es frecuente que ambos se complementen.
+
+Las evaluaciones ex ante se desarrollan antes de ejecutar la intervención. El material utiliza la denominación ex post para ejercicios realizados durante o después de su lanzamiento.
+
+Una evaluación externa requiere que quienes la realizan sean ajenos a la operación. La autoevaluación corresponde a los propios operadores. La modalidad por sí misma puede mantener carácter externo cuando la realiza un equipo público independiente de las tareas operativas y cumple los requisitos correspondientes.
+
+Tema 14. Revisión de consistencia y resultados
+
+Esta evaluación estudia si existe una relación coherente entre el problema público, la respuesta diseñada, su ejecución y los logros registrados. Examina la justificación del programa, su alineación con la planeación, los instrumentos de seguimiento, los procesos y los resultados disponibles.
+
+El análisis se apoya principalmente en documentos y registros. Revisa instrumentos de diseño, reglas y manuales, información administrativa, evaluaciones anteriores y metas aprobadas, modificadas y alcanzadas.
+
+Los Términos de Referencia de 2026 descritos por el curso organizan el ejercicio en siete secciones y diez reactivos abiertos. Su propósito es analizar la calidad y congruencia de la evidencia, no limitarse a comprobar que existan documentos.
+
+Las recomendaciones deben ser realizables y ajustarse a las responsabilidades institucionales. Sus hallazgos también permiten identificar qué problemas ameritan una evaluación especializada posterior.
+
+Tema 15. Calidad de los indicadores
+
+La evaluación de indicadores analiza si las medidas seleccionadas son pertinentes, suficientes y útiles para conocer el desempeño. Revisa objetivos, fórmulas, fuentes, metas y posibilidades de verificación.
+
+Los criterios CREMAA orientan esa revisión:
+- Claro: su interpretación evita ambigüedades.
+- Relevante: representa una parte esencial del objetivo.
+- Económico: la información puede obtenerse a un costo razonable.
+- Monitoreable: admite comprobación independiente.
+- Adecuado: ofrece bases suficientes para valorar el desempeño.
+- Aportación marginal: incorpora información que otros indicadores no proporcionan.
+
+La lógica vertical revisa los vínculos entre actividades, componentes, propósito y fin, junto con sus supuestos. La lógica horizontal examina la correspondencia entre objetivos, indicadores y medios de verificación. Un cálculo correcto tiene utilidad limitada cuando el indicador no representa el objetivo que interesa conocer.
+
+Tema 16. Funcionamiento de los procesos
+
+La Evaluación de Procesos reconstruye la operación real de una intervención. Identifica actividades, participantes y relaciones para conocer dónde aparecen retrasos, duplicidades, omisiones o dificultades de coordinación.
+
+La comparación entre lo previsto y lo ejecutado requiere revisar documentos y recuperar evidencia de campo. Entrevistas, observación y otras técnicas permiten reconocer prácticas que los manuales pueden omitir.
+
+Los hallazgos deben explicar qué facilita o limita la producción y entrega de bienes y servicios. A partir de ese análisis se proponen ajustes concretos en procedimientos, responsabilidades y mecanismos de coordinación. La existencia de una norma o manual no demuestra que el proceso funcione conforme a lo esperado.
+
+Tema 17. Identificación del impacto
+
+La Evaluación de Impacto estima qué cambios pueden atribuirse a una intervención. Para hacerlo necesita aproximar lo que habría ocurrido a sus participantes si no hubieran recibido el programa: el contrafactual.
+
+El curso aborda asignación y promoción aleatorias, variables instrumentales, regresión discontinua, emparejamiento y diferencias en diferencias. La elección depende de las condiciones de acceso al programa, los datos y la forma en que se implementa. Cada método requiere supuestos que deben justificarse.
+
+Antes de iniciar conviene revisar la explicación causal, el tiempo necesario para que aparezcan resultados, la disponibilidad de información y la viabilidad técnica, financiera y ética.
+
+Una diferencia entre antes y después, o entre participantes y no participantes, no demuestra por sí sola causalidad. Los efectos estimados deben interpretarse junto con la implementación y el contexto para orientar decisiones de continuidad, modificación o ampliación.
+
+===MODULO===
+MÓDULO IV
+Recursos federales y evaluación territorial
+
+Tema 18. Organización del gasto federalizado
+
+El federalismo fiscal examina la distribución de atribuciones tributarias, obligaciones de gasto y fuentes de financiamiento entre los órdenes de gobierno. Dentro de esa estructura, las transferencias de la Federación son relevantes para que estados y municipios desarrollen sus funciones.
+
+El Gasto Federalizado incluye mecanismos con características distintas. Las participaciones del Ramo 28 son de libre disposición conforme al marco aplicable. Las aportaciones del Ramo 33 financian finalidades específicas mediante los Fondos de Aportaciones Federales. Los convenios y subsidios están sujetos a sus respectivos acuerdos, reglas y condiciones.
+
+En el marco utilizado por el curso, los Recursos Federales Transferidos (RFT) corresponden a transferencias de gasto programable, como aportaciones, convenios y subsidios. Por tanto, el concepto de Gasto Federalizado tiene un alcance más amplio. Las participaciones no siguen el mismo esquema federal específico de seguimiento y evaluación que los RFT.
+
+El Sistema de Recursos Federales Transferidos (SRFT) permite informar sobre destino y ejercicio del gasto, indicadores y evaluaciones. La revisión debe diferenciar recursos utilizados, avance físico y resultados obtenidos: cumplir financieramente no acredita por sí solo un beneficio social.
+
+Tema 19. Coordinación para evaluar las transferencias
+
+La evaluación de recursos transferidos exige distribuir responsabilidades y compartir información entre la Federación y los gobiernos subnacionales. La coordinación evita repetir estudios sin aprovechar lo aprendido y facilita seleccionar preguntas útiles.
+
+Los ejercicios pueden centrarse en la conceptualización, la operación o los resultados. En el ámbito federal interesan los elementos de diseño y articulación general; en el territorial cobran importancia las condiciones de implementación y los efectos observados, conforme a las responsabilidades aplicables.
+
+Para los Fondos de Aportaciones Federales resulta relevante examinar qué actores intervienen, cómo se relacionan y de qué manera circulan información, recursos y decisiones. El Análisis de Redes Sociales ayuda a representar esos vínculos y a localizar problemas de comunicación, concentración de funciones o vacíos de coordinación.
+
+La revisión de convenios y subsidios requiere delimitar su objeto. Puede interesar el mecanismo de transferencia, el programa que recibe financiamiento o la articulación entre ambos. Definir esa unidad de análisis evita conclusiones que excedan la evidencia reunida.
+
+Tema 20. Desarrollo de capacidades locales
+
+Las entidades federativas y los municipios presentan diferencias en personal especializado, sistemas, registros y experiencia. Estas condiciones afectan tanto la realización de evaluaciones como el aprovechamiento de sus conclusiones.
+
+El Diagnóstico PbR-SED permite reconocer avances y debilidades institucionales en la implantación y operación del modelo. Su utilidad consiste en orientar prioridades de fortalecimiento; sus resultados no prueban el impacto de cada intervención local.
+
+Disponer de un programa de evaluaciones y publicar informes son pasos relevantes. También se requieren estudios de calidad, responsabilidades claras y procedimientos que conviertan recomendaciones en acciones.
+
+El fortalecimiento puede incluir formación técnica, continuidad de los equipos, mejores registros, intercambio de experiencias y seguimiento de compromisos. La Agenda Nacional de Evaluación se presenta como un mecanismo para impulsar la colaboración entre órdenes de gobierno y aprovechar capacidades compartidas.
+
+===MODULO===
+MÓDULO V
+Evaluación de políticas y acciones transversales
+
+Tema 21. La política pública como conjunto de intervenciones
+
+Una Política Pública puede integrar varios programas, instituciones y niveles de gobierno alrededor de una necesidad común. Su evaluación debe estudiar cómo contribuye ese conjunto y si sus componentes guardan coherencia entre sí.
+
+Los ejercicios estratégicos amplían el análisis más allá del desempeño de un programa aislado. Permiten reconocer complementariedades, superposiciones, vacíos de atención y posibles conflictos entre objetivos.
+
+Aunque cada programa alcance sus metas particulares, la respuesta pública conjunta puede seguir siendo insuficiente. Por ello, resulta necesario explicar el cambio esperado a nivel de política y examinar los mecanismos que conectan las distintas intervenciones.
+
+La selección del alcance depende de la pregunta evaluativa: puede interesar la coordinación, la cobertura de una problemática, la interacción de instrumentos o los resultados compartidos. La evidencia debe corresponder con ese alcance.
+
+Tema 22. Análisis específico de la gestión operativa
+
+La Evaluación Específica de la Gestión Operativa identifica dificultades que afectan tanto a programas individuales como a su contribución conjunta. Contrasta los procedimientos formales con las prácticas que sostienen la operación cotidiana.
+
+El análisis documental permite reconstruir antecedentes y reglas. El trabajo de campo, los grupos de enfoque y las mesas de diálogo recuperan la experiencia de los operadores y ayudan a reconocer problemas transversales.
+
+La comparación de prácticas permite proponer soluciones y sistematizar formas de trabajo que puedan aprovechar otros programas. Los productos descritos en el curso incluyen hallazgos de campo, estrategias de mejora y mejores prácticas.
+
+Es necesario distinguir entre evidencia documental, observaciones y percepciones. Cada recomendación debe vincularse con un hallazgo comprobable y considerar las atribuciones, capacidades y recursos de quienes la atenderán. Una solución genérica tiene poca utilidad cuando no responde a la causa del problema.
+
+Tema 23. Diversidad territorial y evaluación transversal
+
+Los resultados promedio pueden esconder diferencias importantes. Una evaluación orientada a la equidad necesita identificar qué grupos se benefician, cuáles encuentran barreras y en qué contextos funciona mejor la intervención.
+
+La desagregación de información, los estudios de caso y las tipologías territoriales permiten profundizar en esas variaciones. La perspectiva interseccional analiza cómo se combinan condiciones como género, edad, origen étnico, discapacidad y lugar de residencia.
+
+El territorio representa un contexto de implementación: conectividad, acceso a servicios, capacidades locales y relaciones sociales pueden modificar los resultados. Estas condiciones deben incorporarse a las preguntas y al diseño del análisis.
+
+Los Anexos Transversales identifican y articulan contribuciones presupuestarias de distintas instituciones frente a una prioridad o población. Evaluarlos implica revisar sus objetivos, acciones, participantes y mecanismos de relación, además de sus recursos.
+
+El curso plantea posibilidades de análisis centradas en vinculaciones, relaciones entre anexos, procesos y resultados. Pueden combinarse según la necesidad de información. La consistencia documental muestra cómo está prevista la contribución, pero no demuestra por sí sola los cambios causados por la política.
+
+===MODULO===
+MÓDULO VI
+Organización y desarrollo de una evaluación
+
+Tema 24. Programación de los ejercicios evaluativos
+
+El Programa Anual de Evaluación (PAE) organiza los ejercicios que se realizarán, sus responsables y los tiempos de ejecución. La selección debe atender preguntas relevantes, prioridades institucionales y condiciones reales de viabilidad.
+
+La disponibilidad de información, los recursos y los hallazgos anteriores ayudan a determinar qué intervenciones conviene estudiar y mediante qué modalidad. Evaluar requiere priorización; la utilidad del ejercicio depende de que responda a una necesidad concreta.
+
+La Unidad de Política y Estrategia para Resultados coordina el marco del SED. Las Áreas de Evaluación organizan el proceso en las dependencias. Las Unidades Responsables operan los programas y proporcionan información. Las Instancias Evaluadoras desarrollan el análisis técnico.
+
+El trabajo comprende preparar el ejercicio, delimitar los TdR, contratar o conformar el equipo, recopilar y analizar información, revisar los productos y formalizar los resultados. La distribución de funciones ayuda a sostener la independencia y la calidad del proceso.
+
+Tema 25. Integración del equipo evaluador
+
+La capacidad técnica y la independencia son condiciones esenciales para producir conclusiones confiables. La selección del equipo debe considerar el objeto de estudio, la metodología requerida y la experiencia pertinente.
+
+El Padrón de Evaluadores descrito por el curso reúne personas físicas y morales que acreditan requisitos técnicos, experiencia y condiciones legales y fiscales. Su integración contempla convocatoria, presentación de solicitudes, revisión, valoración y dictaminación.
+
+La inscripción aporta una base para identificar perfiles, aunque no reemplaza la necesidad de comprobar que un equipo resulte adecuado para el ejercicio específico.
+
+La modalidad por sí mismas permite que personas servidoras públicas realicen evaluaciones bajo las condiciones establecidas. Para conservar independencia deben ser ajenas a la operación del programa y cumplir los requisitos del procedimiento. Esta modalidad se distingue de una autoevaluación realizada por los operadores.
+
+Tema 26. Definición de los Términos de Referencia
+
+Los Términos de Referencia (TdR) establecen el trabajo que se espera de la evaluación. Precisan objetivos, alcance, preguntas, métodos, fuentes, entregables, plazos y características del equipo.
+
+Su coherencia interna es fundamental: las preguntas deben poder responderse con las fuentes previstas, la metodología debe ser adecuada y los productos deben mostrar la evidencia necesaria. Esta delimitación también permite revisar la calidad de las entregas.
+
+Los modelos estandarizados facilitan consistencia entre ejercicios. Cuando procede una adaptación, debe respetar el núcleo metodológico y los apartados autorizados. La necesidad de información orienta la selección del modelo; su disponibilidad no debe ser el único criterio.
+
+Para estudiar procesos, el curso presenta PEPSU: proveedores, entradas, proceso, salidas y usuarios. Esta estructura ayuda a ordenar los elementos de una operación y reconocer cómo se conectan.
+
+===MODULO===
+MÓDULO VII
+Uso de resultados y compromisos de mejora
+
+Tema 27. Revisión y cierre de los productos
+
+El seguimiento de una evaluación permite comprobar que el análisis avance conforme a lo previsto y que los productos cumplan los TdR. Incluye revisar evidencia, formular observaciones y verificar la atención de los comentarios pertinentes.
+
+El Informe Final Preliminar permite examinar la calidad del trabajo antes de integrar la versión definitiva. La revisión debe valorar la congruencia entre preguntas, datos, argumentos y recomendaciones, respetando la independencia técnica del equipo evaluador.
+
+La Posición Institucional recoge la postura de la dependencia frente a los resultados. El Formato de Aspectos Relevantes concentra elementos sustantivos del ejercicio. Estos productos facilitan la comunicación, aunque la utilidad de la evaluación depende también del uso posterior de sus hallazgos.
+
+Tema 28. De los hallazgos a los ASM
+
+Un hallazgo describe una situación identificada mediante evidencia. Una recomendación propone una forma de atenderla. El Aspecto Susceptible de Mejora (ASM) formaliza el compromiso que la institución asume después de analizar esas propuestas.
+
+Los ASM deben formularse como acciones comprensibles, específicas, viables y verificables. Su definición requiere considerar responsabilidades legales y capacidades humanas, técnicas, materiales y financieras.
+
+El curso organiza su clasificación por actores participantes, prioridad y tema principal. Según los actores, distingue ASM institucionales, interinstitucionales e intergubernamentales.
+
+El Plan de Trabajo establece compromisos, objetivos, resultados esperados, responsables, fechas y documentos de verificación. Un compromiso debe expresar un producto o cambio completo. Elaborar borradores o efectuar revisiones intermedias constituye parte del trabajo, pero no acredita por sí solo la mejora final.
+
+Tema 29. Suscripción, avance y conclusión
+
+La atención de ASM comprende acordar y formalizar el plan, ejecutar sus compromisos, informar avances y acreditar su cumplimiento. El seguimiento necesita evidencia que permita conocer qué se hizo y qué cambio se obtuvo.
+
+El material establece como límite de suscripción el último día hábil de febrero del ejercicio posterior a la conclusión de la evaluación. Como regla general, la atención debe concluir el 31 de diciembre del año inmediato posterior al de la evaluación.
+
+También describe excepciones autorizadas por la UPER para evaluaciones de Políticas Públicas y Recursos Federales Transferidos, con extensiones de hasta dos años desde la suscripción. Estos plazos corresponden al marco explicado en las guías del curso.
+
+El cierre requiere comprobar los compromisos mediante los documentos acordados y los procedimientos de validación correspondientes. Reportar un porcentaje o declarar terminada una actividad no sustituye esa verificación.
+
+Tema 30. Integridad, información e inteligencia artificial
+
+La ética evaluativa exige objetividad, imparcialidad, transparencia y respeto a las personas. Las presiones institucionales o políticas no deben desplazar las conclusiones que sostiene la evidencia.
+
+La gobernanza de datos organiza reglas y responsabilidades sobre calidad, acceso, protección e intercambio de información. Documentar fuentes, decisiones analíticas y limitaciones permite revisar cómo se construyeron los resultados.
+
+La inteligencia artificial puede apoyar la organización de información y algunas tareas de análisis. Su uso requiere revisar errores, sesgos, confidencialidad y pertinencia de las herramientas. Los resultados producidos deben validarse antes de utilizarlos.
+
+La responsabilidad del juicio y de las decisiones permanece en las personas. El conocimiento del contexto, el criterio profesional y la protección de derechos son necesarios para que la tecnología contribuya al proceso evaluativo y a la mejora de las intervenciones públicas.

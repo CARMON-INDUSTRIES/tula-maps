@@ -54,9 +54,9 @@ export default function AccesoObras({ initialLockedUntil = null }: { initialLock
   }
 
   return <>
-    <section className="access-placeholder"><LockKeyhole size={30} /><h1>Administración de fotografías</h1><p>Introduce la contraseña para consultar las obras y cargar imágenes.</p></section>
+    <section className="access-placeholder" id="contenido"><LockKeyhole size={30} /><h1>Administración de fotografías</h1><p>Introduce la contraseña para consultar las obras y cargar imágenes.</p></section>
     <dialog className="access-dialog" ref={dialog} onCancel={event => event.preventDefault()} aria-labelledby="access-title">
-      <span className="access-lock"><LockKeyhole size={26} /></span><span className="eyebrow">ACCESO DE ADMINISTRACIÓN</span>
+      <span className="access-lock"><LockKeyhole size={26} /></span>
       <h2 id="access-title">Obras y fotografías</h2><p>Ingresa la contraseña para acceder al listado y administrar las imágenes.</p>
       <form onSubmit={async event => {
         event.preventDefault(); setLoading(true); setError("");

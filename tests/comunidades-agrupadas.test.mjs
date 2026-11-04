@@ -7,6 +7,7 @@ import { cerrarContornos } from "../scripts/cerrar-contornos.mjs";
 
 const data = JSON.parse(readFileSync(new URL("../public/data/comunidades_poligonos.geojson", import.meta.url), "utf8"));
 const fixture = JSON.parse(readFileSync(new URL("fixtures/comunidades-agrupadas.json", import.meta.url), "utf8"));
+const nombres = JSON.parse(readFileSync(new URL("fixtures/nombres-comunidades.json", import.meta.url), "utf8"));
 const hash = text => createHash("sha256").update(text).digest("hex");
 
 test("cada comunidad agrupada conserva todos sus polígonos y coordenadas originales", () => {
@@ -36,14 +37,41 @@ test("las demás comunidades y los IDs dudosos conservan sus datos", () => {
   const other = data.features.filter(f => !fixture.grupos.some(g => g.id === f.properties.id && g.nombre === f.properties.NOMBRE));
   // La huella original conserva los anillos abiertos; solo quitamos el cierre añadido.
   const original = structuredClone(other);
+  for (const cambio of nombres.cambios) {
+    const feature = original.find(f => f.properties.id === cambio.id && f.properties.NOMBRE === cambio.nombre);
+    assert.ok(feature, cambio.nombre);
+    feature.properties.NOMBRE = cambio.anterior;
+  }
   for (const feature of original) for (const ring of feature.geometry.coordinates) {
     assert.deepEqual(ring[0], ring.at(-1));
     ring.pop();
   }
   assert.equal(hash(JSON.stringify(original)), fixture.otrosSha256);
   assert.equal(data.features.filter(f => f.properties.id === 52).length, 2);
-  assert.ok(data.features.some(f => f.properties.NOMBRE === "La Mezquitera CHECAR ID"));
+  assert.ok(data.features.some(f => f.properties.NOMBRE === "La Mezquitera"));
   assert.equal(new Set(data.features.map(f => f.properties.id)).size, 42);
+});
+
+test("los nombres públicos no incluyen notas internas y las referencias oficiales están dentro de su figura", () => {
+  function dentro([x, y], ring) {
+    let inside = false;
+    for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+      const [xi, yi] = ring[i], [xj, yj] = ring[j];
+      if ((yi > y) !== (yj > y) && x < (xj - xi) * (y - yi) / (yj - yi) + xi) inside = !inside;
+    }
+    return inside;
+  }
+  for (const feature of data.features) assert.doesNotMatch(feature.properties.NOMBRE, /CHECAR|no encontrado|TIENE.*ID/i);
+  for (const cambio of nombres.cambios) {
+    const feature = data.features[cambio.figura - 1];
+    assert.equal(feature.properties.id, cambio.id);
+    assert.equal(feature.properties.NOMBRE, cambio.nombre);
+    if (cambio.puntoReferencia) {
+      const polygons = feature.geometry.type === "Polygon" ? [feature.geometry.coordinates] : feature.geometry.coordinates;
+      assert.ok(polygons.some(rings => dentro(cambio.puntoReferencia, rings[0]) && !rings.slice(1).some(r => dentro(cambio.puntoReferencia, r))), cambio.nombre);
+    }
+  }
+  assert.equal(nombres.cambios.filter(c => c.verificacion === "pendiente").length, 4);
 });
 
 test("cerrar contornos conserva área, vértices e IDs y no duplica cierres", () => {

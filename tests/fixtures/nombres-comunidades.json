@@ -1,0 +1,152 @@
+{
+  "fecha": "2026-11-04",
+  "fuente": "https://ehacienda.hidalgo.gob.mx/Transparencia/Docs/Hacendario/3192/Clasificaci%C3%B3n_por_Espacio_Geogr%C3%A1fico_2025.pdf",
+  "nota": "Los puntos oficiales confirman coherencia de ubicación, no límites territoriales ni IDs de obras.",
+  "cambios": [
+    {
+      "figura": 11,
+      "id": 13,
+      "anterior": "TIENE EL ID 13 (COL. JALPA)",
+      "nombre": "Colonia Jalpa",
+      "verificacion": "nombre_explicito_y_catalogo"
+    },
+    {
+      "figura": 21,
+      "id": 25,
+      "anterior": "no encontrado trae id 25",
+      "nombre": "Zona por identificar 1",
+      "verificacion": "pendiente"
+    },
+    {
+      "figura": 26,
+      "id": 31,
+      "anterior": "TIENE ID 31",
+      "nombre": "Zona por identificar 2",
+      "verificacion": "pendiente"
+    },
+    {
+      "figura": 30,
+      "id": 35,
+      "anterior": "Praderas del Llano CHECAR CUAL DEL LLANO",
+      "nombre": "Praderas del Llano",
+      "verificacion": "punto_oficial_dentro_del_poligono",
+      "puntoReferencia": [
+        -99.27489666666666,
+        20.066088055555557
+      ]
+    },
+    {
+      "figura": 34,
+      "id": 39,
+      "anterior": "Colonia el Saabi CHECAR ID",
+      "nombre": "Colonia El Saabi",
+      "verificacion": "punto_oficial_dentro_del_poligono",
+      "puntoReferencia": [
+        -99.33267111111111,
+        20.01123
+      ]
+    },
+    {
+      "figura": 36,
+      "id": 41,
+      "anterior": "no encontrado 4 TRAE ID 41",
+      "nombre": "Zona por identificar 3",
+      "verificacion": "pendiente"
+    },
+    {
+      "figura": 37,
+      "id": 42,
+      "anterior": "Xonthe CHECAR ID",
+      "nombre": "Xonthe",
+      "verificacion": "punto_oficial_dentro_del_poligono",
+      "puntoReferencia": [
+        -99.40031055555556,
+        20.04913861111111
+      ]
+    },
+    {
+      "figura": 38,
+      "id": 43,
+      "anterior": "La Cuarta Manzana CHECAR ID",
+      "nombre": "La Cuarta Manzana",
+      "verificacion": "punto_oficial_dentro_del_poligono",
+      "puntoReferencia": [
+        -99.47710638888888,
+        20.117133333333335
+      ]
+    },
+    {
+      "figura": 39,
+      "id": 44,
+      "anterior": "Jardines de San Miguel CHECAR ID",
+      "nombre": "Jardines de San Miguel",
+      "verificacion": "punto_oficial_dentro_del_poligono",
+      "puntoReferencia": [
+        -99.3390625,
+        19.946561388888888
+      ]
+    },
+    {
+      "figura": 41,
+      "id": 46,
+      "anterior": "Ejido Tula CHECAR ID",
+      "nombre": "Ejido Tula",
+      "verificacion": "punto_oficial_dentro_del_poligono",
+      "puntoReferencia": [
+        -99.35876388888889,
+        20.035764444444446
+      ]
+    },
+    {
+      "figura": 42,
+      "id": 47,
+      "anterior": "Cerrito del Tepeyac CHECAR ID",
+      "nombre": "Cerrito del Tepeyac",
+      "verificacion": "punto_oficial_dentro_del_poligono",
+      "puntoReferencia": [
+        -99.27269666666666,
+        20.002974166666668
+      ]
+    },
+    {
+      "figura": 43,
+      "id": 48,
+      "anterior": "Tercera Manzana CHECAR ID",
+      "nombre": "Tercera Manzana",
+      "verificacion": "punto_oficial_dentro_del_poligono",
+      "puntoReferencia": [
+        -99.28397083333333,
+        20.015788333333333
+      ]
+    },
+    {
+      "figura": 44,
+      "id": 49,
+      "anterior": "no encontrado 5 CHECAR ID",
+      "nombre": "Zona por identificar 4",
+      "verificacion": "pendiente"
+    },
+    {
+      "figura": 46,
+      "id": 51,
+      "anterior": "La Hacienda CHECAR ID",
+      "nombre": "La Hacienda",
+      "verificacion": "punto_oficial_dentro_del_poligono",
+      "puntoReferencia": [
+        -99.32666666666667,
+        20.021565
+      ]
+    },
+    {
+      "figura": 47,
+      "id": 52,
+      "anterior": "La Mezquitera CHECAR ID",
+      "nombre": "La Mezquitera",
+      "verificacion": "punto_oficial_dentro_del_poligono",
+      "puntoReferencia": [
+        -99.37924555555554,
+        20.04551527777778
+      ]
+    }
+  ]
+}

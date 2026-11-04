@@ -1,0 +1,2020 @@
+
+--- PAGINA 1 ---
+ 
+Módulo VII Integración de resultados 
+evaluativos para la mejora 
+de las intervenciones 
+públicas 
+
+--- PAGINA 2 ---
+ 
+ 
+Diplomado de Evaluación del Desempeño a 
+Intervenciones Públicas 
+Septiembre de 2026  
+ 
+Subsecretaría de Egresos  
+Unidad de Política y Estrategia para Resultados  
+ 
+Av. Insurgentes Sur 1971, Torre III, Piso 12  
+Col. Guadalupe Inn, C.P. 01020  
+Alcaldía Álvaro Obregón, Ciudad de México 
+
+--- PAGINA 3 ---
+ 
+ 
+Edgar Abraham Amador Zamora  
+Secretario de Hacienda y Crédito Público  
+ 
+Bertha Gómez Castro  
+Subsecretaria de Egresos  
+ 
+Juan Armando Rodríguez Lara  
+Titular de la Unidad de Política y Estrategia para 
+Resultados  
+ 
+Coordinación del Diplomado  
+ 
+Gabriela Cantón Santana  
+Directora de Profesionalización  
+ 
+Equipo Técnico  
+ 
+Maribel García Rivera 
+Subdirectora de Planes y Programas de Formación  
+ 
+Jessica Estrada Sánchez  
+Subdirectora de Contenidos  
+ 
+Diana Longino Hilario 
+Jefe de Departamento de Metodologías de Formación  
+ 
+Ricardo Ángel Ayala González  
+Jefe de Departamento de Programas de Formación 
+ 
+Alma Rosa Mateo Pérez 
+Jefa de Departamento 
+
+--- PAGINA 4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introducción ______________________________________________ 5 
+Tema 27 
+Seguimiento al proceso evaluativo ________________________ 7 
+Tema 28 
+Definición y clasificación de los Aspectos  
+Susceptibles de Mejora ____________________________________ 23 
+Tema 29 
+Seguimiento y atención de los Aspectos  
+Susceptibles de Mejora ____________________________________ 33 
+Tema 30 
+La ética en la evaluación de intervenciones públicas ______ 40 
+Conclusiones ______________________________________________ 52 
+Lista de figuras, cuadros y tablas __________________________ 55 
+Bibliografía ________________________________________________ 56 
+ 
+ 
+
+--- PAGINA 5 ---
+ 
+5 
+ 
+ 
+ 
+  
+En este último Módulo del Diplomado se estudiará la segunda parte del 
+proceso operativo de la evaluación en México. Aquí el enfoque transita 
+de la planeación y ejecució n hacia el seguimiento sistemático, la 
+aplicación de los resultados obtenidos y la consolidación de un ejercicio 
+institucional transparente. Comprender esta fase es fundamental para 
+garantizar que el esfuerzo evaluativo se convierta en una herramienta 
+genuina para la toma de decisiones, orientada a la optimización continua 
+de la gestión pública y la generación de valor público para la ciudadanía. 
+El Tema 27 se centra en el seguimiento al proceso de coordinación de las 
+evaluaciones. Su objetivo general es es tablecer las etapas y actividades 
+que integran este proceso de coordinación, abarcando desde su 
+ejecución hasta su cierre conforme al Programa Anual de Evaluación 
+federal vigente. Para lograr este objetivo, se describen los aspectos 
+sustantivos que los dis tintos actores involucrados deben considerar 
+durante cada etapa del proceso evaluativo, con especial énfasis en la 
+revisión, validación e integración de los Informes Finales y preliminares. 
+El Tema 28 aborda la definición y clasificación de los Aspectos 
+Susceptibles de Mejora (ASM). Su objetivo principal es comprender cómo 
+los hallazgos de las evaluaciones externas se transforman en 
+compromisos que asumen las dependencias para mejorar el diseño, la 
+operación y el desempeño de las intervenciones públicas. Es to se logra 
+mediante el análisis del Informe Final para formular acciones claras y 
+precisas, las cuales posteriormente se clasifican con base en tres 
+criterios: el tipo de actores involucrados, el nivel de prioridad de atención 
+y el tema que se busca mejorar. 
+Introducción 
+
+--- PAGINA 6 ---
+ 
+6 
+ 
+  
+El Tema 29 profundiza en el seguimiento y atención de los ASM. Su 
+objetivo es asegurar que los hallazgos de la evaluación se traduzcan de 
+manera efectiva en acciones concretas que mejoren el desempeño 
+institucional y optimicen el uso de los recursos públicos. Este propósito 
+se alcanza a través de un proceso formal de suscripción mediante un 
+Plan de Trabajo validado, seguido de la ejecución de los compromisos 
+por parte de las Unidades Responsables y el reporte periódico de 
+avances que culmina con la conclusión de los ASM mediante la entrega 
+de evidencia documental que respalda su cumplimiento. 
+Finalmente, el último Tema del presente Diplomado examina la ética en 
+la evaluación de intervenciones públicas. El objetivo general de este 
+apartado es garantizar que las evaluaciones sean rigurosas, imparciales, 
+transparentes y verdaderamente útiles para la toma de decisiones, 
+salvaguardando la objetividad de la evidencia técnica. Para lograrlo, se 
+impulsa la incorporación de principios éticos (como la legalidad, 
+honradez, imparcialidad y transparencia) durante todo el ciclo de la 
+evaluación, así como la promoción de una adecuada gobernanza de 
+datos que asegure la integridad y el uso responsable de la información 
+para generar valor público.    
+Introducción 
+
+--- PAGINA 7 ---
+ 
+7 
+ 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas VII 
+ 
+ 
+En el Módulo anterior se estudiaron a detalle los preparativos necesarios para 
+dar inicio al ejercicio evaluativo, es decir , la planeación del proceso. Esta etapa 
+inicia con la publicación del Programa Anual de Evaluación (PAE) por parte de la 
+Secretaría de Hacienda y Crédito Público (SHCP) a través de la Unidad de Política 
+y Estrategia para Resultados (UPER), y concluye con la determinación de la 
+Instancia Evaluadora bajo la modalidad por sí misma o mediante la 
+contratación formal de la Instancia Evaluadora Externa.  
+Desde el inicio del proceso evaluativo, 
+resulta indispensable implementar 
+mecanismos institucionales de 
+seguimiento para las intervenciones de los 
+distintos actores estudiados previamente. 
+Este acompañamiento continuo, que 
+abarca desde la planeación y ejecución de la evaluación, hasta el cumplimiento 
+de los Aspectos Susceptibles de Mejora (ASM), garantiza que cada actividad se 
+desarrolle con estricto apego a las disposiciones normativas.  
+De modo que, en este Tema se estudiarán las etapas y act ividades de 
+coordinación de las evaluaciones del desempeño, mostrando los criterios 
+procedimentales que deben considerar las distintas figuras institucionales en 
+cada etapa del proceso evaluativo, particularmente en la revisión, validación e 
+integración de  los Informes Finales en versión preliminar y de los Informes 
+Finales de las evaluaciones mandatadas, así como en las actividades 
+relacionadas con su seguimiento y cierre.  
+Para ello, se describen los aspectos sustantivos que los distintos actores 
+involucrados deben considerar en cada etapa del proceso evaluativo, a fin de 
+fortalecer la calidad de las evalua ciones, promover el uso de sus resultados y 
+contribuir a la generación de información útil y oportuna para la toma de 
+decisiones y la mejora de las intervenciones públicas.  Por su parte y 
+considerando que constituyen la culminación del proceso evaluativo, la 
+suscripción y seguimiento de los ASM se harán en los temas 28 y 29 
+respectivamente.
+TEMA 27. Seguimiento al proceso evaluativo 
+
+
+--- PAGINA 8 ---
+ 
+8 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Reuniones de coordinación  
+ 
+El seguimiento continuo a l proceso de evaluación se articul a mediante  
+reuniones técnicas entre los actores involucrados en el proyecto. Con el fin de 
+garantizar la trazabilidad y certeza administrativa, se recomienda que en cada 
+reunión se firme una lista de asistencia para ir documentando la revisión. En 
+algunas ocasiones, por la naturaleza de los temas tratados, se propone realizar 
+minutas de las reuniones para que el proceso de documentación esté mejor 
+estructurado. 
+A lo largo del proceso de evaluación, la UPER puede convocar a las Áreas 
+Evaluadoras (AE) de las dependencias y entidades con evaluaciones 
+mandatadas en el PAE a reuniones de coordinación, contemplando la asistencia 
+de la Instancia Evaluadora (IE) cuando se considere necesario. De igual forma, 
+las AE pueden solicitar la participación de la UPER en reuniones de trabajo con 
+la IE, cuando así se considere conveniente. 
+Por otro lado, las IE pueden solicitar las asesorías que requieran a las AE por 
+cualquier medio que facilite la intervención y apoyo inmediato del personal del 
+área técnica evaluada. Las AE, conforme a las directrices que determinen, 
+proporcionarán a la brevedad la aseso ría necesaria a las IE, con respecto a la 
+realización de las evaluaciones y demás aspectos relacionados con estas. En su 
+caso, podrán gestionar la atención con el área correspondiente. 
+Si bien el número y naturaleza de las reuniones puede cambiar dependie ndo 
+del tipo de evaluación y de las características específicas de cada ejercicio 
+evaluativo, se recomienda realizar 
+una primera reunión en la que todas 
+las partes conozcan. En ésta se puede 
+hacer la presentación de los actores 
+involucrados señalando cuál es el rol 
+que desempeñan dentro de la 
+evaluación. El equipo evaluador debe 
+presentar los objetivos de la 
+evaluación de acuerdo con los  
+
+
+--- PAGINA 9 ---
+ 
+9 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Términos de Referencia (TdR) correspondientes, la forma como los abordará y 
+de preferencia, se recomienda que se presente el cronograma de actividades.  
+Por su parte, los responsables del Programa exponen a los evaluadores el Fin y 
+Propósito considerados en la Matriz de Indicadores para Resultados ( MIR); la 
+población potencial, objetivo y atendida; y los apoyos otorgados en los casos 
+en los que aplique. Para los P rogramas que cuenten con un área de enfoque, 
+es decir , aquellos que no entregan bienes y servicios directamente a la 
+población, se recomienda presentar los productos entregados entendidos 
+como los bienes o servicios que conforma n los Componentes de su 
+Instrumento de Seguimiento del Desempeño (ISD) . Se recomienda invitar a la 
+Instancia Coordinadora, aunque su participación no es necesaria en esta etapa. 
+Tras la entrega del primer producto de la evaluación, se recomienda tener una 
+reunión con el objetivo de comentar los detalles sobre el mismo. La idea es 
+transmitir las observaciones que hicieron las áreas revisoras, dando énfasis 
+únicamente en las más importantes de forma y fondo. Tal como se mencionó 
+previamente, los comentarios hechos por el Área de Evaluación y por la Unidad 
+Responsable pueden o no ser atendidos por los evaluadores. Por esta razón es 
+importante que dichos comentarios estén debidamente fundamentados. 
+Para darle formalidad al 
+procedimiento, se recomien da que la 
+totalidad de los comentarios se 
+entreguen por oficio, anexando un 
+documento Word para que sean 
+atendidos. De la misma forma, se 
+sugiere que la entrega sea antes de la 
+emisión del segundo producto o de la 
+fecha límite del primer pago contra entreg a a satisfacción. Adicional a lo 
+anterior, esta es la oportunidad para aclarar las dudas que tuviera el equipo 
+evaluador sobre la operación o información de la intervención pública 
+evaluada.  
+En los casos en los que el tipo de evaluación cuente con un segundo entregable, 
+se recomienda hacer una reunión en el mismo tenor en donde se traten 
+solamente los comentarios más significativos, se cree un dialogo para aclarar 
+
+
+--- PAGINA 10 ---
+ 
+10 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+las inquietudes, pero sobre todo, analicen los hallazgos que seguramente han 
+comenzado a presentarse. Es muy importante que el equipo evaluador empiece 
+a perfilar las recomendaciones y que las comente con los demás actores para 
+que conozca cuáles son las condiciones que posee la intervención pública para 
+implementarlas. Algunas veces, las ideas de los evaluadores ya se han 
+intentado implementar , sin embargo, por diversos factores, no se pueden llevar 
+a cabo. Al igual que en la reunión anterior , se recomienda que los comentarios 
+se entreguen por oficio, solicitando la respuesta antes de la siguiente entrega 
+o del pago a entera satisfacción. 
+ 
+Revisión de los Informes Finales en Versión Preliminar de las 
+evaluaciones 
+ 
+Los Informes Finales en Versión Preliminar (IFP) son aquellos que se remiten a 
+la UPER para su revisión y posterior validación. Esta revisión es relevante ya que 
+permite que tanto el Área de Evaluación como las Unidades Responsables (UR) 
+verifiquen la confiabilidad de la información suministrada, validen los hallazgos 
+iniciales y retroalimenten a la Instancia E valuadora externa antes de la 
+conformación del Informe Final. A través de la revisión técnica del documento 
+preliminar , se garantiza que el análisis metodológico sea riguroso y que las 
+desviaciones operativas o normativas  identificadas reflejen con precisión la 
+realidad de la intervención pública evaluada. 
+Asimismo, la presentación de los Informes Preliminares facilita la intervención 
+oportuna de instancias coordinadoras, permitiendo la revisión y la emisión de 
+comentarios técnicos que fortalecen la solidez del documento. Al someter los 
+primeros resultados a este escrutinio institucional, se asegura que las 
+recomendaciones y los subsecuentes ASM resulten claros, relevantes, 
+justificados y factibles, orientando así los recursos hacia una verdadera gestión 
+institucional enfocada en la consecución de resultados. Considerando los 
+elementos innovadores de las evaluaciones Estratégicas de Coordinación y 
+Específica de Gestión Operativa, a continuación, se presentan una serie de 
+
+--- PAGINA 11 ---
+ 
+11 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+particularidades metodológicas distintivas a las cuales se les puede poner 
+mayor énfasis en las revisiones de los Informes Finales Preliminares (IFP).  
+La Evaluación Estratégica de Coordinación al Fondo de Aportaciones 
+Federales destaca por su enfoque estructural y cuantitativo, al incorporar el 
+Análisis de Redes Sociales (ARS) y la Teoría de Grafos. A diferencia de 
+evaluaciones tradicionales, esta metodología exige el cálculo matemático de 
+métricas de centralidad, intermediación  y densidad para identificar nudos, 
+cuellos de botella y actores clave  formales e informales  en la coordinación 
+intergubernamental, generando matrices de adyacencia y sociogramas en 
+formatos abiertos para visualizar y replicar estadísticamente la topología de la 
+red. 
+La Evaluación Específica de la Gestión Operativa  presenta como 
+particularidad el rastreo sistemático de "inercias administrativas" y la 
+obligatoriedad de diseñar "Manuales de Mejores Prácticas". Este ejercicio 
+trasciende el diagnóstico normativ o al emplear mesas de diálogo mixtas y 
+grupos de enfoque inter -programas para construir una "Estrategia de 
+Consolidación Operativa" con soluciones híbridas y transversales, buscando 
+estandarizar procesos operativos eficientes entre distint os Programas 
+presupuestarios (Pp). 
+La revisión de los IFP se compone de tres pasos fundamentales, los cuales se 
+encuentran esquematizados  en la Figura 27.1. Este proceso asegura la 
+validación rigurosa de los hallazgos antes de la emisión de los productos 
+definitivos. 
+Figura 27.1 Pasos para la revisión de los Informes Finales Preliminares 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+
+
+--- PAGINA 12 ---
+ 
+12 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Para la entrega de los IFP, las Áreas de Evaluación, las Unidades Responsables 
+y las Instancias Evaluadoras deberán apegarse a los plazos establecidos en el 
+PAE vigente y en los TdR correspondientes a cada evaluación. Una vez revisados 
+por estos actores , los IFP deberán remitirse a la UPER para su revisión y 
+validación. 
+La UPER analizará los IFP y emitirá las ro ndas de comentarios que considere 
+necesarias. Los Informes de Evaluación adquirirán el carácter de finales 
+únicamente cuando la UPER haya concluido su revisión, no existan 
+observaciones adicionales por atender y se hayan validado las versiones 
+definitivas correspondientes. 
+Durante la revisión de los IFP  las AE  y la UPER desempeñan roles 
+complementarios. El objetivo de fondo es garantizar que el ejercicio evaluativo 
+sea metodológicamente riguroso, apegado a la norma y, sobre todo, 
+verdaderamente útil para mejorar los programas. En este sentido, la labor de 
+las AE va mucho más allá de verificar que el informe cumpla con los TdR; su 
+misión es asegurar que cada objetivo metodológico trazado se esté logrando 
+en la práctica. Al analizar los aspectos técnicos y nor mativos, las AE actúan 
+como un filtro de calidad que encauza el trabajo de los evaluadores mediante 
+sugerencias constructivas. En la Figura 27.2 se presentan las actividades que 
+estas Áreas realizarán para llevar a cabo la revisión de los IFP. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGINA 13 ---
+ 
+13 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Figura 27.2 Actividades a realizar por las Áreas de Evaluación en la revisión de 
+los IFP 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+
+
+--- PAGINA 14 ---
+ 
+14 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Además, las AE juegan un papel relevante de medición ya que en las 
+evaluaciones que requieren trabajo de campo, es común y c omprensible que 
+las UR puedan mostrar cierta resistencia. En 
+este punto, las AE intervienen para sensibilizar 
+a los actores sobre la importancia de su 
+participación. Esto facilita el entorno para que 
+los evaluadores puedan aplicar sus 
+instrumentos sin fric ciones, obteniendo 
+información de primera mano. 
+Otro aspecto crucial del trabajo de las AE es garantizar que la evaluación tenga 
+los pies en la tierra. Al coordinar la revisión de los hallazgos y recomendaciones 
+junto con las UR, se aseguran de que las pro puestas de mejora de la IE sean 
+claras y realizables. Como señala la literatura especializada, la utilidad de una 
+evaluación depende en gran medida de la viabilidad de sus recomendaciones y 
+de la implicación activa de los actores clave durante el proc eso (Patton, 2008). 
+Por ello, el  AE debe vigilar que la Instancia Evaluadora atienda todas las 
+observaciones de mejora antes de avanzar . 
+A la par de esta labor analítica y de mediación, las AE se aseguran de que las 
+bases de datos y fuentes de información entregadas por la UR sean precisas, 
+que el documento esté impecablemente escrito, cuidando ortografía, sintaxis y 
+el formato APA para la citación de fuentes , y que los tiempos marcados en el 
+cronograma se respeten para llegar a la entrega final sin retrasos. 
+Por otro lado, la UPER actúa como validador 
+estratégico del ecosistema. Mientras la AE está en 
+el terreno coordinando y puliendo los detalles 
+diarios con los operadores y evaluadores, la UPER 
+aporta una mirada panorámica y normativa. Su 
+revisión de los IFP se enfoca en estandarizar la calidad, asegurando que todos 
+los informes hablen el mismo idioma técnico e institucional. 
+Para mantener el orden y la claridad en esta retroalimentación, la UPER es la 
+encargada de definir las "reglas del juego" documenta les, estableciendo los 
+formatos oficiales en los que se emitirán y atenderán los comentarios. Además, 
+a diferencia de la AE que coteja la precisión de los datos en el día a día, la UPER 
+
+
+--- PAGINA 15 ---
+ 
+15 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+pone una lupa especial en la vigencia de las fuentes, garantizando que  las 
+conclusiones se sustenten en la información más actual disponible. En la Figura 
+27.3 se presentan las actividades que lleva a cabo la UPER en el marco de la 
+revisión de los IFP . 
+Figura 27.3 Actividades a realizar por las UPER en la revisión de los IFP 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+La UPER es la autoridad que otorga la luz verde definitiva. Tras asegurarse de 
+que el documento cumple con los estándares de estilo, que las citas siguen la 
+última versión del formato APA y que las observaciones estratégicas han sido 
+solventadas, valida la versión final de los informes. Con este paso, cierra el ciclo 
+instruyendo a la AE para el envío oficial del documento conforme a las reglas 
+del PAE.  
+
+
+--- PAGINA 16 ---
+ 
+16 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Si bien la revisión integral de todos los apartados que conforman los IFP es 
+fundamental, el análisis de las recomendaciones formuladas por la IE es de 
+especial relevancia, ya que de su pertinencia, claridad y viabilidad depende en 
+gran medida la capacidad de la evaluación para impulsar mejoras efectivas en 
+la intervención pública objeto de análisis. En la Figura 27.4 se presentan algunas 
+consideraciones que las AE, UR y la UPER toman en cuenta para realizar su 
+revisión.  
+Figura 27.4 Consideraciones para la revisión de las recomendaciones de los IFP 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+
+
+--- PAGINA 17 ---
+ 
+17 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+En el marco del seguimiento del proceso evaluativo, la revisión exhaustiva de 
+las recomendaciones representa el punto de inflexión donde el diagnóstico 
+técnico se transforma en acción pública. Más allá de verificar el rigor del 
+análisis, el verdadero valor del Sistema de Evaluación del Desempeño radica en 
+su utilidad . Al alinear estas propuestas con los Lineamientos que norma los 
+Aspectos Susceptibles de Mejora que se revisarán más adelante y demandar 
+una redacción contundente, libre de ambigüedades o dupli cidades, se 
+garantiza que los tomadores de decisiones reciban rutas de acción claras. Como 
+advierte la literatura especializada, la influencia real de una evaluación depende 
+directamente de que sus conclusiones sean comunicadas en un formato 
+asimilable y accionable para quienes operan la Política Pública (Weiss, 1998). 
+La eficacia de este seguimiento recae en reconocer la realidad institucional 
+mediante el principio de viabilidad. De nada sirve una recomendación 
+metodológicamente perfecta si ignora las verd aderas capacidades técnicas, 
+normativas y administrativas de las UR. Al obligar a la Instancia Evaluadora a 
+proyectar un efecto esperado concreto y a considerar los límites operativos de 
+las dependencias, el proceso de revisión actúa como un filtro de fact ibilidad. 
+Esta sensatez administrativa no solo mitiga la resistencia natural al cambio, sino 
+que empodera a los servidores públicos para apropiarse de las 
+recomendaciones, asegurando que el ejercicio evaluativo culmine en una 
+Gestión para Resultados tangible que fortalezca el desempeño gubernamental. 
+La trazabilidad entre los hallazgos y las recomendaciones es un elemento 
+fundamental para garantizar la validez, utilidad y credibilidad de las 
+evaluaciones, ya que permite demostrar que cada recomendación deri va 
+directamente de evidencia revisada durante el análisis. Por ello, el AE, las UR y 
+la IE deben validar conjuntamente que exista una relación clara entre los 
+hallazgos y las acciones propuestas, así como analizar su factibilidad técnica, 
+normativa, operativa y administrativa antes de su suscripción como ASM. Este 
+proceso asegura que las recomendaciones sean claras, justificadas, accionables 
+y orientadas a generar mejoras reales en el desempeño de los Pp y Políticas 
+Públicas evaluadas, evitando compromisos inviables y fortaleciendo la 
+contribución de la evaluación a la planeación, programación, presupuestación 
+y ejecución de las intervenciones públicas. 
+
+--- PAGINA 18 ---
+ 
+18 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+El Informe Final 
+ 
+El Informe Final es el documento concluyente del proceso 
+evaluativo, concebido como una integración sistémica y 
+consolidada de los productos y hallazgos generados 
+durante todas las fases de la investigación documental y de 
+campo. Constituye una síntesis an alítica que demuestra la 
+triangulación de la evidencia normativa y empírica para 
+valorar objetivamente la pertinencia, eficiencia y orientación a resultados de la 
+intervención gubernamental. Su propósito fundamental es dotar a las 
+dependencias y unidades responsables de información estratégica, emitiendo 
+un diagnóstico riguroso y formulando recomendaciones claras y justificadas 
+que puedan transitar hacia ASM, garantizando así la corrección de fallas y la 
+optimización continua de la Política Pública evaluada. Es importante considerar 
+que las diferencias en la estructura de los Informes Finales radican en el cuerpo 
+analítico del documento, el cual se adapta estrictamente a la metodología y al 
+propósito central de cada tipo de evaluación. Sin embargo, en términ os 
+generales tienen la estructura que se presenta en la Figura 27.5.  
+ 
+Figura 27.5 Estructura del Informe Final 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+
+
+--- PAGINA 19 ---
+ 
+19 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+El Resumen Ejecutivo es una síntesis gerencial y estructurada que ofrece una 
+visión completa y rápida  del ejercicio evaluativo, destacando los principales 
+hallazgos, áreas de oportunidad y resultados más relevantes sin necesidad de 
+leer el documento completo. Su propósito es facilitar la comprensión inmediata 
+a los tomadores de decision es sobre el estado general del Programa o fondo 
+evaluado, sirviendo como un panorama introductorio de alto nivel.    
+En la Introducción y Contexto  se presenta el marco de referencia y la 
+justificación metodológica de la evaluación, describiendo los antecedentes, el 
+problema público que atiende el Programa y su alineación estratégica. Además, 
+proporciona al lector las bases necesarias para comprender la realidad 
+operativa, normativa e institucional bajo la cual se desarrolla la intervención 
+gubernamental antes de entrar de lleno al análisis detallado.    
+Los módulos o secciones corresponden a la parte del Desarrollo del Análisis, 
+el cual c onstituye el cuerpo principal del informe, donde se desglosa la 
+evaluación técnica mediante el contraste entre el diseño formal y la realidad  
+empírica o documental. Dependiendo del tipo de evaluación, este elemento se 
+estructura en módulos, dimensiones o reactivos específicos para responder de 
+manera analítica, justificada y triangulada a los criterios metodológicos 
+exigidos por los TdR.    
+En las Conclusiones se integran reflexiones sintéticas y estratégicas derivadas 
+del análisis profundo, evitando la simple repetición o yuxtaposición detallada 
+de los hallazgos por módulo. Su objetivo es emitir una valoración final 
+fundamentada sobre la pertin encia, orientación a result ados y el desempeño 
+global del P rograma, sirviendo como un puente lógico entre el diagnóstico 
+realizado y las acciones correctivas que se propondrán a continuación.    
+En los Hallazgos y Recomendaciones  se cataloga las áreas de m ejora 
+detectadas de forma sistemática y propone soluciones claras, justificadas y 
+factibles que puedan transitar a convertirse en ASM. Representa el componente 
+propositivo y vinculante del informe, utilizando estructuras específicas 
+(típicamente "verbo + p roducto/proceso a modificar + justificación") para 
+detallar exactamente qué debe modificarse, cómo aplicarlo y cuáles son los 
+efectos positivos esperados en la gestión.    
+
+--- PAGINA 20 ---
+ 
+20 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Finalmente, en los Anexos se incluyen los documentos, bases de datos y 
+herramientas de soporte empírico que otorgan rigor , trazabilidad y 
+transparencia metodológica a la evidencia presentada en la evaluación. En este 
+apartado se integran todos los elementos técnicos que harían muy extenso el 
+cuerpo principal, tales como las fichas técnica s administrativas, diagramas de 
+flujo, memorias algorítmicas, instrumentos de recolección de información y el 
+listado exhaustivo de las fuentes de información utilizadas. También dentro de 
+los Anexos, se debe incluir la base de datos, con la información de campo o de 
+gabinete generadas para el análisis, así como los algoritmos de análisis con los 
+cuales se puede llegar a los mismos resultados que presenta el equipo 
+evaluador . 
+Una vez que el AE de la dependencia o entidad reciba a entera satisfacción el 
+Informe Final por parte de la IE, y se hayan solventado las observaciones 
+correspondientes, deberá remitirlo mediante oficio a la persona Titular de la 
+UPER, adjuntando la Posición Institucional (PI) y el Formato de Aspectos 
+Relevantes de la Evaluación (FARE).  
+Por su parte, la UPER publicará en el Portal de Transparencia Presupuestaria el 
+Informe Final, la PI y el FARE que reciba de manera oficial, con el propósito de 
+fortalecer la transparencia y la rendición de cuentas sobre el uso de los recursos 
+públicos destinados a la mejora del gasto público. Asimismo, las dependencias 
+y entidades deberán realizar las gestiones necesarias para la publicación de 
+dichos documentos en sus respectivos portales institucionales. 
+Para la atención de las recomendaciones que deriven de la evaluación, una vez 
+recibido el IF de forma oficial, la UPER remite a las dependencias y entidades el 
+documento denominado Plan de Trabajo para iniciar el proceso de suscripción 
+de ASM, tema que será abordado de forma detallada en el siguiente Tema.  
+ 
+Calidad de las evaluaciones 
+ 
+El proceso de evaluación, al igual que cualquier investigación científica, implica 
+generar y analizar información para crear conocimiento. En el ámbito público, 
+el propósito de este conocimiento es impulsar cambios positivos en las 
+intervenciones públicas que se pueda traducir en valor público. Para lograr 
+
+--- PAGINA 21 ---
+ 
+21 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+evaluaciones útiles que conduzcan a las mejoras adecuadas, es indispensable 
+que los datos empleados como insumos sean confiables, pues de ello depende 
+el éxito de sus resultados. 
+Ante este panorama surge la interrogante: ¿cómo asegurar que todos los 
+actores involucrados utilicen la información, los conocimientos y los métodos 
+adecuados? La calidad de una evaluación es directamente proporcional al rigor 
+metodológico aplicado, tanto p or las Instancias E valuadoras como por las 
+personas servidoras públicas. En resumen, para garantizar dicha calidad 
+metodológica, es necesario considerar los principios descritos en la Figura 27.6. 
+ 
+Figura 27.6 Principios de los ejercicios evaluativos  
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+
+
+--- PAGINA 22 ---
+ 
+22 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+El seguimiento del proceso de coordinación de las evaluaciones es un 
+componente esencial para garantizar que las evaluaciones mandatadas en el 
+PAE se desarrollen con calidad técnica, apego a la normativa vigente y 
+orientación a la mejora de las intervenciones públicas. La coordinación entre la 
+UPER, las AE, las UR y las IE permite asegurar la adecuada ejecución de cada 
+etapa del proceso, desde la elaboración y revisión de los informes hasta su 
+validación y publicación. Asimismo, la revisión sistemática de los productos de 
+evaluación contribuye a fortalecer la consistencia metodológica, la 
+confiabilidad de los hallazgos y la pertinencia de las recomendaciones 
+formuladas. 
+Por otra parte, la adecuada vinculación entre l os hallazgos, las 
+recomendaciones y los ASM favorece que los resultados de las evaluaciones se 
+traduzcan en acciones concretas orientadas a fortalecer el desempeño de las 
+Políticas Públicas y los Pp. De esta manera, el proceso evaluativo no solo cumple 
+una función de rendición de cuentas y transparencia, sino que también genera 
+evidencia útil para la toma de decisiones, promueve la mejora continua de la 
+gestión pública y contribuye a la generación de valor público mediante el uso 
+más eficiente y eficaz de los recursos públicos. 
+ 
+
+--- PAGINA 23 ---
+ 
+23 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+ 
+ 
+ 
+Tal como se anticipó en el cierre del Tema anterior, una vez entregado el 
+Informe Final de la evaluación, comienza el proceso de suscripción de los 
+Aspectos Susceptibles de Mejora (ASM). En este contexto, es importante ubicar 
+los ASM en el marco del Presupuesto basado en Resultados y el Sistema de 
+Evaluación del Desempeño (PbR -SED), donde representan componentes 
+fundamentales para fomentar una gestión pública más eficaz, eficiente y 
+orientada a resultados.  
+En términos generales, los ASM se definen como los  compromisos formale s 
+que asumen las dependencia y e ntidades a partir del análisis de los hallazgos, 
+debilidades, oportunidades, amenazas  y recomendaciones derivadas de las 
+evaluaciones externas a los Programas presupuestarios y las Políticas Públicas. 
+Su atención obligatoria busca perfeccionar el diseño, la operación y los 
+resultados de las intervenciones públicas. 
+La importancia de los ASM 
+radica en su papel como 
+puente entre la evaluación 
+del desempeño y la 
+mejora continua . La 
+identificación de áreas de  
+oportunidad provee a las 
+Unidades Re sponsables 
+de una base objetiva para definir compromisos de mejora, establecer 
+estrategias de atención, y dar seguimiento al avance de dichos compromisos.  
+Cabe destacar que, en el marco del modelo de evaluación del dese mpeño, los 
+ASM no representan una calificación ni una sanción para las intervenciones 
+públicas o para las dependencias. Más bien, constituyen un insumo analítico 
+que contribuye a una comprensión integral de su desempeño, 
+complementando otros elementos de i nformación como indicadores, 
+evaluaciones y reportes de seguimiento. Su adecuada atención fortalece la 
+toma de decisiones, promueve la mejora continua y favorece una gestión 
+pública más eficaz, eficiente y orientada a resultados. 
+TEMA 28. 
+Definición y clasificación de los Aspectos 
+Susceptibles de Mejora 
+
+
+--- PAGINA 24 ---
+ 
+24 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Desde su incorporación en el marco normativo que sustenta al PbR y al Sistema 
+de Evaluación del Desempeño (SED) , los ASM han evolucionado 
+significativamente en su regulación.  Inicialmente, el “Mecanismo para el 
+seguimiento a los aspectos susceptibles de mejora derivados de informes y 
+evaluaciones a los programas presupuestarios” de 2011 estableció p rocesos 
+generales de atención y seguimiento , con menor especific idad para la 
+suscripción y documentación de compromisos, lo que en la práctica generaba 
+diferencias en su implementación entre dependencias y dificultaba su 
+seguimiento. Actualmente, la atención de los ASM se rige por un marco 
+normativo más estricto y riguroso, consolidado en los Lineamientos Generales 
+aplicables a la gestión para resultados de los recursos públicos federales 
+(Lineamientos GpR), y los Lineamientos para el seguimiento y atención a los 
+aspectos susceptibles de mejora deri vados de evaluaciones realizadas a 
+políticas públicas, programas presupuestarios y recursos federales 
+transferidos de la Administración Pública Federal (Lineamientos ASM) , ambos 
+documentos expedidos en 2025 –y referenciados en el Tema 6 de este 
+Diplomado–, disponen de manera específica, las funciones y procesos que se 
+deberán de seguir en términos de los ASM, tal como se muestra en la Figura 
+28.1. 
+ 
+Figura 28.1 Normativa en materia de ASM 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2025a) y SHCP (2025b). 
+ 
+
+
+--- PAGINA 25 ---
+ 
+25 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Por un lado,  los Lineamientos GpR marcan las directrices generales para la 
+revisión y atención de las recomendaciones derivadas de la evaluación; por 
+otro, los Lineamientos ASM operativizan los requisitos, atribuciones, criterios y 
+plazos para la suscripción, seguimiento, conclusión y entrega de los ASM . De 
+manera que, e ste marco normativo permite estructurar el proceso en tres 
+grandes etapas: Suscripción y definición del Plan de Trabajo ; Seguimiento y 
+Reporte; y Conclusión e impacto real de los ASM. Para efectos de este Tema, se 
+aborda únicamente la primera etapa, en tanto que las etapas segunda y tercera 
+serán objeto de estudio del Tema 29. 
+La etapa de suscripción y definición del Plan de Trabajo  sigue una serie de 
+procesos que las Unida des Responsables llevan a cabo de forma interna , 
+mismos que  se muestran en la Figura 28.2 . Es importante notar que este 
+enfoque comienza retomando el Informe Final que se estudió en el Tema 
+anterior.   
+Figura 28.2 Proceso de definición de ASM 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+La emisión del Informe Final de evaluación  constituye el insumo principal 
+para definir los ASM, ya que a partir de este documento se articulan los 
+hallazgos y recomendaciones orientadas a corregir o mejorar el 
+funcionamiento d e determinadas áreas. En  este marco, los hallazgos se 
+entienden como las observaciones sustentadas en evidencia que muestran 
+
+
+--- PAGINA 26 ---
+ 
+26 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+brechas, fallas operativas, problemas metodológicos, insuficiencias en el 
+diseño o limitaciones en el desempeño de las Políticas Pú blicas (PP) o 
+Programas presupuestarios (Pp). 
+Posteriormente, con esta información los evaluadores formulan 
+recomendaciones, que constituyen propuestas concretas para corregir o 
+mejorar los elementos identificados en los hallazgos. Estas recomendaciones 
+deben ser específicas, factibles, verificables y alineadas con la lógica del PbR –
+SED, como pueden ser sugerencias de ajustes operativos o normativos, 
+mejoras en la calidad de la información o fortalecimiento de los mecanismos 
+de seguimiento, entre otros. 
+A partir de la entrega del Informe Final de evaluación, las Áreas de Evaluación 
+(AE) convocarán a las Unidades Responsables (UR) y áreas afines, mientras que, 
+en el caso de los Recursos Federales Transferidos, las Instancias coordinadoras 
+se organizarán con los gobiernos subnacionales con evaluaciones en el marco 
+del Programa Anual de Evaluación (PAE) Federal, con el propósito de identificar 
+y analizar todas las recomendaciones emitidas  por la Instancia Evaluadora, 
+para traducirlas en compromisos obligatorios  y así, atender cada una de ellas 
+con la formulación de los ASM. 
+En este contexto y de conformidad con el lineamiento 37 de los Lineamientos 
+GpR y el lineamiento 6 de los Lineamientos ASM, todas las recomendaciones 
+deberán atenderse con un ASM. Sin embargo, esto no implica que las acciones 
+a emprender sean exactamente las que propuso la Instancia Evaluadora. Por 
+ello es fundamental que las AE y las UR realicen un análisis exhaustivo de las 
+capacidades técnicas, así como de los recursos humanos, materiales y  
+financieros de los que disponen antes de suscribir un ASM, a fin de evitar 
+comprometer acciones que no puedan ser implementadas. 
+Por otro lado, el que todas las 
+recomendaciones deban atenderse 
+con un ASM no quiere decir que 
+deba haber una equivalencia 1 a 1. 
+Es decir, dependiendo de la 
+naturaleza de las recomendaciones, 
+una podría dar origen a uno o más 
+ASM o bien, dos o más 
+recomendaciones pueden agruparse en un solo ASM. 
+
+
+--- PAGINA 27 ---
+ 
+27 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Los ASM deben reflejar una acción clara, precisa y específica, y deberán 
+enfocarse en señalar de manera positiva la mejora necesaria, evitando referirse 
+a una carencia o problema identificado. Asimismo, deberá  utilizarse un 
+lenguaje sencillo y accesible que permita su fácil comprensión, ya sea por parte 
+de los actores responsables de su atención y seguimiento o de la ciudadanía en 
+general.  
+La correcta definición de un ASM es fundamental para garantizar que las 
+acciones de mejora sean claras, medibles, viables y alineadas con la normativa 
+vigente, asegurando que el esfuerzo institucional genere resultados tangibles. 
+Asimismo, este proceso contribuye a consolidar la mejora continua, al fomentar 
+que las instituciones no solo midan su desempeño, sino que utilicen 
+activamente los resultados de las evaluaciones para perfeccionar sus 
+intervenciones. 
+Es importante señalar que la apropiada definición de un ASM constituye la base 
+para su posterior clasificación, lo que facilita su oportuno seguimiento, 
+validación y verificación a través del Plan de Trabajo. 
+ 
+Clasificación de los ASM 
+ 
+Antes de clasificar los ASM, es indispensable realizar un análisis exhaustivo del 
+Informe Final de la evaluación. Para ello, se deben considerar los hallazgos 
+relevantes, las conclusiones y las r ecomendaciones emitidas por la Instancia 
+Evaluadora, así como el cont exto no rmativo y operativo del P rograma. Este 
+análisis permite comprender el alcance real de cada recomendación y evita la 
+clasificación incorrecta de acciones que requieren un nivel de intervención 
+distinto. 
+Una vez que se definió un ASM y se hizo la revisión referida, es necesario iniciar 
+el proceso de clasificación, que de conformidad con el lineamiento 8 de los 
+Lineamientos ASM, se realizará con base en tres criterios: por el tipo de actores 
+involucrados, conforme a los niveles de prioridad de atención y de acuerdo con 
+tema que se busca mejorar, tal como se muestra en la Figura 28.3.  
+ 
+ 
+
+--- PAGINA 28 ---
+ 
+28 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Figura 28.3 Criterios para la clasificación de los ASM 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2025b). 
+ 
+Para realizar la clasificación correspondiente, se deben identificar las 
+responsabilidades y capacidades de las AE y las UR involucradas, así como las 
+atribuciones legales y normativas que corresponden a cada una. De igual 
+forma, se deberán analizar las capacidades técnicas, humanas, materiales y 
+financieras disponibles. Este ejercicio resulta clave para definir qué tipo de ASM 
+es viable y quién debe atenderlo, evitando el establecimiento de compromisos 
+que no puedan cumplirse. 
+De acuerdo con el tipo de actores involucrados, los ASM pueden ser 
+institucionales (cuando solo involucran la participaci ón de una o varias áreas 
+de la dependencia y/o entidad), interinstitucionales (cuando participa más de 
+una dependencia o entidad) o intergubernamentales (aquellos cuya atención 
+requiere la intervención de gobiernos subnacionales).  
+Los ASM también se clasifican de acuerdo con su impacto en el logro de los 
+resultados de la Política Pública o Programa presupuestario. Los de nivel alto 
+requieren atención inmediata  para evitar afectaciones en el logro de los 
+resultados. Los de nivel medio  no representan un riesgo inmediato, pero 
+deben abordarse para prevenir problemas futuros. Finalmente, los de nivel 
+bajo tienen una incidencia menor y su atención no es urgente, dado que no 
+afectan de manera relevante. 
+
+
+--- PAGINA 29 ---
+ 
+29 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Por último, es necesario identificar qué aspecto se busca mejorar de la Política 
+Pública, Programa presupuestario o Recurso Federal Transferido. Si bien un 
+ASM puede estar enfocado a más de un tema, se debe señalar el principal. Los 
+Lineamientos ASM definen los temas que se consideran y se muestran en la 
+Figura 28.4. 
+ 
+Figura 28.4 Opciones incluidas en la clasificación por Tema de un ASM 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2025b). 
+ 
+Compromisos que integran el ASM 
+ 
+Tras definir y clasificar los ASM, el siguiente paso es determinar las actividades 
+concretas que darán respuesta a los  hallazgos: los compromisos. Estos deben 
+ser claros, concisos y congruentes respecto de los ASM que se definieron, y 
+deben incluir documentos de verificación completos que aporten valor público 
+respecto de su cumplimiento.  Para garantizar su orientación a resultados, no 
+se considerarán como compromisos las etapas parciales de avance de un 
+
+
+--- PAGINA 30 ---
+ 
+30 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+entregable como borradores, revisiones preliminares o las actividades 
+intermedias.  
+Adicionalmente, para cada compromiso se deberá definir su objetivo, 
+señalando los motivos por los que se decide asumirlo y cómo éste contribuye 
+al logro del resultado esperado y al cumplimiento del ASM en su conjunto. 
+Además, deberá identificar al área o unidad responsable de la implementación 
+del compromiso (aquella encargada de coordinar las acciones), y listar aquellas 
+que participan de distintas maneras para la atención. 
+Por otra parte, se deberá establecer el resultado que se espera obtener con la 
+atención del compromiso, es decir los cambios, mejoras o efectos positivos que 
+se esperan conseguir. El resultado esperado es la manifestación concreta del 
+cambio que se busca obtener con l a implementación del compromiso, y cuya 
+relación se muestra en la Figura 28.4. 
+ 
+Figura 28.5 Diferencia entre objetivo del compromiso y resultado esperado 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+Posteriormente, es necesario definir las fechas de inicio y término de cada 
+compromiso. Las fechas de inicio pueden coincidir con la fecha de término de 
+un compromiso previo o pueden ocurrir en paralelo, lo cual dependerá de la 
+naturaleza misma del compromiso. Para la fecha de término, la dependencia o 
+entidad deberá determinar el periodo en que considera puede atender el 
+
+
+--- PAGINA 31 ---
+ 
+31 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+compromiso, sin que esta rebase el 31 de diciembre del año posterior a la 
+conclusión de la evaluación (por ejemplo, si la evaluación se c oncluyó el 30 de 
+noviembre de 2025, la fecha máxima de conclusión de los compromisos que 
+integren sus ASM será el 31 de diciembre de 2026). Esta limitación permite 
+mantener un ciclo anual claro de seguimiento y vincula directamente los 
+compromisos con el e jercicio fiscal correspondiente, tal como lo establece la 
+normativa vigente. 
+Por último, se deben definir los documentos de verificación, que corresponden 
+a la evidencia con la que se demostrará que el compromiso se atendió y que 
+deberán remitirse en su totalidad cuando se reporte su conclusión. Al definirlos 
+se debe ser lo más específico posible e incluir únicamente documentos finales 
+y que se encuentren en condiciones de ser entregados a la UPER para su 
+publicación. 
+ 
+ 
+ 
+Plan de Trabajo 
+ 
+Para llevar a cabo  todo el proceso descrito previamente, las AE, así como las 
+Instancias coordinadoras, deberán suscribir el documento denominado Plan de 
+Trabajo, el cual se presentará en formato electrónico.  Al respecto, la UPER 
+proporciona a las dependencias y entidades e l formato con información 
+prellenada relacionada al Pp y la evaluación de la que derivan los ASM y 
+proporciona asesoría técnica y retroalimentación para su correcto llenado, 
+como se verá en el Tema 29. 
+En este contexto, es posible afirmar que el origen formal de los ASM se vincula 
+con los mecanismos de retroalimentación del SED, que requieren que cada 
+evaluación genere recomendaciones accionables y trazables. A partir de ello, la 
+
+
+--- PAGINA 32 ---
+ 
+32 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+UPER establece procedimientos estandarizados para la suscripción, registro, 
+atención y seguimiento  de dichos ASM, con el propósito de asegurar que las 
+mejoras propuestas se traduzcan en ajustes concretos en el diseño, gestión, 
+operación y consecución de resultados de los programas. 
+Es importante tener en cuenta que la identificación  de los ASM constituye una 
+etapa clave dentro del ciclo de mejora continua por su relevancia como 
+mecanismo de articulación entre la evaluación del desempeño y la toma de 
+decisiones orientadas a resultados. Desde la lógica del PbR, los ASM se definen 
+como instrumentos de gestión que fortalecen la orientación a resultados, al 
+facilitar que las dependencias y entidades responsables (AE y UR) prioricen 
+acciones estratégicas con base en evidencia, promoviendo un uso más eficiente 
+de los recursos públicos.  
+La identificación de los ASM no debe entenderse como un ejercicio meramente 
+administrativo, sino como un proceso de toma de decisiones estratégicas que 
+requiere coordinación interinstitucional, claridad en las responsabilidades y 
+congruencia con los instrumentos de planeación nacional y sectorial. 
+ 
+
+--- PAGINA 33 ---
+  
+33 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+ 
+ 
+ 
+Mientras que en el apartado anterior se definieron los Aspectos Susceptibles 
+de Mejora (ASM) a nivel conceptual desde la perspectiva de las Unidades 
+Responsables, el presente tema detalla la ruta crítica para su atención. Aquí se 
+analiza el proceso operativo y los trámites administrativos que deben seguir las 
+dependencias y entidades, desde la suscripción formal de los ASM hasta su 
+conclusión. En el marco del Presupuesto basado en Resultados y el Sistema de 
+Evaluación del Desempeño (PbR -SED), los ASM tienen una relevancia 
+estratégica fundamental: son el mecanismo que transforma los hallazgos de 
+las evaluaciones en compromisos institucionales concretos. De este modo, los 
+ASM cierran el ciclo de la evaluación al garantizar la mejora continua de los 
+programas públicos y propiciar una asignación de recursos basada en 
+evidencia. 
+ 
+Proceso administrativo para la suscripción de ASM 
+ 
+Una vez que la dependencia o entidad ha entregado el Informe Final de la 
+evaluación, se deberá dar inicio al proceso administrativo para la de suscripción 
+de los ASM. Esta etapa es clave para asegurar que los hallazgos y 
+recomendaciones derivados del  ejercicio evaluativo se traduzcan en acciones 
+concretas que fortalezcan el desempeño institucional y optimicen el uso de los 
+recursos públicos.  En este proceso participan de manera coordinada las 
+Unidades Responsables (UR), las Áreas de Evaluación (AE) y la Unidad de Política 
+y Estrategia para Resultados (UPER).  
+En la Figura 29.1 se resume el flujo administrativo para la suscripción de los 
+ASM. Es importante considerar que, a diferencia del proceso descrito en el 
+Tema 28 (Figura 28.2) –el cual es de carácter interno entre las AE, las UR y en su 
+caso las Instancias  Coordinadoras–, el procedimiento que se presenta a 
+continuación se centra en la interacción institucional de dichos actores con la 
+UPER.  
+TEMA 29. 
+Seguimiento y atención de los Aspectos 
+Susceptibles de Mejora 
+
+--- PAGINA 34 ---
+ 
+34 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Figura 29.1 Proceso administrativo para la suscripción de ASM 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+El proceso inicia cuando la UPER envía la notificación oficial del inicio del 
+proceso de suscripción, indicando la herramienta y los plazos a los que deberán 
+apegarse las dependencias o entidades. Dicha herramienta permite la captura 
+estandarizada de información, el control de versiones y genera evidencia 
+documental del proceso. Esta notificación constituye el primer paso en el 
+proceso de suscripción y seguimiento de los ASM. 
+De acuerdo con el lineamiento 9  de los Lineamientos para el seguimiento y 
+atención a los aspe ctos susceptibles de mejora derivado s de evaluaciones 
+realizadas a Políticas Públicas, Programas presupuestarios y Recursos 
+Federales T ransferidos de la Administración Pública Federal  (Lineamientos 
+ASM), las Unidades Responsables, a través de su Área de Evaluación, enviarán 
+a la UPER la versión preliminar del Plan de Trabajo  para su revisión técnica. 
+Dicho documento deberá señalar los compromisos asumidos y la evidencia de 
+cumplimiento correspondiente, con el propósito de  facilitar la medición de  su 
+avance. 
+La UPER analizará el Plan de Trabajo  y en su caso, de acuerdo con el 
+lineamiento 18 de los Lineamientos ASM, emitirá las observaciones 
+correspondientes, las cuales deberán ser atendidas por las AE en coordinación 
+con las UR o por las Instancias Coordinadoras, en conjunto con los gobiernos 
+subnacionales cuando aplique. La revisión técnica asegura que los ASM y sus 
+compromisos sean viables, medibles y alineados con la normativa vigente. Es 
+
+
+--- PAGINA 35 ---
+ 
+35 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+importante considerar que se emiten comentarios y se envían para su atención 
+tantas veces como sea necesario. 
+Finalmente, u na vez que se atiendan todos 
+los comentarios adicionales, el Plan de 
+Trabajo se considera definitivo y se formaliza 
+la suscripción de los ASM mediante correo 
+electrónico. Conforme al lineamiento 13 d e 
+los Lineamientos ASM, la suscripción no 
+deberá rebasar el último día hábil de febrero 
+del ejercicio fiscal posterior a la conclusión 
+de la evaluación. La formalización permite contar con un instrumento oficial de 
+seguimiento, con información de utilidad tanto para la s entidades y  
+dependencias como para la UPER. 
+ 
+Atención y conclusión de los Aspectos Susceptibles de Mejora 
+ 
+Una vez suscritos los ASM, es responsabilidad de las dependencias y entidades 
+implementar cada compromiso de manera oportuna y reporta r el avance  a 
+través del envío del Plan de Trabajo  vía correo electrónico en  los periodos 
+establecidos en el lineamiento 13 de los Lineamientos AS M, es decir en los 
+meses de junio, septiembre y diciembre. Si bien la UPER emite un recordatorio 
+al inicio del periodo de reporte, la omisión de este aviso no exime a las 
+dependencias y entidades de su obligación de cumplir con la entrega en tiempo 
+y forma. 
+Las UR tienen la atribución  de aten der los compromisos,  pero son las AE 
+quienes deberán revisar y validar los avances, antes de formalizar su reporte 
+ante la UPER. En caso de que las UR envíen el reporte directamente a la UPER, 
+éste no se considerará vál ido hasta que sea remitido por las AE 
+correspondientes. 
+Cuando se reporte la conclusión de un compromiso, se deberá adjuntar la 
+evidencia correspondiente, de acuerdo con los documentos de verificación que 
+se definieron en el Plan de Trabajo. Es importante señalar que, la entrega de 
+información no implica el cierre del compromiso; este se considerará 
+formalmente concluido hasta que la UPER revise y valide la evidencia remitida. 
+
+
+--- PAGINA 36 ---
+ 
+36 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+El plazo máximo de atención de un ASM es el 31 de diciembre del año inmediato 
+posterior al que se llevó a cabo la evaluación; no obstante, esto no impide que 
+el ASM pueda concluirse antes, en cuyo caso deberá reportarse su 
+cumplimiento en el periodo de reporte inmediato posterior a su conclusión. De 
+forma complementaria, en la Figura 2 9.2 se presentan una serie de 
+recomendaciones para suscribir y darle un adecuado seguimiento a los ASM. 
+ 
+Figura 29.2 Consideraciones para la suscripción y el seguimiento de los ASM 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2025). 
+ 
+Una vez que las AE envíen toda la evidencia y la UPER la revise y valide, se 
+considera que el proceso se encuentra concluido. Es necesario señalar que el 
+seguimiento y conclusión de los ASM no es meramente un proceso 
+administrativo cuyo objetivo es cumplir  con la norma, sino que se trata de un 
+ejercicio que vincula a la evaluación con resultados claros y tangibles, 
+permitiendo la mejora continua de los Programas presupuestarios y las 
+Políticas Públicas, lo que conduce a un mejor uso de los recursos públicos y un 
+gasto público más eficiente y útil.  
+
+
+--- PAGINA 37 ---
+ 
+37 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Conviene precisar que, si bien la conclusión de los ASM ocurre cuando l as 
+entidades y dependencias envían a la UPER el Plan de Trabajo durante el último 
+trimestre del año (octubre -diciembre) -y con fecha límite de entrega el último 
+día hábil de diciembre-, en casos excepcionales, la UPER puede determinar que 
+los ASM derivados de evaluaciones a Políticas Públicas y Recursos Federales 
+Transferidos extiendan su plazo de conclusión hasta por dos año s a partir de 
+su suscripción. Una vez reportados, el proceso de conclusión requiere la 
+validación y seguimiento por parte de la UPER. Esta unidad tiene la 
+responsabilidad de revisar los documentos de verificación remitidos, pudiendo 
+solicitar información a dicional si es necesario para acreditar la conclusión del 
+ASM. Finalmente, el impacto de estos ASM concluidos se documenta y 
+transparenta. 
+ 
+Difusión de los ASM y sus resultados 
+ 
+La conclusión formal de un ASM representa el hito en el que se cierra el ciclo  
+del ejercicio evaluativo  y se consolida la generación de un cambio en la 
+intervención pública . El cumplimiento de una recomendación evaluativa 
+mediante la emisión del Plan de Trabajo y la entrega de los medios de 
+verificación correspondientes, confirma qu e la s dependencias y entidades 
+implementaron las soluciones necesarias para elevar la efectividad e impacto 
+de la Política Pública, del Programa presupuestario o de los Recursos Federales 
+Transferidos, ante la identificación de una brecha de desempeño en el ejercicio 
+evaluativo.  
+Al transparentar la 
+evolución y conclusión 
+de los compromisos 
+asumidos, los tres 
+órdenes de gobierno 
+demuestran responsabilidad técnica e integridad en la gestión pública y 
+visibilizan la utilidad del ejercicio evaluativo.  Por ell o, y con el propósito de 
+garantizar el acceso a la información, l as dependencias y entidades tienen la 
+obligación de publicar en sus sitios web institucionales -en el mismo sitio en el 
+
+
+--- PAGINA 38 ---
+ 
+38 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+que se encuentren los informes de las evaluaciones-, su Plan de Trabajo a más 
+tardar 10 días hábiles posteriores a la formalización de la suscripción. 
+Por su parte, la UPER pone a disposición del público la información relativa a la 
+suscripción, seguimiento y conclusión de los ASM a través del Portal de 
+Transparencia Presupuestaria. Esta difusión incluye el registro histórico de los 
+ASM derivados de evaluacione s realizadas de 2007 a la fecha, así como el 
+reporte trimestral del avance  en la atención de  los ASM, incluidos en los 
+Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda 
+Pública. Este esquema de datos abiertos contribuye a la rendición de cuentas y 
+al fortalecimiento de la transparencia gubernamental.  
+Con base en lo anterior y a manera de conclusión de l presente Tema, en la 
+Figura 29.3 se presenta un resumen del proceso evaluativo a nivel federal. 
+ 
+Figura 29.3 Proceso de evaluación federal 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026. 
+ 
+
+
+--- PAGINA 39 ---
+ 
+39 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+ 
+El ejercicio evaluativo que inicia con el Programa Anual de Evaluación y 
+concluye con la rendición de cuentas mue stra la exigencia técnica que debe 
+tenerse en cada una de las etapas. En este sentido, es indispensable que las UR 
+asuman que hasta el momento en el que el último ASM es atendido y reportado 
+por el medio correspondiente, se podrá asegurar que el proceso de evaluación 
+concluyó exitosamente. 
+Sin embargo, la solidez, imparcialidad y utilidad de cada una de las etapas que 
+comprenden el ciclo operativo de la evaluación, dependen fundamentalmente 
+del compromiso ético de las personas servidoras públicas y evalua doras; pues 
+solo a través de la transparencia, la objetividad y la responsabilidad 
+institucional es posible garantizar que la evidencia generada  contribuya al 
+desempeño de las intervenciones públicas en todos los niveles 
+gubernamentales, lo cual será el objeto de estudio de nuestro último Tema.  
+ 
+ 
+
+--- PAGINA 40 ---
+ 
+40 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+ 
+ 
+ 
+A lo largo del Diplomado, se ha hecho énfasis en la importancia de una 
+actuación ética en todo lo concerniente al proceso evaluativo de las 
+intervenciones públicas . Las evaluaciones deben realizarse con absoluta 
+objetividad, garantizando que su ejecución y  resultados no respondan a 
+intereses de distintos grupos de poder. Para comprender la dimensión de este 
+principio, es fundamental situar a la ética como la rama de la filosofía dedicada 
+al estudio de las cuestiones morales que trata de establecer criterios  para las 
+conductas o acciones “buenas” y “malas”, evaluando tanto los motivos como las 
+consecuencias de estas (Health and Human Rights INFO). Esta palabra proviene 
+del griego antiguo êthicos que significa “carácter” o “perteneciente al carácter”, 
+por lo q ue, debido a su propia naturaleza, la ética se relaciona con todos los 
+quehaceres humanos (Torres, 2014).  
+En el marco de las sociedades democráticas, la ética pública –a diferencia de la 
+privada– señala principios y valores deseables para ser aplicados en la conducta 
+humana que desempeña una fu nción pública (Bautista, 2009 ). Además, está 
+orientada al bien común, entendido como una serie de medios que los Estados 
+deben proporcionar a la ciudadanía y a sus residentes para facilitar su 
+subsistencia, su bienestar o el desarrollo de su condición y  su dignidad. Como 
+apunta Mauricio Merino (20 08), es importante recuperar el sentido ético del 
+enfoque de política pública, por las razones que se resumen en la Figura 30.1. 
+ 
+TEMA 30. 
+La ética en la evaluación de intervenciones 
+públicas 
+
+--- PAGINA 41 ---
+ 
+41 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Figura 30.1 Razones para retomar la ética en el enfoque de política pública 
+ 
+ 
+Fuente: elaboración propia SHCP (2026), con base en Merino (2008).  
+ 
+Debido a que las intervenciones públicas siempre se vinculan a una posición 
+ética, de manera explícita o no, la racionalidad de los actores implicados en las 
+decisiones carec e de neutralidad (Merino 2008 ). Por tanto, es importante 
+considerar el efecto de l a ética en las Políticas Públicas, ya sea para su éxito o 
+fracaso y que el sujeto de la ética es el individuo que toma decisiones y no las 
+políticas públicas que se desprenden de esas decisiones. 
+Considerar o no los efectos de la ética en la selección de p roblemas y en los 
+cursos de acción elegidos no  garantiza que ocurran o no desviaciones y 
+fracasos en la Política Pública; sin embargo, considerarlo permite mitigar los 
+efectos de un mal uso de los recursos públicos e impide que la acción del Estado 
+se fragmente en intervenciones públicas aisladas que se justifican a sí mismas, 
+sin aportar a la generación de valor público.  
+Cabe señalar que hablar de ética es hablar de valores. En el ámbito de la función 
+pública, los individuos que ocupan un cargo público no actúan a título privado, 
+sino que están investidos del poder político legítimo para tomar decisiones 
+sobre el uso de recursos públicos. Merino (20 08) no discute si la ética es 
+producto de alguna ideología política en particular, de un credo religioso o 
+
+
+--- PAGINA 42 ---
+ 
+42 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+principios partidarios, sino que se enfoca en mostrar que las políticas públicas 
+derivan de esas decisiones. 
+ 
+La importancia de la ética en la evaluación de Políticas y 
+Programas  
+ 
+Barnett y Camfield  (2016) señalan que la práctica 
+ética en la evaluación a menudo se enfoca de manera 
+restringida por la falta de recursos e intereses en 
+competencia, quedando sujeta a la discrecionalidad 
+profesionalidad de  cada evaluador y escasamente 
+escudriñada. De hecho, las consideraciones éticas en 
+las evaluaciones del desempeño están escasamente 
+normadas en México.  
+Sin embargo, la ética puede ayudar a identificar juicios sobre quién está 
+incluido y excluido en el proceso evalua tivo y cómo los derechos de un amplio 
+grupo de interesados pueden ser considerados de manera transparente e 
+inclusiva. El contratante de la evaluación a menudo tiene una participación e 
+influencia clave en el proceso de evaluación: un poder y una posición para 
+dirigir y determinar alcance, preguntas, recursos, metodologías e influir en los 
+hallazgos eventuales. Los argumentos para la independencia de la evaluación 
+reconocen este problema y la importancia de las estructuras de gobierno que 
+protegen al evaluador de la influencia indebida del person al operativo y del 
+proyecto. 
+Articular las diferentes teorías y principios éticos que sustentan una evaluación 
+brinda mayor claridad sobre lo que realmente está en juego y la probabilidad 
+de encontrar un término medio. En la práctica , esto podría significar adoptar 
+un enfoque más deliberado y transparente en cada etapa de una evaluación 
+para abordar el equilibrio entre el rigor metodológico y los principios éticos, 
+como la inclusión. Por lo general, los debates entre las perspectivas de 
+evaluación más experimentales y más participativas han tendido a centrarse en 
+las diferencias metodológicas y diferentes puntos de vista sobre el rigor y la 
+evidencia, sin embargo, incorporar el marco ético permite trascender la 
+discusión técnica sobre lo que constituye evidencia válida. 
+
+
+--- PAGINA 43 ---
+ 
+43 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Al considerar la ética en la evaluación, más allá de la conformidad normativa a 
+la que debe apegarse, se espera que el evaluador tome en cuenta los principios 
+de legalidad, honradez, lealtad, imparcialidad y eficiencia, intrínsecos al servicio 
+público, con el fin de que la evaluación sea un ejercicio objetivo que permita la 
+constatación de que los objetivos de las intervenciones públicas se cumplieron, 
+y que realmente contribuya a identificar áreas de mejora de la operación de los 
+Programas presupuestarios y las Políticas Públicas.  
+En todo momento la Instancia Evaluadora debe orientar su desempeño a la  
+atención de las necesidades y demandas de la sociedad , por encima de 
+intereses y beneficios particulares, ajenos a l bien común. El interés público es 
+una guía que debe privilegiarse en la evaluación sobre intereses particulares 
+del evaluador o de otros involucrados.  
+El desempeño ético en las evaluaciones implica, entonces, estar conscientes de 
+que existen diversos aspectos que pueden comprometer la imparcialidad de la 
+evaluación o el interés público. Para mitigar este riesgo, se pueden establecer 
+ciertas pautas para introduc ir la ética en las evaluaciones, mismas que se 
+presentan en la Figura 30.2  
+ 
+Figura 30.2 Pautas éticas en las evaluaciones 
+ 
+ 
+Fuente: elaboración propia SHCP, 2026.  
+
+
+--- PAGINA 44 ---
+ 
+44 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Considerar los aspectos éticos en las evaluaciones significa que los resultados 
+permitirán identificar la posición ética (de valores) que da la razón de ser a las 
+intervenciones públicas  y, en consecuencia, valorar si el desempeño de los 
+mismos contribuye a que se alcancen los resultados esperados. De igual 
+manera, debe corroborarse que están presentes los principios del servicio 
+público, los cuales guían los procedimientos de la evaluación y garantizan que 
+los resultados de la misma sean objetivos e imparciales. 
+La evaluación contribuye a la generación de  valor público cuando sus 
+resultados se utilizan para mejorar la operación de las intervenciones públicas, 
+fortalecen la coordinación in stitucional, orientan la asignación de recursos y 
+apoyan la toma de decisiones basada en evidencia. Asimismo, favorece la 
+transparencia y la rendición de cuentas al proporcionar información sobre el 
+desempeño de las instituciones, los resultados alcanzados y las áreas de mejora 
+identificadas.  
+No obstante, la evaluación no genera valor público por el solo hecho de 
+realizarse, ya que su contribución depende de la capacidad institucional para 
+utilizar sus resultados y traducir las recomendaciones derivadas de  esta en 
+acciones de mejora efectivas. En este sentido, la ética, la calidad y la gobernanza 
+de los datos, así como el aprovechamiento efectivo de la información obtenida 
+mediante la evaluación, constituyen elementos fundamentales para que esta 
+se consolid e como una herramienta que mejore la gestión institucional y 
+genere valor para la sociedad. 
+ 
+La gobernanza de datos y la interoperabilidad de los datos 
+evaluativos  
+ 
+El proceso de evaluación del desempeño gubernamental requiere información 
+confiable y de alta calidad para generar evidencia sólida sobre el 
+funcionamiento y los resultados de las intervenciones públicas. Para que los 
+tomadores de decisiones y evaluadores puedan emitir juicios precisos sobre el 
+éxito de un programa, dependen de insumos esenciales como los registros 
+administrativos, los sistemas de seguimiento, los indicadores de gestión, la 
+información presupuestaria y los resultados de evaluaciones realiza das 
+anteriormente. Sin embargo, la simple recolección de esta información no 
+
+--- PAGINA 45 ---
+ 
+45 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+basta; los datos deben estar rigurosamente estructurados y validados para ser 
+realmente útiles en el monitoreo de resultados (Kusek & Rist, 2004). Es aquí 
+donde la gestión estraté gica de la información se vuelve indispensable para 
+evitar que los datos queden en el aislamiento y pierdan su valor analítico. 
+Para gestionar este complejo volumen de información, la gobernanza de datos 
+se posiciona como el marco institucional que estable ce las reglas, 
+responsabilidades y mecanismos necesarios para asegurar que la información 
+sea íntegra, oportuna, accesible y utilizada de manera responsable. De acuerdo 
+con DAMA International (2017), la gobernanza ejerce la autoridad, el control y 
+la planificación sobre los activos de datos, garantizando su calidad a lo largo de 
+todo su ciclo de vida. En el contexto de la evaluación, esto significa que cada  
+indicador o registro cuenta con un responsable claro ("doliente") de su 
+actualización y estandarizaci ón, lo que permite a los analistas confiar 
+plenamente en las métricas que utilizan para medir la eficacia y eficiencia del 
+aparato público. 
+A su vez, la materialización de una 
+gobernanza de datos efectiva requiere de la 
+interoperabilidad, la cual facilita  el 
+intercambio y la integración de información 
+entre distintas instituciones y niveles de 
+gobierno. Al romper los silos institucionales, 
+la interoperabilidad reduce la 
+fragmentación de los datos y permite 
+realizar análisis comparativos, un 
+seguimiento lon gitudinal de los resultados y una mejor trazabilidad de las 
+intervenciones (Naser , 2021). Un sistema interoperable bien gobernado es 
+fundamental para evaluar programas transversales, ya que permite construir 
+una visión holística de los beneficiarios y medi r impactos multidimensionales 
+que de otra forma serían imposibles de identificar mediante bases de datos 
+aisladas. 
+Ambos elementos, la gobernanza y la interoperabilidad, tienen también una 
+profunda dimensión ética, pues la sola disponibilidad tecnológica d e los datos 
+no garantiza por sí misma evaluaciones neutrales o de calidad. Es 
+absolutamente necesario atender aspectos críticos como la seguridad, la 
+confidencialidad, la protección de los datos personales, la trazabilidad de los 
+
+
+--- PAGINA 46 ---
+ 
+46 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+accesos y el uso responsab le de la información ciudadana. La Organización 
+para la Cooperación y el Desarrollo Económicos  (OCDE, 2019) subraya que un 
+sector público impulsado por datos debe instituir mecanismos para prevenir 
+sesgos algorítmicos e inconsistencias metodológicas; de lo  contrario, estos 
+errores pueden distorsionar los hallazgos de las evaluaciones y derivar en  
+Políticas Públicas discriminatorias o ineficaces. 
+El impacto de integrar estas prácticas normativas y tecnológicas transforma 
+radicalmente la utilidad de la evalua ción del desempeño. Al contar con un 
+entorno de datos gobernado y seguro, evaluadores pueden aplicar 
+herramientas de inteligencia de negocios y metodologías estadísticas 
+avanzadas sustentadas en una "verdad única" institucional. La calidad de los 
+datos asegura que el cálculo de los indicadores no esté sujeto a manipulaciones 
+o errores de captura, elevando el rigor científico del proceso.  
+De esta manera, la gobernanza de datos y la interoperabilidad contribuyen de 
+forma decisiva a fortalecer la calidad de la evidencia y su máximo 
+aprovechamiento para la toma de decisiones públicas. Al institucionalizar 
+procesos transparentes, éticos y estan darizados para el manejo de la 
+información, el Estado no solo optimiza sus capacidades analíticas, sino que 
+mejora su rendición de cuentas ante la ciudadanía. En última instancia, una 
+arquitectura de datos bien gobernada es el motor que permite transformar  
+simples registros administrativos en conocimiento estratégico, asegurando 
+que cada intervención pública cumpla con los objetivos para los que fue 
+diseñada. 
+ 
+Uso de la Inteligencia Artificial para el ejercicio evaluativo  
+ 
+La Administración Pública se encuentra en constante transformación por la 
+irrupción de tecnologías emergentes, en este caso, la aparición de la 
+Inteligencia Artificial (IA) ha devenido en una transición importante para 
+encontrar el equilibrio entre la eficiencia algorítmica y la intervención humana, 
+que debe orientar el rumbo de las intervenciones públicas. En este sentido, la 
+intervención de la IA debe operar siempre bajo la supervisión ética y el juicio 
+crítico de los diversos actores involucrados, es decir, de las Áreas de Evaluación, 
+las Unidades Responsables y las Instancias Evaluadoras. Finalmente, es el ser 
+
+--- PAGINA 47 ---
+ 
+47 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+humano quien permanece como el único garante de la legalidad y la 
+sensibilidad social en la toma de decisiones. 
+La aplicación estratégica 
+de la IA puede redefinir la 
+eficiencia operativa de la 
+evaluación del 
+desempeño. Esta 
+herramienta proporciona 
+puntos de partida  que 
+permiten a las personas concentrarse en funciones que exigen análisis, 
+creatividad y un alto nivel  de juicio profesional. La capacidad de la IA para 
+procesar y analizar datos  es una de sus mayores ventajas, al facilitar la 
+identificación de patrones y la generación de información que enriquece 
+implementación de ejercicios evaluativos. Por ejemplo, la IA puede ayudar a la 
+automatización del análisis de grandes volúmenes de datos cualitativos 
+provenientes de entrevistas o grupos focales en evaluaciones de programas. 
+El uso de la IA en actividades evaluativas no exige que todos sean especialistas 
+o ingenie ros en la materia, pero si es indispensable que posean una 
+alfabetización crítica en IA. Esta exige una atención rigurosa a desafíos e 
+interrogantes éticos cruciales, particularmente frente a sesgos algorítmicos o 
+alucinaciones. Debe entenderse como una herramienta de apoyo y no como 
+un sustituto de la capacidad intelectual ni del juicio de un profesional  que 
+domina los fundamentos metodológicos de su área de trabajo. Su verdadero 
+valor se materializa al potenciar las habilidades humanas, en lugar de 
+reemplazarlas. La información generada por la IA no debe considerarse una 
+versión final o una decisión automática ; su uso requiere de responsabilidad 
+y pensamiento crítico para validar y verificar los resultados.  
+En primer lugar , para usar de forma  correcta y segura esta herramienta es 
+primordial considerar la privacidad de los datos, ya que las versiones gratuitas 
+de modelos de IA (como GPT o Gemini) a menudo utilizan los insumos que le 
+son compartidos para alimentar futuros modelos. Al tratar con  información 
+confidencial o sensible, es recomendable optar por suscripciones o planes de 
+pago, que ofrecen configuraciones que permiten desactivar el almacenamiento 
+de datos para reentrenamiento, brindando un nivel más alto de protección 
+institucional e individual.  
+
+
+--- PAGINA 48 ---
+ 
+48 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Por otro lado, se debe evitar la búsqueda de 
+herramientas no autorizadas o de dudosa 
+procedencia para evadir los bloqueos de los 
+departamentos de Tecnología de la Información 
+(TI). A este fenómeno se le conoce como Shadow 
+AI (IA en la sombra). Usualmente,  estas 
+herramientas alternativas provienen de 
+empresas no reconocidas cuyo objetivo suele ser 
+robar información, vulnerar sistemas o filtrar 
+datos. De 2023 a 2024, la adopción de aplicaciones de IA generativa por parte 
+de empleados creció del 74% al 96%; p aralelamente, los riesgos aumentaron. 
+Hoy en día, más de un tercio (38%) de los empleados reconocen compartir 
+información laboral confidencial con herramientas de IA sin el permiso de sus 
+empleadores (Coker , 2024). 
+Por más avan zados que sean los modelos de IA (como GPT, Gemini, Grok o 
+Mistral), operan sobre la base de patrones estadísticos y probabilidades que 
+están expuestos a sesgos históricos, sociales o estructurales  (como la 
+discriminación basada en género, etnia o nivel socioeconómico), por lo que sus 
+resultados y sugerencias no solo pueden replicarlos, sino incluso amplificarlos  
+(Gómez, M. & Viteri, A, 2023). Entonces la detección, mitigación y monitoreo 
+continuo de estas desviaciones es un reto complejo que demanda un enfoque 
+interdisciplinario y una supervisión humana constante.  
+La IA solo puede generar resultados 
+correctos, relevantes y útiles cuando 
+se le dota de una sólida base 
+teórica y metodológica,  y cuan do 
+sus propuestas son interpretadas, 
+contextualizadas y validadas 
+críticamente. Sin embargo, es la 
+experiencia del profesional  quien 
+debe definir los objetivos 
+estratégicos, seleccionar los indicadores de desempeño apropiados, 
+interpretar las proyecciones en un contexto socioeconómico dinámico y, en 
+última instancia, tomar la decisión final sobre la asignación presupuestaria. 
+
+
+--- PAGINA 49 ---
+ 
+49 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+Atributos importantes como el juicio ético, la comprensión contextual, la 
+empatía, la capacidad de innovar y la adaptabilidad ante escenarios no 
+previstos son irremplazables por la IA. Las personas servidoras públicas y las 
+evaluadoras, con su conocimiento  de los marcos normativos, las Políticas 
+Públicas, las necesidades ciudadanas y los objetivos institucionales, son 
+quienes deben formular las preguntas precisas a la IA, interpretar lo que ésta 
+genera y asumir la responsabilidad inherente a las decisiones. 
+De esta forma, la IA no es  un sustituto 
+de las capacidades humanas, sino de un 
+aliado estratégico que amplifica el 
+trabajo de los especialistas. La clave 
+para aprovechar su potencial es 
+entender que su efectividad depende 
+de una interacción crítica y de 
+instrucciones precisas. La IA puede 
+complementar la visión de los 
+evaluadores, ofreciendo un contraste 
+analítico para estructurar información compleja y liberar tiempo para que se 
+enfoquen en la lógica central del proyecto. 
+Esta herramienta destaca en las fases de análisis exploratorio, formulación 
+de hipótesis y estructuración de ideas.  Su capacidad para procesar grandes 
+cantidades de datos y generar esquemas iniciales ayuda a los especialistas a 
+superar la inercia cognitiva, proponiendo nuevas perspectiva s y alternativas 
+que, aunque no son definitivas, enriquecen el proceso. Además, cuando se 
+utiliza para la verificación y validación, la IA puede detectar inconsistencias, 
+sesgos o errores, fortaleciendo la calidad de la información y la toma de 
+decisiones. 
+Sin embargo, la calidad de respuesta está condicionada por el juicio analítico 
+de quien la utiliza. Es necesario considerar que las Inteligencias Artificiales 
+generativas son entrenadas con grandes volúmenes de datos y 
+retroalimentación humana; no obstant e, pueden “alucinar” o confundirse, 
+generando respuestas incorrectas, incompletas o sesgadas.  
+En este contexto, la adopción de la IA en México no es solo una cuestión de 
+eficiencia, sino de integridad pública. Los Principios de Chapultepec, 
+presentados en 2026, establecen para el uso ético de la IA en el país, dictando 
+
+
+--- PAGINA 50 ---
+ 
+50 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+en uno de sus decálogos que "la IA debe ampliar derechos, nunca reducirlos". 
+Bajo este marco, el desempeño del servidor público debe incorporar 
+salvaguardas éticas que guíen la interacción diaria con estas herramientas. 
+Como parte de estas salvaguardas, se 
+establece una responsabilidad 
+humana irrenunciable, lo que implica 
+que toda decisión apoyada por IA 
+debe tener una persona responsable 
+identificada; por ello, en la estructura 
+de los promp ts se debe incluir una 
+instrucción de "validación por 
+experto" para recordar que el resultado no es la versión final. De igual forma, 
+se debe procurar la transparencia y la explicabilidad: si un indicador es 
+generado por IA, el razonamiento detrás de su elección debe ser documentado, 
+solicitando a la herramienta que explique por qué un método de cálculo es el 
+más adecuado para medir el impacto social esperado. Un punto crítico es la 
+protección de datos sensibles, por lo que se debe evitar ingresar informaci ón 
+confidencial o datos personales en modelos públicos, manteniendo la 
+seguridad de la información institucional como una conducta obligatoria. 
+Finalmente, se debe promover la equidad y la no discriminación, instruyendo al 
+modelo para asegurar que el diseñ o de los Programas no excluya a grupos 
+vulnerables por razones de género, etnia o ubicación geográfica  (SECIHTI, 
+2026).  
+Así, la IA tiene el potencial de redefinir la evaluación del desempeño, n o como 
+un reemplazo, sino como una extensión que fortalece la capacidad de las 
+Dependencias para diseñar, implementar y evaluar programas más 
+eficientes. El éxito de su adopción depende de un equilibrio entre el rigor 
+técnico, la prudencia ética y la responsabilidad profesional, donde la tecnología 
+nos libera para concentrarnos en lo esencial: el bienestar de la población. Como 
+dijo Marie Curie, "Nada en l a vida debe ser temido, solamente comprendido. 
+Ahora es el momento de comprender más, para temer menos.” 
+A modo de conclusión, la institucionalización de la ética en la evaluación 
+trasciende el mero cumplimiento normativo para erigirse como el pilar 
+fundamental que da legitimidad a instrumentos rectores como el Sistema de 
+Evaluación del Desempeño y el Presupuesto basado en Resultados. Si bien la 
+
+
+--- PAGINA 51 ---
+ 
+51 
+ 
+VII 
+Integración de resultados evaluativos para la mejora de 
+las intervenciones públicas 
+gobernanza de datos y la 
+interoperabilidad proporcionan la 
+infraestructura técnica necesaria 
+para un análisis ri guroso, el 
+verdadero valor público se consolida 
+cuando estos resultados se traducen 
+en mejoras operativas. Son las 
+personas servidoras públicas 
+quienes, al aplicar un enfoque crítico 
+y metodológico, actúan como el filtro indispensable para evitar que la ac ción 
+del Estado se fragmente en intervenciones que se justifican a sí mismas sin 
+generar un impacto real en el bienestar colectivo.    
+En este contexto, la incorporación responsable de la Inteligencia Artificial al 
+ejercicio evaluativo exige transitar de u na adopción empírica a una 
+alfabetización crítica estructurada entre los actores involucrados en el proceso 
+evaluativo. En lugar de delegar el juicio evaluativo, la IA debe integrarse de 
+manera controlada como un habilitador analítico durante las fases de 
+exploración de datos, sistematización de hallazgos cualitativos y formulación 
+de hipótesis. Para que esta convergencia tecnológica sea verdaderamente útil 
+y ética, es indispensable instaurar protocolos institucionales que protejan la 
+privacidad de la información, prevengan el fenómeno de la "IA en la sombra" y 
+establezcan lineamientos estrictos de "validación por experto". 
+Complementando esta visión, el Banco Interamericano de Desarrollo (2022) 
+destaca que la adopción de estas herramientas en el ciclo de políticas públicas 
+requiere mantener siempre "al humano en el circuito" (enfoque human-in-the-
+loop), asegurando que la tecnología actúe como un copiloto que potencia el 
+rigor y la eficiencia, mientras que la responsabilidad final, la empatía y la 
+sensibilidad social de las decisiones recaen invariablemente en el criterio de los 
+evaluadores.  
+
+
+--- PAGINA 52 ---
+ 
+52 
+ 
+ 
+ 
+  
+El Módulo VII representa la culminación del ejercicio evaluativo, en donde se 
+trasciende de la mera medición del desempeño para convertirse en un 
+verdadero instrumento de transformación gubernamental. La conclusión de 
+una evaluación no es el final del proc eso, sino el comienzo de la mejora 
+continua dentro del ciclo de las políticas públicas. Como advierte Weiss (1999), 
+la evaluación debe entenderse como una investigación destinada a proveer 
+evidencia empírica, nuevas aproximaciones y argumentos que expandan  el 
+conocimiento para su aplicación directa en la toma de decisiones. Bajo esta 
+óptica, las etapas de seguimiento y coordinación revisadas en este Módulo son 
+los canales institucionales mediante los cuales el conocimiento generado se 
+traduce en acciones qu e fortalecen la capacidad del Estado para resolver 
+problemas sociales. 
+Un componente crucial analizado en este Módulo es la coordinación del 
+proceso evaluativo, la cual demanda superar la fragmentación administrativa 
+que frecuentemente aqueja a la gestión pública. La correcta alineación entre 
+la Unidad de Política y Estrategia para Resultados, las Áreas de Evaluación y las 
+Unidades Responsables es indispensable para asegurar que las Políticas 
+Públicas no operen en aislamiento. Al respecto, Cejudo y Michel (2016) señalan 
+que para que una intervención gubernamental mejore el desempeño de otra, 
+se requiere que ambas sean coherentes e interactúen de forma articulada. En 
+este sentido, la fase de revisión y validación de los informes de evaluación 
+actúa como un mecanismo integrador que fomenta la coherencia institucional, 
+garantizando que los esfuerzos de distintas áreas converjan hacia el logro de 
+los resultados esperados. 
+ 
+Conclusiones 
+
+--- PAGINA 53 ---
+ 
+53 
+ 
+ 
+ 
+  
+Por su parte, el establecimiento y clasificación de los Aspectos Susceptibles de 
+Mejora (ASM) constituyen el puente definitivo entre la teoría de la evaluación 
+y la práctica de la administración pública. Frecuentemente, las 
+administraciones se enfrentan al riesgo de que las recomendaciones 
+derivadas de las evaluaciones externas se conviertan en "letra muerta" debido 
+a su falta de viabilidad operativa o financiera. Al exigir que las 
+recomendaciones se transformen en ASM concretos, clasificados según su 
+prioridad, tema y actores involucrados, el modelo obliga a las dependencias a 
+realizar un ejercicio de factibilidad técnica indispensable. De esta forma, se 
+transita de un listado de buenas intenciones a un conjunto de compromisos 
+institucionales medibles y accionables que inciden directamente en el 
+Presupuesto basado en Resultados (PbR). 
+El rigor en el seguimiento y atención de estos ASM es lo que dota de 
+legitimidad al Sistema de Evaluación del Desempeño. La exigencia de reportar 
+avances periódicos con evidencia documental validada evita que las 
+dependencias simulen el cump limiento normativo. Este nivel de trazabilidad 
+es fundamental para la rendición de cuentas, ya que permite a los tomadores 
+de decisiones, a los legisladores y a la ciudadanía verificar si el gasto público 
+está generando valor. Cuando el seguimiento de los ASM se asume como una 
+herramienta de inteligencia institucional y no como una carga administrativa 
+punitiva, se consolida una verdadera cultura de la evaluación orientada al 
+aprendizaje organizacional y a la adaptación estratégica frente a entornos 
+complejos. 
+Conclusiones 
+
+--- PAGINA 54 ---
+ 
+54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Finalmente, toda la arquitectura técnica y operativa del proceso evaluativo 
+carecería de sentido sin un sólido andamiaje ético. La evaluación de 
+intervenciones públicas se desarrolla ineludiblemente en un contexto político, 
+donde pueden existir presiones para ocultar deficiencias o sesgar resultados. 
+Por ello, la ética pública exige que el respeto a los derechos humanos, la 
+objetividad, la transparencia y la gobernanza responsable de los datos 
+permeen cada fase del ciclo. Al salvaguardar la independencia e integridad de 
+los hallazgos evaluativos, las instituciones no solo mejoran la calidad técnica 
+de sus programas, sino que reafirman la credibilidad de la acción 
+gubernamental, un elemento indispensable para restaurar y manten er la 
+confianza ciudadana en las instituciones democráticas. 
+Conclusiones 
+
+--- PAGINA 55 ---
+ 
+55 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 27.1 Pasos para la revisión de los Informes Finales Preliminares .. 11 
+Figura 27.2 Actividades a realizar por las Áreas de Evaluación en la 
+revisión de los IFP .............................................................................................. 13 
+Figura 27.3 Actividades a realizar por las UPER en la revisión de los IFP .. 15 
+Figura 27.4 Consideraciones para la revisión de los IFP .............................. 16 
+Figura 27.5 Estructura del Informe Final ........................................................ 18 
+Figura 27.6 Principios de los ejercicios evaluativos ...................................... 21 
+Figura 28.1 Normativa en materia de ASM .................................................... 24 
+Figura 28.2 Proceso de definición de ASM ...................................................... 25 
+Figura 28.3 Criterios para la clasificación de los ASM .................................. 28 
+Figura 28.4 Opciones incluidas en la clasificación por Tema de un ASM ... 29 
+Figura 28.5 Diferencia entre objetivo del compromiso y resultado 
+esperado .............................................................................................................. 30 
+Figura 29.1 Proceso administrativo para la suscripción de ASM ................ 34 
+Figura 29.2 Consideraciones para la suscripción y el seguimiento de los 
+ASM ...................................................................................................................... 36 
+Figura 29.3 Proceso de evaluación federal ..................................................... 38 
+Figura 30.1 Razones para retomar la ética en el enfoque de política 
+pública ................................................................................................................. 41 
+Figura 30.2 Pautas éticas en las evaluaciones ............................................... 43 
+  
+Lista de figuras, cuadros y tablas 
+
+--- PAGINA 56 ---
+ 
+56 
+ 
+ 
+ 
+ 
+ 
+Tema 27 
+Patton, M. Q. (2008). Utilization-focused evaluation (4.ª ed.). Sage Publications.  
+Weiss, C. H. (1998). Evaluation: Methods for studying programs and policies (2.ª 
+ed.). Prentice Hall. 
+ 
+Tema 28 
+Consejo Nacional de Evaluación de la Política de Desarrollo Social, Secretaría de 
+Hacienda y Crédito Público, & Secretaría de la Función Pública. (2011). 
+Mecanismo para el seguimiento a los aspectos susceptibles de mejora 
+derivados de informes y evaluacion es a los programas presupuestarios de la 
+Administración Pública Federal. 
+https://www.coneval.org.mx/EvaluacionDS/MejorasUso/ASM/Documents/Mec
+anismo_2011.pdf  
+Secretaría de Hacienda y Crédito Público. (2025a). Lineamientos Generales 
+aplicables a la gestión para resultados de los recursos públicos federales. Diario 
+Oficial de la Federación. 
+https://www.dof.gob.mx/nota_detalle.php?codigo=5756237&fecha=29/04/202
+5#gsc.tab=0  
+Secretaría de Hacienda y Crédito Público. (2025b). Lineamientos para el 
+seguimiento y at ención a los aspectos susceptibles de mejora derivados de 
+evaluaciones realizadas a políticas públicas, programas presupuestarios y 
+recursos federales transferidos de la Administración Pública Federal. Diario 
+Oficial de la Federación. 
+https://www.dof.gob.mx/nota_detalle.php?codigo=5759824&fecha=11/06/202
+5#gsc.tab=0 
+ 
+Bibliografía 
+
+--- PAGINA 57 ---
+ 
+57 
+ 
+ 
+ 
+ 
+ 
+Tema 29 
+Secretaría de Hacienda y Crédito Público. (2025). Lineamientos para el 
+seguimiento y atención a los aspectos susceptibles de mejora derivados de 
+evaluaciones realizadas a políticas p úblicas, programas presupuestarios y 
+recursos federales transferidos de la Administración Pública Federal. Diario 
+Oficial de la Federación. 
+https://www.dof.gob.mx/nota_detalle.php?codigo=5759824&fecha=11/06/202
+5#gsc.tab=0 
+ 
+Tema 30 
+Banco Interamericano de Desarrollo. (2022). La inteligencia artificial al servicio 
+del bien social en América Latina y el Caribe: Panorámica regional e 
+instantáneas de doce países. Banco Interamericano de Desarrollo (BID). 
+Barnett, C., & Camfield, L. (2016). Ethics in evaluation. Journal of Development 
+Effectiveness, 528-534. 
+https://www.tandfonline.com/doi/full/10.1080/19439342.2016.1244554  
+Bautista, O. (2009). Ética pública y Buen Gobierno. Fundamentos, estado de la 
+cuestión y valores para el servicio público. Instituto de Administración Pública 
+del Estado de México, A.C. 
+https://docta.ucm.es/rest/api/core/bitstreams/9cdcdf00-0322-4bb8-8289-
+9086632598ab/content  
+Coker, J. (2024). Sensitive data sharing via generative AI tools on the rise. 
+InfoSecurity Magazine. https://www.infosecurity-
+magazine.com/news/sensitive-data-sharing-genai/ 
+DAMA International. (2017). DAMA-DMBOK: Data management body of 
+knowledge (2.ª ed.). Technics Publications. 
+
+--- PAGINA 58 ---
+ 
+58 
+ 
+ 
+ 
+ 
+ 
+ 
+Gómez, M. & Viteri, A. (2023). Inteligencia artificial y equidad de género: un 
+espejo de nuestras sociedades. Banco Interamericano de Desarrollo. 
+https://www.iadb.org/es/blog/soluciones-ambientales-y-sociales/inteligencia-
+artificial-y-equidad-de-genero-un-espejo-de-nuestras-sociedades 
+Kusek, J. Z., & Rist, R. C. (2004). Ten steps to a results-based monitoring and 
+evaluation system: A handbook for development practitioners. Banco 
+Mundial. 
+https://openknowledge.worldbank.org/server/api/core/bitstreams/daa5137c-
+ebfe-5c9c-a547-ee1d53f9cac8/content 
+Naser, A. (coord.). (2021). Gobernanza digital e interoperabilidad 
+gubernamental. Una guía para su implementación. Comisión Económica para 
+América Latina y el Caribe. 
+https://repositorio.cepal.org/server/api/core/bitstreams/6a12e389-3dcb-4cba-
+830a-99f038835423/content 
+Merino, M. (2008). La importancia de la ética en el análisis de las políticas 
+públicas. Revista del CLAD Reforma y Democracia (41), 5-32. 
+https://www.redalyc.org/pdf/3575/357533672001.pdf  
+Organización para la Cooperación y el Desarrollo Económicos. (2019). A data-
+driven public sector: Enabling the strategic use of data for productive, 
+inclusive and trustworthy governance (OECD Digital Government Papers No. 
+33). OECD Publishing. 
+https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/11/th
+e-path-to-becoming-a-data-d… 
+ 
+ 
+ 
+
+--- PAGINA 59 ---
+ 
+59 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Ciencia, Humanidades, Tecnología e Innovación. (2026). 
+Principios de Chapultepec: Declaración de ética y buenas prácticas para el uso 
+y desarrollo de la inteligencia artificial. Gobierno de México. 
+https://secihti.mx/ciencia-y-humanidades/principios-de-chapultepec-
+declaracion-de-etica-y-buenas-practicas-para-el-uso-y-desarrollo-de-la-
+inteligencia-artificial/ 
+Torres, Z. (2014). Introducción a la ética. México: Patria. 
+https://www.eje.pe/wps/wcm/connect/ebb60f8046d7e903b034f2fb82dac87c/1
+1+INTRODUCCION+A+LA+ETICA.pdf?MOD=AJPERES&CACHEID=ebb60f8046d7
+e903b034f2fb82dac87c 
+ 
+Conclusión 
+Cejudo, G. M., & Michel, C. L. (2016). Coherencia e integración de políticas 
+públicas: Un modelo conceptual para su estudio. Gestión y Política Pública, 
+25(1), 3–31. 
+https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-
+10792016000100001  
+Weiss (1999) / Weiss, C. H. (1998). Evaluation: Methods for studying programs 
+and policies (2.ª ed.). Prentice Hall. / Weiss, C. H. (1999). The interface between 
+evaluation and public policy. Evaluation, 5(4), 468–486. 
+https://journals.sagepub.com/doi/10.1177/135638909900500408  
+
+--- PAGINA 60 ---
+ 
+ 
+ 

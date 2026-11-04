@@ -7,7 +7,7 @@ import type { FeatureCollection, Geometry } from "geojson";
 import type { MapLayerMouseEvent } from "maplibre-gl";
 import type { Comunidad } from "@/types/comunidad";
 import bbox from "@turf/bbox";
-import { ArrowRight, ChevronDown, Layers, Loader2, MapPin, Maximize2, Mountain, PanelLeftClose, PanelLeftOpen, RotateCcw, Search, SlidersHorizontal, X } from "lucide-react";
+import { ArrowRight, ChevronDown, Loader2, Maximize2, Mountain, PanelLeftClose, PanelLeftOpen, RotateCcw, Search, SlidersHorizontal, X } from "lucide-react";
 import { obtenerComunidad } from "@/lib/comunidades";
 
 
@@ -269,7 +269,7 @@ function ComunidadesLegend({ data, onSelect, selectedId, loading, onClose }: {
   return (
     <aside className="community-panel" aria-label="Explorar comunidades">
       <div className="panel-heading">
-        <div><span className="eyebrow">EXPLORA EL TERRITORIO</span><h2>Comunidades <span>{features.length}</span></h2></div>
+        <h2>Comunidades <span>{features.length}</span></h2>
         <button type="button" className="icon-button" onClick={onClose} aria-label="Ocultar comunidades"><PanelLeftClose size={18} /></button>
       </div>
       <div className="community-search"><Search size={17} aria-hidden="true" /><input aria-label="Buscar comunidad" placeholder="Busca una comunidad…" value={search} onChange={e => setSearch(e.target.value)} />{search && <button className="icon-button" onClick={() => setSearch("")} aria-label="Limpiar búsqueda"><X size={15} /></button>}</div>
@@ -281,13 +281,12 @@ function ComunidadesLegend({ data, onSelect, selectedId, loading, onClose }: {
           const p = f.properties;
           const active = selectedId === p.id;
           return <li key={i}><button type="button" className={"community-item" + (active ? " is-active" : "")} onClick={() => onSelect(Number(p.id))} aria-pressed={active}>
-            <span className="community-pin"><MapPin size={17} /></span>
-            <span className="community-name">{p.NOMBRE ?? p.name ?? "Comunidad"}<small>{active && loading ? "Consultando obras…" : "Consultar obras públicas"}</small></span>
+            <span className="community-name">{p.NOMBRE ?? p.name ?? "Comunidad"}{active && loading && <small>Consultando obras…</small>}</span>
             {active && loading ? <Loader2 size={16} className="animate-spin" /> : <ArrowRight size={15} className="community-arrow" />}
           </button></li>;
         })}
       </ul>
-      <div className="panel-footnote"><span className="status-dot" /> Información por comunidad</div>
+      <div className="panel-footnote">Información por comunidad</div>
     </aside>
   );
 }
@@ -362,7 +361,7 @@ export default function MapaObras() {
   return (
     <section className={"map-explorer" + (fullscreen ? " is-fullscreen" : "")} ref={explorerRef} aria-label="Mapa interactivo de obras">
       <div className="explorer-toolbar">
-        <div className="toolbar-title"><span className="toolbar-mark"><Layers size={18} /></span><div><strong>Explorador de obras</strong><span>Tula de Allende, Hidalgo</span></div></div>
+        <div className="toolbar-title"><strong>Explorador de obras</strong><span>Tula de Allende, Hidalgo</span></div>
         <div className="toolbar-actions">
           <label className="size-picker"><span>Tamaño</span><select aria-label="Tamaño del mapa" value={size} onChange={e => setSize(e.target.value)}><option value="compact">Compacto</option><option value="comfortable">Cómodo</option><option value="large">Amplio</option></select><ChevronDown size={14} /></label>
           <button className={"tool-button" + (settingsOpen ? " is-active" : "")} aria-label="Ajustes del mapa" aria-expanded={settingsOpen} aria-controls="map-settings" onClick={() => setSettingsOpen(!settingsOpen)}><SlidersHorizontal size={17} /><span>Ajustes</span></button>

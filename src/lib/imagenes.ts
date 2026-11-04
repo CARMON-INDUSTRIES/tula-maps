@@ -3,7 +3,7 @@ export interface ImagenObra {
   nombreArchivo: string | null;
 }
 
-export const MAX_IMAGEN_BYTES = 5 * 1024 * 1024;
+export const MAX_IMAGEN_BYTES = 4 * 1024 * 1024;
 export const MAX_IMAGENES = 10;
 
 function rutaImagenes(obraId: number) {
@@ -37,8 +37,12 @@ export async function listarImagenes(obraId: number, signal?: AbortSignal) {
 export function validarImagenes(archivos: File[]) {
   if (!archivos.length || archivos.length > MAX_IMAGENES) throw new Error("Selecciona entre 1 y 10 imágenes.");
   for (const archivo of archivos) {
-    if (!archivo.size || archivo.size > MAX_IMAGEN_BYTES) throw new Error(`«${archivo.name}» debe pesar entre 1 byte y 5 MB.`);
+    if (!archivo.size || archivo.size > MAX_IMAGEN_BYTES) throw new Error(`«${archivo.name}» debe pesar entre 1 byte y 4 MB.`);
     if (!["image/jpeg", "image/png", "image/webp"].includes(archivo.type)) throw new Error(`«${archivo.name}» debe ser JPG, PNG o WebP.`);
+  }
+  // Deja margen para multipart dentro del límite de solicitudes de Vercel.
+  if (archivos.reduce((bytes, archivo) => bytes + archivo.size, 0) > MAX_IMAGEN_BYTES) {
+    throw new Error("El envío completo debe pesar como máximo 4 MB. Selecciona menos imágenes.");
   }
 }
 

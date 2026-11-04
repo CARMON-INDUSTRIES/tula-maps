@@ -581,7 +581,7 @@
       "type": "Feature",
       "properties": {
         "id": 13,
-        "NOMBRE": "TIENE EL ID 13 (COL. JALPA)",
+        "NOMBRE": "Colonia Jalpa",
         "obras": []
       },
       "geometry": {
@@ -1191,7 +1191,7 @@
       "type": "Feature",
       "properties": {
         "id": 25,
-        "NOMBRE": "no encontrado trae id 25",
+        "NOMBRE": "Zona por identificar 1",
         "obras": []
       },
       "geometry": {
@@ -1511,7 +1511,7 @@
       "type": "Feature",
       "properties": {
         "id": 31,
-        "NOMBRE": "TIENE ID 31",
+        "NOMBRE": "Zona por identificar 2",
         "obras": []
       },
       "geometry": {
@@ -1777,7 +1777,7 @@
       "type": "Feature",
       "properties": {
         "id": 35,
-        "NOMBRE": "Praderas del Llano CHECAR CUAL DEL LLANO",
+        "NOMBRE": "Praderas del Llano",
         "obras": []
       },
       "geometry": {
@@ -1959,7 +1959,7 @@
       "type": "Feature",
       "properties": {
         "id": 39,
-        "NOMBRE": "Colonia el Saabi CHECAR ID",
+        "NOMBRE": "Colonia El Saabi",
         "obras": []
       },
       "geometry": {
@@ -2072,7 +2072,7 @@
       "type": "Feature",
       "properties": {
         "id": 41,
-        "NOMBRE": "no encontrado 4 TRAE ID 41",
+        "NOMBRE": "Zona por identificar 3",
         "obras": []
       },
       "geometry": {
@@ -2093,7 +2093,7 @@
       "type": "Feature",
       "properties": {
         "id": 42,
-        "NOMBRE": "Xonthe CHECAR ID",
+        "NOMBRE": "Xonthe",
         "obras": []
       },
       "geometry": {
@@ -2147,7 +2147,7 @@
       "type": "Feature",
       "properties": {
         "id": 43,
-        "NOMBRE": "La Cuarta Manzana CHECAR ID",
+        "NOMBRE": "La Cuarta Manzana",
         "obras": []
       },
       "geometry": {
@@ -2205,7 +2205,7 @@
       "type": "Feature",
       "properties": {
         "id": 44,
-        "NOMBRE": "Jardines de San Miguel CHECAR ID",
+        "NOMBRE": "Jardines de San Miguel",
         "obras": []
       },
       "geometry": {
@@ -2335,7 +2335,7 @@
       "type": "Feature",
       "properties": {
         "id": 46,
-        "NOMBRE": "Ejido Tula CHECAR ID",
+        "NOMBRE": "Ejido Tula",
         "obras": []
       },
       "geometry": {
@@ -2361,7 +2361,7 @@
       "type": "Feature",
       "properties": {
         "id": 47,
-        "NOMBRE": "Cerrito del Tepeyac CHECAR ID",
+        "NOMBRE": "Cerrito del Tepeyac",
         "obras": []
       },
       "geometry": {
@@ -2406,7 +2406,7 @@
       "type": "Feature",
       "properties": {
         "id": 48,
-        "NOMBRE": "Tercera Manzana CHECAR ID",
+        "NOMBRE": "Tercera Manzana",
         "obras": []
       },
       "geometry": {
@@ -2455,7 +2455,7 @@
       "type": "Feature",
       "properties": {
         "id": 49,
-        "NOMBRE": "no encontrado 5 CHECAR ID",
+        "NOMBRE": "Zona por identificar 4",
         "obras": []
       },
       "geometry": {
@@ -2528,7 +2528,7 @@
       "type": "Feature",
       "properties": {
         "id": 51,
-        "NOMBRE": "La Hacienda CHECAR ID",
+        "NOMBRE": "La Hacienda",
         "obras": []
       },
       "geometry": {
@@ -2549,7 +2549,7 @@
       "type": "Feature",
       "properties": {
         "id": 52,
-        "NOMBRE": "La Mezquitera CHECAR ID",
+        "NOMBRE": "La Mezquitera",
         "obras": []
       },
       "geometry": {

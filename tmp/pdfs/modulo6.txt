@@ -1,0 +1,1861 @@
+
+--- PAGINA 1 ---
+ 
+Módulo VI 
+La evaluación del 
+desempeño en la práctica. 
+
+--- PAGINA 2 ---
+ 
+ 
+Diplomado de Evaluación del Desempeño a 
+Intervenciones Públicas 
+Septiembre de 2026  
+ 
+Subsecretaría de Egresos  
+Unidad de Política y Estrategia para Resultados  
+ 
+Av. Insurgentes Sur 1971, Torre III, Piso 12  
+Col. Guadalupe Inn, C.P. 01020  
+Alcaldía Álvaro Obregón, Ciudad de México 
+
+--- PAGINA 3 ---
+ 
+ 
+Edgar Abraham Amador Zamora  
+Secretario de Hacienda y Crédito Público  
+ 
+Bertha Gómez Castro  
+Subsecretaria de Egresos  
+ 
+Juan Armando Rodríguez Lara  
+Titular de la Unidad de Política y Estrategia para 
+Resultados  
+ 
+Coordinación del Diplomado  
+ 
+Gabriela Cantón Santana  
+Directora de Profesionalización  
+ 
+Equipo Técnico  
+ 
+Maribel García Rivera 
+Subdirectora de Planes y Programas de Formación  
+ 
+Jessica Estrada Sánchez  
+Subdirectora de Contenidos  
+ 
+Diana Longino Hilario 
+Jefe de Departamento de Metodologías de Formación  
+ 
+Ricardo Ángel Ayala González  
+Jefe de Departamento de Programas de Formación 
+ 
+Alma Rosa Mateo Pérez 
+Jefa de Departamento 
+
+--- PAGINA 4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introducción _______________________________________________________5 
+Tema 24 
+Programa Anual de Evaluación __________________________________8 
+Tema 25 
+Tipos de evaluadores ____________________________________________ 23 
+Tema 26 
+Términos de Referencia _________________________________________ 36 
+Conclusiones ______________________________________________________ 49 
+Lista de figuras, cuadros y tablas ______________________________ 52 
+Bibliografía ________________________________________________________ 53 
+ 
+
+--- PAGINA 5 ---
+ 
+5 
+ 
+ 
+ 
+ 
+El presente Módulo VI constituye el primero de dos apartados 
+fundamentales dedicados a analizar a profundidad la operación del 
+ejercicio evaluativo en México. Comprender la teoría de la evaluación 
+resulta insuficiente si no se domina su instrumentación prá ctica dentro 
+del quehacer institucional. Por ello, este primer acercamiento operativo 
+sienta las bases normativas y de planeación que guían el análisis objetivo 
+del desempeño gubernamental, asegurando que las personas 
+servidoras públicas cuenten con los cr iterios y herramientas necesarias 
+para gestionar estos procesos. 
+A lo largo de este primer segmento operativo, se aborda el ecosistema 
+de instrumentos y actores que estructuran formalmente la evaluación 
+del desempeño en los distintos órdenes de gobierno. La 
+institucionalización de la práctica evaluativa exige un andamiaje técnico 
+riguroso que asegure que la medición de los resultados sea un mandato 
+sistemático, continuo y fundamentado empíricamente. En este sentido, 
+el presente Módulo detalla cómo se organizan, quiénes ejecutan y bajo 
+qué reglas se conducen las evaluacio nes a las intervenciones públicas 
+para garantizar su total imparcialidad y rigor metodológico. 
+Con el estudio de estos cimientos, las personas participantes estarán 
+preparadas para transitar posteriormente al segundo Módulo operativo, 
+donde se explorará el uso y la aplicación directa de los hallazgos en la 
+mejora continua. Al ser el primer paso de e ste dúo, el Módulo VI se 
+enfoca en la planeación integral, la conformación de equipos 
+evaluadores especializados y las directrices técnicas obligatorias, 
+elementos sin los cuales sería imposible generar evidencia estructurada 
+y de calidad que verdaderament e retroalimente la toma de decisiones 
+presupuestarias y operativas en el país. 
+Introducción 
+
+--- PAGINA 6 ---
+ 
+6 
+ 
+ 
+El Tema 24 tiene como objetivo general analizar las características del 
+Programa Anual de Evaluación (PAE) como el eje rector en la planeación, 
+coordinación, ejecución y seguimiento de las evaluaciones a los 
+Programas presupuestarios y a los Recursos Feder ales Transferidos de 
+la Administración Pública Federal. Para lograr este objetivo, se revisarán 
+los criterios metodológicos para la definición y selección de 
+evaluaciones, así como la estructura base del PAE federal y los actores 
+institucionales involucrados en el ciclo. Asimismo, se explicará el proceso 
+general de evaluación federal, abarcando desde la publicación de las 
+directrices y la contratación, hasta la entrega formal de informes y la 
+difusión de resultados para la mejora continua.  
+Por su parte, el objetivo del Tema 25 es establecer y comprender los 
+requisitos que deben cumplir los evaluadores externos encargados de 
+llevar a cabo los ejercicios analíticos del desempeño, abarcando tanto el 
+esquema de contratación como la modalidad de evaluaciones por sí 
+mismas. Este propósito se alcanzará mediante el estudio del Padrón de 
+Evaluadores, desglosando su proceso de incorporación a través de las 
+fases de publicación de la convocatoria, recepción de solicitudes, 
+valoración del Grupo Dictamina dor y emisión de resultados. De igual 
+manera, se estudiarán las disposiciones normativas, principios y 
+controles internos que blindan y garantizan la objetividad, imparcialidad 
+y transparencia técnica de los equipos institucionales evaluadores.  
+ 
+Introducción 
+
+--- PAGINA 7 ---
+ 
+7 
+ 
+ 
+ 
+Finalmente, el Tema 26 persigue el objetivo de estudiar cada uno de los 
+modelos de Términos de Referencia (TdR) vigentes, comprendiendo sus 
+particularidades al funcionar como los instrumentos técnicos y 
+metodológicos que orientan el desarrollo del ejercici o evaluativo. Este 
+objetivo se logrará analizando la estructura, alcance, perfiles requeridos 
+y plazos de entrega de los TdR emitidos para las Evaluaciones de 
+Consistencia y Resultados, de Procesos, de Indicadores, Específica de 
+Desempeño a Fondos de Aport aciones Federales, Estratégica de 
+Coordinación y de Gestión Operativa. De forma complementaria, se 
+explicarán los elementos sustantivos que los gobiernos subnacionales 
+deben considerar para adecuar correctamente estos modelos 
+metodológicos a las caracterís ticas específicas de sus respectivos 
+territorios y recursos.  
+Al concluir este Módulo, las personas participantes comprenderán cómo 
+la articulación entre el Programa Anual de Evaluación, la rigurosa 
+selección de las Instancias Evaluadoras y la estandarización de los 
+Términos de Referencia consolidan la gestión operat iva del ciclo 
+evaluativo como un pilar indispensable para garantizar la calidad de las 
+intervenciones públicas en México. 
+Introducción 
+
+--- PAGINA 8 ---
+ 
+8 
+ 
+La evaluación del desempeño en la práctica. VI 
+ 
+ 
+ 
+Al iniciar el estudio de este Módulo, las personas participantes ya cuentan con 
+una comprensión general de lo que es un Programa Anual de Evaluación (PAE). 
+Dicho instrumento es indispensable para entender la evaluación del 
+desempeño en México, ya que  representa el primer paso para planear , 
+organizar y estructurar el proceso evaluativo de cada ejercicio fiscal. A través de 
+él, se determinan las intervenciones públicas sujetas a evaluación, los tipos de 
+evaluación aplicables, las actividades y productos  esperados, las 
+responsabilidades de los actores involucrados y los plazos para su ejecución y 
+seguimiento. 
+Partiendo de lo anterior , el objetivo del  
+presente Tema es analizar las características 
+del PAE como eje rector en la planeación, 
+coordinación, ejecución y seguimiento de las 
+evaluaciones a plicadas a Políticas Públicas,  
+Programas presupuestarios y a los Recursos 
+Federales Transferidos de la Administración 
+Pública Federal, es decir , de las diversas intervenciones públicas, así como los 
+principales criterios normativos y metodológicos para su integración. 
+ 
+Relevancia del Programa Anual de Evaluación en el marco del 
+PbR-SED 
+ 
+Que un gobierno cuente con un PAE es fundamental para institucionalizar  la 
+práctica evaluativa dentro del ciclo de las políticas públicas, transitando de 
+esfuerzos aislados a un mecanismo de gobernanza estructurado. En el contexto 
+del Presupuesto basado en Resultados (PbR) y el Sistema de Evaluación del 
+Desempeño (SED) en México, el PAE actúa como el instrumento rector que 
+otorga certidumbre normativa y técnica a todo el proceso evaluativo (Cejudo,  
+TEMA 24. Programa Anual de Evaluación 
+
+
+--- PAGINA 9 ---
+ 
+9 
+ 
+La evaluación del desempeño en la práctica. VI 
+2012). Esta institucionalización garantiza que la medición del desempeño 
+gubernamental no dependa de la voluntad política coyuntural, sino que se 
+constituya como un mandato continuo que obliga a la administración pública a 
+someter sus intervenciones a un escrutinio técnico y sistemático (Merino, 2013). 
+Adicionalmente, un PAE aporta un marco de rigor metodológico indispensable 
+para la generación de evidencia estructurada. Al definir anticipadamente los 
+Programas presupuestarios (Pp) sujetos a revisión y establecer los tipos de 
+evaluación aplicables, se minimizan los sesgos de selección y se asegura un 
+análisis objetivo del gasto (Gertler et al., 2011). Esta planeación rigurosa es 
+necesaria para que los hallazgos no se reduzcan a ejercicios de cumplimiento 
+burocrático, sino que actúen como insumos empíricos que informen 
+directamente la toma de decisiones, permitiendo calibrar las teorías de cambio 
+y mejorar el diseño de las intervenciones  públicas (Weiss, 1998). También es 
+importante considerar que la adecuada elaboración de un PAE contribuye a la 
+transparencia y rendición de cuentas, ya que la información que se entrega 
+producto del proceso evaluativo en los Informes Finales y los Aspectos 
+Susceptibles de Mejora  que derivan de estos, exponen el desempeño real del 
+Estado al escrutinio ciudadano (Cardozo Brum, 2013). De este modo, el PAE 
+trasciende su dimensión meramente administrativa para consolidarse como 
+una herramienta que condiciona y justifica el uso de los recursos federales con 
+base en el valor público efectivamente generado, proporcionando las 
+herramientas para que el presupuesto se asigne con base en evidencia.  
+De acuerdo con la normativa revisada en el Módulo I del Diplomado, los tres 
+órdenes de gobierno tienen la facultad de emitir un PAE; pero en el caso de los 
+gobiernos de los órdenes estatal y municipal, las especificidades sobre este 
+documento se establecen en sus respectivas normas. Por esta razón, el alcance 
+de este Tema implica, sobre todo, el estudio del PAE a nivel federal, sin 
+embargo, dada la relevancia del nivel estatal y municipal  en la Gestión para 
+Resultados, se incluyen observaciones puntuales dirigidas a los gobiernos 
+subnacionales.  
+ 
+ 
+
+--- PAGINA 10 ---
+ 
+10 
+ 
+La evaluación del desempeño en la práctica. VI 
+El Programa Anual de Evaluación en lo subnacional 
+ 
+Las entidades federativas , municipios y demarcaciones territoriales de la 
+Ciudad de México (DTCDMX) podrán elaborar sus propios PAE o instrumentos 
+equivalentes, a fin de organizar y programar las evaluaciones correspondientes 
+a las intervenciones y los recursos ejercidos en sus resp ectivos ámbitos de 
+competencia. En caso de que los PAE  de los órdenes estatal o municipal  
+contemplen evaluaciones a Recursos Federales Transferidos , incluidos los 
+Fondos de Aportaciones Federales (FAF), deberán observarse las disposiciones 
+previstas en los Lineamientos aplicables al ciclo de gestión de los recursos 
+federales transferidos a las entidades federativas, los municipios y las 
+demarcaciones territoriales de la Ciudad de México  (SHCP , 2026a), así como a 
+las demás disposiciones federales aplicables en materia de evaluación. Lo 
+anterior con el propósito de procurar una adecuada coordinación entre los 
+distintos órdenes de gobierno, evitar la duplicidad de ejercicios evaluativos y 
+favorecer la generación de información complementaria y útil para la mejora 
+de la gestión y el desempeño de los recursos públicos. 
+Al evaluar las intervenciones de los gobiernos subnacionales y la aplicación del 
+gasto federalizado, las entidades federativas y los municipios no solo aseguran 
+la transparencia y el correcto ejercicio presupuestario, sino que construyen 
+capacidades institucionales internas. Este ejercicio genera un diagnóstico 
+fundamentado en evidencia que orienta la asignación de recursos hacia los 
+programas más eficientes y perfecciona la implementación de los ASM a nivel 
+subnacional. 
+ 
+El Programa Anual de Evaluación a nivel federal  
+ 
+El PAE federal es el instrumento mediante el cual se  planifica, organiza y 
+programa la ejecución de las evaluaciones en el ámbito federal, en función de 
+las prioridades y necesidades de información  que se  identifican para cada 
+ejercicio fiscal. Su  propósito es generar evidencia sobre aspectos como su 
+
+--- PAGINA 11 ---
+ 
+11 
+ 
+La evaluación del desempeño en la práctica. VI 
+diseño, operación, gestión, resultados , desempeño e impacto de las 
+intervenciones públicas. 
+Las evaluaciones pueden ser a 
+Programas presupuestarios, 
+Políticas Públicas y a los FAF. 
+Asimismo, el PAE establece los 
+tipos de evaluación aplicables, las 
+responsabilidades de los actores 
+participantes y los principales 
+plazos para su ejecución y 
+seguimiento. 
+Desde el punto de vista normativo , y recapitulando lo estudiado previamente, 
+la fracción IV del artículo 110 de la Ley Federal de Presupuesto y 
+Responsabilidad Hacendaria (LFPRH), dispone que las instancias públicas a 
+cargo de la evaluación del desempeño deberán establecer programas anuales 
+de evaluación. En concordancia, el lineamiento 23 de los Lineamientos 
+Generales aplicables a la gestión para resultados de los recursos públicos 
+federales (SHCP , 2025) faculta a la Secretaría de Hacienda y Crédito Público 
+(SHCP), a través de la Unidad de Política y Estrategia para Resultados ( UPER), 
+para emitir el PAE federal en el que se establecerá el número, tipo y proceso de 
+las evaluaciones que se llevarán a cabo en cada ejercicio fiscal, a más tardar el 
+último día de abril. 
+Este Programa permite articular la función evaluativa con todas las etapas del 
+ciclo presupuestario, de manera que la evidencia generada contribuy e a 
+conocer el desempeño de las intervenciones públicas, identificar áreas de 
+mejora y proporcionar información ú til para la toma de decisiones. Es, ante 
+todo, un instrumento de planeación que permite definir qué aspectos deben 
+evaluarse, con qué propósito, mediante qué tipo de evaluación y en qué 
+momento resulta pertinente hacerlo. 
+ 
+
+
+--- PAGINA 12 ---
+ 
+12 
+ 
+La evaluación del desempeño en la práctica. VI 
+Criterios para la definición de las evaluaciones que serán 
+mandatadas en el PAE 
+ 
+Seleccionar las intervenciones públicas que  formarán parte de l PAE no es un 
+proceso automático ni una decisión al azar; es un ejercicio altamente 
+estratégico. Para que el SED funcione como una verdadera herramienta de 
+mejora institucional, es indispensable aplicar un filtro metodológico riguroso 
+antes de programar cual quier análisis. En la Figura 24.1 se presentan los 
+criterios clave que se consideran para identificar y seleccionar las 
+intervenciones susceptibles de ser mandatadas en el PAE federal, asegurando 
+que cada evaluación responda a una necesidad real de información y aporte 
+valor público.  
+Figura 24.1 Criterios para la definición de evaluaciones 
+ 
+ 
+Fuente: Elaboración propia SHCP (2026) con base en SHCP (2026b).  
+ 
+De conformidad con el artículo 111 de la LFPRH, el SED es obligatorio para los 
+ejecutores de gasto. En este sentido, para determinar el universo de Pp 
+susceptibles de ser evaluados en el marco del PbR -SED, es necesario delimitar 
+la Estructura Programática correspondiente al ejercicio fiscal. Para ello, se 
+
+
+--- PAGINA 13 ---
+ 
+13 
+ 
+La evaluación del desempeño en la práctica. VI 
+excluyen los Pp asociados al gasto no programable, al no corresponder 
+directamente a programas destinados a proveer bienes y servicios públicos a la 
+población; los correspondientes a entes autónomos; así como aquellos 
+asociados a las empresas públicas del Estado, considerando el régimen jurídico 
+específico que les resulta aplicable. Como resultado de este ejercicio, se obtiene 
+el conjunto de Pp que conforma el universo evaluable y que constituye la base 
+para identificar las evaluaciones susceptibles de incorporarse al PAE federal. La 
+identificación de las necesidades de información  implica de terminar qué 
+aspectos de los Pp, Políticas Públicas o FAF requieren mayor evidencia para 
+apoyar la toma de decisiones, por ejemplo, respecto de su diseño, operación, 
+resultados o desempeño.  
+Por su parte, la  revisión de 
+los antecedentes 
+evaluativos implica 
+identificar las evaluaciones 
+realizadas previamente, su 
+tipo, fecha, principales 
+hallazgos y recomendaciones. 
+Esta valoración  resulta 
+determinante para evitar que 
+en el marco del SED se acumulen Aspectos Susceptibles de Mejora (ASM) sin 
+atender o bien, que se adopten compromisos con orientaciones 
+contradictorias.  
+Analizar el grado de maduración de la intervención pública  implica 
+considerar la antigüedad y etapa de desarrollo del Pp. El tipo de evaluación 
+debe ser congruente con el momento en que se encuentra la intervención; por 
+ejemplo, una intervención de reciente creación difícilmente contará con 
+información suficiente para valorar resultados de mediano plazo.  
+El objetivo de revisar el desempeño es utilizar la información disponible sobre 
+indicadores, metas y resultados para detectar comportamientos o 
+problemáticas que justifiquen con rigor la necesidad de profundizar mediante 
+una evaluación.  
+
+
+--- PAGINA 14 ---
+ 
+14 
+ 
+La evaluación del desempeño en la práctica. VI 
+Por su parte, valorar la relevancia estratégica y presupuestaria  implica 
+evaluar la importancia de la intervención respecto de las prioridades de Política 
+Pública, la población atendida y los recursos públicos involucrados. Esto ayuda 
+a priorizar cuando la capacidad para evaluar es limitada.  
+La selección del tipo de evaluación adecuada  consiste en determinar la 
+metodología técnica que responda con precisión a las preguntas de evaluación 
+planteadas. La decisión no debería partir de “qué evaluación toca”, sino de qué 
+información se necesita generar y qué tipo de evaluación permite obtenerla.  
+Identificar si otras instancias u órdenes de gobierno tienen programad as 
+evaluaciones sobre el mismo Programa, fondo o problemática, particularmente 
+cuando se trate de Recursos Federales Transferidos (RFT) es indispensable para 
+evitar duplicidades.  
+Adicionalmente, para verificar la “evaluabilidad”  de un Programa o Política, 
+se requiere verificar  si existen las condiciones mínimas para desarrollar la 
+evaluación: claridad de objetivos, información disponible, indicadores, registros 
+administrativos, documentación y tiempo suficiente de operación. De manera 
+complementaria, es necesario  considerar la factibilidad del ejercicio 
+evaluativo por medio de la valoración de la disponibilidad presupuestaria, los 
+tiempos de contratación y ejecución, la capacidad institucional para coordinar 
+la evaluación y la posibilidad de disponer oportunamente de la información 
+requerida.  
+Finalmente, se debe definir la utilidad esperada . Antes de incorporar una 
+evaluación al PAE, debería poder responderse: ¿qué decisión podrá tomarse o 
+qué aspecto podrá mejorarse con la información que esta genere? Un proceso 
+evaluativo carece de sentido si su destino final es convertirse en un documento 
+técnico archivado; su verdadera legitimidad y relevancia radican en su 
+capacidad para transformar la operación gubernamental diaria. La aplicación 
+tangible de la evidencia empodera a los servidores públicos para tomar 
+decisiones presupuestarias fundamentadas, perfeccionar el diseño de sus 
+intervenciones y asegurar que el ejercicio de los recursos se traduzca en un 
+auténtico valor público que mejore la calidad de vida de la población.  
+ 
+
+--- PAGINA 15 ---
+ 
+15 
+ 
+La evaluación del desempeño en la práctica. VI 
+ 
+Estructura del PAE federal 2026  
+ 
+Como instrumento rector del Sistema de Evaluación del Desempeño, el PAE se 
+construye sobre una estructura base estandarizada que se mantiene constante 
+año con año, brindando así certidumbre, continuidad y un lenguaje común a 
+todas las dependencias de la Ad ministración Pública Federal. No obstante, al 
+ser un documento dinámico y adaptable, cuenta con la flexibilid ad necesaria 
+para evolucionar . Esto significa que, frente a innovaciones metodológicas, 
+nuevas normativas o necesidades emergentes en el ciclo presupuestario, el PAE 
+puede incorporar apartados o anexos adicionales. En la Figura 24.2 se 
+presentan las secciones que conforman el PAE para el ejercicio fiscal 2026.  
+Figura 24.2 Estructura del PAE 2026 
+ 
+ 
+Fuente: Elaboración propia SHCP (2026) con base en SHCP (2026b).  
+ 
+
+
+--- PAGINA 16 ---
+ 
+16 
+ 
+La evaluación del desempeño en la práctica. VI 
+Las disposiciones generales son la base de todo el Programa, ya que en esta 
+sección se definen sus objetivos y se proporciona un glosario detallado con los 
+conceptos técnicos clave como Gestión para Resultados, Padrón de 
+Evaluadores y Sistema d e Evaluación del Desempeño . Esto asegura que  el 
+entendimiento de los conceptos utilizados en el PAE sean los adecuados.  
+La sección de evaluaciones a realizar en 2026  es el catálogo oficial de las 
+intervenciones públicas que pasarán por revisión durante el ciclo fiscal. Explica 
+de manera estructurada los diferentes tipos de análisis que se aplicarán, tales 
+como las Evaluaciones de Consistencia y Resultados o las Estratégicas de 
+Coordinación, las cuales son indispensables para medir el desempeño 
+institucional. 
+La sección de proceso de ejecución de las evaluaciones  actúa como un 
+manual operativo paso a paso. Detalla el "cómo" se debe realizar el trabajo, 
+abarcando desde la recepción de los Términos de Referencia  (TdR), las 
+responsabilidades específicas de las Áreas de Evaluación (AE) al contratar 
+evaluadores independientes, hasta cómo documentar las posturas 
+institucionales y difundir los resultados. 
+En el uso de la información de los 
+resultados de las evaluaciones  
+se explica qué se tiene que hacer 
+con los hallazgos obtenidos, 
+guiando a las dependencias en la 
+formulación de los ASM para 
+transformar las recomendaciones 
+en acciones concretas orientadas a 
+mejorar las intervenciones públicas. Como se estudiará en el Módulo VII del 
+Diplomado, en el uso de la información de los resultados radica el verdadero 
+valor de la evaluación.  
+ 
+Las consideraciones finales  son las pautas de cierre y acompañamiento. 
+Establece el rol continuo de la unidad coordinadora para resolver casos no 
+previstos, vigilar el progreso de evaluaciones de años anteriores y asegurar que 
+
+
+--- PAGINA 17 ---
+ 
+17 
+ 
+La evaluación del desempeño en la práctica. VI 
+los gobiernos subnacionales se alineen correctamente con la Política Nacional 
+de Evaluación.    
+Por su parte, el cronograma de ejecución  es la agenda inamovible de 
+compromisos. Presenta de forma ordenada las fechas límite para la firma de 
+contratos y la entrega de los informes preliminares y finales, lo que permite a 
+las áreas responsables planear sus tiempos operativos con total precisión.    
+Los transitorios constituyen una sección breve pero fundamental que otorga 
+certeza jurídica. Indica específicamente que el documento entra en vigor el 23 
+de enero de 2026, marcando el inicio oficial de las obligaciones. Finalmente, la 
+sección de Anexos provee de las herramientas prácticas de consulta directa. 
+Incluyen los listados pormenorizados de los programas específicos a evaluar , 
+un diagrama de flujo visual para entender el proceso operativo y formatos 
+estandarizados como el de Aspectos Relevantes de la Evaluación (FARE). 
+Como puede observarse, el PAE no es un simple compendio de fechas y 
+formatos, sino la hoja de ruta metodológica que rige todo el proceso evaluativo. 
+Conocer a detalle la función de cada una de sus secciones normativas y 
+operativas brinda a  las personas servidoras públicas involucradas en los 
+procesos evaluativos la c laridad necesaria para transitar por este ciclo de 
+manera articulada. Comprender esta estructura base es fundamental para 
+dejar de ver a la evaluación como un mero requisito de cumplimiento y 
+comenzar a asumirla como una verdadera herramienta estratégica p ara la 
+toma de decisiones y la mejora continua. Antes de estudiar el proceso general 
+de evaluación que a través del PAE se instrumenta, a continuación, se revisarán 
+los actores involucrados en el mismo.  
+ 
+Actores considerados en el PAE federal  
+ 
+Para que el ciclo de evaluación del desempeño trascienda el documento y se 
+convierta en una realidad operativa, es indispensable el trabajo articulado de 
+diversas figuras institucionales. La evaluación no es un ejercicio aislado ni recae 
+en una sola depend encia; por el contrario, funciona como un ecosistema 
+dinámico donde convergen autoridades normativas, áreas operativas, 
+especialistas independientes y los tres niveles  de gobiernos. Comprender 
+
+--- PAGINA 18 ---
+ 
+18 
+ 
+La evaluación del desempeño en la práctica. VI 
+quiénes son estos actores estratégicos y delimitar con precisión la 
+responsabilidad de cada uno resulta clave para garantizar que el proceso fluya 
+con transparencia y rigor técnico, asegurando que el esfuerzo conjunto se 
+traduzca en información verdaderame nte útil para la mejora continua de la 
+gestión pública. En la Figura 24.3 se presentan estos actores y sus principales 
+funciones.  
+ 
+Figura 24.3 Principales actores involucrados en el proceso evaluativo 
+ 
+ 
+Fuente: Elaboración propia SHCP (2026) con base en SHCP (2026b).  
+ 
+Como se ha referido previamente, la UPER, adscrita a la Secretaría de Hacienda 
+y Crédito Público , e s la instancia normativa y rectora del proceso  evaluativo 
+federal. Además de publicar el PAE, la UPER define y emite los TdR, brinda 
+acompañamiento técnico, revisa los informes preliminares de evaluación y  
+elabora la Valoración de la Instancia de Coordinación (VIC). También, es la 
+responsable de publicar los resultados en el Portal de Transparencia 
+Presupuestaria y de coordinar la Política Nacional de Evaluación.    
+Las Áreas de Evaluación (AE) son las unidades administrativas dentro de cada 
+dependencia o entidad que tiene n la característica indispensable de ser ajena 
+a la operación de los programas evaluados. Funciona como el "director de 
+orquesta" interno, ya que coordina la contratación de la Instancia Evaluadora, 
+supervisa el cumplimiento normativo, revisa los informes entregados y elabora 
+documentos clave como el FARE y la Posición Institucional.  Al no ser "juez y 
+
+
+--- PAGINA 19 ---
+ 
+19 
+ 
+La evaluación del desempeño en la práctica. VI 
+parte" en la entrega del servicio, cuentan con la independencia y objetividad 
+necesarias para fungir como el enlace oficial. Esta separación permite que el AE 
+pueda contratar a los evaluadores externos, coordinar el proceso y revisar los 
+hallazgos sin el sesgo de estar defendiendo su propio trabajo diario.  
+Las Unidades Responsables (UR) son las áreas administrativas encargadas de 
+la operación diaria del Programa presupuestario y son responsables de rendir 
+cuentas sobre los recursos que administra n. Su contribución consiste en 
+proveer información durante la evaluación, emitir opiniones técnicas sobre los 
+hallazgos para coadyuvar en la revisión que hace el AE, y participar 
+directamente en la elaboración de la Posición Institucional sobre los resultados 
+obtenidos.    
+Las Instancias Evaluadoras (IE) son las personas físicas o morales externas e 
+independientes, inscritas en el Padrón de Evaluadores. Su rol es ejecutar el 
+análisis sistemático y objetivo del programa o fondo, entregar los Informes 
+Preliminares y Finales, y atender todas las observaciones técnicas o solicitudes 
+de ajuste emitidas tant o por el AE como por la UPER. Bajo la modalidad de 
+"evaluaciones por sí mismas", la Instancia Evaluadora es la propia Dependencia 
+o Entidad de la Administración Pública Federal, asumiendo el rol que 
+tradicionalmente realizaría un despacho externo o consultor independiente. 
+Las Instancias Coordinadoras  son las dependencias y entidades de la 
+Administración Pública Federal responsables de coordinar los FAF y establecer 
+su distribución hacia las entidades federativas. En el proceso evaluativo, 
+gestionan la suficiencia de recursos ante el Fideicomiso para la Evaluación de 
+los Fondos de Aportaciones Federales (FIDEFAF) para contratar las evaluaciones 
+mandatadas a estos fondos y reportan a la UPER sobre los avances de dichos 
+contratos e informes.    
+Desde la óptica federal, los gobiernos de las entidades federativas, 
+municipios y DTCDMX son los  encargados de administrar los Recursos 
+Federales Transferidos. Su contribución es dual: por un lado, deben atender las 
+evaluaciones programadas y aplicar las mejoras en el ámbito de su 
+competencia; por el otro, participan en esquemas de cooperación técnica con 
+la UPER para detectar necesidades locales, pr oponiendo evaluaciones 
+complementarias e integrando la agenda de evaluación conjunta.   
+
+--- PAGINA 20 ---
+ 
+20 
+ 
+La evaluación del desempeño en la práctica. VI 
+El éxito de la evaluación no depende de un esfuerzo aislado, sino de un 
+engranaje institucional preciso donde la autoridad normativa, las Áreas de 
+Evaluación, las Unidades Responsables y los evaluadores cumplen funciones 
+específicas e irreemplazables para ga rantizar el rigor y la objetividad del 
+ejercicio. Una vez asentado esto, a continuación, se revisará cómo los actores 
+interactúan en la práctica en el proceso general de evaluación federal.  
+ 
+Proceso general de evaluación federal 
+ 
+De acuerdo con el PAE 2026, el proceso general de ejecución y coordinación de 
+las evaluaciones es un ciclo estructurado que garantiza el rigor técnico y la 
+utilidad de los resultados. En la Figura 24.4 se presentan los principales pasos 
+de este proceso.  
+ 
+Figura 24.4 Directrices del proceso de evaluación federal 
+ 
+Fuente: Elaboración propia SHCP (2026) con base en SHCP (2026b).  
+ 
+Paso 1. Publicación y directrices:  El ciclo inicia formalmente cuando la UPER 
+publica el PAE. Los TdR que las Áreas de Evaluación (AE) de las dependencias y 
+entidades federales utilizarán en sus respectivos procesos evaluativos  y se 
+encuentran disponibles en el Portal de Transparencia Presupuestaria en la 
+sección de “Evaluación”. Estos TdR sirven para orientar la calidad del producto 
+final.  
+
+
+--- PAGINA 21 ---
+ 
+21 
+ 
+La evaluación del desempeño en la práctica. VI 
+Paso 2. Contratación de la evaluación:  Tomando como base los TdR antes 
+referidos, las AE coordinan el procedimiento de contratación de la Instancia 
+Evaluadora (IE), servicio que debe realizarse exclusivamente con personas 
+inscritas en el Padrón de Evaluadores. Al concluir este paso, el AE debe notificar 
+a la UPER sobre la firma del contrato. Es importante considerar que el proceso 
+tiene variaciones para las evaluaciones por sí mismas,  Tema que será 
+abordado más adelante en este mismo Módulo.  
+Paso 3. Revisión del Informe Preliminar: La Instancia Evaluadora entrega un 
+primer borrador que el AE recibe y revisa. Si el AE tiene comentarios, los envía 
+a la IE para su atención. Una vez solventados, el AE envía el Informe Preliminar 
+a la UPER mediante correo electrónico. La UPER realiza una revisión técnica para 
+verificar el cumplimiento de los TdR; si detecta áreas de oportunidad, envía 
+comentarios al AE para que se realicen los ajustes necesarios.    
+Paso 4. Aceptación e integración de documentos clave: Cuando el AE recibe 
+el Informe Final de la evaluación a entera satisfacción, coordina la elaboración 
+de dos documentos fundamentales: el FARE y la Posición Institucional.  
+Paso 5. Entrega formal y Valoración Técnica: El AE envía a la UPER, mediante 
+oficio, el Informe F inal de la evaluación junto con el FARE y la Posición 
+Institucional. A partir de esto, la UPER elabora la Valoración de la Instancia de 
+Coordinación (VIC), un documento que califica la claridad, objetividad y solidez 
+técnica de la evaluación.    
+Paso 6. Transparencia y Difusión:  La UPER publica el I nforme Final y sus 
+anexos en el Portal de Transparencia Presupuestaria. Por su parte, el AE debe 
+publicar el informe en la página web de su dependencia y enviarlo a la Comisión 
+de Presupuesto y Cuenta Pública de la Cámara de Diputados y a la Auditoría 
+Superior de la Federación (ASF).    
+Paso 7. Establecimiento de los Aspectos Susceptibles de Mejora:  Una vez 
+concluidas y publicadas las evaluaciones, las dependencias deben utilizar las 
+recomendaciones emitidas para elaborar un Plan de Trabajo. Este Plan guía la 
+implementación de los ASM, asegurando que los hallazgos se traduzcan en 
+mejoras reales para los programas públicos.   
+
+--- PAGINA 22 ---
+ 
+22 
+ 
+La evaluación del desempeño en la práctica. VI 
+En conclusión, el Programa Anual de Evaluación federal trasciende su función 
+como un mero calendario de cumplimientos normativos para erigirse como la 
+columna vertebral del Sistema de Evaluación del Desempeño. Al planear , 
+ordenar y coordinar de manera rigurosa la revisión de las intervenciones 
+públicas, este Programa institucionaliza una verdadera cultura de rendición de 
+cuentas. Su adecuada integración, sustentada siempre en criterios técnicos y 
+estratégicos —como la madurez del programa, su relevancia y la factibilidad del 
+estudio—, garantiza que los esfuerzos institucionales no se diluyan, sino que se 
+concentren exactamente donde existe una necesidad real de información. 
+De esta forma, la evidencia generada deja de ser un documento de archivo y se 
+convierte en el insumo  valioso para la toma de decisiones estratégicas. Es a 
+través de esta información que se materializan los principios de la Gestión para 
+Resultados: el PAE permite retroalimentar la etapa de programación y 
+presupuestación, detonar  Aspectos Susceptibles de Mejora que corrijan el 
+rumbo operativo y asegurar un uso verdaderamente eficiente y transparente 
+del erario.  
+ 
+
+--- PAGINA 23 ---
+ 
+23 
+ 
+La evaluación del desempeño en la práctica. VI 
+ 
+ 
+ 
+Cuando se estudiaron las dimensiones de la evaluación en el Tema 13 de este 
+Diplomado, se revisó que, en términos generales, estas pueden clasificarse en 
+externas e internas. En México, las evaluaciones externas son aquell as 
+conducidas o realizadas por Instancias E valuadoras ajenas a la operación del 
+Programa, pudiendo ser un equipo de personas evaluadoras contratadas para 
+este fin, o un grupo de servidores públicos de la misma Dependencia pero que 
+no se encuentren involucrados con la operación del Programa. Por su parte, la 
+evaluación interna, también conocida como autoevaluación, es llevada a cabo 
+por los mismos operadores del Programa. 
+Sin embargo, también se enfatizó que únicamente las evaluaciones externas, 
+en cualquiera de sus dos esquemas, forman parte del Sistema de Evaluación 
+del Desempeño (SED). Lo anterior deriva de lo establecido en el primer párrafo 
+del artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria 
+(Cámara de Diputados, 2006), el cual dispone que las instancias públicas a 
+cargo de la evaluación del desempeño:  
+ 
+Fuente: elaboración propia SHCP (2026) con base en la norma referida.  
+Por esta razón el presente Tema solamente se enfoca en los dos esquemas de 
+evaluación externa reconocidos por la normativa: por contratación de terceros 
+especializados y “por sí mismas”  mediante unidades  de evaluación 
+independientes a la operación del P rograma. Para ello, se revisará en primer 
+lugar la integración y funcionamiento del Padrón de E valuadores y 
+posteriormente, los pormenores para la realización de una evaluación “por sí 
+misma”. 
+TEMA 25. Tipos de evaluadores 
+
+--- PAGINA 24 ---
+ 
+24 
+ 
+La evaluación del desempeño en la práctica. VI 
+El Padrón de Evaluadores  
+ 
+Administrado por la Secretaría de Hacienda y Crédito Público (SHCP) a través 
+de la Unidad de Política y Estrategia para Resultados (UPER), el Padrón de 
+Evaluadores es un instrumento int egrado en el marco del SED  que registra a 
+personas físicas y morales que han demostrado contar con los conocimientos 
+técnicos y la experiencia necesaria para llevar a cabo evaluaciones de calidad a 
+las Políticas Públicas y Programas presupuestarios de la Administración Pública 
+Federal, así como a los Recursos Federales Transferidos a los gobiernos 
+subnacionales.  
+Este mecanismo  brinda certeza 
+técnica a las dependencias y 
+entidades de la Administración 
+Pública Federal, así como a los 
+gobiernos estatales y municipales, al 
+poner a su disposición un catálogo 
+verificado de evaluadores  que han 
+acreditado los conocimientos, 
+capacidades y experiencia necesarios para realizar evaluaciones conforme a la 
+normativa vigente. Además, facilita la contratación de servicios para cumplir 
+con las evaluaciones del Programa Anual de Evaluación (PAE) y aquellas 
+complementarias que determine la SHCP.  
+Al garantizar que las Políticas Públicas, Programas presupuestarios y Recursos 
+Federales Transferidos sean evaluados por especialistas calificados, se genera 
+información confiable para fortalecer el diseño, implementación, seguimiento 
+y resultados de las intervenciones públicas. Con ello, se favorece la toma de 
+decisiones basada en evidencia y el cumplimiento de las metas 
+gubernamentales. 
+Es importante aclarar que en el diseño fundacional del PbR-SED, a nivel federal 
+no se contaba con un Padrón de Evaluadores aplicable a todos los Programas 
+presupuestarios. Es a partir de la implementación del nuevo enfoque 
+progresivo –que se estudió en el Tema 5– y a su instrumentación a través de 
+
+
+--- PAGINA 25 ---
+ 
+25 
+ 
+La evaluación del desempeño en la práctica. VI 
+los Lineamientos Generales aplicables a la gestión para resultados de los 
+recursos públicos federales  (SHCP, 2025a) que se plantea a través del 
+Lineamiento 35, que a letra dice que: 
+ 
+Fuente: elaboración propia SHCP (2026) con base en la norma referida.  
+Derivado de este Lineamiento, el 18 de diciembre de 2025 se publicaron los 
+Lineamientos para la integración del Padrón de Evaluadores de Políticas 
+Públicas, programas derivados del Plan Nacional de Desarrollo, programas 
+presupuestarios y recursos federales transferidos (SHCP, 2025b), en los cuales 
+se establecen las bases 
+para instrumentar esta 
+nueva herramienta en 
+los procesos evaluativos 
+mandatados desde la 
+Federación.  
+ 
+ 
+Incorporación al Padrón de Evaluadores 
+ 
+Para garantizar la transparencia y el rigor técnico del proceso, los Lineamientos 
+contemplan la participación de un órgano colegiado denominado Grupo 
+Dictaminador, integrado por personas servidoras públicas titulares de las 
+unidades especializadas de la Subsecretaría de Egresos de la SHCP. Este grupo 
+es responsable de analizar las solicitudes presentadas y determinar si las 
+personas físicas o morales cumplen con los requisitos necesarios para ser 
+Fuente: elaboración propia SHCP, 2026. 
+
+--- PAGINA 26 ---
+ 
+26 
+ 
+La evaluación del desempeño en la práctica. VI 
+incorporadas al Padrón. Asimismo, el proceso cuenta con la participación del 
+Órgano Interno de Control de la SHCP, que vigila que las decisiones se adopten 
+con apego a los principios de legalidad, imparcialidad, transparencia y 
+honradez. 
+De manera general, el proceso de incorporación considera la presentación de 
+una solicitud, la acreditación de conocimientos técnicos y experiencia en 
+materia de evaluación, la revisión de la documentación correspondiente y la 
+valoración de la información por parte del Grupo Dictaminador, quien emite la 
+resolución sobre la procedencia o no de la incorporación al Padrón. En la Figura 
+25.1 se resume el proceso de incorporación de Instancias Evaluadoras al 
+Padrón.  
+Figura 25.1 Proceso de incorporación al Padrón de Evaluadores 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2025b).  
+ 
+ 
+Publicación de la Convocatoria 
+ 
+De conformidad con los Lineamientos antes referidos,  el proceso de 
+incorporación inicia con la publicación en el Diario Oficial de la Federación (DOF) 
+1 
+
+--- PAGINA 27 ---
+ 
+27 
+ 
+La evaluación del desempeño en la práctica. VI 
+de una Convocatoria  emitida por la UPER a más tardar el último día hábil del 
+mes de junio de cada año . En esta se establecerán las bases de los requisitos, 
+la forma de presentación de solicitudes, plazos, la valoración a la cual se sujetan 
+las personas físicas y morales, los resultados, vigencia del registro, así como las 
+consideraciones e información adicional.  
+ 
+ 
+Recepción de las Solicitudes 
+ 
+Las personas físicas y morales interesadas en obtener su registro en el Padrón 
+de Evaluadores, deben reunir los requisitos profesionales y técnicos 
+establecidos en la Convocatoria vigente, así como los requisitos legales, 
+administrativos y manifestaciones escritas que también se señalan en la 
+misma, en cumplimiento a lo estipulado en los lineamientos 8 y 9 de los 
+Lineamientos. 
+Para verificar que los aspirantes que se encuentren interesados en obtener su 
+registro en el Padrón de Evaluadores cuent an con la especialización y 
+experiencia requeridas, se solicitan los requisitos profesionales y técnicos tanto 
+para las personas físicas y 
+morales como para las 
+personas coordinadoras de la 
+evaluación designadas. Al 
+respecto, en la Figura 25.2 se 
+describen los requisitos 
+normativos.  
+ 
+ 
+ 
+ 
+2 
+Fuente: elaboración propia SHCP, 2026. 
+
+--- PAGINA 28 ---
+ 
+28 
+ 
+La evaluación del desempeño en la práctica. VI 
+Figura 25.2 Requisitos de incorporación al Padrón de Evaluadores 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2025b).  
+ 
+Es importante señalar que estos requisitos pueden cambiar en cada una de las 
+Convocatorias que la UPER emita, ya que siempre se busca mejorar y 
+diversificar el Padrón de Evaluadores. Asimismo, para verificar que las personas 
+físicas y morales tienen la capacidad jurídica para obligarse, contratar o 
+participar en un acto  de inscripción , se solicitan los siguient es requisitos de 
+carácter legal. 
+ 
+ 
+
+
+--- PAGINA 29 ---
+ 
+29 
+ 
+La evaluación del desempeño en la práctica. VI 
+Figura 25.3 Requisitos de carácter legal 
+ 
+ 
+Fuente: elaboración propia SHCP (2026) con base en SHCP (2025b). 
+ 
+Establecer estrictos requisitos de carácter legal para formar parte del Padrón 
+de Evaluadores es fundamental para garantizar la integridad y la objetividad 
+del SED. Al asegurar que las instancias evaluadoras externas comprueben su 
+situación legal y fiscal, operando sin conflictos de interés reales o potenciales 
+que pudieran afectar la imparcialidad de su servicio, se protege la legitimidad 
+de las evaluaciones. Esta rigurosidad normativa representa un pilar esencial 
+que blinda el análisis del ejercicio de los recursos públicos federales. De esta 
+
+
+--- PAGINA 30 ---
+ 
+30 
+ 
+La evaluación del desempeño en la práctica. VI 
+manera, se garantiza que la valoración del desempeño sea realizada por 
+entidades verdaderamente independientes y transparentes, permitiendo que 
+las decisiones gubernamentales se basen en evidencia técnica confiable, lo cual 
+resulta indispensable para consolidar la Gestión para Resultados e impulsar de 
+manera efectiva la generación de valor público. 
+Finalmente, para ordenar el proceso, contar con datos de contacto y verificar la 
+solvencia económica de los aspirantes, así como para disponer de 
+declaraciones formales que asumen responsabilidad legal directa sobre lo que 
+se afirma, se solicitan otros requisitos administrativos y manifestaciones 
+escritas que se pueden consultar directamente en la Convocatoria 
+correspondiente. Dichos requisitos deben ser enviados por las personas físicas 
+y morales a la UPER a través del medio que se establezca. 
+A partir de este momento , la UPER  comienza la revisión y validación 
+documental y técnica  con la finalidad de verificar el cumplimiento integral de 
+los requisitos. Se realiza la notificación de improcedencia de las solicitudes que 
+no cumplieron cabalmente con los criterios establecidos y se desestima  la 
+postulación de las personas físicas o morales en el proceso para obtener su 
+registro en el Padrón de Evaluadores.    
+Para los aspirantes que hayan solventado las omisiones y/o inconsistencias  y 
+cumplido con los requisitos, la UPER les notifica la procedencia de su solicitud 
+para continuar con el proceso de valoración, asignándoles un número de folio 
+para su seguimiento, acompañándose de un enlace para la aplicación del 
+examen de capacidades técnicas y normativas por parte d e las personas 
+coordinadoras de la evaluación designadas conforme a la fecha estipulada en 
+la Convocatoria, del cual su resultado es considerado dentro de la valoración 
+que se precisa en la Convocatoria vigente, de igual manera se adjunta una guía 
+de estudio para dicho examen y un documento que detalla el proceso para su 
+aplicación. 
+ 
+ 
+ 
+
+--- PAGINA 31 ---
+ 
+31 
+ 
+La evaluación del desempeño en la práctica. VI 
+ 
+Valoración  
+ 
+De las solicitudes que cumplen con los requisitos establecidos, la UPER integra 
+y organiza los expedientes correspondientes para su análisis por parte del 
+Grupo Dictaminador, órgano encargado de determinar si procede o no la 
+incorporación de las personas físicas y morales al Padrón de Evaluadores. Esta 
+revisión se realiza con base en los criterios señalados en la Convocatoria y 
+conforme a los principios de legalidad, imparcialidad, transparencia y 
+honradez. 
+El Grupo Dictaminador cuenta con un periodo específico para revisar y resolver 
+las solicitudes de ingreso, el cual comprende del primer día hábil de agosto al 
+último día hábil de octubre de cada ejercicio fiscal. 
+Una vez concluido el análisis de las solicitudes, el Grupo Dictaminador celebra 
+sesiones en las que delibera y emite su resolución. Las decisiones se toman por 
+mayoría de votos de las personas integrantes presentes y, en caso de empate, 
+quien preside el órgano cuenta con voto de calidad. 
+Al finalizar el proceso, se elabora un acta de dictaminación en la que se 
+registran las solicitudes aprobadas y aquellas que fueron rechazadas, 
+incluyendo en este último caso las razones que sustentan la decisión conforme 
+a los requisitos y criterios establecidos. 
+ 
+ 
+Resultados 
+ 
+Una vez concluido el proceso de revisión y dictaminación, la UPER notifica a las 
+personas físicas y morales el resultado de su solicitud de incorporación al 
+3 
+4 
+
+--- PAGINA 32 ---
+ 
+32 
+ 
+La evaluación del desempeño en la práctica. VI 
+Padrón de Evaluadores. Esta decisión se emite con base en la valoración 
+realizada por el Grupo Dictaminador y en el cumplimiento de los requisitos y 
+criterios establecidos en la Convocatoria correspondiente. 
+En caso de que la solicitud sea rechazada, la UPER comunica de manera formal 
+las razones que sustentan dicha resolución, acompañando la notificación con 
+la ficha técnica de valoración utilizada durante el proceso de análisis. Esto 
+permite a las personas solicitantes conocer con claridad los aspectos evaluados 
+y los motivos que dieron lugar a la determinación adoptada. 
+Cuando la solicitud es aprobada, la UPER informa el número de registro 
+asignado, el cual queda vinculado a la persona coordinadora de evaluación 
+designada por la persona física o moral inscrita. Este registro constituye la 
+acreditación formal para formar p arte del Padrón de Evaluadores y participar 
+en los procesos de contratación de servicios de evaluación previstos en la 
+normatividad aplicable. 
+Con el fin de garantizar la transparencia y brindar certeza a las instituciones 
+que requieren estos servicios, la relación de personas físicas y morales 
+autorizadas se publica en el portal oficial de la SHCP.  De esta manera, las 
+dependencias y entidades de la Administración Pública Federal, así como los 
+gobiernos estatales y municipales, pueden identificar de forma sencilla a los 
+evaluadores que han demostrado contar con la experiencia y capacidades 
+técnicas necesarias para realizar evaluaciones de Políticas Públicas, Programas 
+presupuestarios y Recursos Federales Transferidos. 
+ 
+Evaluaciones por sí mismas  
+ 
+Las evaluaciones de l desempeño a  Políticas P úblicas y Programas 
+presupuestarios bajo el esquema de contratación son fundamentales para 
+consolidar el SED en México. Sin estas, se carecería de herramientas 
+independientes, imparciales y transparentes que aporten información objetiva 
+para mejorar dichas intervenci ones. No obstante, dado el considerable 
+esfuerzo presupuestario que implican  y considerando que la normativa 
+
+--- PAGINA 33 ---
+ 
+33 
+ 
+La evaluación del desempeño en la práctica. VI 
+referida lo permite , la SHCP, a través de la UPER, incentiva las evaluacio nes 
+externas bajo la modalidad “por sí mismas”.  
+Estas son ejercicios evaluativos en los que servidores públicos adscritos a una 
+dependencia o entidad de la Administración Pública Federal fungen el papel de 
+Instancia Evaluadora de una intervención pública, siempre y cuando, no sean 
+parte de su operación. Esta figura, lejos de ser un ejercicio a modo, está 
+rigurosamente normada para garantizar que se cumplan los mismos 
+estándares de calidad analítica que una evaluación contratada externamente. 
+El mayor reto de esta modalidad radica en garantizar la imparcialidad del 
+diagnóstico. Por ello,  el proceso se rige bajo principios inquebrantables de 
+eficiencia, eficacia, objetividad, rigurosidad, relevancia, transparencia y 
+honradez. Estos principios obligan a que el análisis no sea un mero trámite 
+administrativo, sino un ejercicio crítico que verd aderamente identifique áreas 
+de oportunidad en el diseño y operación de las intervenciones públicas. Las 
+personas servidoras públicas involucradas asumen un compromiso formal, 
+bajo protesta de decir verdad, de apegarse a estos preceptos durante todo el 
+desarrollo del proceso evaluativo. 
+En este contexto la UPER emitió 
+las Disposiciones para que las 
+Dependencias y Entidades de la 
+Administración Pública Federal 
+Evalúen por sí mismas 
+Programas Presupuestarios  
+(SHCP, 2026) que tiene como objetivo el normar esta modalidad de evaluación, 
+específicamente para las de Consistencia y Resultados correspondientes al PAE 
+2026.  
+Para asegurar el rigor técnico, la UPER opera como un filtro normativo a través 
+del análisis de factibilidad. Antes de iniciar, las dependencias deben demostrar 
+que cuentan con el capital humano adecuado, enviando evidencia de que los 
+perfiles propuestos poseen formación especializada en herramientas clave 
+como la Metodología del Marco Lógico, análisis programático presupuestal, 
+diseño de indicadores y evaluación. Si la UPER determina que el equipo carece 
+Fuente: elaboración propia SHCP, 2026. 
+
+--- PAGINA 34 ---
+ 
+34 
+ 
+La evaluación del desempeño en la práctica. VI 
+de la experiencia técnica necesaria, la solicitud es rechazada, obligando a la 
+dependencia a buscar alternativas o a realizar una contratación en el mercado. 
+El pilar fundamental que sostiene la 
+objetividad en estas evaluaciones es 
+la conformación de la Instancia 
+Evaluadora. En la práctica, este 
+equipo integrado por al menos una 
+persona coordinadora y un analista  
+debe estar administrativamente 
+aislado y ser totalmente ajeno a la 
+operación del Programa presupuestario que se evaluará. Esta separación 
+funcional es indispensable para eliminar cualquier conflicto de interés, 
+garantizando que los juicios emitidos, los hallazgos y las propuestas de mejora 
+se sustenten exclusivamente en e videncia verificable y no en presiones 
+operativas internas. 
+Para blindar aún más el proceso, la normatividad exige la instauración de un 
+Panel Consultivo de Evaluación (PCE). Este órgano colegiado acompaña a la 
+Instancia Evaluadora y está presidido por un representante del Área de 
+Evaluación (AE) de la dependencia, contando además con participación del área 
+de programación y presupuesto y de la propia UPER. A través de al menos tres 
+sesiones de trabajo, el PCE supervisa de cerca que el c ronograma se cumpla, 
+revisa el Informe P reliminar y vigila el apego estricto a las directrices 
+metodológicas.  
+Con respecto a estas últimas, las evaluaciones por sí mismas deben apegarse a 
+los Términos de Referencia (TdR) emitidos por la Instancia de Coordinación. La 
+Instancia Evaluadora está obligada a generar un Plan de Trabajo y a sustentar 
+cada recomendación en un análisis documental, estadístico y presupuestario 
+robusto. La congruencia lógica entre la evidencia recabada, los hallazgos 
+documentados y las recomendaciones finales es un requisito normativo 
+indispensable para que el documento adquiera validez técnica. 
+Las revisiones garantizan un control de calidad iterativo antes de la liberación  
+oficial de los resultados. El Informe P reliminar es revisado por la UPER, y solo 
+tras la atención técnica de sus observaciones se procede a integrar el 
+
+
+--- PAGINA 35 ---
+ 
+35 
+ 
+La evaluación del desempeño en la práctica. VI 
+documento definitivo. Es en esta etapa final donde el Área de Evaluación, en 
+estrecha coordinación con el PCE, redacta la Posición Institucional y el Formato 
+de Aspectos Relevantes de la Evaluación, documentos que sintetizan la postura 
+de la dependencia frente a los hallazgos y oficializan el diagnóstico. 
+El fortalecimiento de la normativa y de los procesos evaluativos es un reflejo de 
+la etapa de consolidación en la que actualmente se encuentra el PbR -SED en 
+México.  Como se ha analizado a lo largo de este apartado, la exigencia de 
+requisitos legales, técnicos y administrativos estrictos resulta indispensable 
+para garantizar la integridad y objetividad de todo el sistema de evaluación. 
+Esta rigurosidad  institucional asegura el cumplimiento de los principios de 
+independencia, imparcialidad y transparencia, blinda los procesos de posibles 
+conflictos de interés y garantiza que las decisiones gubernamentales se basen 
+verdaderamente en evidencia confiable y objetiva.    
+Para que estas instancias evaluadoras, sin importar si operan bajo un esquema 
+de contratación o “por sí mismas ”, logren emitir juicios con este nivel de 
+exigencia, es fundamental contar con directrices sólidas. La normatividad 
+vigente exige de forma estricta que los evaluadores se apeguen a las pautas 
+emitidas por la instancia de coordinación pertinente. Por est a razón, el 
+siguiente y último Tema del Módulo VI abordará a profundidad los Términos de 
+Referencia, que constituyen el instrumento normativo esencial donde se 
+establecen los objetivos, alcances y metodologías requeridas para que 
+cualquier evaluación adquiera total validez técnica.   
+
+--- PAGINA 36 ---
+ 
+36 
+ 
+La evaluación del desempeño en la práctica. VI 
+ 
+ 
+ 
+Aunque los Términos de Referencia (TdR) no se habían estudiado a profundidad 
+como tema central, han estado presentes en este Diplomado desde el Módulo 
+III, durante el análisis de los tipos de evaluación de las distintas intervenciones 
+públicas, es decir , los Programas Presupuestarios , las Políticas Públicas y los 
+Fondos de Aportaciones Federales . De hecho, cada tipo de evaluación incluyó 
+una revisión detallada de su respectivo modelo de TdR . En este sentido, el 
+presente Tema se enfoca en estudiar los TdR vigentes y sus características 
+principales.  
+Conceptualmente, los TdR constituyen el instrumento técnico y metodológico 
+que establece las características, condiciones y criterios que orientan el 
+desarrollo de una evaluación. En ellos se precisan, entre otros elementos, sus 
+objetivos y alcance, los aspectos objeto de análisis, la metodología y las fuentes 
+de información, los productos esperados y sus plazos de entrega, así como las 
+responsabilidades de los actores que intervienen en el proceso y los requisitos 
+que deberá cumplir la Instancia Evaluadora. 
+Los TdR cumplen una función 
+distinta y complementaria a 
+la del Programa Anual de 
+Evaluación (PAE). Mientras 
+que el PAE es el instrumento 
+de planeación que 
+determina las evaluaciones 
+que se realizarán durante el 
+ejercicio fiscal, los TdR establecen la ruta técnica, metodológica y operativa para 
+la ejecución de cada evaluación, de acuerdo con sus objetivos, características y 
+alcance. 
+ 
+ 
+TEMA 26. Términos de Referencia 
+
+
+--- PAGINA 37 ---
+ 
+37 
+ 
+La evaluación del desempeño en la práctica. VI 
+En este sentido, los TdR funcionan como la guía para conducir el ejercicio 
+evaluativo de manera ordenada y consistente, al procurar la congruencia entre 
+los objetivos, las preguntas de evaluación, la metodología, las fuentes de 
+información y los productos esperados. Su adecuada definición contribuye a 
+generar resultados técnicamente sólidos y a favorecer que los hallazgos y 
+recomendaciones derivados de la evaluación sean pertinentes y útiles para la 
+mejora de las intervenciones públicas y la toma de decisiones. 
+Como se ha mencionado previamente en otros Temas del Diplomado, para las 
+evaluaciones consideradas en el PAE federal, corresponde a la Secretaría de 
+Hacienda y Crédito Público (SHCP) a través de la Unidad de Política y Estrategia 
+para Resultados (UPER) elaborar los modelos de TdR que establecen los 
+elementos técnicos y metodológicos para su realización. 
+Cuando exista un modelo de TdR vigente emitido por la UPER, este deberá 
+utilizarse como base para el desarrollo de la evaluación y, en su caso, adecuarse 
+únicamente en los apartados previstos para incorporar las características 
+específicas del objeto evaluado, así como para identificar a las áreas 
+responsables de co ordinar y dar seguimiento al proceso evaluativo en las 
+dependencias y entidades correspondientes. Estas adecuaciones deberán 
+realizarse sin modificar los elementos que sustentan la lógica, estructura y 
+consistencia metodológica del tipo de evaluación. 
+ 
+Tipos de Evaluación que cuentan con un Modelo de TdR  
+ 
+Existen tipos de evaluación considerados en el PAE federal para los cuales la 
+UPER ha emitido modelos de TdR que establecen una estructura metodológica 
+común para su realización. Estos modelos permiten homologar los elementos 
+mínimos del ejercicio evaluati vo y, al mismo tiempo, incorporar las 
+adecuaciones previstas para atender las características específicas del objeto 
+evaluado y su contexto, así como  la información de las áreas responsables de 
+darles seguimiento. Los modelos de TdR vigentes publicados por la SHCP 
+corresponden a los tipos de evaluación contemplados en el PAE federal y se 
+
+--- PAGINA 38 ---
+ 
+38 
+ 
+La evaluación del desempeño en la práctica. VI 
+encuentran disponibles en el Portal de Transparencia Presupuestaria y en el 
+sitio oficial de la SHCP en gob.mx.  
+Cuando los gobiernos subnacionales determinen en sus  PAE estatales o 
+municipales llevar a cabo una evaluación, deberán verificar previamente si 
+existe un modelo de TdR vigente emitido por la UPER para el tipo de evaluación 
+de que se trate. En su caso, dicho modelo deberá tomarse como referencia para 
+la elaborac ión o adecuación de los TdR correspondientes, considerando las 
+características específicas del objeto evaluado y las disposiciones aplicables en 
+su ámbito de competencia.  En la Figura 26.1 se presentan los TdR vigentes y 
+disponibles en el Portal de Transparencia Presupuestaria en la sección de 
+“Evaluación”. Posteriormente, se detallan los siguientes elementos relevantes 
+sobre cada Modelo de TdR: fecha de emisión, tipo de i ntervención pública a la 
+que le aplican los TdR, objetivo principal, estructura general, perfil de la 
+Instancia Evaluadora, productos y plazos de entregas.  
+De esta forma, las personas participantes podrán relacionar adecuadamente 
+los distintos conocimientos conceptuales, metodológicos y técnicos adquiridos 
+a lo largo del Diplomado, aplicándolos a cada tipología de evaluación del 
+desempeño.   
+Figura 26.1 Términos de Referencia emitidos por la UPER 
+ 
+ 
+Fuente: Elaboración propia SHCP, 2026.  
+
+
+--- PAGINA 39 ---
+ 
+39 
+ 
+La evaluación del desempeño en la práctica. VI 
+Modelo de Términos de Referencia para la Evaluación de 
+Consistencia y Resultados 
+ 
+Emitidos en febrero de 2026, estos TdR establecen el marco metodológico y 
+normativo para evaluar los  Programas presupuestarios  (Pp) de la  
+Administración Pública Federal . Su objetivo principal trasciende la simple 
+revisión documental; busca analizar sistemáticamente la consistencia entre el 
+diseño conceptual y el desempeño operativo del Pp para medir su orientación 
+hacia el logro de resultados de valor público. Esto implica valorar si la Teoría del 
+Cambio de la intervención  es congruente, si sus acciones mitigan 
+efectivamente el problema público identificado y si mantiene una alineación 
+estratégica directa con metas superiores, como el Plan Nacional de Desarrollo 
+(PND) y los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030.    
+Metodológicamente, el ejercicio 
+evaluativo es un análisis de 
+gabinete que se estructura en 
+siete secciones y diez reactivos 
+abiertos y analíticos. A lo largo de 
+estas, se revisan la Planeación, el 
+Diseño realizado a través de la 
+Metodología del Marco Lógico 
+(MML) y la construcción de los 
+Árboles del Problema y Objetivos, 
+la conformación del Instrumento de Seguimiento del Desempeño (ISD) y la 
+calidad de sus indicadores, el análisis de poblaciones, la cobertura del 
+Programa, la estandarización de los Procedimientos Operativos, los Resultados 
+obtenidos frente al presupuesto ejercido, y los mecanismos de transparencia.  
+En relación con los productos y plazos de entrega, la Instancia Evaluadora debe 
+cumplir con un proceso iterativo coordinado por el Área de Evaluación 
+institucional. Se exige primero una entrega preliminar que integre el análisis de 
+las secciones de Planeación, Diseño, Seguimiento, y Población y Cobertura. 
+Posteriormente, la entre ga final debe presentar el informe completo con un 
+máximo de cinco cuartillas por reactivo, diagra mas de flujo de procesos clave 
+
+
+--- PAGINA 40 ---
+ 
+40 
+ 
+La evaluación del desempeño en la práctica. VI 
+usando la notación PEPSU y un análisis lógico de la Matriz de Indicadores para 
+Resultados (MIR).  
+La notación PEPSU es un modelo utilizado para elaborar diagramas de alto nivel 
+que permiten identificar y analizar de manera estructurada los elementos 
+fundamentales de un proceso. Su nombre es un acrónimo que define las cinco 
+etapas o columnas que conforma n el esquema  que se muestra en la Figura 
+26.2.  
+Figura 26.2 Cinco etapas del diagrama PEPSU 
+ 
+ 
+Fuente: Elaboración propia SHCP (2026) con base en SFP (2016). 
+ 
+El proveedor es quien proporciona las entradas del proceso, como ciudadanos 
+o servidores públicos. En la entrada se determinan cuáles son los insumos, 
+materiales o documentos requeridos. En el proceso se registran cuáles son las 
+grandes etapas o actividades transformadoras . Por su parte, en la salida se 
+determinan cuáles son los productos, bienes o servicios resultantes . 
+Finalmente, el usuario es el receptor o cliente final de los procesos (SFP , 2016).  
+Un requerimiento fundamental de esta entrega final es la formulación técnica 
+de hallazgos y recomendaciones, las cuales deben estructurarse 
+metodológicamente ("verbo + producto/proceso a modificar + área de 
+oportunidad") para asegurar su transición fluida a Aspectos Susceptibles de 
+Mejora (ASM) viables, justificables y factibles de implementar por la 
+dependencia evaluada.   
+
+
+--- PAGINA 41 ---
+ 
+41 
+ 
+La evaluación del desempeño en la práctica. VI 
+Modelo de Términos de Referencia para la Evaluación de 
+Procesos 
+ 
+Emitido en marzo de 2024, este Modelo 
+de Términos de Referencia rige las 
+Evaluaciones de Procesos aplicables a las 
+intervenciones públicas del orden 
+federal.1 
+El objetivo general de este tipo de 
+evaluación es contribuir a la mejora del 
+funcionamiento, gestión y o rganización 
+del Pp evaluado. Esto se logra mediante un análisis y valoración exhaustiva de 
+sus procesos, subprocesos y macroprocesos, con la finalidad de generar 
+información empírica que permita orientar la gestión operativa y administrativa 
+hacia la consecución de resultados de manera eficaz y eficiente. 
+La estructura general de la evaluación se cimienta en metodologías de 
+investigación cualitativa y se divide en dos fases fundamentales: un análisis de 
+gabinete basado en revisión documental para elaborar un diagnóstico inicial y 
+un mapeo de los procesos, s eguido de un diseño metodológico de trabajo de 
+campo que emplea técnicas como entrevistas, grupos focales y obser vación 
+directa in situ. Para ejecutar este trabajo, el perfil de la Instancia E valuadora 
+requiere que esté confor mada por un equipo de personas físicas o morales , 
+adscritas a instituciones públicas o privadas, que cuenten de manera 
+obligatoria con una experiencia probada en evaluación y en los temas 
+específicos del Programa. Esta capacidad técnica garantiza que se logren medir 
+ 
+1 Cabe señalar que el documento original menciona estar orientado a los Pp coordinados por la Unidad de 
+Evaluación del Desempeño (UED). Esto obedece a que la UED fue la antecesora directa de la UPER y, bajo el 
+esquema institucional anterior, coordinaba la evaluación del desempeño en México de manera conjunta con 
+el extinto Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). Sin embargo, a partir 
+de 2025 –como se estudió en el Módulo I–, la totalidad del ejercicio evaluativo en el país es coordinada por 
+la SHCP a través de la UPER. Por consiguiente, dicha distinción pierde aplicabilidad, dado que actualmente la 
+Unidad ejerce la rectoría sobre todos los programas federales. Si bien esta es la versión vigente, actualmente 
+la UPER está trabajando en un nuevo modelo que se ajuste al nuevo enfoque progresivo que se estudió en el 
+Tema 5 del Diplomado. 
+
+
+--- PAGINA 42 ---
+ 
+42 
+ 
+La evaluación del desempeño en la práctica. VI 
+y analizar adecuadamente atributos clave de los procesos institucionales, tales 
+como su eficacia, oportunidad, suficiencia y pertinencia. 
+En relación con los productos y plazos de entrega, los TdR estipulan un 
+calendario secuencial para tres entregables principales. El Producto 1 consiste 
+en el diagnóstico, los alcances metodológicos y el plan estratégico para el 
+trabajo de campo. Posteriormente, el Producto 2 conforma un Informe 
+Preliminar que detalla el análisis de los procesos, la medición de sus atributos 
+y los hallazgos preliminares. Por último, el Producto 3 corresponde al Informe 
+Final, el cual integra una valoración global cuantitativa, análisis FODA y 
+recomendaciones estratégicas que deben categorizarse de manera analítica en 
+líneas de acción de consolidación o de reingeniería de procesos. Estos informes 
+dotan de rigor metodológico al ciclo de mejora continua en el marco del 
+Sistema de Evaluación del Desempeño. 
+ 
+Modelo de Términos de Referencia para la Evaluación de 
+Indicadores 
+ 
+Los Términos de Referencia para la 
+Evaluación de Indicadores, emitidos 
+en febrero de 2026, establecen las 
+directrices técnicas y 
+metodológicas aplicables a los Pp 
+de la Administración Pública 
+Federal. En el contexto del 
+Presupuesto basado en Resultados  
+(PbR), el objetivo principal de este 
+tipo de evaluación es examinar la 
+construcción y el diseño de los indicadores estratégicos y de gestión que 
+integran la MIR del P rograma. Con este ejercicio analítico se busca proveer 
+información fundamentada que permita mejorar el planteamiento de estos 
+instrumentos, asegurando que sean idóneos para darle un seguimiento 
+objetivo y medible al desempeño gubernamental. 
+
+
+--- PAGINA 43 ---
+ 
+43 
+ 
+La evaluación del desempeño en la práctica. VI 
+Para alcanzar este propósito, la estructura general de la evaluación se divide en 
+un esquema secuencial de dos etap as operativas. La primera fase  consiste en 
+una valoración inicial mediante un análisis de gabinete para determinar si los 
+indicadores cumplen con los criterios mínimos de calidad conocidos como 
+CREMAA: Claro, Relevante, Económico, Monitoreable, Adecuado y Aportación 
+Marginal. La segund a fase se enfoca en una valoración global mediante la 
+aplicación de un instrumento que evalúa la disponibilidad de recursos 
+operativos, el uso y sostenibilidad, la definición técnica de metas, así como la 
+confiabilidad de las fuentes de información y los r egistros administrativos 
+empleados.  
+Finalmente, se requiere  la presentación de tres productos principales que 
+documenten técnicamente los hallazgos y justifiquen las recomendaciones que 
+posteriormente transitarán a ASM. El primer producto consiste en el Informe 
+de Resultados de la Valoración Integral y tiene un plazo de entrega de 30 días 
+naturales posteriores al inicio de la vigencia del contrato. El segundo producto 
+es el Informe de Resultados de la Valoración Global,  el cual debe entregarse a 
+los 60 días naturales. Por último, el tercer entregable es el Informe Final de 
+Resultados de la Evaluación de Indicadores, programado para los 90 días 
+naturales, el cual integra todas las valoraciones, la calificación final y las  
+sugerencias específicas para el perfeccionamiento de  la medición del 
+desempeño del Programa. 
+ 
+Modelo de Términos de Referencia para la Evaluación 
+Específica de Desempeño a Fondos de Aportaciones Federales 
+en el Ámbito Estatal 
+ 
+Emitidos en febrero de 2026, es tos Términos de Referencia  establecen las 
+directrices institucionales y metodológicas para llevar a cabo la Evaluación 
+Específica de Desempeño aplicable a los Fondos de Aportaciones Federales 
+(FAF) que podrán realizar los gobiernos de las entidades federativas. Esta 
+evaluación tiene como objetivo identificar áreas de oportunidad y emitir 
+recomendaciones concretas que permitan optimizar la gestión, elevar la 
+
+--- PAGINA 44 ---
+ 
+44 
+ 
+La evaluación del desempeño en la práctica. VI 
+eficacia en la atención de demandas sociales y mejorar sustancialmente los 
+resultados obtenidos por los gobiernos locales.    
+Para garantizar un escrutinio riguroso 
+del ciclo de los recursos, la evaluación 
+presenta una estructura analítica 
+articulada en seis módulos que abordan 
+17 preguntas estratégicas: 1) 
+características del FAF en la entidad, 2) 
+planeación y concurrencia de re cursos, 
+3) operación, 4) supervisión, ejercicio y 
+control, 5) medición de resultados, y 6) 
+transparencia y rendición de cuentas.  
+La formalización de los hallazgos exige un estricto rigor documental mediante 
+entregables claramente definidos y sujetos a plazos perentorios, un aspecto 
+fundamental para retroalimentar el ciclo presupuestario y enriquecer el 
+material formativo sobre la in stitucionalización de la mejora continua. La 
+primera fase requiere la presentación de un Informe Preliminar a las ocho 
+semanas del inicio del contrato, complementado con una sesión formal de 
+presentación de resultados a las diez semanas. Finalmente, a las doce semanas 
+se debe concretar la segunda entrega con el Informe Final, el cual integra desde 
+el resumen ejecutivo y el desglose de los seis módulos, hasta el análisis FODA, 
+las recomendaciones de mejora y anexos técnicos exhaustivos que sustenten 
+la valoración del desempeño.    
+ 
+Modelo de Términos de Referencia para la Evaluación 
+Estratégica de Coordinación al Fondo de Aportaciones 
+Federales  
+ 
+Emitidos en febrero de 2026, su objetivo general es valorar el grado de 
+coordinación intergubernamental e interinstitucional entre los actores que 
+intervienen en la integración, distribución, administración, supervisión y 
+seguimiento de los recursos. A través de este ejercicio, se busca mapear 
+
+
+--- PAGINA 45 ---
+ 
+45 
+ 
+La evaluación del desempeño en la práctica. VI 
+exhaustivamente la red de gestión para 
+identificar tanto los canales formales 
+como informales que facilitan la 
+operación de los fondos, detectando al 
+mismo tiempo cuellos de botella, fallas 
+estructurales y actores estratégicos con 
+alto poder de intermediación.  
+La estructura general de la evaluación se 
+sostiene sobre una metodología mixta que integra la revisión documental 
+exhaustiva con el levantamiento de datos en campo, utilizando como marco 
+analítico la Teoría de Grafos y el Análisis de Redes Sociales (ARS) para modelar 
+topológicamente las interacciones.  
+El desarrollo y materialización de la evaluación se estructura a través de tres 
+productos secuenciales que aseguran la trazabilidad de la evidencia. El 
+Producto 1, centrado en el "Diagnóstico del Marco Normativo, Funcional y de 
+Actores Preliminares", debe entregarse a los 30 días naturales tras el inicio del 
+contrato. Posteriormente, a los 60 días naturales se requiere el Producto 2, un 
+informe de "Hallazgos de Campo y Grupos de Enfoque" que despliega los 
+sociogramas y métricas de centralidad reales.  
+Finalmente, a los 160 días naturales, la Instancia Evaluadora debe presentar el 
+Producto 3 correspondiente al Informe Final, el cual sintetiza los hallazgos y 
+formula recomendaciones estructurales, incluyendo propuestas concretas de 
+modificación normativa para fortalecer la arquitectura de coordinación 
+intergubernamental.    
+ 
+Modelo de Términos de Referencia para la Evaluación 
+Específica de la Gestión Operativa  
+ 
+Emitidos en febrero de 2026, est os Términos de Referencia están diseñados 
+para orientar la Evaluación Específica de la Gestión Operativa aplicable a P p y 
+Políticas P úblicas (PP), con énfasis en aquellos vinculados a la política de 
+
+
+--- PAGINA 46 ---
+ 
+46 
+ 
+La evaluación del desempeño en la práctica. VI 
+Ciencia, Humanidades, Tecnología e Innovación ; aunque se espera que, para 
+próximos ejercicios evaluativos, su alcance se extienda a otros sectores . El 
+objetivo principal de este ejercicio evaluativo radica en identificar los obstáculos 
+en la gestión y operación que afectan la contribución individual y conjunta de 
+los Programas. Esto se logra mediante una revisión sistemática y crítica del 
+marco normativo vigente, de los mecanismos de coordinación institucional y de 
+los procesos del ciclo presupuestario , con la finalidad de establecer rutas de 
+adecuación y manuales de mejores prácticas. 
+Para cumplir con dicho 
+propósito, la estructura 
+general de la evaluación se 
+articula en tres etapas 
+metodológicas secuenciales: 
+un diagnóstico documental y 
+normativo inicial, una 
+segunda fase de validación 
+en campo mediante grupos 
+de enfoque y mesas de diálogo transversal, y una tercera etapa de síntesis y 
+desarrollo de estrategia operativa.  
+Finalmente, la materialización de esta evaluación se consolida a través de 
+productos con plazos de entrega claramente definidos a partir del inicio de la 
+vigencia del contrato. El Producto 1 , consistente en los Informes de 
+"Diagnóstico de Consistencia Operativa", debe entregarse a los 30 días 
+naturales. Posteriormente, a los 60 días naturales, la Instancia Evaluadora debe 
+presentar el Producto 2, conformado por los Informes de "Hallazgos de Campo 
+y Grupos de Enfoque". El proceso culmina a los 160 días naturales con la 
+entrega del Producto 3, que corresponde al Informe Final de “Análisis 
+comparativo de los Pp”, el cual integra una matriz de consistencia final y el 
+diseño de recomendaciones estratégicas para mejorar la operación 
+gubernamental.   
+ 
+
+
+--- PAGINA 47 ---
+ 
+47 
+ 
+La evaluación del desempeño en la práctica. VI 
+Adecuación de Modelos de Términos de Referencia por parte 
+de gobiernos subnacionales   
+ 
+Cuando los gobiernos subnacionales determinen realizar una evaluación 
+correspondiente a alguno de los tipos para los cuales la UPER haya emitido un 
+modelo de TdR, deberán utilizarlo como base y, en su caso, adecuarlo 
+únicamente en los apartados previstos p ara tal efecto, a fin de incorporar las 
+particularidades del objeto evaluado y del contexto en el que se desarrollará el 
+ejercicio evaluativo. Estas adecuaciones podrán considerar , entre otros 
+aspectos, las características de la intervención o de los recur sos objeto de 
+evaluación, el ámbito territorial, las fuentes de información disponibles, los 
+actores involucrados y las áreas responsables de coordinar y dar seguimiento 
+al proceso evaluativo, sin alterar el propósito, alcance, estructura ni los 
+elementos sustantivos que sustentan la lógica y consistencia metodológica del 
+tipo de evaluación. 
+Tratándose de evaluaciones relacionadas con Recursos Federales Transferidos 
+(RFT), incluidos los FAF, las adecuaciones deberán observar tanto las 
+disposiciones aplicables en el ámbito local como la normativa federal 
+correspondiente, a fin de asegurar la congruencia del ejercicio evaluativo con 
+el marco que regula dichos recursos. En el caso de evaluaciones financiadas con 
+recursos propios y que no involucren RFT, su realización deberá sujetarse al 
+marco normativo local y a las necesidades de información definidas por las 
+instancias competentes en cada ámbito, tal como se revisó en el Módulo IV del 
+Diplomado. En la Figura 26.3 se presentan los elementos que deben revisarse 
+al adecuar un modelo de TdR. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGINA 48 ---
+ 
+48 
+ 
+La evaluación del desempeño en la práctica. VI 
+Figura 26.3 Elementos a considerar para adecuar un modelo de TdR 
+ 
+ 
+Fuente: Elaboración propia SHCP, 2026. 
+Es de mencionarse que la selección del tipo de evaluación debe anteceder a la 
+adecuación de los TdR, es decir , el modelo metodológico deberá responder a 
+una necesidad de información previamente identificada y no seleccionarse 
+únicamente por su disponibilidad o por la repetición de ejercicios realizados en 
+periodos anteriores. 
+A manera de conclusión, es importante considerar que los TdR traducen una 
+necesidad de evaluación en una ruta técnica y metodológica concreta. Conocer 
+los modelos vigentes y distinguir los elementos susceptibles de adecuación de 
+aquellos que deben conservarse, contribuye a fortalecer la calidad y 
+consistencia de  los ejercicios evaluativos, así como a generar evidencia 
+pertinente para la toma de decisiones. En el ámbito subnacional, su adecuada 
+contextualización resulta especialmente relevante para que las evaluaciones de 
+RFT y de recursos propios, respondan a las condiciones reales de operación sin 
+perder consistencia metodológica. 
+
+
+--- PAGINA 49 ---
+ 
+49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+El cierre de este primer apartado operativo nos invita a trascender la visión 
+estrictamente normativa del proceso evaluativo para comprenderlo como un 
+ejercicio fundamental de gobernanza democrática. La articulación del 
+Programa Anual de Evaluación (PAE), la conformación del Padrón de 
+Evaluadores y la delimitación técnica mediante los Términos de Referencia 
+(TdR) no representan meros eslabones de un trámite administrativo, sino los 
+mecanismos a través de los cuales el Estado somete su actuación al escrutinio 
+objetivo. La evaluación opera inherentemente en un entorno político y de 
+intereses contrapuestos; por lo tanto, blindar estos procesos con el mayor 
+rigor metodológico es la única vía para evitar que los ejercicios de medición se 
+utilicen como herramienta s de legitimación discursiva y, en su lugar, actúen 
+como verdaderos motores de cambio institucional (Weiss, 1998). 
+Un aspecto crítico en la operación de las evaluaciones es la superación de la 
+cultura de la auditoría punitiva. Aunque la regulación de los perfiles 
+evaluadores y los esquemas de independencia buscan garantizar la 
+objetividad del diagnóstico, el verdadero desafío de la operación evaluativa 
+radica en la apropiación de la evidencia. Desde la perspectiva de la evaluación 
+centrada en el uso, el papel del evaluador trasciende la emisión de un juicio 
+técnico externo; debe orientarse a facilitar que las dependenci as interioricen 
+los hallazgos y comprendan el sentido de las recomendaciones (Patton, 2008). 
+Esto exige que el proceso no se limite a una entrega contractual de informes, 
+sino que fomente un espacio de colaboración donde la medición del 
+desempeño se perciba como una oportunidad de aprendizaje organizacional 
+sistemático (Patton, 2008). 
+Conclusiones 
+
+--- PAGINA 50 ---
+ 
+50 
+ 
+ 
+ 
+Asimismo, la aplicación de los Términos de Referencia plantea un reto 
+constante frente a la complejidad de los problemas públicos contemporáneos. 
+Si bien los modelos estandarizados aportan la comparabilidad y la consistencia 
+indispensables para el Sistema de Evaluación del Desempeño, la operación 
+evaluativa debe mantener la agudeza necesaria para capturar los matices de 
+las intervenciones. Los marcos metodológicos sumamente rígidos corren el 
+riesgo de invisibilizar resultados no esperados o ignorar el dinam ismo del 
+entorno social; por ello, la evaluación pública moderna requiere que los TdR 
+sean interpretados bajo enfoques sistémicos que reconozcan las 
+interacciones, los cuellos de botella reales y los factores contextuales que 
+determinan el éxito o fracaso de un Programa presupuestario (Rogers, 2008). 
+Al trasladar estas reflexiones al ámbito subnacional, se evidencia uno de los 
+desafíos estructurales más profundos del federalismo fiscal: la asimetría en las 
+capacidades institucionales. La adecuación de los modelos federales a los 
+entornos estatales y mu nicipales no puede reducirse a un ejercicio de 
+homologación burocrática, ya que requiere un diseño situado y adaptativo.  
+Las dinámicas de gestión en los gobiernos locales frecuentemente se 
+enfrentan a restricciones presupuestarias severas, alta rotación de personal y 
+escasez de perfiles técnicos especializados (Pérez Yarahuán & Maldonado, 
+2015). Por ende, el éxito de la operación evaluativa en estos niveles no se mide 
+por la cantidad de evaluaciones mandatadas, sino por la construcción gradual 
+de una cultura de evidencia empírica que sea verdaderamente factible y útil 
+para la escala de sus administraciones (Pérez Yarahuán & Maldonado, 2015). 
+Conclusiones 
+
+--- PAGINA 51 ---
+ 
+51 
+ 
+ 
+ 
+En conclusión, la revisión operativa del Módulo VI demuestra que la evaluación 
+en México cuenta con una arquitectura institucional sumamente robusta, pero 
+advierte que su impacto final está condicionado por la capacidad estatal para 
+procesar dicha información. El PAE, el Padrón de Evaluadores y los esquemas 
+metodológicos conforman el medio, nunca el fin. El propósito último de este 
+riguroso despliegue operativo es la generación de valor público, lo cual solo 
+se materializa cuando la evidencia cruza el umbra l del documento analítico 
+hacia la toma de decisiones estratégicas. Preparar este terreno con 
+independencia técnica e impecabilidad metodológica es el requisito 
+indispensable para que, en la siguiente etapa del ciclo, el Estado sea capaz de 
+mirarse al espe jo, reconocer sus áreas de mejora y reorientar el rumbo 
+mediante el uso efectivo de los resultados. 
+Conclusiones 
+
+--- PAGINA 52 ---
+ 
+52 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 24.1 Criterios para la definición de evaluaciones ............................ 12 
+Figura 24.2 Estructura del PAE 2026 ............................................................... 15 
+Figura 24.3 Principales actores involucrados en el proceso evaluativo .... 18 
+Figura 24.4 Directrices del proceso de evaluación federal ......................... 20 
+Figura 25.1 Proceso de incorporación al Padrón de Evaluadores .............. 26 
+Figura 25.2 Requisitos de incorporación al Padrón de Evaluadores .......... 28 
+Figura 25.3 Requisitos de carácter legal ........................................................ 29 
+Figura 26.1 Términos de Referencia emitidos por la UPER ......................... 38 
+Figura 26.2 Cinco etapas del diagrama PEPSU .............................................. 40 
+Figura 26.3 Elementos a considerar para adecuar un modelo de TdR ...... 48 
+ 
+Lista de figuras, cuadros y tablas 
+
+--- PAGINA 53 ---
+ 
+53 
+ 
+ 
+ 
+ 
+ 
+Tema 24 
+Cámara de Diputados del H. Congreso de la Unión. (2006). Ley Federal de 
+Presupuesto y Responsabilidad Hacendaria. Diario Oficial de la Federación. 
+https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf  
+Cardozo Brum, M. (2013). Políticas públicas: los debates de su análisis y 
+evaluación. Andamios, 10(21), 39-59. 
+Cejudo, G. M. (Ed.). (2012). La construcción de un nuevo régimen de rendición 
+de cuentas en México. Centro de Investigación y Docencia Económicas. 
+Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. J. 
+(2011). La evaluación de impacto en la práctica. Banco Interamericano de 
+Desarrollo y Banco Mundial. 
+Merino, M. (2013). Políticas públicas: Ensayo sobre la intervención del Estado en 
+la solución de problemas públicos. Centro de Investigación y Docencia 
+Económicas. 
+Secretaría de Hacienda y Crédito Público. (2025). Lineamientos Generales 
+aplicables a la gestión para resultados de los recursos públicos federales. Diario 
+Oficial de la Federación. 
+https://www.dof.gob.mx/nota_detalle.php?codigo=5756237&fecha=29/04/202
+5#gsc.tab=0  
+Secretaría de Hacienda y Crédito Público. (2026a). Lineamientos aplicables al 
+ciclo de gestión de los recursos federales transferidos a las entidades 
+federativas, municipios y demarcaciones territoriales de la Ciudad de México. 
+Diario Oficial de la Federac ión. 
+https://www.gob.mx/cms/uploads/attachment/file/398152/Lineamientos_aplic
+ables_al_ciclo_de_gesti_n_de_los_recursos_federales_transferibles_a_las_antid
+ades_federativas__mpios_y_demarcaciones_cdmx.pdf   
+Bibliografía 
+
+--- PAGINA 54 ---
+ 
+54 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Hacienda y Crédito Público. (2026b). Programa Anual de 
+Evaluación de los Programas Presupuestarios y Recursos Federales 
+Transferidos de la Administración Pública Federal para el Ejercicio Fiscal 2026 
+(PAE 2026). Subsecretaría de Egresos. 
+https://www.gob.mx/cms/uploads/attachment/file/1051424/PAE_2026.pdf  
+Weiss, C. H. (1998). Evaluation: Methods for studying programs and policies (2.ª 
+ed.). Prentice Hall. 
+ 
+Tema 25 
+Cámara de Diputados del H. Congreso de la Unión. (2006). Ley Federal de 
+Presupuesto y Responsabilidad Hacendaria. Diario Oficial de la Federación. 
+https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf  
+Secretaría de Hacienda y Crédito Público. (2025a). Lineamientos Generales 
+aplicables a la gestión para resultados de los recursos públicos federales. Diario 
+Oficial de la Federación. 
+https://www.dof.gob.mx/nota_detalle.php?codigo=5756237&fecha=29/04/202
+5#gsc.tab=0  
+Secretaría de Hacienda y Crédito Público. (2025b). Lineamientos para la 
+integración del Padrón de Evaluadores de Políticas Públicas, programas 
+derivados del Plan Nacional de Desarrollo, programas presupuestarios y 
+recursos federales transferidos. Diario Of icial de la Federación. 
+https://dof.gob.mx/nota_detalle.php?codigo=5776524&fecha=18/12/2025#gsc
+.tab=0  
+ 
+ 
+
+--- PAGINA 55 ---
+ 
+55 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Hacienda y Crédito Público. (2026). Disposiciones para la 
+evaluación del desempeño de las políticas públicas, programas derivados del 
+Plan Nacional de Desarrollo, programas presupuestarios y recursos federales 
+transferidos. Subsecretaría de E gresos. 
+https://www.gob.mx/cms/uploads/attachment/file/1063921/419_UPER_2026_0
+267_DISPOSICIOES.pdf 
+ 
+Tema 26 
+Secretaría de Hacienda y Crédito Público. (2024). Modelo de Términos de 
+Referencia para la Evaluación de Procesos. Subsecretaría de Egresos. 
+Transparencia Presupuestaria. 
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Doc
+umentos/MTDR_Procesos_2024.docx 
+Secretaría de Hacienda y Crédito Público. (2026). Modelo de Términos de 
+Referencia para la Evaluación de Consistencia y Resultados. Subsecretaría de 
+Egresos. Transparencia Presupuestaria. 
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Doc
+umentos/MTdR_ECyR_PAE_2026.docx 
+Secretaría de Hacienda y Crédito Público. (2026). Modelo de Términos de 
+Referencia para la Evaluación de Coordinación Institucional. Subsecretaría de 
+Egresos. Transparencia Presupuestaria. 
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Doc
+umentos/MTdR_Coordinacion.docx 
+ 
+ 
+
+--- PAGINA 56 ---
+ 
+56 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretaría de Hacienda y Crédito Público. (2026). Modelo de Términos de 
+Referencia para la Evaluación de Gestión Operativa. Subsecretaría de Egresos. 
+Transparencia Presupuestaria. 
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Doc
+umentos/MTdR_GestionOperativa.docx 
+Secretaría de Hacienda y Crédito Público. (2026). Modelo de Términos de 
+Referencia para la Evaluación de Indicadores. Subsecretaría de Egresos. 
+Transparencia Presupuestaria. 
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Doc
+umentos/MTdR_IN_PAE_2026.docx 
+Secretaría de Hacienda y Crédito Público. (2026). Modelo de Términos de 
+Referencia para la Evaluación Específica del Desempeño a Recursos Federales 
+Transferidos. Subsecretaría de Egresos. Transparencia Presupuestaria. 
+https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/SED/Doc
+umentos/MTdR_EED_FAF_PAE_2026.docx 
+Secretaría de la Función Pública. (2016). Guía para la Optimización, 
+Estandarización y Mejora Continua de Procesos. Unidad de Políticas de Mejora 
+de la Gestión Pública. 
+https://www.gob.mx/cms/uploads/attachment/file/56904/Gu_a_para_la_Optim
+izaci_n__Estandarizaci_n_y_Mejora_Continua_de_Procesos.pdf 
+ 
+ 
+ 
+ 
+
+--- PAGINA 57 ---
+ 
+57 
+ 
+ 
+ 
+ 
+Introducción y conclusiones  
+Patton, M. Q. (2008). Utilization-Focused Evaluation (4.ª ed.). SAGE Publications. 
+Pérez Yarahuán, G., & Maldonado, C. (Eds.). (2015). Panorama de los sistemas 
+de monitoreo y evaluación en América Latina. Centro de Investigación y 
+Docencia Económicas (CIDE). 
+Rogers, P. J. (2008). Using programme theory to evaluate complicated and 
+complex aspects of interventions. Evaluation, 14(1), 29-48. 
+Weiss, C. H. (1998). Evaluation: Methods for studying programs and policies (2.ª 
+ed.). Prentice Hall. 
+ 
+
+--- PAGINA 58 ---
+ 
+ 
+ 

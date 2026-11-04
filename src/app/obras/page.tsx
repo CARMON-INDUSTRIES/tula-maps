@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Camera, LockKeyhole } from "lucide-react";
+import { LockKeyhole } from "lucide-react";
 import SiteHeader from "@/components/SiteHeader";
 import ListadoObras from "@/components/ListadoObras";
 import { cookies } from "next/headers";
@@ -17,11 +17,11 @@ export default async function ObrasPage() {
   }
   return <main className="site-shell">
     <SiteHeader />
-    <section className="page-intro">
-      <div><span className="eyebrow"><Camera size={14} /> EVIDENCIA FOTOGRÁFICA</span><p>Encuentra una obra y consulta sus fotografías o agrega nuevas imágenes para documentar su avance.</p></div>
-      <div><span className="admin-note"><LockKeyhole size={16} />Sesión de administración activa</span><CerrarSesionObras /></div>
+    <section className="page-intro admin-intro" id="contenido">
+      <div><h1>Obras y fotografías</h1><p>Encuentra una obra y consulta sus fotografías o agrega nuevas imágenes para documentar su avance.</p></div>
+      <div className="admin-session-group"><span className="admin-note"><LockKeyhole size={16} />Sesión de administración activa</span><CerrarSesionObras /></div>
     </section>
     <ListadoObras />
-    <footer className="site-footer"><span>Tula de Allende, Hidalgo</span><span>Fotografías almacenadas en la base de datos municipal.</span></footer>
+    <footer className="site-footer"><span>Tula de Allende, Hidalgo</span><span>Administración de fotografías de obras públicas.</span></footer>
   </main>;
 }
